@@ -1,0 +1,4208 @@
+{
+ "id": "english",
+ "name": "અંગ્રેજી વ્યાકરણ",
+ "en": "English Language",
+ "icon": "english",
+ "examQs": 20,
+ "topics": [
+  {
+   "id": "articles",
+   "name": "Articles (a, an, the)",
+   "levels": [
+    {
+     "id": "ar-1",
+     "name": "a / an / the",
+     "questions": [
+      {
+       "id": "ar-1-01",
+       "q": "He is ___ honest man.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 1,
+       "e": "'honest'માં h બોલાતો નથી, શરૂઆત સ્વર અવાજ (ઓ)થી થાય છે, તેથી 'an'.",
+       "qe": "He is ___ honest man.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "The h in 'honest' is silent, so it starts with a vowel sound (o): 'an'."
+      },
+      {
+       "id": "ar-1-02",
+       "q": "She is ___ European.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "'European' 'યુ' અવાજથી શરૂ થાય છે (વ્યંજન અવાજ), તેથી 'a'.",
+       "qe": "She is ___ European.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'European' starts with a 'yu' sound (a consonant sound), so 'a'."
+      },
+      {
+       "id": "ar-1-03",
+       "q": "___ sun rises in the east.",
+       "o": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "a": 2,
+       "e": "જગતમાં એક જ હોય તેવી વસ્તુઓ (sun, moon, earth) પહેલાં 'the' વપરાય.",
+       "qe": "___ sun rises in the east.",
+       "oe": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "ee": "'The' goes before things that are one of a kind (sun, moon, earth)."
+      },
+      {
+       "id": "ar-1-04",
+       "q": "He is ___ MLA.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 1,
+       "e": "'MLA'નો ઉચ્ચાર 'એમ-એલ-એ' સ્વર અવાજથી શરૂ થાય છે, તેથી 'an'.",
+       "qe": "He is ___ MLA.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'MLA' is said 'em-el-ay', starting with a vowel sound, so 'an'."
+      },
+      {
+       "id": "ar-1-05",
+       "q": "I met ___ one-eyed man.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "'one' 'વન' (w અવાજ)થી બોલાય છે, તેથી 'a'.",
+       "qe": "I met ___ one-eyed man.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'One' is said 'wun' (a w sound), so 'a'."
+      },
+      {
+       "id": "ar-1-06",
+       "q": "___ Ganga is a holy river.",
+       "o": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "a": 2,
+       "e": "નદીઓ, સમુદ્રો અને પર્વતમાળાઓનાં નામ પહેલાં 'the' વપરાય.",
+       "qe": "___ Ganga is a holy river.",
+       "oe": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "ee": "'The' goes before names of rivers, seas and mountain ranges."
+      },
+      {
+       "id": "ar-1-07",
+       "q": "He wants to become ___ engineer.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 1,
+       "e": "'engineer' સ્વર અવાજ (એ)થી શરૂ થાય છે, તેથી 'an'.",
+       "qe": "He wants to become ___ engineer.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'Engineer' starts with a vowel sound (e), so 'an'."
+      },
+      {
+       "id": "ar-1-08",
+       "q": "Gujarat University is ___ university in Ahmedabad.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "'university' 'યુ' અવાજથી શરૂ થાય છે, તેથી 'a'.",
+       "qe": "Gujarat University is ___ university in Ahmedabad.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'University' starts with a 'yu' sound, so 'a'."
+      },
+      {
+       "id": "ar-1-09",
+       "q": "___ Taj Mahal is in Agra.",
+       "o": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "a": 2,
+       "e": "પ્રખ્યાત ઇમારતોનાં નામ પહેલાં 'the' વપરાય.",
+       "qe": "___ Taj Mahal is in Agra.",
+       "oe": [
+        "A",
+        "An",
+        "The",
+        "No article"
+       ],
+       "ee": "'The' goes before the names of famous buildings."
+      },
+      {
+       "id": "ar-1-10",
+       "q": "Gold is ___ precious metal.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "'precious' વ્યંજન અવાજથી શરૂ થાય છે અને એકવચન ગણી શકાય તેવી સંજ્ઞા છે, તેથી 'a'.",
+       "qe": "Gold is ___ precious metal.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'Precious' starts with a consonant sound and 'metal' is a singular countable noun here, so 'a'."
+      }
+     ]
+    },
+    {
+     "id": "ar-2",
+     "name": "આર્ટિકલના ખાસ નિયમો",
+     "questions": [
+      {
+       "id": "ar-2-01",
+       "q": "She plays ___ violin beautifully.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 2,
+       "e": "સંગીતનાં વાદ્યો (violin, flute, piano) વગાડવાની વાત હોય ત્યારે તેમની પહેલાં 'the' વપરાય.",
+       "qe": "She plays ___ violin beautifully.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "When we talk of playing an instrument (violin, flute, piano), 'the' comes before it."
+      },
+      {
+       "id": "ar-2-02",
+       "q": "What ___ beautiful flower this is!",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "'What' વાળા ઉદ્ગારવાચક વાક્યમાં એકવચન ગણી શકાય તેવી સંજ્ઞા પહેલાં 'a/an' વપરાય; 'beautiful' વ્યંજન અવાજથી શરૂ થાય છે.",
+       "qe": "What ___ beautiful flower this is!",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "In 'What' exclamations, 'a/an' comes before a singular countable noun; 'beautiful' starts with a consonant sound."
+      },
+      {
+       "id": "ar-2-03",
+       "q": "He goes to ___ church every Sunday to pray.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 3,
+       "e": "church, school, temple જેવી જગ્યાએ તેના મૂળ હેતુ (પ્રાર્થના, અભ્યાસ) માટે જઈએ ત્યારે article વપરાતો નથી.",
+       "qe": "He goes to ___ church every Sunday to pray.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "No article when we go to a church, school or temple for its main purpose (prayer, study)."
+      },
+      {
+       "id": "ar-2-04",
+       "q": "He earns fifty rupees ___ hour.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 1,
+       "e": "'hour'માં h મૂક છે અને શરૂઆત સ્વર અવાજ (અવર)થી થાય છે, તેથી 'an'; અહીં 'an hour' એટલે 'પ્રતિ કલાક'.",
+       "qe": "He earns fifty rupees ___ hour.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "The h in 'hour' is silent, so it starts with a vowel sound: 'an hour', meaning 'per hour'."
+      },
+      {
+       "id": "ar-2-05",
+       "q": "This is ___ best book I have ever read.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 2,
+       "e": "Superlative degree (best, tallest) પહેલાં 'the' વપરાય.",
+       "qe": "This is ___ best book I have ever read.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'The' goes before a superlative (best, tallest)."
+      },
+      {
+       "id": "ar-2-06",
+       "q": "We had ___ heavy breakfast this morning.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 0,
+       "e": "ભોજનનાં નામ (breakfast, lunch) પહેલાં સામાન્ય રીતે article ન આવે, પણ તેની પહેલાં વિશેષણ (heavy) હોય તો 'a' વપરાય.",
+       "qe": "We had ___ heavy breakfast this morning.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "Meals (breakfast, lunch) usually take no article, but with an adjective before them (heavy) we use 'a'."
+      },
+      {
+       "id": "ar-2-07",
+       "q": "She speaks ___ English fluently.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 3,
+       "e": "ભાષાનાં નામ પહેલાં article વપરાતો નથી; પણ 'the English language'માં 'the' આવે.",
+       "qe": "She speaks ___ English fluently.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "No article before the name of a language; but 'the English language' takes 'the'."
+      },
+      {
+       "id": "ar-2-08",
+       "q": "The doctor asked for ___ X-ray of his leg.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 1,
+       "e": "'X'નો ઉચ્ચાર 'એક્સ' સ્વર અવાજથી શરૂ થાય છે, તેથી 'an X-ray'.",
+       "qe": "The doctor asked for ___ X-ray of his leg.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "'X' is said 'ex', starting with a vowel sound, so 'an X-ray'."
+      },
+      {
+       "id": "ar-2-09",
+       "q": "Kalidas is called ___ Shakespeare of India.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 2,
+       "e": "કોઈ વ્યક્તિને બીજી પ્રખ્યાત વ્યક્તિ સાથે સરખાવીએ ત્યારે નામ પહેલાં 'the' વપરાય.",
+       "qe": "Kalidas is called ___ Shakespeare of India.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "When comparing someone to another famous person, 'the' goes before the name."
+      },
+      {
+       "id": "ar-2-10",
+       "q": "Children love to play ___ cricket.",
+       "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "a": 3,
+       "e": "રમતોનાં નામ (cricket, football, chess) પહેલાં article વપરાતો નથી.",
+       "qe": "Children love to play ___ cricket.",
+       "oe": [
+        "a",
+        "an",
+        "the",
+        "no article"
+       ],
+       "ee": "No article before the names of games (cricket, football, chess)."
+      }
+     ],
+     "en": "Special rules for articles"
+    }
+   ]
+  },
+  {
+   "id": "prepositions",
+   "name": "Prepositions",
+   "levels": [
+    {
+     "id": "pp-1",
+     "name": "સમય અને સ્થળ",
+     "questions": [
+      {
+       "id": "pp-1-01",
+       "q": "She was born ___ 1995.",
+       "o": [
+        "on",
+        "in",
+        "at",
+        "since"
+       ],
+       "a": 1,
+       "e": "વર્ષ, મહિના અને ઋતુ પહેલાં 'in' વપરાય; ચોક્કસ તારીખ/વાર પહેલાં 'on'.",
+       "qe": "She was born ___ 1995.",
+       "oe": [
+        "on",
+        "in",
+        "at",
+        "since"
+       ],
+       "ee": "'In' goes before years, months and seasons; 'on' before a particular date or day."
+      },
+      {
+       "id": "pp-1-02",
+       "q": "The train arrives ___ 6 o'clock.",
+       "o": [
+        "in",
+        "on",
+        "since",
+        "at"
+       ],
+       "a": 3,
+       "e": "ઘડિયાળના ચોક્કસ સમય પહેલાં 'at' વપરાય (at 6 o'clock, at noon).",
+       "qe": "The train arrives ___ 6 o'clock.",
+       "oe": [
+        "in",
+        "on",
+        "since",
+        "at"
+       ],
+       "ee": "'At' goes before an exact clock time (at 6 o'clock, at noon)."
+      },
+      {
+       "id": "pp-1-03",
+       "q": "I will meet you ___ Monday.",
+       "o": [
+        "on",
+        "in",
+        "at",
+        "for"
+       ],
+       "a": 0,
+       "e": "વાર અને તારીખ પહેલાં 'on' વપરાય (on Monday, on 26th January).",
+       "qe": "I will meet you ___ Monday.",
+       "oe": [
+        "on",
+        "in",
+        "at",
+        "for"
+       ],
+       "ee": "'On' goes before days and dates (on Monday, on 26th January)."
+      },
+      {
+       "id": "pp-1-04",
+       "q": "He has been ill ___ last Monday.",
+       "o": [
+        "for",
+        "from",
+        "since",
+        "by"
+       ],
+       "a": 2,
+       "e": "સમયનું શરૂઆતનું બિંદુ (last Monday, 2010) બતાવવા Perfect tense સાથે 'since' વપરાય.",
+       "qe": "He has been ill ___ last Monday.",
+       "oe": [
+        "for",
+        "from",
+        "since",
+        "by"
+       ],
+       "ee": "'Since' shows the starting point of time (last Monday, 2010) with a perfect tense."
+      },
+      {
+       "id": "pp-1-05",
+       "q": "She has been waiting ___ two hours.",
+       "o": [
+        "since",
+        "from",
+        "for",
+        "at"
+       ],
+       "a": 2,
+       "e": "સમયનો ગાળો (two hours, five years) બતાવવા 'for' વપરાય.",
+       "qe": "She has been waiting ___ two hours.",
+       "oe": [
+        "since",
+        "from",
+        "for",
+        "at"
+       ],
+       "ee": "'For' shows a period of time (two hours, five years)."
+      },
+      {
+       "id": "pp-1-06",
+       "q": "He travelled to Surat ___ bus.",
+       "o": [
+        "by",
+        "in",
+        "with",
+        "on"
+       ],
+       "a": 0,
+       "e": "વાહનવ્યવહારના સાધન પહેલાં article વગર 'by' વપરાય (by bus, by train).",
+       "qe": "He travelled to Surat ___ bus.",
+       "oe": [
+        "by",
+        "in",
+        "with",
+        "on"
+       ],
+       "ee": "'By' goes before a means of transport, with no article (by bus, by train)."
+      },
+      {
+       "id": "pp-1-07",
+       "q": "The sun sets ___ the west.",
+       "o": [
+        "at",
+        "to",
+        "on",
+        "in"
+       ],
+       "a": 3,
+       "e": "દિશા બતાવતી વખતે 'in the east/west' વપરાય.",
+       "qe": "The sun sets ___ the west.",
+       "oe": [
+        "at",
+        "to",
+        "on",
+        "in"
+       ],
+       "ee": "For directions we say 'in the east/west'."
+      },
+      {
+       "id": "pp-1-08",
+       "q": "Divide the mangoes ___ the two brothers.",
+       "o": [
+        "among",
+        "between",
+        "with",
+        "in"
+       ],
+       "a": 1,
+       "e": "બે વ્યક્તિ/વસ્તુ વચ્ચે 'between' અને બેથી વધુ વચ્ચે 'among' વપરાય.",
+       "qe": "Divide the mangoes ___ the two brothers.",
+       "oe": [
+        "among",
+        "between",
+        "with",
+        "in"
+       ],
+       "ee": "'Between' is for two people or things, 'among' for more than two."
+      },
+      {
+       "id": "pp-1-09",
+       "q": "He is fond ___ music.",
+       "o": [
+        "of",
+        "for",
+        "with",
+        "about"
+       ],
+       "a": 0,
+       "e": "'fond' સાથે હંમેશાં 'of' આવે: 'fond of' એટલે શોખીન.",
+       "qe": "He is fond ___ music.",
+       "oe": [
+        "of",
+        "for",
+        "with",
+        "about"
+       ],
+       "ee": "'Fond' always takes 'of': 'fond of' means liking something."
+      },
+      {
+       "id": "pp-1-10",
+       "q": "Translate this sentence ___ Gujarati.",
+       "o": [
+        "in",
+        "into",
+        "to",
+        "on"
+       ],
+       "a": 1,
+       "e": "એક ભાષામાંથી બીજી ભાષામાં અનુવાદ માટે 'translate into' વપરાય.",
+       "qe": "Translate this sentence ___ Gujarati.",
+       "oe": [
+        "in",
+        "into",
+        "to",
+        "on"
+       ],
+       "ee": "Translating from one language to another uses 'translate into'."
+      }
+     ],
+     "en": "Time and place"
+    },
+    {
+     "id": "pp-2",
+     "name": "નિશ્ચિત પ્રયોગો",
+     "questions": [
+      {
+       "id": "pp-2-01",
+       "q": "She is married ___ a doctor.",
+       "o": [
+        "with",
+        "by",
+        "to",
+        "for"
+       ],
+       "a": 2,
+       "e": "'married' સાથે 'to' વપરાય: 'married to', 'married with' ખોટું છે.",
+       "qe": "She is married ___ a doctor.",
+       "oe": [
+        "with",
+        "by",
+        "to",
+        "for"
+       ],
+       "ee": "'Married' takes 'to': 'married to'; 'married with' is wrong."
+      },
+      {
+       "id": "pp-2-02",
+       "q": "He was accused ___ theft.",
+       "o": [
+        "of",
+        "for",
+        "with",
+        "about"
+       ],
+       "a": 0,
+       "e": "'accuse' સાથે 'of' વપરાય; જ્યારે 'charge' સાથે 'with' આવે (charged with theft).",
+       "qe": "He was accused ___ theft.",
+       "oe": [
+        "of",
+        "for",
+        "with",
+        "about"
+       ],
+       "ee": "'Accuse' takes 'of'; 'charge' takes 'with' (charged with theft)."
+      },
+      {
+       "id": "pp-2-03",
+       "q": "I prefer tea ___ coffee.",
+       "o": [
+        "than",
+        "from",
+        "with",
+        "to"
+       ],
+       "a": 3,
+       "e": "'prefer' સાથે સરખામણીમાં 'than' નહીં, 'to' વપરાય.",
+       "qe": "I prefer tea ___ coffee.",
+       "oe": [
+        "than",
+        "from",
+        "with",
+        "to"
+       ],
+       "ee": "With 'prefer', the comparison uses 'to', not 'than'."
+      },
+      {
+       "id": "pp-2-04",
+       "q": "He congratulated me ___ my success.",
+       "o": [
+        "by",
+        "on",
+        "at",
+        "with"
+       ],
+       "a": 1,
+       "e": "'congratulate someone on something' એ સાચો પ્રયોગ છે.",
+       "qe": "He congratulated me ___ my success.",
+       "oe": [
+        "by",
+        "on",
+        "at",
+        "with"
+       ],
+       "ee": "The correct use is 'congratulate someone on something'."
+      },
+      {
+       "id": "pp-2-05",
+       "q": "He is blind ___ one eye.",
+       "o": [
+        "of",
+        "from",
+        "by",
+        "in"
+       ],
+       "a": 3,
+       "e": "શરીરના અંગની ખામી માટે 'blind in one eye', 'lame in one leg' વપરાય.",
+       "qe": "He is blind ___ one eye.",
+       "oe": [
+        "of",
+        "from",
+        "by",
+        "in"
+       ],
+       "ee": "For a defect of a body part we say 'blind in one eye', 'lame in one leg'."
+      },
+      {
+       "id": "pp-2-06",
+       "q": "He insisted ___ going there alone.",
+       "o": [
+        "at",
+        "for",
+        "on",
+        "to"
+       ],
+       "a": 2,
+       "e": "'insist' સાથે 'on' વપરાય અને પછી ક્રિયાપદનું -ing રૂપ આવે.",
+       "qe": "He insisted ___ going there alone.",
+       "oe": [
+        "at",
+        "for",
+        "on",
+        "to"
+       ],
+       "ee": "'Insist' takes 'on', followed by the -ing form of the verb."
+      },
+      {
+       "id": "pp-2-07",
+       "q": "Beware ___ pickpockets.",
+       "o": [
+        "from",
+        "of",
+        "with",
+        "by"
+       ],
+       "a": 1,
+       "e": "'beware' સાથે 'of' વપરાય: 'Beware of dogs'.",
+       "qe": "Beware ___ pickpockets.",
+       "oe": [
+        "from",
+        "of",
+        "with",
+        "by"
+       ],
+       "ee": "'Beware' takes 'of': 'Beware of dogs'."
+      },
+      {
+       "id": "pp-2-08",
+       "q": "He was absent ___ the meeting.",
+       "o": [
+        "from",
+        "in",
+        "at",
+        "of"
+       ],
+       "a": 0,
+       "e": "'absent' સાથે 'from' વપરાય: 'absent from school'.",
+       "qe": "He was absent ___ the meeting.",
+       "oe": [
+        "from",
+        "in",
+        "at",
+        "of"
+       ],
+       "ee": "'Absent' takes 'from': 'absent from school'."
+      },
+      {
+       "id": "pp-2-09",
+       "q": "My mother is suffering ___ fever.",
+       "o": [
+        "at",
+        "of",
+        "from",
+        "by"
+       ],
+       "a": 2,
+       "e": "બીમારી માટે 'suffer from' વપરાય.",
+       "qe": "My mother is suffering ___ fever.",
+       "oe": [
+        "at",
+        "of",
+        "from",
+        "by"
+       ],
+       "ee": "For an illness we say 'suffer from'."
+      },
+      {
+       "id": "pp-2-10",
+       "q": "Every citizen should abide ___ the law.",
+       "o": [
+        "with",
+        "to",
+        "on",
+        "by"
+       ],
+       "a": 3,
+       "e": "'abide by' એટલે નિયમ/કાયદાનું પાલન કરવું.",
+       "qe": "Every citizen should abide ___ the law.",
+       "oe": [
+        "with",
+        "to",
+        "on",
+        "by"
+       ],
+       "ee": "'Abide by' means to obey a rule or law."
+      }
+     ],
+     "en": "Fixed expressions"
+    }
+   ]
+  },
+  {
+   "id": "tenses",
+   "name": "Tenses",
+   "levels": [
+    {
+     "id": "tn-1",
+     "name": "કાળની ઓળખ",
+     "questions": [
+      {
+       "id": "tn-1-01",
+       "q": "The sun ___ in the east.",
+       "o": [
+        "rise",
+        "is rising",
+        "rose",
+        "rises"
+       ],
+       "a": 3,
+       "e": "સનાતન સત્ય માટે Simple Present વપરાય; ત્રીજો પુરુષ એકવચન કર્તા હોવાથી 'rises'.",
+       "qe": "The sun ___ in the east.",
+       "oe": [
+        "rise",
+        "is rising",
+        "rose",
+        "rises"
+       ],
+       "ee": "Universal truths take the simple present; with a third-person singular subject it is 'rises'."
+      },
+      {
+       "id": "tn-1-02",
+       "q": "Look! The baby ___.",
+       "o": [
+        "sleeps",
+        "is sleeping",
+        "slept",
+        "has slept"
+       ],
+       "a": 1,
+       "e": "'Look!' બતાવે છે કે ક્રિયા અત્યારે ચાલુ છે, તેથી Present Continuous.",
+       "qe": "Look! The baby ___.",
+       "oe": [
+        "sleeps",
+        "is sleeping",
+        "slept",
+        "has slept"
+       ],
+       "ee": "'Look!' shows the action is happening now, so present continuous."
+      },
+      {
+       "id": "tn-1-03",
+       "q": "He ___ to Mumbai yesterday.",
+       "o": [
+        "goes",
+        "has gone",
+        "went",
+        "had gone"
+       ],
+       "a": 2,
+       "e": "'yesterday' જેવો ભૂતકાળનો ચોક્કસ સમય હોય તો Simple Past વપરાય; Present Perfect નહીં.",
+       "qe": "He ___ to Mumbai yesterday.",
+       "oe": [
+        "goes",
+        "has gone",
+        "went",
+        "had gone"
+       ],
+       "ee": "A definite past time like 'yesterday' takes the simple past, not the present perfect."
+      },
+      {
+       "id": "tn-1-04",
+       "q": "She ___ a letter when I entered the room.",
+       "o": [
+        "was writing",
+        "writes",
+        "has written",
+        "is writing"
+       ],
+       "a": 0,
+       "e": "ભૂતકાળમાં એક ક્રિયા ચાલુ હતી ત્યારે બીજી ક્રિયા બની, તેથી ચાલુ ક્રિયા માટે Past Continuous.",
+       "qe": "She ___ a letter when I entered the room.",
+       "oe": [
+        "was writing",
+        "writes",
+        "has written",
+        "is writing"
+       ],
+       "ee": "One action was going on in the past when another happened, so the ongoing one takes the past continuous."
+      },
+      {
+       "id": "tn-1-05",
+       "q": "By the time we reached the station, the train ___.",
+       "o": [
+        "had left",
+        "left",
+        "has left",
+        "leaves"
+       ],
+       "a": 0,
+       "e": "ભૂતકાળની બે ક્રિયામાંથી પહેલાં પૂરી થયેલી ક્રિયા માટે Past Perfect (had + V3) વપરાય.",
+       "qe": "By the time we reached the station, the train ___.",
+       "oe": [
+        "had left",
+        "left",
+        "has left",
+        "leaves"
+       ],
+       "ee": "Of two past actions, the one finished first takes the past perfect (had + V3)."
+      },
+      {
+       "id": "tn-1-06",
+       "q": "I ___ him for ten years.",
+       "o": [
+        "know",
+        "am knowing",
+        "knew",
+        "have known"
+       ],
+       "a": 3,
+       "e": "ભૂતકાળથી અત્યાર સુધી ચાલુ સ્થિતિ માટે 'for' સાથે Present Perfect; 'know' Continuous રૂપમાં વપરાતું નથી.",
+       "qe": "I ___ him for ten years.",
+       "oe": [
+        "know",
+        "am knowing",
+        "knew",
+        "have known"
+       ],
+       "ee": "A state from the past till now with 'for' takes the present perfect; 'know' is not used in continuous forms."
+      },
+      {
+       "id": "tn-1-07",
+       "q": "If it rains, we ___ at home.",
+       "o": [
+        "would stay",
+        "will stay",
+        "stayed",
+        "would have stayed"
+       ],
+       "a": 1,
+       "e": "'If' + Simple Present હોય તો મુખ્ય વાક્યમાં 'will' + V1 (First conditional) આવે.",
+       "qe": "If it rains, we ___ at home.",
+       "oe": [
+        "would stay",
+        "will stay",
+        "stayed",
+        "would have stayed"
+       ],
+       "ee": "'If' + simple present is followed by 'will' + V1 in the main clause (first conditional)."
+      },
+      {
+       "id": "tn-1-08",
+       "q": "Ravi ___ English well.",
+       "o": [
+        "speak",
+        "speaking",
+        "speaks",
+        "spoken"
+       ],
+       "a": 2,
+       "e": "ત્રીજો પુરુષ એકવચન કર્તા (Ravi) સાથે Simple Presentમાં ક્રિયાપદને -s/-es લાગે.",
+       "qe": "Ravi ___ English well.",
+       "oe": [
+        "speak",
+        "speaking",
+        "speaks",
+        "spoken"
+       ],
+       "ee": "With a third-person singular subject (Ravi) the simple present verb takes -s/-es."
+      },
+      {
+       "id": "tn-1-09",
+       "q": "I ___ my lunch, so I am not hungry.",
+       "o": [
+        "had had",
+        "have had",
+        "have",
+        "am having"
+       ],
+       "a": 1,
+       "e": "ભૂતકાળમાં પૂરી થયેલી ક્રિયાનું પરિણામ અત્યારે દેખાય ત્યારે Present Perfect વપરાય.",
+       "qe": "I ___ my lunch, so I am not hungry.",
+       "oe": [
+        "had had",
+        "have had",
+        "have",
+        "am having"
+       ],
+       "ee": "When a finished past action has a result now, use the present perfect."
+      },
+      {
+       "id": "tn-1-10",
+       "q": "The children ___ in the park every evening.",
+       "o": [
+        "play",
+        "plays",
+        "is playing",
+        "has played"
+       ],
+       "a": 0,
+       "e": "રોજની ટેવ માટે Simple Present; બહુવચન કર્તા (children) સાથે ક્રિયાપદનું મૂળ રૂપ 'play' આવે.",
+       "qe": "The children ___ in the park every evening.",
+       "oe": [
+        "play",
+        "plays",
+        "is playing",
+        "has played"
+       ],
+       "ee": "Daily habits take the simple present; a plural subject (children) takes the base form 'play'."
+      }
+     ],
+     "en": "Identify the tense"
+    },
+    {
+     "id": "tn-2",
+     "name": "કાળના અઘરા પ્રયોગો",
+     "questions": [
+      {
+       "id": "tn-2-01",
+       "q": "She ___ for two hours when I reached her house.",
+       "o": [
+        "had been waiting",
+        "has been waiting",
+        "is waiting",
+        "waits"
+       ],
+       "a": 0,
+       "e": "ભૂતકાળની બીજી ક્રિયા પહેલાં લાંબો સમય ચાલુ રહેલી ક્રિયા માટે Past Perfect Continuous વપરાય.",
+       "qe": "She ___ for two hours when I reached her house.",
+       "oe": [
+        "had been waiting",
+        "has been waiting",
+        "is waiting",
+        "waits"
+       ],
+       "ee": "An action that went on for a long time before another past action takes the past perfect continuous."
+      },
+      {
+       "id": "tn-2-02",
+       "q": "If you had worked hard, you ___ passed.",
+       "o": [
+        "will have",
+        "would",
+        "would have",
+        "had"
+       ],
+       "a": 2,
+       "e": "'If' + had + V3 (Third conditional) સાથે મુખ્ય વાક્યમાં 'would have + V3' આવે.",
+       "qe": "If you had worked hard, you ___ passed.",
+       "oe": [
+        "will have",
+        "would",
+        "would have",
+        "had"
+       ],
+       "ee": "'If' + had + V3 (third conditional) is followed by 'would have + V3'."
+      },
+      {
+       "id": "tn-2-03",
+       "q": "By next March, he ___ in this office for five years.",
+       "o": [
+        "will work",
+        "will have worked",
+        "has worked",
+        "works"
+       ],
+       "a": 1,
+       "e": "ભવિષ્યના ચોક્કસ સમય સુધીમાં પૂરી થનારી ક્રિયા માટે Future Perfect (will have + V3) વપરાય.",
+       "qe": "By next March, he ___ in this office for five years.",
+       "oe": [
+        "will work",
+        "will have worked",
+        "has worked",
+        "works"
+       ],
+       "ee": "An action to be completed by a definite future time takes the future perfect (will have + V3)."
+      },
+      {
+       "id": "tn-2-04",
+       "q": "It is high time we ___ home.",
+       "o": [
+        "go",
+        "will go",
+        "have gone",
+        "went"
+       ],
+       "a": 3,
+       "e": "'It is high time' પછી Simple Past વપરાય, ભલે અર્થ વર્તમાનનો હોય.",
+       "qe": "It is high time we ___ home.",
+       "oe": [
+        "go",
+        "will go",
+        "have gone",
+        "went"
+       ],
+       "ee": "'It is high time' is followed by the simple past, even though the meaning is present."
+      },
+      {
+       "id": "tn-2-05",
+       "q": "No sooner had he reached the station than the train ___.",
+       "o": [
+        "leaves",
+        "left",
+        "had left",
+        "has left"
+       ],
+       "a": 1,
+       "e": "'No sooner had ... than' રચનામાં 'than' પછી Simple Past આવે.",
+       "qe": "No sooner had he reached the station than the train ___.",
+       "oe": [
+        "leaves",
+        "left",
+        "had left",
+        "has left"
+       ],
+       "ee": "In 'No sooner had ... than', the simple past follows 'than'."
+      },
+      {
+       "id": "tn-2-06",
+       "q": "I wish I ___ the answer now.",
+       "o": [
+        "know",
+        "have known",
+        "will know",
+        "knew"
+       ],
+       "a": 3,
+       "e": "વર્તમાનની અધૂરી ઇચ્છા બતાવવા 'I wish' પછી Simple Past વપરાય.",
+       "qe": "I wish I ___ the answer now.",
+       "oe": [
+        "know",
+        "have known",
+        "will know",
+        "knew"
+       ],
+       "ee": "An unfulfilled wish about the present uses the simple past after 'I wish'."
+      },
+      {
+       "id": "tn-2-07",
+       "q": "This time tomorrow, I ___ to Delhi.",
+       "o": [
+        "will be travelling",
+        "travel",
+        "will have travelled",
+        "travelled"
+       ],
+       "a": 0,
+       "e": "ભવિષ્યના ચોક્કસ સમયે ચાલુ હશે તેવી ક્રિયા માટે Future Continuous (will be + V-ing) વપરાય.",
+       "qe": "This time tomorrow, I ___ to Delhi.",
+       "oe": [
+        "will be travelling",
+        "travel",
+        "will have travelled",
+        "travelled"
+       ],
+       "ee": "An action that will be going on at a definite future time takes the future continuous (will be + V-ing)."
+      },
+      {
+       "id": "tn-2-08",
+       "q": "He ___ ill since last week.",
+       "o": [
+        "is",
+        "was",
+        "has been",
+        "had"
+       ],
+       "a": 2,
+       "e": "'since' સાથે ભૂતકાળથી અત્યાર સુધી ચાલુ સ્થિતિ બતાવવા Present Perfect 'has been' વપરાય.",
+       "qe": "He ___ ill since last week.",
+       "oe": [
+        "is",
+        "was",
+        "has been",
+        "had"
+       ],
+       "ee": "A state from the past till now with 'since' takes the present perfect 'has been'."
+      },
+      {
+       "id": "tn-2-09",
+       "q": "Unless you ___ hard, you will fail.",
+       "o": [
+        "will work",
+        "worked",
+        "do not work",
+        "work"
+       ],
+       "a": 3,
+       "e": "'Unless' (= if not) પછી Simple Present આવે; તેમાં ફરી 'not' મુકાતું નથી.",
+       "qe": "Unless you ___ hard, you will fail.",
+       "oe": [
+        "will work",
+        "worked",
+        "do not work",
+        "work"
+       ],
+       "ee": "'Unless' (= if not) is followed by the simple present, without another 'not'."
+      },
+      {
+       "id": "tn-2-10",
+       "q": "Two years ___ since he left the village.",
+       "o": [
+        "passed",
+        "had passed",
+        "have passed",
+        "pass"
+       ],
+       "a": 2,
+       "e": "'since' વાળા વાક્યમાં મુખ્ય ક્રિયાપદ Present Perfect હોય; 'Two years' બહુવચન હોવાથી 'have passed'.",
+       "qe": "Two years ___ since he left the village.",
+       "oe": [
+        "passed",
+        "had passed",
+        "have passed",
+        "pass"
+       ],
+       "ee": "In a sentence with 'since' the main verb is present perfect; 'two years' is plural, so 'have passed'."
+      }
+     ],
+     "en": "Tricky tenses"
+    }
+   ]
+  },
+  {
+   "id": "voice",
+   "name": "Active & Passive Voice",
+   "levels": [
+    {
+     "id": "vo-1",
+     "name": "કર્તરિ-કર્મણિ",
+     "questions": [
+      {
+       "id": "vo-1-01",
+       "q": "Choose the passive voice: Ram writes a letter.",
+       "o": [
+        "A letter was written by Ram.",
+        "A letter is written by Ram.",
+        "A letter is being written by Ram.",
+        "A letter has been written by Ram."
+       ],
+       "a": 1,
+       "e": "Simple Presentનું કર્મણિ 'is/am/are + V3' થી બને.",
+       "qe": "Choose the passive voice: Ram writes a letter.",
+       "oe": [
+        "A letter was written by Ram.",
+        "A letter is written by Ram.",
+        "A letter is being written by Ram.",
+        "A letter has been written by Ram."
+       ],
+       "ee": "The passive of the simple present is 'is/am/are + V3'."
+      },
+      {
+       "id": "vo-1-02",
+       "q": "Choose the passive voice: She is cooking food.",
+       "o": [
+        "Food is cooked by her.",
+        "Food was being cooked by her.",
+        "Food has been cooked by her.",
+        "Food is being cooked by her."
+       ],
+       "a": 3,
+       "e": "Present Continuousનું કર્મણિ 'is/are being + V3' થી બને.",
+       "qe": "Choose the passive voice: She is cooking food.",
+       "oe": [
+        "Food is cooked by her.",
+        "Food was being cooked by her.",
+        "Food has been cooked by her.",
+        "Food is being cooked by her."
+       ],
+       "ee": "The passive of the present continuous is 'is/are being + V3'."
+      },
+      {
+       "id": "vo-1-03",
+       "q": "Choose the passive voice: They have completed the work.",
+       "o": [
+        "The work has been completed by them.",
+        "The work was completed by them.",
+        "The work had been completed by them.",
+        "The work is completed by them."
+       ],
+       "a": 0,
+       "e": "Present Perfectનું કર્મણિ 'has/have been + V3' થી બને.",
+       "qe": "Choose the passive voice: They have completed the work.",
+       "oe": [
+        "The work has been completed by them.",
+        "The work was completed by them.",
+        "The work had been completed by them.",
+        "The work is completed by them."
+       ],
+       "ee": "The passive of the present perfect is 'has/have been + V3'."
+      },
+      {
+       "id": "vo-1-04",
+       "q": "Choose the passive voice: The police arrested the thief.",
+       "o": [
+        "The thief is arrested by the police.",
+        "The thief has been arrested by the police.",
+        "The thief was arrested by the police.",
+        "The thief had been arrested by the police."
+       ],
+       "a": 2,
+       "e": "Simple Pastનું કર્મણિ 'was/were + V3' થી બને.",
+       "qe": "Choose the passive voice: The police arrested the thief.",
+       "oe": [
+        "The thief is arrested by the police.",
+        "The thief has been arrested by the police.",
+        "The thief was arrested by the police.",
+        "The thief had been arrested by the police."
+       ],
+       "ee": "The passive of the simple past is 'was/were + V3'."
+      },
+      {
+       "id": "vo-1-05",
+       "q": "Choose the passive voice: Who wrote this book?",
+       "o": [
+        "Who was written this book?",
+        "By whom is this book written?",
+        "By whom was this book written?",
+        "Whom this book was written by?"
+       ],
+       "a": 2,
+       "e": "'Who'થી શરૂ થતા પ્રશ્નના કર્મણિમાં 'By whom' વપરાય અને કાળ (Simple Past) એ જ રહે.",
+       "qe": "Choose the passive voice: Who wrote this book?",
+       "oe": [
+        "Who was written this book?",
+        "By whom is this book written?",
+        "By whom was this book written?",
+        "Whom this book was written by?"
+       ],
+       "ee": "A question starting with 'Who' becomes 'By whom' in the passive, keeping the tense (simple past)."
+      },
+      {
+       "id": "vo-1-06",
+       "q": "Choose the passive voice: Close the door.",
+       "o": [
+        "Let the door be closed.",
+        "The door is closed.",
+        "The door was closed.",
+        "Let the door closed."
+       ],
+       "a": 0,
+       "e": "આજ્ઞાર્થ વાક્યનું કર્મણિ 'Let + કર્મ + be + V3' થી બને.",
+       "qe": "Choose the passive voice: Close the door.",
+       "oe": [
+        "Let the door be closed.",
+        "The door is closed.",
+        "The door was closed.",
+        "Let the door closed."
+       ],
+       "ee": "The passive of a command is 'Let + object + be + V3'."
+      },
+      {
+       "id": "vo-1-07",
+       "q": "Choose the passive voice: He will help you.",
+       "o": [
+        "You would be helped by him.",
+        "You will help by him.",
+        "You are helped by him.",
+        "You will be helped by him."
+       ],
+       "a": 3,
+       "e": "Simple Futureનું કર્મણિ 'will/shall be + V3' થી બને.",
+       "qe": "Choose the passive voice: He will help you.",
+       "oe": [
+        "You would be helped by him.",
+        "You will help by him.",
+        "You are helped by him.",
+        "You will be helped by him."
+       ],
+       "ee": "The passive of the simple future is 'will/shall be + V3'."
+      },
+      {
+       "id": "vo-1-08",
+       "q": "Choose the passive voice: I was reading a novel.",
+       "o": [
+        "A novel was read by me.",
+        "A novel was being read by me.",
+        "A novel is being read by me.",
+        "A novel had been read by me."
+       ],
+       "a": 1,
+       "e": "Past Continuousનું કર્મણિ 'was/were being + V3' થી બને.",
+       "qe": "Choose the passive voice: I was reading a novel.",
+       "oe": [
+        "A novel was read by me.",
+        "A novel was being read by me.",
+        "A novel is being read by me.",
+        "A novel had been read by me."
+       ],
+       "ee": "The passive of the past continuous is 'was/were being + V3'."
+      },
+      {
+       "id": "vo-1-09",
+       "q": "Choose the active voice: The song was sung by Lata.",
+       "o": [
+        "Lata sang the song.",
+        "Lata sings the song.",
+        "Lata has sung the song.",
+        "Lata was singing the song."
+       ],
+       "a": 0,
+       "e": "'was sung' Simple Pastનું કર્મણિ છે, તેથી કર્તરિમાં Simple Past 'sang' આવે.",
+       "qe": "Choose the active voice: The song was sung by Lata.",
+       "oe": [
+        "Lata sang the song.",
+        "Lata sings the song.",
+        "Lata has sung the song.",
+        "Lata was singing the song."
+       ],
+       "ee": "'Was sung' is the simple past passive, so the active uses the simple past 'sang'."
+      },
+      {
+       "id": "vo-1-10",
+       "q": "Choose the passive voice: We must obey the laws.",
+       "o": [
+        "The laws must obey by us.",
+        "The laws must be obeyed by us.",
+        "The laws must have obeyed us.",
+        "The laws are obeyed by us."
+       ],
+       "a": 1,
+       "e": "Modal (must, can, should) વાળા વાક્યનું કર્મણિ 'modal + be + V3' થી બને.",
+       "qe": "Choose the passive voice: We must obey the laws.",
+       "oe": [
+        "The laws must obey by us.",
+        "The laws must be obeyed by us.",
+        "The laws must have obeyed us.",
+        "The laws are obeyed by us."
+       ],
+       "ee": "A sentence with a modal (must, can, should) becomes 'modal + be + V3' in the passive."
+      }
+     ],
+     "en": "Active and passive"
+    },
+    {
+     "id": "vo-2",
+     "name": "કર્મણિ: વધુ કાળ",
+     "questions": [
+      {
+       "id": "vo-2-01",
+       "q": "Choose the passive voice: They are building a new bridge.",
+       "o": [
+        "A new bridge is being built by them.",
+        "A new bridge is built by them.",
+        "A new bridge has been built by them.",
+        "A new bridge was being built by them."
+       ],
+       "a": 0,
+       "e": "Present continuous નું passive: is/are being + V3.",
+       "qe": "Choose the passive voice: They are building a new bridge.",
+       "oe": [
+        "A new bridge is being built by them.",
+        "A new bridge is built by them.",
+        "A new bridge has been built by them.",
+        "A new bridge was being built by them."
+       ],
+       "ee": "Present continuous passive: is/are being + V3."
+      },
+      {
+       "id": "vo-2-02",
+       "q": "Choose the passive voice: She had written the report.",
+       "o": [
+        "The report had written by her.",
+        "The report had been written by her.",
+        "The report has been written by her.",
+        "The report was written by her."
+       ],
+       "a": 1,
+       "e": "Past perfect નું passive: had been + V3.",
+       "qe": "Choose the passive voice: She had written the report.",
+       "oe": [
+        "The report had written by her.",
+        "The report had been written by her.",
+        "The report has been written by her.",
+        "The report was written by her."
+       ],
+       "ee": "Past perfect passive: had been + V3."
+      },
+      {
+       "id": "vo-2-03",
+       "q": "Choose the passive voice: People speak English all over the world.",
+       "o": [
+        "English is being spoken all over the world.",
+        "English has spoken all over the world.",
+        "English is spoken all over the world.",
+        "English was spoken all over the world."
+       ],
+       "a": 2,
+       "e": "Simple present નું passive: is/am/are + V3; 'people' જેવો સામાન્ય કર્તા છોડી દેવાય છે.",
+       "qe": "Choose the passive voice: People speak English all over the world.",
+       "oe": [
+        "English is being spoken all over the world.",
+        "English has spoken all over the world.",
+        "English is spoken all over the world.",
+        "English was spoken all over the world."
+       ],
+       "ee": "Simple present passive: is/am/are + V3; a general subject like 'people' is dropped."
+      },
+      {
+       "id": "vo-2-04",
+       "q": "Choose the passive voice: Did he invite you?",
+       "o": [
+        "Was you invited by him?",
+        "Are you invited by him?",
+        "Have you been invited by him?",
+        "Were you invited by him?"
+       ],
+       "a": 3,
+       "e": "Did પ્રશ્નનું passive: Was/Were + subject + V3; 'you' સાથે were આવે.",
+       "qe": "Choose the passive voice: Did he invite you?",
+       "oe": [
+        "Was you invited by him?",
+        "Are you invited by him?",
+        "Have you been invited by him?",
+        "Were you invited by him?"
+       ],
+       "ee": "A 'Did' question becomes Was/Were + subject + V3; 'you' takes 'were'."
+      },
+      {
+       "id": "vo-2-05",
+       "q": "Choose the passive voice: Please give me a pen.",
+       "o": [
+        "You are requested to give me a pen.",
+        "I am given a pen.",
+        "A pen was given to me.",
+        "A pen has been given by me."
+       ],
+       "a": 0,
+       "e": "વિનંતી (Please) વાળા આજ્ઞાર્થનું passive: You are requested to …",
+       "qe": "Choose the passive voice: Please give me a pen.",
+       "oe": [
+        "You are requested to give me a pen.",
+        "I am given a pen.",
+        "A pen was given to me.",
+        "A pen has been given by me."
+       ],
+       "ee": "A polite command (Please) becomes 'You are requested to …'."
+      },
+      {
+       "id": "vo-2-06",
+       "q": "Choose the passive voice: The cat killed the rat.",
+       "o": [
+        "The cat was killed by the rat.",
+        "The rat was killed by the cat.",
+        "The rat had been killed by the cat.",
+        "The rat is killed by the cat."
+       ],
+       "a": 1,
+       "e": "Simple past નું passive: was/were + V3; કર્તા અને કર્મ અદલાબદલ થાય, અર્થ નહીં.",
+       "qe": "Choose the passive voice: The cat killed the rat.",
+       "oe": [
+        "The cat was killed by the rat.",
+        "The rat was killed by the cat.",
+        "The rat had been killed by the cat.",
+        "The rat is killed by the cat."
+       ],
+       "ee": "Simple past passive: was/were + V3; subject and object swap, the meaning does not change."
+      },
+      {
+       "id": "vo-2-07",
+       "q": "Choose the passive voice: Someone has stolen my bag.",
+       "o": [
+        "My bag is stolen.",
+        "My bag had been stolen.",
+        "My bag has been stolen.",
+        "My bag was stolen."
+       ],
+       "a": 2,
+       "e": "Present perfect નું passive: has/have been + V3; 'someone' જેવો અજાણ્યો કર્તા લખાતો નથી.",
+       "qe": "Choose the passive voice: Someone has stolen my bag.",
+       "oe": [
+        "My bag is stolen.",
+        "My bag had been stolen.",
+        "My bag has been stolen.",
+        "My bag was stolen."
+       ],
+       "ee": "Present perfect passive: has/have been + V3; an unknown doer like 'someone' is left out."
+      },
+      {
+       "id": "vo-2-08",
+       "q": "Choose the passive voice: The manager will sign the letters.",
+       "o": [
+        "The letters will have been signed by the manager.",
+        "The letters would be signed by the manager.",
+        "The letters will signed by the manager.",
+        "The letters will be signed by the manager."
+       ],
+       "a": 3,
+       "e": "Simple future નું passive: will be + V3.",
+       "qe": "Choose the passive voice: The manager will sign the letters.",
+       "oe": [
+        "The letters will have been signed by the manager.",
+        "The letters would be signed by the manager.",
+        "The letters will signed by the manager.",
+        "The letters will be signed by the manager."
+       ],
+       "ee": "Simple future passive: will be + V3."
+      },
+      {
+       "id": "vo-2-09",
+       "q": "Choose the active voice: The match was won by India.",
+       "o": [
+        "The match won India.",
+        "India wins the match.",
+        "India won the match.",
+        "India has won the match."
+       ],
+       "a": 2,
+       "e": "was won (simple past passive) નું active: India won (simple past).",
+       "qe": "Choose the active voice: The match was won by India.",
+       "oe": [
+        "The match won India.",
+        "India wins the match.",
+        "India won the match.",
+        "India has won the match."
+       ],
+       "ee": "'Was won' (simple past passive) becomes 'India won' (simple past) in the active."
+      },
+      {
+       "id": "vo-2-10",
+       "q": "Choose the passive voice: Do not touch the wire.",
+       "o": [
+        "The wire is not touched.",
+        "Let the wire not be touched.",
+        "Do not let the wire touched.",
+        "The wire was not touched."
+       ],
+       "a": 1,
+       "e": "નિષેધ આજ્ઞાર્થનું passive: Let + object + not be + V3.",
+       "qe": "Choose the passive voice: Do not touch the wire.",
+       "oe": [
+        "The wire is not touched.",
+        "Let the wire not be touched.",
+        "Do not let the wire touched.",
+        "The wire was not touched."
+       ],
+       "ee": "A negative command becomes 'Let + object + not be + V3'."
+      }
+     ],
+     "en": "Passive: more tenses"
+    }
+   ]
+  },
+  {
+   "id": "narration",
+   "name": "Direct & Indirect Speech",
+   "levels": [
+    {
+     "id": "nr-1",
+     "name": "કથનના નિયમો",
+     "questions": [
+      {
+       "id": "nr-1-01",
+       "q": "Change to indirect speech: He said, \"I am ill.\"",
+       "o": [
+        "He said that I was ill.",
+        "He said that he is ill.",
+        "He said that he was ill.",
+        "He said that he had been ill."
+       ],
+       "a": 2,
+       "e": "Reporting verb ભૂતકાળમાં હોય તો Simple Present બદલાઈને Simple Past થાય ('am' → 'was') અને 'I' → 'he'.",
+       "qe": "Change to indirect speech: He said, \"I am ill.\"",
+       "oe": [
+        "He said that I was ill.",
+        "He said that he is ill.",
+        "He said that he was ill.",
+        "He said that he had been ill."
+       ],
+       "ee": "With a past reporting verb the simple present becomes simple past ('am' → 'was') and 'I' → 'he'."
+      },
+      {
+       "id": "nr-1-02",
+       "q": "Change to indirect speech: She said to me, \"I like you.\"",
+       "o": [
+        "She told me that she liked me.",
+        "She said me that she liked me.",
+        "She told me that I liked you.",
+        "She told to me that she likes me."
+       ],
+       "a": 0,
+       "e": "'said to' + કર્મ હોય તો indirectમાં 'told' વપરાય; 'like' → 'liked' થાય.",
+       "qe": "Change to indirect speech: She said to me, \"I like you.\"",
+       "oe": [
+        "She told me that she liked me.",
+        "She said me that she liked me.",
+        "She told me that I liked you.",
+        "She told to me that she likes me."
+       ],
+       "ee": "'Said to' + object becomes 'told'; 'like' becomes 'liked'."
+      },
+      {
+       "id": "nr-1-03",
+       "q": "Change to indirect speech: The teacher said, \"The earth is round.\"",
+       "o": [
+        "The teacher said that the earth was round.",
+        "The teacher said that the earth had been round.",
+        "The teacher told that the earth is round.",
+        "The teacher said that the earth is round."
+       ],
+       "a": 3,
+       "e": "સનાતન સત્ય (universal truth)નો કાળ indirect speechમાં બદલાતો નથી.",
+       "qe": "Change to indirect speech: The teacher said, \"The earth is round.\"",
+       "oe": [
+        "The teacher said that the earth was round.",
+        "The teacher said that the earth had been round.",
+        "The teacher told that the earth is round.",
+        "The teacher said that the earth is round."
+       ],
+       "ee": "The tense of a universal truth does not change in indirect speech."
+      },
+      {
+       "id": "nr-1-04",
+       "q": "Change to indirect speech: Ram said, \"I will go tomorrow.\"",
+       "o": [
+        "Ram said that he will go tomorrow.",
+        "Ram said that he would go the next day.",
+        "Ram said that I would go tomorrow.",
+        "Ram said that he would go yesterday."
+       ],
+       "a": 1,
+       "e": "'will' → 'would' અને 'tomorrow' → 'the next day' (કે 'the following day') થાય.",
+       "qe": "Change to indirect speech: Ram said, \"I will go tomorrow.\"",
+       "oe": [
+        "Ram said that he will go tomorrow.",
+        "Ram said that he would go the next day.",
+        "Ram said that I would go tomorrow.",
+        "Ram said that he would go yesterday."
+       ],
+       "ee": "'Will' → 'would' and 'tomorrow' → 'the next day' (or 'the following day')."
+      },
+      {
+       "id": "nr-1-05",
+       "q": "Change to indirect speech: She said to him, \"Where do you live?\"",
+       "o": [
+        "She asked him where did he live.",
+        "She said him where he lived.",
+        "She asked him where do you live.",
+        "She asked him where he lived."
+       ],
+       "a": 3,
+       "e": "પ્રશ્નાર્થ વાક્યમાં 'asked' વપરાય અને indirectમાં વાક્યરચના વિધાન જેવી (કર્તા પછી ક્રિયાપદ) થાય.",
+       "qe": "Change to indirect speech: She said to him, \"Where do you live?\"",
+       "oe": [
+        "She asked him where did he live.",
+        "She said him where he lived.",
+        "She asked him where do you live.",
+        "She asked him where he lived."
+       ],
+       "ee": "Questions use 'asked', and in indirect speech the word order becomes a statement (subject before verb)."
+      },
+      {
+       "id": "nr-1-06",
+       "q": "Change to indirect speech: The teacher said to us, \"Sit down.\"",
+       "o": [
+        "The teacher said us to sit down.",
+        "The teacher ordered us that sit down.",
+        "The teacher ordered us to sit down.",
+        "The teacher ordered that we sat down."
+       ],
+       "a": 2,
+       "e": "આજ્ઞાર્થ વાક્યમાં 'ordered/told' + કર્મ + 'to' + V1 વપરાય.",
+       "qe": "Change to indirect speech: The teacher said to us, \"Sit down.\"",
+       "oe": [
+        "The teacher said us to sit down.",
+        "The teacher ordered us that sit down.",
+        "The teacher ordered us to sit down.",
+        "The teacher ordered that we sat down."
+       ],
+       "ee": "Commands use 'ordered/told' + object + 'to' + V1."
+      },
+      {
+       "id": "nr-1-07",
+       "q": "Change to indirect speech: He said to me, \"Are you coming?\"",
+       "o": [
+        "He asked me if was I coming.",
+        "He asked me if I was coming.",
+        "He asked me that I was coming.",
+        "He told me if I am coming."
+       ],
+       "a": 1,
+       "e": "Yes/No પ્રશ્નમાં 'if/whether' વડે જોડાય અને 'are coming' → 'was coming' થાય.",
+       "qe": "Change to indirect speech: He said to me, \"Are you coming?\"",
+       "oe": [
+        "He asked me if was I coming.",
+        "He asked me if I was coming.",
+        "He asked me that I was coming.",
+        "He told me if I am coming."
+       ],
+       "ee": "Yes/no questions are joined with 'if/whether' and 'are coming' → 'was coming'."
+      },
+      {
+       "id": "nr-1-08",
+       "q": "Change to indirect speech: He said, \"I have finished my work.\"",
+       "o": [
+        "He said that he had finished his work.",
+        "He said that he has finished his work.",
+        "He said that I had finished my work.",
+        "He said that he finished my work."
+       ],
+       "a": 0,
+       "e": "Present Perfect બદલાઈને Past Perfect થાય ('have finished' → 'had finished').",
+       "qe": "Change to indirect speech: He said, \"I have finished my work.\"",
+       "oe": [
+        "He said that he had finished his work.",
+        "He said that he has finished his work.",
+        "He said that I had finished my work.",
+        "He said that he finished my work."
+       ],
+       "ee": "The present perfect becomes past perfect ('have finished' → 'had finished')."
+      },
+      {
+       "id": "nr-1-09",
+       "q": "Change to indirect speech: He said to me, \"Please help me.\"",
+       "o": [
+        "He requested me to help me.",
+        "He ordered me that help him.",
+        "He requested me to help him.",
+        "He requested me that I help me."
+       ],
+       "a": 2,
+       "e": "'Please' વાળા વાક્યમાં 'requested' + કર્મ + 'to' + V1 વપરાય અને 'please' શબ્દ નીકળી જાય.",
+       "qe": "Change to indirect speech: He said to me, \"Please help me.\"",
+       "oe": [
+        "He requested me to help me.",
+        "He ordered me that help him.",
+        "He requested me to help him.",
+        "He requested me that I help me."
+       ],
+       "ee": "With 'please', use 'requested' + object + 'to' + V1 and drop the word 'please'."
+      },
+      {
+       "id": "nr-1-10",
+       "q": "Change to indirect speech: He says, \"I am busy.\"",
+       "o": [
+        "He says that he was busy.",
+        "He said that he was busy.",
+        "He says that I am busy.",
+        "He says that he is busy."
+       ],
+       "a": 3,
+       "e": "Reporting verb વર્તમાનકાળ (says) માં હોય તો અંદરના વાક્યનો કાળ બદલાતો નથી.",
+       "qe": "Change to indirect speech: He says, \"I am busy.\"",
+       "oe": [
+        "He says that he was busy.",
+        "He said that he was busy.",
+        "He says that I am busy.",
+        "He says that he is busy."
+       ],
+       "ee": "When the reporting verb is present (says), the tense inside does not change."
+      }
+     ],
+     "en": "Rules of narration"
+    },
+    {
+     "id": "nr-2",
+     "name": "કથન: વધુ પ્રકાર",
+     "questions": [
+      {
+       "id": "nr-2-01",
+       "q": "Change to indirect speech: He said, \"I am writing a letter.\"",
+       "o": [
+        "He said that I was writing a letter.",
+        "He said that he was writing a letter.",
+        "He said that he is writing a letter.",
+        "He said that he had been write a letter."
+       ],
+       "a": 1,
+       "e": "Reporting verb ભૂતકાળમાં હોય તો am writing → was writing થાય.",
+       "qe": "Change to indirect speech: He said, \"I am writing a letter.\"",
+       "oe": [
+        "He said that I was writing a letter.",
+        "He said that he was writing a letter.",
+        "He said that he is writing a letter.",
+        "He said that he had been write a letter."
+       ],
+       "ee": "With a past reporting verb, 'am writing' → 'was writing'."
+      },
+      {
+       "id": "nr-2-02",
+       "q": "Change to indirect speech: She said, \"I saw a snake.\"",
+       "o": [
+        "She said that she had seen a snake.",
+        "She said that she has seen a snake.",
+        "She said that I had seen a snake.",
+        "She said that she sees a snake."
+       ],
+       "a": 0,
+       "e": "Simple past (saw) નું indirect માં past perfect (had seen) થાય છે.",
+       "qe": "Change to indirect speech: She said, \"I saw a snake.\"",
+       "oe": [
+        "She said that she had seen a snake.",
+        "She said that she has seen a snake.",
+        "She said that I had seen a snake.",
+        "She said that she sees a snake."
+       ],
+       "ee": "The simple past (saw) becomes past perfect (had seen) in indirect speech."
+      },
+      {
+       "id": "nr-2-03",
+       "q": "Change to indirect speech: He said to me, \"What is your name?\"",
+       "o": [
+        "He asked me what is my name.",
+        "He asked me what was my name.",
+        "He asked me what my name was.",
+        "He told me what my name was."
+       ],
+       "a": 2,
+       "e": "Wh- પ્રશ્નમાં said to → asked અને વાક્ય સાદા ક્રમમાં: what my name was.",
+       "qe": "Change to indirect speech: He said to me, \"What is your name?\"",
+       "oe": [
+        "He asked me what is my name.",
+        "He asked me what was my name.",
+        "He asked me what my name was.",
+        "He told me what my name was."
+       ],
+       "ee": "In a Wh- question, 'said to' → 'asked' and the clause takes statement order: what my name was."
+      },
+      {
+       "id": "nr-2-04",
+       "q": "Change to indirect speech: Mother said, \"Don't make a noise.\"",
+       "o": [
+        "Mother asked us that we don't make a noise.",
+        "Mother said that don't make a noise.",
+        "Mother told us to not making a noise.",
+        "Mother told us not to make a noise."
+       ],
+       "a": 3,
+       "e": "નિષેધ આજ્ઞાર્થ: told/ordered + not to + V1.",
+       "qe": "Change to indirect speech: Mother said, \"Don't make a noise.\"",
+       "oe": [
+        "Mother asked us that we don't make a noise.",
+        "Mother said that don't make a noise.",
+        "Mother told us to not making a noise.",
+        "Mother told us not to make a noise."
+       ],
+       "ee": "A negative command: told/ordered + not to + V1."
+      },
+      {
+       "id": "nr-2-05",
+       "q": "Change to indirect speech: He said, \"I can swim.\"",
+       "o": [
+        "He said that I could swim.",
+        "He said that he could swim.",
+        "He said that he can swam.",
+        "He said that he could swam."
+       ],
+       "a": 1,
+       "e": "can → could; could પછી મૂળ રૂપ (swim) આવે.",
+       "qe": "Change to indirect speech: He said, \"I can swim.\"",
+       "oe": [
+        "He said that I could swim.",
+        "He said that he could swim.",
+        "He said that he can swam.",
+        "He said that he could swam."
+       ],
+       "ee": "'Can' → 'could', followed by the base form (swim)."
+      },
+      {
+       "id": "nr-2-06",
+       "q": "Change to indirect speech: She said, \"I may come today.\"",
+       "o": [
+        "She said that she may come today.",
+        "She said that she must come that day.",
+        "She said that she might come today.",
+        "She said that she might come that day."
+       ],
+       "a": 3,
+       "e": "may → might અને today → that day થાય.",
+       "qe": "Change to indirect speech: She said, \"I may come today.\"",
+       "oe": [
+        "She said that she may come today.",
+        "She said that she must come that day.",
+        "She said that she might come today.",
+        "She said that she might come that day."
+       ],
+       "ee": "'May' → 'might' and 'today' → 'that day'."
+      },
+      {
+       "id": "nr-2-07",
+       "q": "Change to indirect speech: He said to me, \"Did you see the film?\"",
+       "o": [
+        "He asked me if I had seen the film.",
+        "He told me if I had seen the film.",
+        "He asked me did I see the film.",
+        "He asked me if I saw the film."
+       ],
+       "a": 0,
+       "e": "Did વાળો પ્રશ્ન → asked + if/whether + past perfect.",
+       "qe": "Change to indirect speech: He said to me, \"Did you see the film?\"",
+       "oe": [
+        "He asked me if I had seen the film.",
+        "He told me if I had seen the film.",
+        "He asked me did I see the film.",
+        "He asked me if I saw the film."
+       ],
+       "ee": "A 'Did' question → asked + if/whether + past perfect."
+      },
+      {
+       "id": "nr-2-08",
+       "q": "Choose the direct speech: They said that they were tired.",
+       "o": [
+        "They said, \"We have been tired.\"",
+        "They said, \"We were tired.\"",
+        "They said, \"We are tired.\"",
+        "They said, \"They are tired.\""
+       ],
+       "a": 2,
+       "e": "Indirect માં were (ભૂતકાળ) છે, એટલે direct માં are અને they → we થાય.",
+       "qe": "Choose the direct speech: They said that they were tired.",
+       "oe": [
+        "They said, \"We have been tired.\"",
+        "They said, \"We were tired.\"",
+        "They said, \"We are tired.\"",
+        "They said, \"They are tired.\""
+       ],
+       "ee": "The indirect form has 'were' (past), so the direct form has 'are', and 'they' → 'we'."
+      },
+      {
+       "id": "nr-2-09",
+       "q": "Change to indirect speech: The boy said, \"Hurrah! I have won the match.\"",
+       "o": [
+        "The boy exclaimed with sorrow that he had won the match.",
+        "The boy exclaimed with joy that I had won the match.",
+        "The boy said hurrah that he has won the match.",
+        "The boy exclaimed with joy that he had won the match."
+       ],
+       "a": 3,
+       "e": "ઉદ્ગારવાચક વાક્યમાં Hurrah → exclaimed with joy; have won → had won.",
+       "qe": "Change to indirect speech: The boy said, \"Hurrah! I have won the match.\"",
+       "oe": [
+        "The boy exclaimed with sorrow that he had won the match.",
+        "The boy exclaimed with joy that I had won the match.",
+        "The boy said hurrah that he has won the match.",
+        "The boy exclaimed with joy that he had won the match."
+       ],
+       "ee": "In an exclamation, 'Hurrah' → 'exclaimed with joy'; 'have won' → 'had won'."
+      },
+      {
+       "id": "nr-2-10",
+       "q": "Change to indirect speech: He said, \"Let us go out.\"",
+       "o": [
+        "He proposed that they should go out.",
+        "He said that they will go out.",
+        "He told that let us go out.",
+        "He ordered them to go out."
+       ],
+       "a": 0,
+       "e": "'Let us' વાળા સૂચનમાં proposed/suggested that … should વપરાય છે.",
+       "qe": "Change to indirect speech: He said, \"Let us go out.\"",
+       "oe": [
+        "He proposed that they should go out.",
+        "He said that they will go out.",
+        "He told that let us go out.",
+        "He ordered them to go out."
+       ],
+       "ee": "A suggestion with 'Let us' uses 'proposed/suggested that … should'."
+      }
+     ],
+     "en": "Narration: more types"
+    }
+   ]
+  },
+  {
+   "id": "synonyms",
+   "name": "Synonyms",
+   "levels": [
+    {
+     "id": "sy-1",
+     "name": "સમાનાર્થી શબ્દો",
+     "questions": [
+      {
+       "id": "sy-1-01",
+       "q": "Choose the synonym of 'Abandon'.",
+       "o": [
+        "Keep",
+        "Adopt",
+        "Support",
+        "Forsake"
+       ],
+       "a": 3,
+       "e": "'Abandon' એટલે ત્યજી દેવું; 'Forsake'નો અર્થ પણ ત્યજવું થાય.",
+       "qe": "Choose the synonym of 'Abandon'.",
+       "oe": [
+        "Keep",
+        "Adopt",
+        "Support",
+        "Forsake"
+       ],
+       "ee": "'Abandon' means to leave for good; 'forsake' means the same."
+      },
+      {
+       "id": "sy-1-02",
+       "q": "Choose the synonym of 'Brave'.",
+       "o": [
+        "Timid",
+        "Courageous",
+        "Weak",
+        "Careless"
+       ],
+       "a": 1,
+       "e": "'Brave' એટલે બહાદુર; 'Courageous' તેનો સમાનાર્થી છે, જ્યારે 'Timid' (ડરપોક) વિરોધી છે.",
+       "qe": "Choose the synonym of 'Brave'.",
+       "oe": [
+        "Timid",
+        "Courageous",
+        "Weak",
+        "Careless"
+       ],
+       "ee": "'Brave' means fearless; 'courageous' is a synonym and 'timid' an antonym."
+      },
+      {
+       "id": "sy-1-03",
+       "q": "Choose the synonym of 'Candid'.",
+       "o": [
+        "Secretive",
+        "Cunning",
+        "Frank",
+        "Rude"
+       ],
+       "a": 2,
+       "e": "'Candid' એટલે નિખાલસ, સ્પષ્ટ બોલનાર; 'Frank'નો પણ એ જ અર્થ છે.",
+       "qe": "Choose the synonym of 'Candid'.",
+       "oe": [
+        "Secretive",
+        "Cunning",
+        "Frank",
+        "Rude"
+       ],
+       "ee": "'Candid' means open and outspoken; 'frank' means the same."
+      },
+      {
+       "id": "sy-1-04",
+       "q": "Choose the synonym of 'Diligent'.",
+       "o": [
+        "Hardworking",
+        "Lazy",
+        "Careless",
+        "Slow"
+       ],
+       "a": 0,
+       "e": "'Diligent' એટલે ખંતીલું, મહેનતુ; વિરોધી શબ્દ 'Lazy'.",
+       "qe": "Choose the synonym of 'Diligent'.",
+       "oe": [
+        "Hardworking",
+        "Lazy",
+        "Careless",
+        "Slow"
+       ],
+       "ee": "'Diligent' means hard-working; the opposite is 'lazy'."
+      },
+      {
+       "id": "sy-1-05",
+       "q": "Choose the synonym of 'Eminent'.",
+       "o": [
+        "Distinguished",
+        "Unknown",
+        "Ordinary",
+        "Wealthy"
+       ],
+       "a": 0,
+       "e": "'Eminent' એટલે પ્રતિષ્ઠિત, નામાંકિત; 'Distinguished'નો પણ એ જ અર્થ છે.",
+       "qe": "Choose the synonym of 'Eminent'.",
+       "oe": [
+        "Distinguished",
+        "Unknown",
+        "Ordinary",
+        "Wealthy"
+       ],
+       "ee": "'Eminent' means famous and respected; 'distinguished' means the same."
+      },
+      {
+       "id": "sy-1-06",
+       "q": "Choose the synonym of 'Gigantic'.",
+       "o": [
+        "Tiny",
+        "Narrow",
+        "Light",
+        "Huge"
+       ],
+       "a": 3,
+       "e": "'Gigantic' એટલે વિશાળ, પ્રચંડ; 'Huge' તેનો સમાનાર્થી છે.",
+       "qe": "Choose the synonym of 'Gigantic'.",
+       "oe": [
+        "Tiny",
+        "Narrow",
+        "Light",
+        "Huge"
+       ],
+       "ee": "'Gigantic' means very big; 'huge' is a synonym."
+      },
+      {
+       "id": "sy-1-07",
+       "q": "Choose the synonym of 'Obstinate'.",
+       "o": [
+        "Flexible",
+        "Stubborn",
+        "Polite",
+        "Humble"
+       ],
+       "a": 1,
+       "e": "'Obstinate' એટલે જિદ્દી; 'Stubborn'નો પણ અર્થ જિદ્દી થાય.",
+       "qe": "Choose the synonym of 'Obstinate'.",
+       "oe": [
+        "Flexible",
+        "Stubborn",
+        "Polite",
+        "Humble"
+       ],
+       "ee": "'Obstinate' means unwilling to change one's mind; 'stubborn' means the same."
+      },
+      {
+       "id": "sy-1-08",
+       "q": "Choose the synonym of 'Vacant'.",
+       "o": [
+        "Full",
+        "Busy",
+        "Empty",
+        "Crowded"
+       ],
+       "a": 2,
+       "e": "'Vacant' એટલે ખાલી; 'vacant post' એટલે ખાલી જગ્યા.",
+       "qe": "Choose the synonym of 'Vacant'.",
+       "oe": [
+        "Full",
+        "Busy",
+        "Empty",
+        "Crowded"
+       ],
+       "ee": "'Vacant' means empty; a 'vacant post' is an unfilled job."
+      },
+      {
+       "id": "sy-1-09",
+       "q": "Choose the synonym of 'Feeble'.",
+       "o": [
+        "Strong",
+        "Weak",
+        "Healthy",
+        "Bold"
+       ],
+       "a": 1,
+       "e": "'Feeble' એટલે નબળું, દુર્બળ; 'Weak' તેનો સમાનાર્થી છે.",
+       "qe": "Choose the synonym of 'Feeble'.",
+       "oe": [
+        "Strong",
+        "Weak",
+        "Healthy",
+        "Bold"
+       ],
+       "ee": "'Feeble' means weak; 'weak' is a synonym."
+      },
+      {
+       "id": "sy-1-10",
+       "q": "Choose the synonym of 'Prudent'.",
+       "o": [
+        "Wise",
+        "Foolish",
+        "Rash",
+        "Careless"
+       ],
+       "a": 0,
+       "e": "'Prudent' એટલે વિવેકી, સમજદાર; વિરોધી શબ્દ 'Rash' (ઉતાવળિયું).",
+       "qe": "Choose the synonym of 'Prudent'.",
+       "oe": [
+        "Wise",
+        "Foolish",
+        "Rash",
+        "Careless"
+       ],
+       "ee": "'Prudent' means wise and careful; the opposite is 'rash'."
+      }
+     ],
+     "en": "Synonyms"
+    },
+    {
+     "id": "sy-2",
+     "name": "સમાનાર્થી: વધુ શબ્દો",
+     "questions": [
+      {
+       "id": "sy-2-01",
+       "q": "Choose the synonym of 'Abundant'.",
+       "o": [
+        "Scarce",
+        "Plentiful",
+        "Tiny",
+        "Rare"
+       ],
+       "a": 1,
+       "e": "Abundant = ભરપૂર, પુષ્કળ.",
+       "qe": "Choose the synonym of 'Abundant'.",
+       "oe": [
+        "Scarce",
+        "Plentiful",
+        "Tiny",
+        "Rare"
+       ],
+       "ee": "Abundant = plentiful, in large amounts."
+      },
+      {
+       "id": "sy-2-02",
+       "q": "Choose the synonym of 'Hostile'.",
+       "o": [
+        "Kind",
+        "Hospitable",
+        "Unfriendly",
+        "Friendly"
+       ],
+       "a": 2,
+       "e": "Hostile = દુશ્મનાવટ ભરેલું.",
+       "qe": "Choose the synonym of 'Hostile'.",
+       "oe": [
+        "Kind",
+        "Hospitable",
+        "Unfriendly",
+        "Friendly"
+       ],
+       "ee": "Hostile = unfriendly, full of enmity."
+      },
+      {
+       "id": "sy-2-03",
+       "q": "Choose the synonym of 'Meagre'.",
+       "o": [
+        "Scanty",
+        "Large",
+        "Plenty",
+        "Rich"
+       ],
+       "a": 0,
+       "e": "Meagre = ઓછું, અપૂરતું.",
+       "qe": "Choose the synonym of 'Meagre'.",
+       "oe": [
+        "Scanty",
+        "Large",
+        "Plenty",
+        "Rich"
+       ],
+       "ee": "Meagre = small in amount, not enough."
+      },
+      {
+       "id": "sy-2-04",
+       "q": "Choose the synonym of 'Rigid'.",
+       "o": [
+        "Soft",
+        "Loose",
+        "Flexible",
+        "Stiff"
+       ],
+       "a": 3,
+       "e": "Rigid = અક્કડ, ન વળે તેવું.",
+       "qe": "Choose the synonym of 'Rigid'.",
+       "oe": [
+        "Soft",
+        "Loose",
+        "Flexible",
+        "Stiff"
+       ],
+       "ee": "Rigid = stiff, not bending."
+      },
+      {
+       "id": "sy-2-05",
+       "q": "Choose the synonym of 'Vigilant'.",
+       "o": [
+        "Careless",
+        "Sleepy",
+        "Watchful",
+        "Lazy"
+       ],
+       "a": 2,
+       "e": "Vigilant = સતર્ક, જાગ્રત.",
+       "qe": "Choose the synonym of 'Vigilant'.",
+       "oe": [
+        "Careless",
+        "Sleepy",
+        "Watchful",
+        "Lazy"
+       ],
+       "ee": "Vigilant = watchful, alert."
+      },
+      {
+       "id": "sy-2-06",
+       "q": "Choose the synonym of 'Lethal'.",
+       "o": [
+        "Deadly",
+        "Safe",
+        "Healthy",
+        "Harmless"
+       ],
+       "a": 0,
+       "e": "Lethal = જીવલેણ.",
+       "qe": "Choose the synonym of 'Lethal'.",
+       "oe": [
+        "Deadly",
+        "Safe",
+        "Healthy",
+        "Harmless"
+       ],
+       "ee": "Lethal = deadly."
+      },
+      {
+       "id": "sy-2-07",
+       "q": "Choose the synonym of 'Affluent'.",
+       "o": [
+        "Poor",
+        "Wealthy",
+        "Humble",
+        "Needy"
+       ],
+       "a": 1,
+       "e": "Affluent = ધનવાન, સમૃદ્ધ.",
+       "qe": "Choose the synonym of 'Affluent'.",
+       "oe": [
+        "Poor",
+        "Wealthy",
+        "Humble",
+        "Needy"
+       ],
+       "ee": "Affluent = wealthy, well off."
+      },
+      {
+       "id": "sy-2-08",
+       "q": "Choose the synonym of 'Commence'.",
+       "o": [
+        "End",
+        "Delay",
+        "Stop",
+        "Begin"
+       ],
+       "a": 3,
+       "e": "Commence = શરૂ કરવું.",
+       "qe": "Choose the synonym of 'Commence'.",
+       "oe": [
+        "End",
+        "Delay",
+        "Stop",
+        "Begin"
+       ],
+       "ee": "Commence = begin."
+      },
+      {
+       "id": "sy-2-09",
+       "q": "Choose the synonym of 'Fragile'.",
+       "o": [
+        "Strong",
+        "Solid",
+        "Delicate",
+        "Tough"
+       ],
+       "a": 2,
+       "e": "Fragile = નાજુક, સહેલાઈથી તૂટે તેવું.",
+       "qe": "Choose the synonym of 'Fragile'.",
+       "oe": [
+        "Strong",
+        "Solid",
+        "Delicate",
+        "Tough"
+       ],
+       "ee": "Fragile = delicate, easily broken."
+      },
+      {
+       "id": "sy-2-10",
+       "q": "Choose the synonym of 'Lucid'.",
+       "o": [
+        "Clear",
+        "Dark",
+        "Vague",
+        "Confusing"
+       ],
+       "a": 0,
+       "e": "Lucid = સ્પષ્ટ, સમજાય તેવું.",
+       "qe": "Choose the synonym of 'Lucid'.",
+       "oe": [
+        "Clear",
+        "Dark",
+        "Vague",
+        "Confusing"
+       ],
+       "ee": "Lucid = clear, easy to understand."
+      }
+     ],
+     "en": "Synonyms: more words"
+    }
+   ]
+  },
+  {
+   "id": "antonyms",
+   "name": "Antonyms",
+   "levels": [
+    {
+     "id": "an-1",
+     "name": "વિરોધાર્થી શબ્દો",
+     "questions": [
+      {
+       "id": "an-1-01",
+       "q": "Choose the antonym of 'Ancient'.",
+       "o": [
+        "Modern",
+        "Old",
+        "Aged",
+        "Antique"
+       ],
+       "a": 0,
+       "e": "'Ancient' એટલે પ્રાચીન; તેનો વિરોધી 'Modern' (આધુનિક).",
+       "qe": "Choose the antonym of 'Ancient'.",
+       "oe": [
+        "Modern",
+        "Old",
+        "Aged",
+        "Antique"
+       ],
+       "ee": "'Ancient' means very old; its opposite is 'modern'."
+      },
+      {
+       "id": "an-1-02",
+       "q": "Choose the antonym of 'Accept'.",
+       "o": [
+        "Receive",
+        "Admit",
+        "Reject",
+        "Take"
+       ],
+       "a": 2,
+       "e": "'Accept' એટલે સ્વીકારવું; 'Reject' એટલે અસ્વીકાર કરવો.",
+       "qe": "Choose the antonym of 'Accept'.",
+       "oe": [
+        "Receive",
+        "Admit",
+        "Reject",
+        "Take"
+       ],
+       "ee": "'Accept' means to take or agree to; 'reject' means to refuse."
+      },
+      {
+       "id": "an-1-03",
+       "q": "Choose the antonym of 'Victory'.",
+       "o": [
+        "Success",
+        "Defeat",
+        "Triumph",
+        "Win"
+       ],
+       "a": 1,
+       "e": "'Victory' એટલે વિજય; વિરોધી 'Defeat' (પરાજય), જ્યારે 'Triumph' સમાનાર્થી છે.",
+       "qe": "Choose the antonym of 'Victory'.",
+       "oe": [
+        "Success",
+        "Defeat",
+        "Triumph",
+        "Win"
+       ],
+       "ee": "'Victory' means a win; the opposite is 'defeat', while 'triumph' is a synonym."
+      },
+      {
+       "id": "an-1-04",
+       "q": "Choose the antonym of 'Generous'.",
+       "o": [
+        "Kind",
+        "Liberal",
+        "Noble",
+        "Miserly"
+       ],
+       "a": 3,
+       "e": "'Generous' એટલે ઉદાર; 'Miserly' એટલે કંજૂસ.",
+       "qe": "Choose the antonym of 'Generous'.",
+       "oe": [
+        "Kind",
+        "Liberal",
+        "Noble",
+        "Miserly"
+       ],
+       "ee": "'Generous' means giving freely; 'miserly' means stingy."
+      },
+      {
+       "id": "an-1-05",
+       "q": "Choose the antonym of 'Expand'.",
+       "o": [
+        "Enlarge",
+        "Contract",
+        "Extend",
+        "Increase"
+       ],
+       "a": 1,
+       "e": "'Expand' એટલે વિસ્તરવું; 'Contract' એટલે સંકોચાવું.",
+       "qe": "Choose the antonym of 'Expand'.",
+       "oe": [
+        "Enlarge",
+        "Contract",
+        "Extend",
+        "Increase"
+       ],
+       "ee": "'Expand' means to grow larger; 'contract' means to shrink."
+      },
+      {
+       "id": "an-1-06",
+       "q": "Choose the antonym of 'Optimist'.",
+       "o": [
+        "Idealist",
+        "Realist",
+        "Activist",
+        "Pessimist"
+       ],
+       "a": 3,
+       "e": "'Optimist' એટલે આશાવાદી; 'Pessimist' એટલે નિરાશાવાદી.",
+       "qe": "Choose the antonym of 'Optimist'.",
+       "oe": [
+        "Idealist",
+        "Realist",
+        "Activist",
+        "Pessimist"
+       ],
+       "ee": "An 'optimist' expects the best; a 'pessimist' expects the worst."
+      },
+      {
+       "id": "an-1-07",
+       "q": "Choose the antonym of 'Humble'.",
+       "o": [
+        "Proud",
+        "Modest",
+        "Meek",
+        "Polite"
+       ],
+       "a": 0,
+       "e": "'Humble' એટલે નમ્ર; 'Proud' એટલે અભિમાની.",
+       "qe": "Choose the antonym of 'Humble'.",
+       "oe": [
+        "Proud",
+        "Modest",
+        "Meek",
+        "Polite"
+       ],
+       "ee": "'Humble' means modest; 'proud' means full of oneself."
+      },
+      {
+       "id": "an-1-08",
+       "q": "Choose the antonym of 'Permanent'.",
+       "o": [
+        "Lasting",
+        "Stable",
+        "Temporary",
+        "Fixed"
+       ],
+       "a": 2,
+       "e": "'Permanent' એટલે કાયમી; 'Temporary' એટલે હંગામી.",
+       "qe": "Choose the antonym of 'Permanent'.",
+       "oe": [
+        "Lasting",
+        "Stable",
+        "Temporary",
+        "Fixed"
+       ],
+       "ee": "'Permanent' means lasting; 'temporary' means for a short time."
+      },
+      {
+       "id": "an-1-09",
+       "q": "Choose the antonym of 'Shallow'.",
+       "o": [
+        "Thin",
+        "Flat",
+        "Narrow",
+        "Deep"
+       ],
+       "a": 3,
+       "e": "'Shallow' એટલે છીછરું; 'Deep' એટલે ઊંડું.",
+       "qe": "Choose the antonym of 'Shallow'.",
+       "oe": [
+        "Thin",
+        "Flat",
+        "Narrow",
+        "Deep"
+       ],
+       "ee": "'Shallow' means not deep; the opposite is 'deep'."
+      },
+      {
+       "id": "an-1-10",
+       "q": "Choose the antonym of 'Artificial'.",
+       "o": [
+        "Fake",
+        "False",
+        "Natural",
+        "Synthetic"
+       ],
+       "a": 2,
+       "e": "'Artificial' એટલે કૃત્રિમ; 'Natural' એટલે કુદરતી.",
+       "qe": "Choose the antonym of 'Artificial'.",
+       "oe": [
+        "Fake",
+        "False",
+        "Natural",
+        "Synthetic"
+       ],
+       "ee": "'Artificial' means man-made; 'natural' means occurring in nature."
+      }
+     ],
+     "en": "Antonyms"
+    },
+    {
+     "id": "an-2",
+     "name": "વિરોધાર્થી: વધુ શબ્દો",
+     "questions": [
+      {
+       "id": "an-2-01",
+       "q": "Choose the antonym of 'Scarcity'.",
+       "o": [
+        "Want",
+        "Lack",
+        "Shortage",
+        "Plenty"
+       ],
+       "a": 3,
+       "e": "Scarcity = અછત; વિરોધી Plenty = પુષ્કળતા.",
+       "qe": "Choose the antonym of 'Scarcity'.",
+       "oe": [
+        "Want",
+        "Lack",
+        "Shortage",
+        "Plenty"
+       ],
+       "ee": "Scarcity = shortage; the opposite is plenty."
+      },
+      {
+       "id": "an-2-02",
+       "q": "Choose the antonym of 'Inferior'.",
+       "o": [
+        "Weak",
+        "Superior",
+        "Lower",
+        "Poor"
+       ],
+       "a": 1,
+       "e": "Inferior = ઊતરતું; વિરોધી Superior = ચડિયાતું.",
+       "qe": "Choose the antonym of 'Inferior'.",
+       "oe": [
+        "Weak",
+        "Superior",
+        "Lower",
+        "Poor"
+       ],
+       "ee": "Inferior = lower in quality; the opposite is superior."
+      },
+      {
+       "id": "an-2-03",
+       "q": "Choose the antonym of 'Transparent'.",
+       "o": [
+        "Opaque",
+        "Visible",
+        "Clear",
+        "Bright"
+       ],
+       "a": 0,
+       "e": "Transparent = પારદર્શક; વિરોધી Opaque = અપારદર્શક.",
+       "qe": "Choose the antonym of 'Transparent'.",
+       "oe": [
+        "Opaque",
+        "Visible",
+        "Clear",
+        "Bright"
+       ],
+       "ee": "Transparent = see-through; the opposite is opaque."
+      },
+      {
+       "id": "an-2-04",
+       "q": "Choose the antonym of 'Ascend'.",
+       "o": [
+        "Climb",
+        "Rise",
+        "Descend",
+        "Mount"
+       ],
+       "a": 2,
+       "e": "Ascend = ઉપર ચડવું; વિરોધી Descend = નીચે ઊતરવું.",
+       "qe": "Choose the antonym of 'Ascend'.",
+       "oe": [
+        "Climb",
+        "Rise",
+        "Descend",
+        "Mount"
+       ],
+       "ee": "Ascend = go up; the opposite is descend."
+      },
+      {
+       "id": "an-2-05",
+       "q": "Choose the antonym of 'Barren'.",
+       "o": [
+        "Fertile",
+        "Empty",
+        "Sterile",
+        "Dry"
+       ],
+       "a": 0,
+       "e": "Barren = ઉજ્જડ; વિરોધી Fertile = ફળદ્રુપ.",
+       "qe": "Choose the antonym of 'Barren'.",
+       "oe": [
+        "Fertile",
+        "Empty",
+        "Sterile",
+        "Dry"
+       ],
+       "ee": "Barren = unable to produce crops; the opposite is fertile."
+      },
+      {
+       "id": "an-2-06",
+       "q": "Choose the antonym of 'Cruel'.",
+       "o": [
+        "Rude",
+        "Kind",
+        "Harsh",
+        "Brutal"
+       ],
+       "a": 1,
+       "e": "Cruel = ક્રૂર; વિરોધી Kind = દયાળુ.",
+       "qe": "Choose the antonym of 'Cruel'.",
+       "oe": [
+        "Rude",
+        "Kind",
+        "Harsh",
+        "Brutal"
+       ],
+       "ee": "Cruel = causing pain on purpose; the opposite is kind."
+      },
+      {
+       "id": "an-2-07",
+       "q": "Choose the antonym of 'Exterior'.",
+       "o": [
+        "Outer",
+        "Outside",
+        "Surface",
+        "Interior"
+       ],
+       "a": 3,
+       "e": "Exterior = બહારનું; વિરોધી Interior = અંદરનું.",
+       "qe": "Choose the antonym of 'Exterior'.",
+       "oe": [
+        "Outer",
+        "Outside",
+        "Surface",
+        "Interior"
+       ],
+       "ee": "Exterior = outside; the opposite is interior."
+      },
+      {
+       "id": "an-2-08",
+       "q": "Choose the antonym of 'Maximum'.",
+       "o": [
+        "Highest",
+        "Greatest",
+        "Minimum",
+        "Most"
+       ],
+       "a": 2,
+       "e": "Maximum = મહત્તમ; વિરોધી Minimum = લઘુતમ.",
+       "qe": "Choose the antonym of 'Maximum'.",
+       "oe": [
+        "Highest",
+        "Greatest",
+        "Minimum",
+        "Most"
+       ],
+       "ee": "Maximum = the most; the opposite is minimum."
+      },
+      {
+       "id": "an-2-09",
+       "q": "Choose the antonym of 'Guilty'.",
+       "o": [
+        "Blamed",
+        "Innocent",
+        "Criminal",
+        "Wrong"
+       ],
+       "a": 1,
+       "e": "Guilty = દોષિત; વિરોધી Innocent = નિર્દોષ.",
+       "qe": "Choose the antonym of 'Guilty'.",
+       "oe": [
+        "Blamed",
+        "Innocent",
+        "Criminal",
+        "Wrong"
+       ],
+       "ee": "Guilty = having done wrong; the opposite is innocent."
+      },
+      {
+       "id": "an-2-10",
+       "q": "Choose the antonym of 'Import'.",
+       "o": [
+        "Trade",
+        "Purchase",
+        "Export",
+        "Bring"
+       ],
+       "a": 2,
+       "e": "Import = આયાત; વિરોધી Export = નિકાસ.",
+       "qe": "Choose the antonym of 'Import'.",
+       "oe": [
+        "Trade",
+        "Purchase",
+        "Export",
+        "Bring"
+       ],
+       "ee": "Import = bring goods in; the opposite is export."
+      }
+     ],
+     "en": "Antonyms: more words"
+    }
+   ]
+  },
+  {
+   "id": "spelling",
+   "name": "Spelling",
+   "levels": [
+    {
+     "id": "sp-1",
+     "name": "સાચી જોડણી",
+     "questions": [
+      {
+       "id": "sp-1-01",
+       "q": "Choose the correctly spelled word meaning 'રહેઠાણની વ્યવસ્થા'.",
+       "o": [
+        "Acommodation",
+        "Accommodation",
+        "Accomodation",
+        "Acomodation"
+       ],
+       "a": 1,
+       "e": "'Accommodation'માં 'cc' અને 'mm' બંને બેવડા આવે છે.",
+       "qe": "Choose the correctly spelled word meaning 'a place to stay'.",
+       "oe": [
+        "Acommodation",
+        "Accommodation",
+        "Accomodation",
+        "Acomodation"
+       ],
+       "ee": "'Accommodation' has both a double 'cc' and a double 'mm'."
+      },
+      {
+       "id": "sp-1-02",
+       "q": "Choose the correctly spelled word meaning 'જરૂરી'.",
+       "o": [
+        "Neccessary",
+        "Necesary",
+        "Neccesary",
+        "Necessary"
+       ],
+       "a": 3,
+       "e": "'Necessary'માં એક 'c' અને બે 's' આવે છે.",
+       "qe": "Choose the correctly spelled word meaning 'needed'.",
+       "oe": [
+        "Neccessary",
+        "Necesary",
+        "Neccesary",
+        "Necessary"
+       ],
+       "ee": "'Necessary' has one 'c' and two 's'."
+      },
+      {
+       "id": "sp-1-03",
+       "q": "Choose the correctly spelled word meaning 'અલગ'.",
+       "o": [
+        "Separate",
+        "Seperate",
+        "Separete",
+        "Saperate"
+       ],
+       "a": 0,
+       "e": "'Separate'માં 'p' પછી 'a' આવે છે: sep-a-rate.",
+       "qe": "Choose the correctly spelled word meaning 'apart'.",
+       "oe": [
+        "Separate",
+        "Seperate",
+        "Separete",
+        "Saperate"
+       ],
+       "ee": "'Separate' has an 'a' after the 'p': sep-a-rate."
+      },
+      {
+       "id": "sp-1-04",
+       "q": "Choose the correctly spelled word meaning 'મેળવવું'.",
+       "o": [
+        "Recieve",
+        "Receeve",
+        "Receive",
+        "Riceive"
+       ],
+       "a": 2,
+       "e": "'c' પછી 'ei' આવે એ નિયમ (i before e, except after c) મુજબ 'Receive' સાચું.",
+       "qe": "Choose the correctly spelled word meaning 'to get'.",
+       "oe": [
+        "Recieve",
+        "Receeve",
+        "Receive",
+        "Riceive"
+       ],
+       "ee": "By the rule 'i before e, except after c', 'receive' is right."
+      },
+      {
+       "id": "sp-1-05",
+       "q": "Choose the correctly spelled word meaning 'સરકાર'.",
+       "o": [
+        "Goverment",
+        "Governmant",
+        "Government",
+        "Govermant"
+       ],
+       "a": 2,
+       "e": "'Government'માં 'govern' + 'ment' છે, તેથી 'n' છૂટવો ન જોઈએ.",
+       "qe": "Choose the correctly spelled word meaning 'the ruling authority'.",
+       "oe": [
+        "Goverment",
+        "Governmant",
+        "Government",
+        "Govermant"
+       ],
+       "ee": "'Government' is 'govern' + 'ment', so don't drop the 'n'."
+      },
+      {
+       "id": "sp-1-06",
+       "q": "Choose the correctly spelled word meaning 'સમિતિ'.",
+       "o": [
+        "Committee",
+        "Commitee",
+        "Comittee",
+        "Comitee"
+       ],
+       "a": 0,
+       "e": "'Committee'માં 'mm', 'tt' અને 'ee' ત્રણેય બેવડા આવે છે.",
+       "qe": "Choose the correctly spelled word meaning 'a group chosen for a task'.",
+       "oe": [
+        "Committee",
+        "Commitee",
+        "Comittee",
+        "Comitee"
+       ],
+       "ee": "'Committee' has a double 'mm', 'tt' and 'ee'."
+      },
+      {
+       "id": "sp-1-07",
+       "q": "Choose the correctly spelled word meaning 'ચોક્કસપણે'.",
+       "o": [
+        "Definately",
+        "Defenitely",
+        "Definitly",
+        "Definitely"
+       ],
+       "a": 3,
+       "e": "'Definitely' મૂળ શબ્દ 'definite' પરથી બને છે, તેથી 'ite' + 'ly'.",
+       "qe": "Choose the correctly spelled word meaning 'certainly'.",
+       "oe": [
+        "Definately",
+        "Defenitely",
+        "Definitly",
+        "Definitely"
+       ],
+       "ee": "'Definitely' comes from 'definite', so 'ite' + 'ly'."
+      },
+      {
+       "id": "sp-1-08",
+       "q": "Choose the correctly spelled word meaning 'બનાવ, ઘટના'.",
+       "o": [
+        "Occurence",
+        "Occurrence",
+        "Occurrance",
+        "Ocurrence"
+       ],
+       "a": 1,
+       "e": "'Occurrence'માં 'cc' અને 'rr' બેવડા છે અને અંતે 'ence' આવે.",
+       "qe": "Choose the correctly spelled word meaning 'an event'.",
+       "oe": [
+        "Occurence",
+        "Occurrence",
+        "Occurrance",
+        "Ocurrence"
+       ],
+       "ee": "'Occurrence' has a double 'cc' and 'rr' and ends in 'ence'."
+      },
+      {
+       "id": "sp-1-09",
+       "q": "Choose the correctly spelled word meaning 'શરમમાં મૂકવું'.",
+       "o": [
+        "Embarrass",
+        "Embarass",
+        "Embaras",
+        "Emberrass"
+       ],
+       "a": 0,
+       "e": "'Embarrass'માં 'rr' અને 'ss' બંને બેવડા આવે છે.",
+       "qe": "Choose the correctly spelled word meaning 'to make someone feel ashamed'.",
+       "oe": [
+        "Embarrass",
+        "Embarass",
+        "Embaras",
+        "Emberrass"
+       ],
+       "ee": "'Embarrass' has both a double 'rr' and a double 'ss'."
+      },
+      {
+       "id": "sp-1-10",
+       "q": "Choose the correctly spelled word meaning 'વ્યાકરણ'.",
+       "o": [
+        "Grammer",
+        "Grammar",
+        "Gramar",
+        "Grammor"
+       ],
+       "a": 1,
+       "e": "'Grammar'માં બે 'm' છે અને અંતે 'ar' આવે, 'er' નહીં.",
+       "qe": "Choose the correctly spelled word meaning 'the rules of a language'.",
+       "oe": [
+        "Grammer",
+        "Grammar",
+        "Gramar",
+        "Grammor"
+       ],
+       "ee": "'Grammar' has two 'm's and ends in 'ar', not 'er'."
+      }
+     ],
+     "en": "Correct spelling"
+    },
+    {
+     "id": "sp-2",
+     "name": "સાચી જોડણી: વધુ શબ્દો",
+     "questions": [
+      {
+       "id": "sp-2-01",
+       "q": "Choose the correctly spelled word meaning 'જાળવણી'.",
+       "o": [
+        "Mantenance",
+        "Maintenence",
+        "Maintenance",
+        "Maintainance"
+       ],
+       "a": 2,
+       "e": "maintain પરથી બને છતાં જોડણી Maintenance છે.",
+       "qe": "Choose the correctly spelled word meaning 'upkeep'.",
+       "oe": [
+        "Mantenance",
+        "Maintenence",
+        "Maintenance",
+        "Maintainance"
+       ],
+       "ee": "Though it comes from 'maintain', the spelling is 'maintenance'."
+      },
+      {
+       "id": "sp-2-02",
+       "q": "Choose the correctly spelled word meaning 'વિશેષાધિકાર'.",
+       "o": [
+        "Privilege",
+        "Priviledge",
+        "Privilage",
+        "Privelege"
+       ],
+       "a": 0,
+       "e": "સાચી જોડણી Privilege: priv-i-lege, તેમાં 'd' નથી.",
+       "qe": "Choose the correctly spelled word meaning 'a special right'.",
+       "oe": [
+        "Privilege",
+        "Priviledge",
+        "Privilage",
+        "Privelege"
+       ],
+       "ee": "The right spelling is 'privilege': priv-i-lege, with no 'd'."
+      },
+      {
+       "id": "sp-2-03",
+       "q": "Choose the correctly spelled word meaning 'પ્રસંગ'.",
+       "o": [
+        "Occassion",
+        "Occasion",
+        "Ocasion",
+        "Ocassion"
+       ],
+       "a": 1,
+       "e": "Occasion માં બે 'c' અને એક 's'.",
+       "qe": "Choose the correctly spelled word meaning 'a special event'.",
+       "oe": [
+        "Occassion",
+        "Occasion",
+        "Ocasion",
+        "Ocassion"
+       ],
+       "ee": "'Occasion' has two 'c's and one 's'."
+      },
+      {
+       "id": "sp-2-04",
+       "q": "Choose the correctly spelled word meaning 'બાંયધરી'.",
+       "o": [
+        "Gaurantee",
+        "Garantee",
+        "Guarentee",
+        "Guarantee"
+       ],
+       "a": 3,
+       "e": "સાચી જોડણી Guarantee છે: G પછી u-a અને અંતે બે e.",
+       "qe": "Choose the correctly spelled word meaning 'a promise of quality'.",
+       "oe": [
+        "Gaurantee",
+        "Garantee",
+        "Guarentee",
+        "Guarantee"
+       ],
+       "ee": "The right spelling is 'guarantee': u-a after G and a double e at the end."
+      },
+      {
+       "id": "sp-2-05",
+       "q": "Choose the correctly spelled word meaning 'લય, તાલ'.",
+       "o": [
+        "Rythm",
+        "Rhythm",
+        "Rhythem",
+        "Rhytm"
+       ],
+       "a": 1,
+       "e": "Rhythm માં બે 'h' છે અને કોઈ સ્વર (vowel) નથી.",
+       "qe": "Choose the correctly spelled word meaning 'a regular beat'.",
+       "oe": [
+        "Rythm",
+        "Rhythm",
+        "Rhythem",
+        "Rhytm"
+       ],
+       "ee": "'Rhythm' has two 'h's and no ordinary vowel."
+      },
+      {
+       "id": "sp-2-06",
+       "q": "Choose the correctly spelled word meaning 'અંતરાત્મા'.",
+       "o": [
+        "Concience",
+        "Consciense",
+        "Conscience",
+        "Conscence"
+       ],
+       "a": 2,
+       "e": "Conscience (અંતરાત્મા) ની જોડણી con + science જેવી છે.",
+       "qe": "Choose the correctly spelled word meaning 'the inner sense of right and wrong'.",
+       "oe": [
+        "Concience",
+        "Consciense",
+        "Conscience",
+        "Conscence"
+       ],
+       "ee": "'Conscience' is spelled like con + science."
+      },
+      {
+       "id": "sp-2-07",
+       "q": "Choose the correctly spelled word meaning 'સિદ્ધિ'.",
+       "o": [
+        "Achievement",
+        "Achievment",
+        "Achivement",
+        "Acheivement"
+       ],
+       "a": 0,
+       "e": "'i before e' નિયમ: achieve → achievement.",
+       "qe": "Choose the correctly spelled word meaning 'something done successfully'.",
+       "oe": [
+        "Achievement",
+        "Achievment",
+        "Achivement",
+        "Acheivement"
+       ],
+       "ee": "'I before e': achieve → achievement."
+      },
+      {
+       "id": "sp-2-08",
+       "q": "Choose the correctly spelled word meaning 'ઉચ્ચાર'.",
+       "o": [
+        "Pronunsiation",
+        "Pronounciation",
+        "Pronuncation",
+        "Pronunciation"
+       ],
+       "a": 3,
+       "e": "pronounce પરથી બને છતાં Pronunciation માં 'o' નથી.",
+       "qe": "Choose the correctly spelled word meaning 'the way a word is spoken'.",
+       "oe": [
+        "Pronunsiation",
+        "Pronounciation",
+        "Pronuncation",
+        "Pronunciation"
+       ],
+       "ee": "Though it comes from 'pronounce', 'pronunciation' has no 'o' after the 'n'."
+      },
+      {
+       "id": "sp-2-09",
+       "q": "Choose the correctly spelled word meaning 'શરૂઆત'.",
+       "o": [
+        "Begining",
+        "Beginning",
+        "Beggining",
+        "Beginnning"
+       ],
+       "a": 1,
+       "e": "Beginning માં 'n' બે વાર આવે છે.",
+       "qe": "Choose the correctly spelled word meaning 'the start'.",
+       "oe": [
+        "Begining",
+        "Beginning",
+        "Beggining",
+        "Beginnning"
+       ],
+       "ee": "'Beginning' has a double 'n' before the 'ing'."
+      },
+      {
+       "id": "sp-2-10",
+       "q": "Choose the correctly spelled word meaning 'તોફાની'.",
+       "o": [
+        "Mischevous",
+        "Mischeivous",
+        "Mischievous",
+        "Mischievious"
+       ],
+       "a": 2,
+       "e": "Mischievous ના અંતે માત્ર '-vous' છે, '-vious' નહીં.",
+       "qe": "Choose the correctly spelled word meaning 'naughty'.",
+       "oe": [
+        "Mischevous",
+        "Mischeivous",
+        "Mischievous",
+        "Mischievious"
+       ],
+       "ee": "'Mischievous' ends in just '-vous', not '-vious'."
+      }
+     ],
+     "en": "Correct spelling: more words"
+    }
+   ]
+  },
+  {
+   "id": "one-word",
+   "name": "One-word Substitution",
+   "levels": [
+    {
+     "id": "ow-1",
+     "name": "એક શબ્દ",
+     "questions": [
+      {
+       "id": "ow-1-01",
+       "q": "One who cannot read or write is called ___.",
+       "o": [
+        "ignorant",
+        "innocent",
+        "illiterate",
+        "illegible"
+       ],
+       "a": 2,
+       "e": "લખી-વાંચી ન શકે તે 'illiterate' (નિરક્ષર); 'illegible' એટલે ન વાંચી શકાય તેવું (લખાણ).",
+       "qe": "One who cannot read or write is called ___.",
+       "oe": [
+        "ignorant",
+        "innocent",
+        "illiterate",
+        "illegible"
+       ],
+       "ee": "Someone who cannot read or write is 'illiterate'; 'illegible' describes writing that can't be read."
+      },
+      {
+       "id": "ow-1-02",
+       "q": "A person who does not believe in God is called ___.",
+       "o": [
+        "an atheist",
+        "a theist",
+        "a pagan",
+        "a heretic"
+       ],
+       "a": 0,
+       "e": "ઈશ્વરમાં ન માને તે 'atheist' (નાસ્તિક); માને તે 'theist' (આસ્તિક).",
+       "qe": "A person who does not believe in God is called ___.",
+       "oe": [
+        "an atheist",
+        "a theist",
+        "a pagan",
+        "a heretic"
+       ],
+       "ee": "Someone who does not believe in God is an 'atheist'; a believer is a 'theist'."
+      },
+      {
+       "id": "ow-1-03",
+       "q": "A doctor who treats children is called ___.",
+       "o": [
+        "a dermatologist",
+        "an orthopaedist",
+        "a gynaecologist",
+        "a paediatrician"
+       ],
+       "a": 3,
+       "e": "બાળકોના ડૉક્ટર 'paediatrician'; ચામડીના રોગના ડૉક્ટર 'dermatologist'.",
+       "qe": "A doctor who treats children is called ___.",
+       "oe": [
+        "a dermatologist",
+        "an orthopaedist",
+        "a gynaecologist",
+        "a paediatrician"
+       ],
+       "ee": "A children's doctor is a 'paediatrician'; a skin doctor is a 'dermatologist'."
+      },
+      {
+       "id": "ow-1-04",
+       "q": "The life history of a person written by himself is called ___.",
+       "o": [
+        "a biography",
+        "an autobiography",
+        "a memorandum",
+        "an anthology"
+       ],
+       "a": 1,
+       "e": "પોતે લખેલું જીવનચરિત્ર 'autobiography' (આત્મકથા); બીજાએ લખેલું હોય તો 'biography'.",
+       "qe": "The life history of a person written by himself is called ___.",
+       "oe": [
+        "a biography",
+        "an autobiography",
+        "a memorandum",
+        "an anthology"
+       ],
+       "ee": "A life story written by oneself is an 'autobiography'; written by someone else, a 'biography'."
+      },
+      {
+       "id": "ow-1-05",
+       "q": "A person who does not eat meat is called ___.",
+       "o": [
+        "a carnivore",
+        "a cannibal",
+        "an omnivore",
+        "a vegetarian"
+       ],
+       "a": 3,
+       "e": "માંસ ન ખાનાર 'vegetarian' (શાકાહારી); માણસનું માંસ ખાનાર 'cannibal'.",
+       "qe": "A person who does not eat meat is called ___.",
+       "oe": [
+        "a carnivore",
+        "a cannibal",
+        "an omnivore",
+        "a vegetarian"
+       ],
+       "ee": "Someone who does not eat meat is a 'vegetarian'; one who eats human flesh is a 'cannibal'."
+      },
+      {
+       "id": "ow-1-06",
+       "q": "That which cannot be seen is called ___.",
+       "o": [
+        "invincible",
+        "inaudible",
+        "invisible",
+        "indelible"
+       ],
+       "a": 2,
+       "e": "જોઈ ન શકાય તે 'invisible'; જીતી ન શકાય તે 'invincible'.",
+       "qe": "That which cannot be seen is called ___.",
+       "oe": [
+        "invincible",
+        "inaudible",
+        "invisible",
+        "indelible"
+       ],
+       "ee": "What can't be seen is 'invisible'; what can't be defeated is 'invincible'."
+      },
+      {
+       "id": "ow-1-07",
+       "q": "A place where birds are kept is called ___.",
+       "o": [
+        "an apiary",
+        "an aviary",
+        "an aquarium",
+        "a kennel"
+       ],
+       "a": 1,
+       "e": "પક્ષીઓ રાખવાની જગ્યા 'aviary'; મધમાખી ઉછેરની જગ્યા 'apiary'.",
+       "qe": "A place where birds are kept is called ___.",
+       "oe": [
+        "an apiary",
+        "an aviary",
+        "an aquarium",
+        "a kennel"
+       ],
+       "ee": "A place for keeping birds is an 'aviary'; a place for keeping bees is an 'apiary'."
+      },
+      {
+       "id": "ow-1-08",
+       "q": "One who knows everything is called ___.",
+       "o": [
+        "omniscient",
+        "omnipotent",
+        "omnipresent",
+        "omnivorous"
+       ],
+       "a": 0,
+       "e": "સર્વજ્ઞ 'omniscient'; સર્વશક્તિમાન 'omnipotent' અને સર્વવ્યાપી 'omnipresent'.",
+       "qe": "One who knows everything is called ___.",
+       "oe": [
+        "omniscient",
+        "omnipotent",
+        "omnipresent",
+        "omnivorous"
+       ],
+       "ee": "All-knowing is 'omniscient'; all-powerful 'omnipotent' and everywhere 'omnipresent'."
+      },
+      {
+       "id": "ow-1-09",
+       "q": "Government by the people is called ___.",
+       "o": [
+        "monarchy",
+        "autocracy",
+        "democracy",
+        "aristocracy"
+       ],
+       "a": 2,
+       "e": "લોકો દ્વારા ચાલતું શાસન 'democracy' (લોકશાહી); રાજાનું શાસન 'monarchy'.",
+       "qe": "Government by the people is called ___.",
+       "oe": [
+        "monarchy",
+        "autocracy",
+        "democracy",
+        "aristocracy"
+       ],
+       "ee": "Government by the people is 'democracy'; rule by a king is 'monarchy'."
+      },
+      {
+       "id": "ow-1-10",
+       "q": "A speech made without preparation is called ___.",
+       "o": [
+        "eloquent",
+        "verbatim",
+        "rhetoric",
+        "extempore"
+       ],
+       "a": 3,
+       "e": "પૂર્વતૈયારી વગર બોલાયેલું ભાષણ 'extempore' (તાત્કાલિક); 'verbatim' એટલે શબ્દશઃ.",
+       "qe": "A speech made without preparation is called ___.",
+       "oe": [
+        "eloquent",
+        "verbatim",
+        "rhetoric",
+        "extempore"
+       ],
+       "ee": "A speech made without preparation is 'extempore'; 'verbatim' means word for word."
+      }
+     ],
+     "en": "One word"
+    },
+    {
+     "id": "ow-2",
+     "name": "એક શબ્દ: વધુ",
+     "questions": [
+      {
+       "id": "ow-2-01",
+       "q": "A person who can speak two languages is called ___.",
+       "o": [
+        "bilingual",
+        "monolingual",
+        "polyglot",
+        "linguist"
+       ],
+       "a": 0,
+       "e": "Bilingual = બે ભાષા જાણનાર; ઘણી ભાષા જાણનાર polyglot.",
+       "qe": "A person who can speak two languages is called ___.",
+       "oe": [
+        "bilingual",
+        "monolingual",
+        "polyglot",
+        "linguist"
+       ],
+       "ee": "Bilingual = knowing two languages; someone who knows many is a polyglot."
+      },
+      {
+       "id": "ow-2-02",
+       "q": "A remedy for all diseases is called ___.",
+       "o": [
+        "an antidote",
+        "a panacea",
+        "a vaccine",
+        "a placebo"
+       ],
+       "a": 1,
+       "e": "Panacea = બધા રોગોની દવા; antidote = ઝેરનું મારણ.",
+       "qe": "A remedy for all diseases is called ___.",
+       "oe": [
+        "an antidote",
+        "a panacea",
+        "a vaccine",
+        "a placebo"
+       ],
+       "ee": "Panacea = a cure for all diseases; an antidote cures a poison."
+      },
+      {
+       "id": "ow-2-03",
+       "q": "A person who travels on foot is called ___.",
+       "o": [
+        "a passenger",
+        "a pilgrim",
+        "a pedestrian",
+        "a tourist"
+       ],
+       "a": 2,
+       "e": "Pedestrian = રાહદારી.",
+       "qe": "A person who travels on foot is called ___.",
+       "oe": [
+        "a passenger",
+        "a pilgrim",
+        "a pedestrian",
+        "a tourist"
+       ],
+       "ee": "Pedestrian = a person walking on the road."
+      },
+      {
+       "id": "ow-2-04",
+       "q": "Animals that eat both plants and flesh are called ___.",
+       "o": [
+        "insectivorous",
+        "herbivorous",
+        "carnivorous",
+        "omnivorous"
+       ],
+       "a": 3,
+       "e": "Omnivorous = બંને ખાનાર; herbivorous = શાકાહારી, carnivorous = માંસાહારી.",
+       "qe": "Animals that eat both plants and flesh are called ___.",
+       "oe": [
+        "insectivorous",
+        "herbivorous",
+        "carnivorous",
+        "omnivorous"
+       ],
+       "ee": "Omnivorous = eating both; herbivorous = plant-eating, carnivorous = meat-eating."
+      },
+      {
+       "id": "ow-2-05",
+       "q": "A home where orphans are looked after is called ___.",
+       "o": [
+        "an asylum",
+        "a hostel",
+        "a nursery",
+        "an orphanage"
+       ],
+       "a": 3,
+       "e": "Orphanage = અનાથાશ્રમ.",
+       "qe": "A home where orphans are looked after is called ___.",
+       "oe": [
+        "an asylum",
+        "a hostel",
+        "a nursery",
+        "an orphanage"
+       ],
+       "ee": "Orphanage = a home for orphans."
+      },
+      {
+       "id": "ow-2-06",
+       "q": "A person who is new to a job or activity is called ___.",
+       "o": [
+        "a novice",
+        "an expert",
+        "a veteran",
+        "a mentor"
+       ],
+       "a": 0,
+       "e": "Novice = શિખાઉ; veteran = અનુભવી.",
+       "qe": "A person who is new to a job or activity is called ___.",
+       "oe": [
+        "a novice",
+        "an expert",
+        "a veteran",
+        "a mentor"
+       ],
+       "ee": "Novice = a beginner; a veteran is very experienced."
+      },
+      {
+       "id": "ow-2-07",
+       "q": "The scientific study of birds is called ___.",
+       "o": [
+        "botany",
+        "zoology",
+        "ornithology",
+        "entomology"
+       ],
+       "a": 2,
+       "e": "Ornithology = પક્ષીશાસ્ત્ર; entomology = કીટકશાસ્ત્ર.",
+       "qe": "The scientific study of birds is called ___.",
+       "oe": [
+        "botany",
+        "zoology",
+        "ornithology",
+        "entomology"
+       ],
+       "ee": "Ornithology = the study of birds; entomology = the study of insects."
+      },
+      {
+       "id": "ow-2-08",
+       "q": "Food that is fit to be eaten is called ___.",
+       "o": [
+        "legible",
+        "edible",
+        "audible",
+        "visible"
+       ],
+       "a": 1,
+       "e": "Edible = ખાઈ શકાય તેવું; audible = સાંભળી શકાય, legible = વાંચી શકાય.",
+       "qe": "Food that is fit to be eaten is called ___.",
+       "oe": [
+        "legible",
+        "edible",
+        "audible",
+        "visible"
+       ],
+       "ee": "Edible = fit to eat; audible = can be heard, legible = can be read."
+      },
+      {
+       "id": "ow-2-09",
+       "q": "Government by a king or a queen is called ___.",
+       "o": [
+        "oligarchy",
+        "democracy",
+        "monarchy",
+        "anarchy"
+       ],
+       "a": 2,
+       "e": "Monarchy = રાજાશાહી; anarchy = અરાજકતા.",
+       "qe": "Government by a king or a queen is called ___.",
+       "oe": [
+        "oligarchy",
+        "democracy",
+        "monarchy",
+        "anarchy"
+       ],
+       "ee": "Monarchy = rule by a king or queen; anarchy = no rule at all."
+      },
+      {
+       "id": "ow-2-10",
+       "q": "A word that means the opposite of another word is called ___.",
+       "o": [
+        "a homonym",
+        "an acronym",
+        "a synonym",
+        "an antonym"
+       ],
+       "a": 3,
+       "e": "Antonym = વિરોધાર્થી શબ્દ; synonym = સમાનાર્થી.",
+       "qe": "A word that means the opposite of another word is called ___.",
+       "oe": [
+        "a homonym",
+        "an acronym",
+        "a synonym",
+        "an antonym"
+       ],
+       "ee": "Antonym = a word of opposite meaning; synonym = a word of the same meaning."
+      }
+     ],
+     "en": "One word: more"
+    }
+   ]
+  },
+  {
+   "id": "idioms",
+   "name": "Idioms & Phrases",
+   "levels": [
+    {
+     "id": "id-1",
+     "name": "રૂઢિપ્રયોગો",
+     "questions": [
+      {
+       "id": "id-1-01",
+       "q": "The idiom 'a piece of cake' means ___.",
+       "o": [
+        "something very tasty",
+        "a small reward",
+        "a sweet gift",
+        "something very easy"
+       ],
+       "a": 3,
+       "e": "'A piece of cake' એટલે ખૂબ સહેલું કામ.",
+       "qe": "The idiom 'a piece of cake' means ___.",
+       "oe": [
+        "something very tasty",
+        "a small reward",
+        "a sweet gift",
+        "something very easy"
+       ],
+       "ee": "'A piece of cake' means a very easy task."
+      },
+      {
+       "id": "id-1-02",
+       "q": "The idiom 'once in a blue moon' means ___.",
+       "o": [
+        "every month",
+        "very rarely",
+        "at night",
+        "very quickly"
+       ],
+       "a": 1,
+       "e": "'Once in a blue moon' એટલે ભાગ્યે જ, ક્યારેક જ.",
+       "qe": "The idiom 'once in a blue moon' means ___.",
+       "oe": [
+        "every month",
+        "very rarely",
+        "at night",
+        "very quickly"
+       ],
+       "ee": "'Once in a blue moon' means very rarely."
+      },
+      {
+       "id": "id-1-03",
+       "q": "The idiom 'to hit the nail on the head' means ___.",
+       "o": [
+        "to hurt someone badly",
+        "to work as a carpenter",
+        "to say exactly the right thing",
+        "to make a big mistake"
+       ],
+       "a": 2,
+       "e": "'Hit the nail on the head' એટલે બરાબર સાચી વાત કહેવી કે મુદ્દો પકડવો.",
+       "qe": "The idiom 'to hit the nail on the head' means ___.",
+       "oe": [
+        "to hurt someone badly",
+        "to work as a carpenter",
+        "to say exactly the right thing",
+        "to make a big mistake"
+       ],
+       "ee": "'Hit the nail on the head' means to say exactly the right thing or get the point."
+      },
+      {
+       "id": "id-1-04",
+       "q": "The idiom 'to let the cat out of the bag' means ___.",
+       "o": [
+        "to reveal a secret",
+        "to set an animal free",
+        "to escape from danger",
+        "to cause confusion"
+       ],
+       "a": 0,
+       "e": "'Let the cat out of the bag' એટલે અજાણતાં રહસ્ય છતું કરી દેવું.",
+       "qe": "The idiom 'to let the cat out of the bag' means ___.",
+       "oe": [
+        "to reveal a secret",
+        "to set an animal free",
+        "to escape from danger",
+        "to cause confusion"
+       ],
+       "ee": "'Let the cat out of the bag' means to give away a secret by mistake."
+      },
+      {
+       "id": "id-1-05",
+       "q": "The idiom 'to burn the midnight oil' means ___.",
+       "o": [
+        "to work late into the night",
+        "to waste money",
+        "to light a lamp",
+        "to sleep very late"
+       ],
+       "a": 0,
+       "e": "'Burn the midnight oil' એટલે મોડી રાત સુધી જાગીને કામ કે અભ્યાસ કરવો.",
+       "qe": "The idiom 'to burn the midnight oil' means ___.",
+       "oe": [
+        "to work late into the night",
+        "to waste money",
+        "to light a lamp",
+        "to sleep very late"
+       ],
+       "ee": "'Burn the midnight oil' means to stay up late working or studying."
+      },
+      {
+       "id": "id-1-06",
+       "q": "The idiom 'to call a spade a spade' means ___.",
+       "o": [
+        "to work in a garden",
+        "to insult someone",
+        "to tell a lie",
+        "to speak plainly"
+       ],
+       "a": 3,
+       "e": "'Call a spade a spade' એટલે કોઈ સંકોચ વગર સ્પષ્ટ વાત કહેવી.",
+       "qe": "The idiom 'to call a spade a spade' means ___.",
+       "oe": [
+        "to work in a garden",
+        "to insult someone",
+        "to tell a lie",
+        "to speak plainly"
+       ],
+       "ee": "'Call a spade a spade' means to speak plainly without hesitation."
+      },
+      {
+       "id": "id-1-07",
+       "q": "The idiom 'a white elephant' means ___.",
+       "o": [
+        "a rare animal",
+        "a costly but useless possession",
+        "a very strong person",
+        "a valuable gift"
+       ],
+       "a": 1,
+       "e": "'White elephant' એટલે એવી વસ્તુ જે રાખવી મોંઘી પડે પણ ઉપયોગી ન હોય.",
+       "qe": "The idiom 'a white elephant' means ___.",
+       "oe": [
+        "a rare animal",
+        "a costly but useless possession",
+        "a very strong person",
+        "a valuable gift"
+       ],
+       "ee": "A 'white elephant' is something costly to keep but of no use."
+      },
+      {
+       "id": "id-1-08",
+       "q": "The idiom 'to turn over a new leaf' means ___.",
+       "o": [
+        "to read a new book",
+        "to start farming",
+        "to change one's behaviour for the better",
+        "to change one's address"
+       ],
+       "a": 2,
+       "e": "'Turn over a new leaf' એટલે ખરાબ ટેવ છોડી સારું વર્તન શરૂ કરવું.",
+       "qe": "The idiom 'to turn over a new leaf' means ___.",
+       "oe": [
+        "to read a new book",
+        "to start farming",
+        "to change one's behaviour for the better",
+        "to change one's address"
+       ],
+       "ee": "'Turn over a new leaf' means to give up bad habits and start behaving better."
+      },
+      {
+       "id": "id-1-09",
+       "q": "The idiom 'in hot water' means ___.",
+       "o": [
+        "in a bath",
+        "in trouble",
+        "very angry",
+        "in good health"
+       ],
+       "a": 1,
+       "e": "'In hot water' એટલે મુશ્કેલીમાં હોવું.",
+       "qe": "The idiom 'in hot water' means ___.",
+       "oe": [
+        "in a bath",
+        "in trouble",
+        "very angry",
+        "in good health"
+       ],
+       "ee": "'In hot water' means in trouble."
+      },
+      {
+       "id": "id-1-10",
+       "q": "The idiom 'at sixes and sevens' means ___.",
+       "o": [
+        "in disorder",
+        "in a hurry",
+        "in large numbers",
+        "in good order"
+       ],
+       "a": 0,
+       "e": "'At sixes and sevens' એટલે અસ્તવ્યસ્ત, ગૂંચવણભરી સ્થિતિમાં.",
+       "qe": "The idiom 'at sixes and sevens' means ___.",
+       "oe": [
+        "in disorder",
+        "in a hurry",
+        "in large numbers",
+        "in good order"
+       ],
+       "ee": "'At sixes and sevens' means in confusion or disorder."
+      }
+     ],
+     "en": "Idioms"
+    },
+    {
+     "id": "id-2",
+     "name": "રૂઢિપ્રયોગો: વધુ",
+     "questions": [
+      {
+       "id": "id-2-01",
+       "q": "The idiom 'to beat around the bush' means ___.",
+       "o": [
+        "to work very hard",
+        "to win easily",
+        "to search a place carefully",
+        "to avoid coming to the main point"
+       ],
+       "a": 3,
+       "e": "Beat around the bush = મૂળ વાત ટાળવી.",
+       "qe": "The idiom 'to beat around the bush' means ___.",
+       "oe": [
+        "to work very hard",
+        "to win easily",
+        "to search a place carefully",
+        "to avoid coming to the main point"
+       ],
+       "ee": "Beat around the bush = avoid the main point."
+      },
+      {
+       "id": "id-2-02",
+       "q": "The idiom 'to cry over spilt milk' means ___.",
+       "o": [
+        "to complain about prices",
+        "to feel very hungry",
+        "to regret what cannot be undone",
+        "to waste food"
+       ],
+       "a": 2,
+       "e": "Cry over spilt milk = થઈ ગયેલી વાતનો અફસોસ કરવો.",
+       "qe": "The idiom 'to cry over spilt milk' means ___.",
+       "oe": [
+        "to complain about prices",
+        "to feel very hungry",
+        "to regret what cannot be undone",
+        "to waste food"
+       ],
+       "ee": "Cry over spilt milk = regret something that can't be changed."
+      },
+      {
+       "id": "id-2-03",
+       "q": "The idiom 'a bolt from the blue' means ___.",
+       "o": [
+        "a sudden, unexpected event",
+        "a loud quarrel",
+        "a bright sunny day",
+        "a long-awaited success"
+       ],
+       "a": 0,
+       "e": "Bolt from the blue = અચાનક આવી પડેલી ઘટના.",
+       "qe": "The idiom 'a bolt from the blue' means ___.",
+       "oe": [
+        "a sudden, unexpected event",
+        "a loud quarrel",
+        "a bright sunny day",
+        "a long-awaited success"
+       ],
+       "ee": "A bolt from the blue = a sudden, unexpected event."
+      },
+      {
+       "id": "id-2-04",
+       "q": "The idiom 'to keep one's fingers crossed' means ___.",
+       "o": [
+        "to keep a secret",
+        "to hope for a good result",
+        "to refuse to help",
+        "to stay silent"
+       ],
+       "a": 1,
+       "e": "Keep fingers crossed = સારા પરિણામની આશા રાખવી.",
+       "qe": "The idiom 'to keep one's fingers crossed' means ___.",
+       "oe": [
+        "to keep a secret",
+        "to hope for a good result",
+        "to refuse to help",
+        "to stay silent"
+       ],
+       "ee": "Keep one's fingers crossed = hope for a good result."
+      },
+      {
+       "id": "id-2-05",
+       "q": "The idiom 'to take to one's heels' means ___.",
+       "o": [
+        "to walk slowly",
+        "to dance happily",
+        "to follow someone",
+        "to run away"
+       ],
+       "a": 3,
+       "e": "Take to one's heels = ભાગી જવું.",
+       "qe": "The idiom 'to take to one's heels' means ___.",
+       "oe": [
+        "to walk slowly",
+        "to dance happily",
+        "to follow someone",
+        "to run away"
+       ],
+       "ee": "Take to one's heels = run away."
+      },
+      {
+       "id": "id-2-06",
+       "q": "The idiom 'to bury the hatchet' means ___.",
+       "o": [
+        "to cut a tree",
+        "to start a fight",
+        "to make peace",
+        "to hide a weapon"
+       ],
+       "a": 2,
+       "e": "Bury the hatchet = વેર ભૂલીને સમાધાન કરવું.",
+       "qe": "The idiom 'to bury the hatchet' means ___.",
+       "oe": [
+        "to cut a tree",
+        "to start a fight",
+        "to make peace",
+        "to hide a weapon"
+       ],
+       "ee": "Bury the hatchet = forget a quarrel and make peace."
+      },
+      {
+       "id": "id-2-07",
+       "q": "The idiom 'a blessing in disguise' means ___.",
+       "o": [
+        "something good that seemed bad at first",
+        "a hidden enemy",
+        "a costly gift",
+        "a false promise"
+       ],
+       "a": 0,
+       "e": "Blessing in disguise = શરૂઆતમાં ખરાબ લાગતી પણ અંતે લાભદાયક બાબત.",
+       "qe": "The idiom 'a blessing in disguise' means ___.",
+       "oe": [
+        "something good that seemed bad at first",
+        "a hidden enemy",
+        "a costly gift",
+        "a false promise"
+       ],
+       "ee": "A blessing in disguise = something that seemed bad at first but turned out well."
+      },
+      {
+       "id": "id-2-08",
+       "q": "The idiom 'to be all ears' means ___.",
+       "o": [
+        "to be hard of hearing",
+        "to listen with full attention",
+        "to hear rumours",
+        "to talk too much"
+       ],
+       "a": 1,
+       "e": "All ears = પૂરા ધ્યાનથી સાંભળવું.",
+       "qe": "The idiom 'to be all ears' means ___.",
+       "oe": [
+        "to be hard of hearing",
+        "to listen with full attention",
+        "to hear rumours",
+        "to talk too much"
+       ],
+       "ee": "All ears = listening with full attention."
+      },
+      {
+       "id": "id-2-09",
+       "q": "The idiom 'to see eye to eye' means ___.",
+       "o": [
+        "to agree fully",
+        "to have good eyesight",
+        "to look angrily",
+        "to meet face to face"
+       ],
+       "a": 0,
+       "e": "See eye to eye = સંપૂર્ણ સહમત થવું.",
+       "qe": "The idiom 'to see eye to eye' means ___.",
+       "oe": [
+        "to agree fully",
+        "to have good eyesight",
+        "to look angrily",
+        "to meet face to face"
+       ],
+       "ee": "See eye to eye = agree fully."
+      },
+      {
+       "id": "id-2-10",
+       "q": "The idiom 'by hook or by crook' means ___.",
+       "o": [
+        "by luck",
+        "by any means, fair or unfair",
+        "by fishing",
+        "by honest work only"
+       ],
+       "a": 1,
+       "e": "By hook or by crook = કોઈ પણ રીતે.",
+       "qe": "The idiom 'by hook or by crook' means ___.",
+       "oe": [
+        "by luck",
+        "by any means, fair or unfair",
+        "by fishing",
+        "by honest work only"
+       ],
+       "ee": "By hook or by crook = by any means."
+      }
+     ],
+     "en": "Idioms: more"
+    }
+   ]
+  }
+ ]
+}
