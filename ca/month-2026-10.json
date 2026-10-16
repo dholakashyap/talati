@@ -1,0 +1,347 @@
+{
+ "month": "2026-10",
+ "items": [
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches 600-passenger cruise at Statue of Unity",
+   "title_gu": "ગુજરાતમાં 600-યાત્રી ક્રૂઝ યુનિટી પ્રતિમા પર શરૂ",
+   "summary_en": "The Gujarat government will start a 600‑passenger luxury cruise from the Statue of Unity to promote tourism on the Narmada river.",
+   "summary_gu": "ગુજરાત સરકાર 600-યાત્રી લક્ઝરી ક્રૂઝ યુનિટી પ્રતિમા પરથી શરૂ કરશે, નર્મદા નદીની પર્યટનને પ્રોત્સાહિત કરવા.",
+   "points_en": [
+    "The **Gujarat government** will start a **600-passenger** luxury cruise.",
+    "The cruise will operate from the **Statue of Unity** on the **Narmada river**."
+   ],
+   "points_gu": [
+    "**ગુજરાત સરકાર** 600-યાત્રી ક્ષમતા ધરાવતી લક્ઝરી ક્રૂઝ શરૂ કરશે.",
+    "ક્રૂઝ **યુનિટી પ્રતિમા** પર **નર્મદા નદી**માં ચલાવાશે."
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Which river's tourism is the new luxury cruise intended to boost?",
+    "q_gu": "નવું લક્ઝરી ક્રૂઝ કઈ નદીની પર્યટનને પ્રોત્સાહિત કરવા માટે છે?",
+    "o_en": [
+     "Narmada",
+     "Sabarmati",
+     "Ganga",
+     "Yamuna"
+    ],
+    "o_gu": [
+     "નર્મદા",
+     "સાબરમતી",
+     "ગંગા",
+     "યમુના"
+    ],
+    "a": 0,
+    "e_en": "The cruise will run on the Narmada river.",
+    "e_gu": "ક્રૂઝ નર્મદા નદી પર ચલાવાશે."
+   },
+   "id": "ca-gujarat-launches-600-passenger-cruise-at-statue-of-unity",
+   "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0VEQ1pseFQxb1dFaVVoS05HeFNVYUR1TW5VeEhObENFWEVBRm5ubDhpU3NvWUQxYnphSkpOVVJpS0s1aG0xaXdybmE0V29FZkRYVnFfZ3RJOFM0czNOVExoeXFTYU1RemVNS3ZxZEV2LUgxV3J3VEFEMzlBX0t4dkVHaGVJdjA4Q2dzaTVnMS1fVjdjYTJCdEJqcS1FNzU3cDA3ZnBJMWRWa2k4YUt6Y2pmUEpXRzRyNHNhUE9B?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0VEQ1pseFQxb1dFaVVoS05HeFNVYUR1TW5VeEhObENFWEVBRm5ubDhpU3NvWUQxYnphSkpOVVJpS0s1aG0xaXdybmE0V29FZkRYVnFfZ3RJOFM0czNOVExoeXFTYU1RemVNS3ZxZEV2LUgxV3J3VEFEMzlBX0t4dkVHaGVJdjA4Q2dzaTVnMS1fVjdjYTJCdEJqcS1FNzU3cDA3ZnBJMWRWa2k4YUt6Y2pmUEpXRzRyNHNhUE9B?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "science",
+   "title_en": "Gujarat girl among 20 selected for satellite mission",
+   "title_gu": "ગुજરાતની છોકરીને સેટેલાઇટ મિશન માટે 20 માંથી પસંદ",
+   "summary_en": "A girl from Gujarat was chosen as one of **20 students** nationwide for a **satellite technology mission**.",
+   "summary_gu": "ગुજરાતની એક છોકરીને સમગ્ર દેશમાં **20 વિદ્યાર્થીઓ**માંની એક તરીકે **સેટેલાઇટ ટેકનોલોજી મિશન** માટે પસંદ કરવામાં આવી.",
+   "points_en": [
+    "A girl from Gujarat was selected.",
+    "She is one of **20 students** chosen nationwide.",
+    "The selection is for a **satellite technology mission**."
+   ],
+   "points_gu": [
+    "ગुજરાતની એક છોકરીને પસંદ કરવામાં આવી.",
+    "તે **20 વિદ્યાર્થીઓ**માંની એક છે, જે સમગ્ર દેશમાં પસંદ થયા.",
+    "આ પસંદગી **સેટેલાઇટ ટેકનોલોજી મિશન** માટે છે."
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How many students were selected nationwide for the satellite technology mission that included a girl from Gujarat?",
+    "q_gu": "સેટેલાઇટ ટેકનોલોજી મિશન માટે પસંદ થયેલા કુલ વિદ્યાર્થીઓની સંખ્યા કેટલી હતી?",
+    "o_en": [
+     "10",
+     "15",
+     "20",
+     "25"
+    ],
+    "o_gu": [
+     "10",
+     "15",
+     "20",
+     "25"
+    ],
+    "a": 2,
+    "e_en": "The source states that a total of 20 students were selected.",
+    "e_gu": "સ્રોતમાં જણાવાયું છે કે કુલ 20 વિદ્યાર્થીઓ પસંદ થયા."
+   },
+   "id": "ca-gujarat-girl-among-20-selected-for-satellite-mission",
+   "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXlIZDVyNllBWXJvUkNpVWhUNFZXRGhTMHZkWWtaTERUVFdxSnFWX25vRW5UM3lwTm92eGppeVNlajRqLW5Gb1hrVllQcTVMVl9jTjV5LUtva2lsd2Npdlo3RVUtNEJjWWt0MjBDZzVfbUFGYkR5TE5qOFIyZkgtOHpsUzJRX3R3YXBwLVdMOHBCdE12dF91VUwxWEtBUjF4RFZpYlpwcENxdlZUOFVSUUUxY2JVSW5JX0w1bkxxUm9UR3pz?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXlIZDVyNllBWXJvUkNpVWhUNFZXRGhTMHZkWWtaTERUVFdxSnFWX25vRW5UM3lwTm92eGppeVNlajRqLW5Gb1hrVllQcTVMVl9jTjV5LUtva2lsd2Npdlo3RVUtNEJjWWt0MjBDZzVfbUFGYkR5TE5qOFIyZkgtOHpsUzJRX3R3YXBwLVdMOHBCdE12dF91VUwxWEtBUjF4RFZpYlpwcENxdlZUOFVSUUUxY2JVSW5JX0w1bkxxUm9UR3pz?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat Receives Record Rs 385 Crore Dividend",
+   "title_gu": "ગુજરાતને મળ્યો રેકોર્ડ ૩૮૫ કરોડ ડિવિડન્ડ",
+   "summary_en": "Gujarat government got a record dividend of about **Rs 385 crore** from **GEL** and **GTL**.",
+   "summary_gu": "ગુજરાત સરકારને **GEL** અને **GTL**માંથી અંદાજે **૩૮૫ કરોડ**નો રેકોર્ડ ડિવિડન્ડ મળ્યો છે.",
+   "points_en": [
+    "**Rs 385 crore** dividend received by Gujarat government",
+    "Dividend came from **Gujarat Energy Limited (GEL)** and **Gujarat Transmission Limited (GTL)**",
+    "It is a **record** amount for the state"
+   ],
+   "points_gu": [
+    "ગુજરાત સરકારને **૩૮૫ કરોડ** ડિવિડન્ડ મળ્યો",
+    "ડિવિડન્ડ **ગુજરાત એનર્જી લિમિટેડ (GEL)** અને **ગુજરાત ટ્રાન્સમિશન લિમિટેડ (GTL)**માંથી આવ્યો",
+    "આ રકમ રાજ્ય માટે **રેકોર્ડ** છે"
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How much dividend did Gujarat receive from GEL and GTL?",
+    "q_gu": "ગુજરાતને GEL અને GTLમાંથી કેટલો ડિવિડન્ડ મળ્યો?",
+    "o_en": [
+     "Rs 385 crore",
+     "Rs 300 crore",
+     "Rs 500 crore",
+     "Rs 250 crore"
+    ],
+    "o_gu": [
+     "૩૮૫ કરોડ",
+     "૩૦૦ કરોડ",
+     "૫૦૦ કરોડ",
+     "૨૫૦ કરોડ"
+    ],
+    "a": 0,
+    "e_en": "The sources state the dividend was about Rs 385 crore.",
+    "e_gu": "સ્રોતો મુજબ ડિવિડન્ડ લગભગ ૩૮૫ કરોડ હતો."
+   },
+   "id": "ca-gujarat-receives-record-rs-385-crore-dividend",
+   "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjVUQ2ozcjlEQmJPYmxtX2ZkaFNWOUdoT1g1TndPaE9LbDkyY0trSzEtdGlSbDBxMzI0aU1FLVRWeUIzODdWOXNMQk1zTzRNWlFZMjg3RzZ2TjR5ck9GRl9Rb1BMQ0FEVmFnYU5qZW1ON01hVnNKbDB5SEo5WGY1NWcyOVBhcE5VZFZMSkFGT2lLRFZHQjYw?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjVUQ2ozcjlEQmJPYmxtX2ZkaFNWOUdoT1g1TndPaE9LbDkyY0trSzEtdGlSbDBxMzI0aU1FLVRWeUIzODdWOXNMQk1zTzRNWlFZMjg3RzZ2TjR5ck9GRl9Rb1BMQ0FEVmFnYU5qZW1ON01hVnNKbDB5SEo5WGY1NWcyOVBhcE5VZFZMSkFGT2lLRFZHQjYw?oc=5"
+    },
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxQeW8tckc1QUhiUTlUemtOVHR6RDJxNTdPLTFEOTBKd0dlN1pERDBNZzJMUE5MckxGTVA4U09ZN29rUXVLTVJGYU9kbC1PVVcycnVOd3hSWlNTcGc4emlvd2hpVENLZjNpQkluNHcwREVKZXE1c3ZXZnlmT0Z2MzBBX2hxdGM0MzIxeW4yWjljamhkWHpWamJILTBFQjM0U0t6SUYxZHByRDdpSUtidkhuOFRKWVNKNlhjcTIxSXVibU5oOGEwbGRIUFdTdWxreVFnOS1oV19BN1g0XzFsSWZqTmNfT0JFMFJla1BheEdWc3RtZEVvaUpoQTEtbDU2ZEdrS2I4elhsZWtWSXliVnVvYXNYUGp2LWxWdDFfT1d3N291MktzR2dzN2dyNlRhYzVSOVJUdkVpbFUybE14Yi1PVlM1Yzh4WGpPLTNITjVyQkl6OUxNdzFlUnpWUk52cW9vcW9PUVlmRFhVSjdhX2NXZ2pSN05YM1ExWlFDRExUcnpEaDkwbnY2bFdUNnVJS3F2YlU0aW5lVGxUWXAtelY2X19jcnhiTlI2YUwwczlOTW5RNzBqM3NYNk9XRnVvUUMyWU9LMTVudlRDRlp4dzZjUUQ4T2RaRGFwVU9ibS1kYm1mZEt4ODZDUDlHQVpScXczaGtPSHZRRmNuQWl3UTJ5ZUtzMEtaMmxjT3QzeC13eGdUS2puM01vYUpjbllnVFBhUWRWZ2Y5UlE2UnBwNnM0RnNnYWhWNGVlemlLTXRTWkt3eDBZN0x1OU1YT09TR3dhd0pmVklRdUFOS2o5cEtTM3BjNGM0eDNlSGZsakhxVl9mdlJnbTZXVDJxa1ZnZzJsaVhOWjFJMzJQUHI0MW5lV0g5b1pUR2tUUl9KTXhJaUVRY3EyYUJ4NzE5RURmNjBvRWFkbS1INnZaYV9qblp3cE9qVW5Ma19NZWlnQ3JTSEU0Zk56OFJJQlVkbUZmaktyRWFUc2xMb1Znd1cwRVd1QmdkNkJia1kySkduRFVSNDZ0clRLaWNvV1lEWVNBSW8xM3VFdmJra1c5N2FmODgzanRLZWU1YmZHc040eFhJazI3V0dhb0RMc2NSamYwcmFOaF8wRjdESHZhWmZBLU1IeDRPeUdLMF9sVmdxZ3RoSVQySTNUV0N6UHRCczNjcmdkd0JEbTRYbkNfSVBPLW9CaUVKbEtoZWxBYnJyNWJNZ0VEejJLY1ZqVFZB?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "sports",
+   "title_en": "PM Modi meets India's Asian Games 2026 athletes",
+   "title_gu": "વડાપ્રધાન મોદી એશિયાઈ રમતો 2026ના ભારતીય ખેલાડીઓને મળ્યા",
+   "summary_en": "Prime Minister **Narendra Modi** addressed the Indian team for the **Asian Games 2026**, lauding their medal haul and urging higher goals.",
+   "summary_gu": "પ્રધાનમંત્રી **નરેન્દ્ર મોદી**એ **એશિયાઈ ગેમ્સ 2026** માટે ભારતીય ટીમને સંબોધી તેમની સફળતા માટે પ્રશંસા કરી અને વધુ લક્ષ્યો માટે પ્રોત્સાહિત કર્યા.",
+   "points_en": [
+    "**Narendra Modi** spoke to the athletes on **15 Oct 2026**.",
+    "Women’s hockey won gold after **44 years**, and both men’s and women’s hockey secured double gold.",
+    "Female athletes earned **38 of India’s 85 medals**, including **11 golds**.",
+    "India won its first Asian Games medals in mixed martial arts, soft‑tennis and special sailing events.",
+    "The government highlighted **TOPS** and **Khelo India** schemes, allocating over **₹36,000 crore**."
+   ],
+   "points_gu": [
+    "**નરેન્દ્ર મોદી**એ **15 ઓક્ટોબર 2026**ને ખેલાડીઓ સાથે વાત કરી.",
+    "મહિલા હોકી ટીમે **44 વર્ષો** પછી સોનુ જીત્યું, અને પુરૂષ‑મહિલા હોકી બંનેએ ડબલ ગોલ્ડ મેળવ્યો.",
+    "મહિલા ખેલાડીઓએ ભારતના **85** કુલ પદકોમાં **38** અને **11** સોનાં પદકો મેળવ્યા.",
+    "મિશ્ર માર્શલ આર્ટ્સ, સોફ્ટ‑ટેનિસ અને ખાસ સેલિંગમાં ભારતને પ્રથમ એશિયાઈ ગેમ્સ પદકો મળ્યા.",
+    "સરકારએ **TOPS** અને **ખેલો ઈન્ડિયા** યોજનાઓનું મહત્વ દર્શાવી, **₹36,000 કરોડ**થી વધુ ફંડ ફાળવ્યો."
+   ],
+   "details_en": "On 15 October 2026, Prime Minister **Narendra Modi** met the Indian contingent bound for the **Asian Games 2026**. He praised the historic double gold in men’s and women’s hockey, noting the women’s team ended a 44‑year wait. Women athletes contributed **38** of India’s **85** medals, including **11** golds, and the country secured its first medals in mixed martial arts, soft‑tennis and special sailing events. Modi highlighted the **Target Olympic Podium Scheme (TOPS)** and the **Khelo India** programme, which together have received more than **₹36,000 crore** to strengthen sports infrastructure, including over a thousand Khelo India centres and new stadiums. He also reminded athletes that the venue is named after **Major Dhyan Chand**, urging them to uphold the flag’s pride.",
+   "details_gu": "15 ઓક્ટોબર 2026ને પ્રધાનમંત્રી **નરેન્દ્ર મોદી**એ એશિયાઈ ગેમ્સ 2026 માટે જતી ભારતીય ટીમને મળ્યા. તેમણે પુરુષ અને સ્ત્રી હોકીમાં ડબલ ગોલ્ડની ઐતિહાસિક સફળતા, ખાસ કરીને સ્ત્રી ટીમે 44 વર્ષો પછી સોનુ જીત્યું,ની પ્રશંસા કરી. સ્ત્રી ખેલાડીઓએ ભારતના **85** પદકોમાં **38** અને **11** સોનાં પદકો મેળવ્યા. મિશ્ર માર્શલ આર્ટ્સ, સોફ્ટ‑ટેનિસ અને ખાસ સેલિંગમાં ભારતને પ્રથમ એશિયાઈ ગેમ્સ પદકો મળ્યા. મોદીએ **Target Olympic Podium Scheme (TOPS)** અને **ખેલો ઈન્ડિયા** યોજનાઓનું મહત્વ દર્શાવી, જે કુલ **₹36,000 કરોડ**થી વધુ ફંડ સાથે રમતગમતની ઢાંચો મજબૂત કરે છે, જેમાં 1000 થી વધુ ખેલો ઈન્ડિયા કેન્દ્રો અને નવા સ્ટેડિયમો શામેલ છે. તેમણે ખેલાડીઓને યાદ અપાવ્યું કે સ્ટેડિયમનું નામ **મેજર ધ્યાનચંદ** પર છે અને ધ્વજની ગૌરવ જાળવવા પ્રોત્સાહિત કર્યા.",
+   "mcq": {
+    "q_en": "Which sport gave India's women's team its first Asian Games gold in 44 years?",
+    "q_gu": "કયા રમતમાં ભારતની સ્ત્રી ટીમને 44 વર્ષો પછી એશિયાઈ ગેમ્સમાં પ્રથમ સોનુ મળ્યું?",
+    "o_en": [
+     "Hockey",
+     "Badminton",
+     "Shooting",
+     "Boxing"
+    ],
+    "o_gu": [
+     "હોકી",
+     "બેડમિન્ટન",
+     "શૂટિંગ",
+     "બોક્સિંગ"
+    ],
+    "a": 0,
+    "e_en": "The women's hockey team won gold after a 44‑year gap.",
+    "e_gu": "મહિલા હોકી ટીમે 44 વર્ષો પછી સોનુ જીત્યું."
+   },
+   "id": "ca-pm-modi-praises-indian-athletes-ahead-of-asian-games-2026",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324190",
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324190"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "international",
+   "title_en": "India-Germany tie-up to make organ‑transplant drugs",
+   "title_gu": "ભારત‑જર્મની સહકારથી અંગો પરિવહન દવાઓનું ઉત્પાદન",
+   "summary_en": "India and Germany will work together to produce immunoglobulin medicines, including a drug for organ transplants, after an NDA was signed in October 2026.",
+   "summary_gu": "ભારત અને જર્મનીએ ઓર્ગન ટ્રાન્સપ્લાન્ટ માટેની દવા સહિત ઇમ્યુનોગ્લોબ્યુલિન દવાઓનું ઉત્પાદન કરવા માટે ઓક્ટોબર 2026 માં કરાર કર્યો છે.",
+   "points_en": [
+    "**VINS Bioproducts Ltd** of India partners with **Neovii Biotech GmbH** of Germany",
+    "The **Indo‑German Health Leadership Dialogue** on **13 Oct 2026** facilitated the NDA",
+    "Collaboration covers **anti‑thymocyte globulin**, used in organ transplantation and blood disorders"
+   ],
+   "points_gu": [
+    "ભારતની **VINS Bioproducts Ltd** અને જર્મનીની **Neovii Biotech GmbH** વચ્ચે સહકાર",
+    "**13 ઓક્ટોબર 2026** ના ઇન્ડો‑જર્મન હેલ્થ લીડરશિપ ડાયલોગમાં કરાર થયો",
+    "સહકારમાં **anti‑thymocyte globulin** જેવા ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદનોનું ઉત્પાદન શામેલ છે"
+   ],
+   "details_en": "The Embassy of India in Berlin helped exchange a non‑disclosure agreement between Germany's Neovii Biotech GmbH and India's VINS Bioproducts Ltd during the Indo‑German Health Leadership Dialogue on 13 October 2026. The agreement aims to manufacture and commercialise immunoglobulin products, especially anti‑thymocyte globulin, which is vital for human organ transplants and certain blood disorders. Technology transfer to India could boost local capacity, improve access and lower dependence on imports.",
+   "details_gu": "ભારતનું એમ્બસી બર્લિનમાં જર્મનીની Neovii Biotech GmbH અને ભારતની VINS Bioproducts Ltd વચ્ચે 13 ઓક્ટોબર 2026 ના ઇન્ડો‑જર્મન હેલ્થ લીડરશિપ ડાયલોગમાં નોન‑ડિસ્ક્લોઝર એગ્રીમેન્ટનું વિનિમય કરવામાં સહાય કરી. આ કરાર ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદનો, ખાસ કરીને anti‑thymocyte globulin,નું ઉત્પાદન અને વ્યાપારીકરણ કરવા માટે છે, જે માનવ અંગો પરિવહન અને કેટલીક રક્ત રોગોમાં મહત્વપૂર્ણ છે. ટેકનોલોજી ટ્રાન્સફર ભારતની સ્થાનિક ક્ષમતા વધારી, ઍક્સેસ સુધારી અને આયાત પર નિર્ભરતા ઘટાડવામાં મદદ કરશે.",
+   "mcq": {
+    "q_en": "Which German company signed the NDA with VINS Bioproducts Ltd for immunoglobulin production?",
+    "q_gu": "કયા જર્મન કંપનીએ VINS Bioproducts Ltd સાથે ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદન માટે NDA પર હસ્તાક્ષર કર્યા?",
+    "o_en": [
+     "Neovii Biotech GmbH",
+     "Bayer AG",
+     "Siemens Healthineers",
+     "Bosch"
+    ],
+    "o_gu": [
+     "Neovii Biotech GmbH",
+     "Bayer AG",
+     "Siemens Healthineers",
+     "Bosch"
+    ],
+    "a": 0,
+    "e_en": "The NDA was between Neovii Biotech GmbH and VINS Bioproducts Ltd.",
+    "e_gu": "NDA Neovii Biotech GmbH અને VINS Bioproducts Ltd વચ્ચે હતો."
+   },
+   "id": "ca-india-germany-tie-up-to-make-organ-transplant-drugs",
+   "source": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat approves four PPP medical colleges",
+   "title_gu": "ગુજરાતે ચાર PPP મેડિકલ કૉલેજો મંજૂર કર્યા",
+   "summary_en": "The Gujarat government has approved the establishment of four public‑private partnership medical colleges as part of its district development push.",
+   "summary_gu": "ગુજરાત સરકારએ જિલ્લાઓમાં વિકાસ માટે ચાર જાહેર‑ખાનગી ભાગીદારી મેડિકલ કૉલેજો સ્થાપિત કરવાની મંજૂરી આપી છે.",
+   "points_en": [
+    "**Four** new medical colleges to be set up under **PPP** model",
+    "Approved by the **Gujarat government**",
+    "Part of a **district push** for higher education"
+   ],
+   "points_gu": [
+    "**ચાર** નવા મેડિકલ કૉલેજો **PPP** મોડેલ હેઠળ સ્થાપિત થશે",
+    "મંજૂરી આપનાર **ગુજરાત સરકાર**",
+    "જિલ્લાઓમાં **વિકાસ** માટેનો ભાગ"
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How many PPP medical colleges did the Gujarat government approve?",
+    "q_gu": "ગુજરાત સરકારએ કેટલા PPP મેડિકલ કૉલેજો મંજૂર કર્યા?",
+    "o_en": [
+     "Two",
+     "Three",
+     "Four",
+     "Five"
+    ],
+    "o_gu": [
+     "બે",
+     "ત્રણ",
+     "ચાર",
+     "પાંચ"
+    ],
+    "a": 2,
+    "e_en": "The approval was for four colleges.",
+    "e_gu": "મંજૂરી ચાર કૉલેજો માટે હતી."
+   },
+   "id": "ca-gujarat-approves-four-ppp-medical-colleges",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ZBMVFYYVlaUWlaQmpSNUhyQklMM0VzbkRydWptY21PRGVFaVludzUySDlKSVQ2dEQwV3pQQ3JwOXJWOGZIdWo0S2R3OTNMS2l3Rmp0ckFlMm9zYkI4QlEyS3VBcnJId3Z3ZGVibHlQaGFfNkNUaVVkT3d6dmx2dGNTdjR4cFhiMHc?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ZBMVFYYVlaUWlaQmpSNUhyQklMM0VzbkRydWptY21PRGVFaVludzUySDlKSVQ2dEQwV3pQQ3JwOXJWOGZIdWo0S2R3OTNMS2l3Rmp0ckFlMm9zYkI4QlEyS3VBcnJId3Z3ZGVibHlQaGFfNkNUaVVkT3d6dmx2dGNTdjR4cFhiMHc?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat Secures Permanent Seat on GST Committee",
+   "title_gu": "ગુજરાતને જી.એસ.ટી. કમિટી માં સ્થાયી સીટ મળી",
+   "summary_en": "Gujarat has been given a permanent seat on the newly formed GST Standing Committee.",
+   "summary_gu": "ગુજરાતને નવી જી.એસ.ટી. સ્ટેન્ડિંગ કમિટી માં સ્થાયી સીટ મળી છે.",
+   "points_en": [
+    "**Gujarat** receives a **permanent seat** on the **new GST Standing Committee**.",
+    "The committee oversees **Goods and Services Tax** matters.",
+    "The allocation was announced by the **Gujarat government**."
+   ],
+   "points_gu": [
+    "**ગુજરાત** ને **નવાં જી.એસ.ટી. સ્ટેન્ડિંગ કમિટી** માં **સ્થાયી સીટ** મળી.",
+    "આ કમિટી **વસ્તુ અને સેવા કર** સંબંધિત મુદ્દાઓનું નિરીક્ષણ કરે છે.",
+    "આ ફાળવણી **ગુજરાત સરકાર** દ્વારા જાહેર કરવામાં આવી."
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Which state was allotted a permanent seat on the new GST Standing Committee?",
+    "q_gu": "કયા રાજ્યને નવી જી.એસ.ટી. સ્ટેન્ડિંગ કમિટી માં સ્થાયી સીટ મળી?",
+    "o_en": [
+     "Gujarat",
+     "Maharashtra",
+     "Rajasthan",
+     "Karnataka"
+    ],
+    "o_gu": [
+     "ગુજરાત",
+     "મહારાષ્ટ્ર",
+     "રાજસ્થાન",
+     "કારણાટક"
+    ],
+    "a": 0,
+    "e_en": "The news states that Gujarat got the permanent seat.",
+    "e_gu": "સમાચાર મુજબ ગુજરાતને સ્થાયી સીટ મળી."
+   },
+   "id": "ca-gujarat-secures-permanent-seat-on-gst-committee",
+   "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEduWjJxRGJxN3pKeUU3c0QtakJrREJxaXl5cjZ0Tl9LXzNXeHRWZHRTWS1TWGVvLVRRTTRoRHpoYm1QUUpRaS1tQ1hndkNkN2dBZXFUcms2MjlFWjFqZzAyeV9UbHpQdm82QTdYNThtTXBvQzJibFVJLTlWUzFhbmNiTmc4N1Q0WTNZaVlMSlNmZm5JdjBScg?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEduWjJxRGJxN3pKeUU3c0QtakJrREJxaXl5cjZ0Tl9LXzNXeHRWZHRTWS1TWGVvLVRRTTRoRHpoYm1QUUpRaS1tQ1hndkNkN2dBZXFUcms2MjlFWjFqZzAyeV9UbHpQdm82QTdYNThtTXBvQzJibFVJLTlWUzFhbmNiTmc4N1Q0WTNZaVlMSlNmZm5JdjBScg?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  }
+ ]
+}
