@@ -1,0 +1,20 @@
+{
+  "_comment": "Feeds read by grab.py. kind: official = government source, preferred as the item's main link; news = facts are taken from it, our own wording; signal = exam-prep sites, used ONLY to tell which topics exams care about (never copied). hint = category hint.",
+  "sources": [
+    {"id": "pib", "name": "PIB, Government of India", "kind": "official", "lang": "hi", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"},
+    {"id": "hindu-national", "name": "The Hindu", "kind": "news", "lang": "en", "url": "https://www.thehindu.com/news/national/feeder/default.rss"},
+    {"id": "hindu-gujarat", "name": "The Hindu (Gujarat)", "kind": "news", "lang": "en", "hint": "gujarat", "url": "https://www.thehindu.com/news/national/gujarat/feeder/default.rss"},
+    {"id": "hindu-economy", "name": "The Hindu (Economy)", "kind": "news", "lang": "en", "hint": "economy", "url": "https://www.thehindu.com/business/Economy/feeder/default.rss"},
+    {"id": "hindu-science", "name": "The Hindu (Science)", "kind": "news", "lang": "en", "hint": "science", "url": "https://www.thehindu.com/sci-tech/feeder/default.rss"},
+    {"id": "hindu-world", "name": "The Hindu (World)", "kind": "news", "lang": "en", "hint": "international", "url": "https://www.thehindu.com/news/international/feeder/default.rss"},
+    {"id": "ie-explained", "name": "Indian Express (Explained)", "kind": "news", "lang": "en", "url": "https://indianexpress.com/section/explained/feed/"},
+    {"id": "ie-ahmedabad", "name": "Indian Express (Ahmedabad)", "kind": "news", "lang": "en", "hint": "gujarat", "url": "https://indianexpress.com/section/cities/ahmedabad/feed/"},
+    {"id": "bs-economy", "name": "Business Standard (Economy)", "kind": "news", "lang": "en", "hint": "economy", "url": "https://www.business-standard.com/rss/economy-102.rss"},
+    {"id": "sportstar", "name": "Sportstar", "kind": "news", "lang": "en", "hint": "sports", "url": "https://sportstar.thehindu.com/feeder/default.rss"},
+    {"id": "gnews-gujarat-gov", "name": "Google News: Gujarat government", "kind": "news", "lang": "en", "hint": "gujarat", "url": "https://news.google.com/rss/search?q=Gujarat+government+OR+%22Gujarat+CM%22+OR+%22Gujarat+cabinet%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en"},
+    {"id": "gnews-gujarat-gu", "name": "Google News (ગુજરાતી)", "kind": "news", "lang": "gu", "hint": "gujarat", "url": "https://news.google.com/rss/search?q=%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0%AA%BE%E0%AA%A4+%E0%AA%B8%E0%AA%B0%E0%AA%95%E0%AA%BE%E0%AA%B0+when:2d&hl=gu&gl=IN&ceid=IN:gu"},
+    {"id": "gnews-schemes", "name": "Google News: schemes, appointments, MoUs", "kind": "news", "lang": "en", "url": "https://news.google.com/rss/search?q=India+government+(%22scheme%22+OR+%22appointed+as%22+OR+%22MoU%22+OR+%22ranked%22+OR+%22conferred%22)+when:1d&hl=en-IN&gl=IN&ceid=IN:en"},
+    {"id": "affairscloud", "name": "AffairsCloud", "kind": "signal", "lang": "en", "url": "https://affairscloud.com/feed/"},
+    {"id": "drishti", "name": "Drishti IAS", "kind": "signal", "lang": "en", "url": "https://www.drishtiias.com/rss"}
+  ]
+}
