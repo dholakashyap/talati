@@ -351,6 +351,508 @@
     }
    ],
    "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat Sets ₹8.50 Daily Food Budget for Anganwadi Children",
+   "title_gu": "ગુજરાતે અંગનવાડી બાળકો માટે રોજનું ખોરાક બજેટ ₹8.50 નક્કી કર્યું",
+   "summary_en": "The Gujarat government has fixed a daily food allowance of **₹8.50** per child at Anganwadi centres, sparking worries about meeting nutritional needs.",
+   "summary_gu": "ગુજરાત સરકારએ અંગનવાડી કેન્દ્રોમાં બાળકો માટે પ્રતિદિન **₹8.50** ખોરાક allowance નક્કી કર્યું, જે પોષણની પૂરતીતા અંગે ચિંતા ઉભી કરે છે.",
+   "points_en": [
+    "**₹8.50** is the daily amount allocated for each child's meals at Anganwadi centres.",
+    "The budget is set by the **Gujarat state government** under the **Integrated Child Development Services (ICDS)** scheme.",
+    "Experts say the amount may be insufficient to provide a balanced diet for children aged 0‑6 years.",
+    "The issue has drawn attention from the **Ministry of Women and Child Development** and nutrition activists."
+   ],
+   "points_gu": [
+    "**₹8.50** એ અંગનવાડી કેન્દ્રોમાં દરેક બાળક માટે પ્રતિદિન ખોરાક માટે નક્કી કરાયેલ રકમ છે.",
+    "આ બજેટ **ગુજરાત રાજ્ય સરકાર** દ્વારા **ઇન્ટિગ્રેટેડ ચાઇલ્ડ ડેવલપમેન્ટ સર્વિસિસ (ICDS)** યોજના હેઠળ નક્કી કરવામાં આવ્યો છે.",
+    "વિશેષજ્ઞો કહે છે કે આ રકમ 0‑6 વર્ષના બાળકો માટે સંતુલિત આહાર પૂરું પાડવામાં અપૂરતી હોઈ શકે છે.",
+    "આ મુદ્દો **મહિલા અને બાળ વિકાસ મંત્રાલય** અને પોષણ કાર્યકર્તાઓનું ધ્યાન આકર્ષિત કરે છે."
+   ],
+   "details_en": "Gujarat’s state administration announced that each child attending an Anganwadi centre will receive **₹8.50** per day for food. The amount is part of the **Integrated Child Development Services (ICDS)** programme, which the central **Ministry of Women and Child Development** runs to improve child health and nutrition. Nutritionists and child‑welfare groups have voiced concerns that the sum may not cover a wholesome meal for the 0‑6 age group, potentially affecting growth and immunity. The debate highlights the need for adequate funding in supplementary nutrition schemes, a topic often asked in Gujarat Talati exams under static general knowledge and current affairs sections.",
+   "details_gu": "ગુજરાત રાજ્ય સરકારએ જાહેર કર્યું છે કે અંગનવાડી કેન્દ્રોમાં હાજર દરેક બાળકને ખોરાક માટે પ્રતિદિન **₹8.50** મળશે. આ રકમ **ઇન્ટિગ્રેટેડ ચાઇલ્ડ ડેવલપમેન્ટ સર્વિસિસ (ICDS)** કાર્યક્રમનો ભાગ છે, જે કેન્દ્રિય **મહિલા અને બાળ વિકાસ મંત્રાલય** દ્વારા બાળકોનું સ્વાસ્થ્ય અને પોષણ સુધારવા માટે ચલાવવામાં આવે છે. પોષણ નિષ્ણાતો અને બાળ કલ્યાણ સંગઠનોએ ચિંતા વ્યક્ત કરી છે કે આ રકમ 0‑6 વર્ષના બાળકો માટે પૂરતું સંતુલિત ભોજન પૂરું પાડવામાં અસમર્થ હોઈ શકે, જે વૃદ્ધિ અને રોગપ્રતિકારક શક્તિ પર અસર કરી શકે. આ ચર્ચા પૂરક પોષણ યોજનાઓમાં યોગ્ય નાણાંની જરૂરિયાતને ઉજાગર કરે છે, જે ગુજરાત તાલતી પરીક્ષામાં સ્થિર સામાન્ય જ્ઞાન અને વર્તમાન ઘટનાઓના વિભાગમાં વારંવાર પૂછવામાં આવે છે.",
+   "mcq": {
+    "q_en": "What is the daily food budget per child set by the Gujarat government for Anganwadi centres?",
+    "q_gu": "ગુજરાત સરકારએ અંગનવાડી કેન્દ્રોમાં બાળકો માટે પ્રતિદિન કેટલો ખોરાક બજેટ નક્કી કર્યો છે?",
+    "o_en": [
+     "₹8.50",
+     "₹10",
+     "₹12",
+     "₹15"
+    ],
+    "o_gu": [
+     "₹8.50",
+     "₹10",
+     "₹12",
+     "₹15"
+    ],
+    "a": 0,
+    "e_en": "The announced amount is **₹8.50** per child per day.",
+    "e_gu": "જાહેર કરાયેલ રકમ **₹8.50** પ્રતિદિન છે."
+   },
+   "id": "ca-gujarat-sets-8-50-daily-food-budget-for-anganwadi-children",
+   "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0RRWmRuQldwcEF5clBjaGFRRkRGbDRGTENFZzFEMl9VWHlfWTBwUkdacmZianMtMzBsWVJyOF9nYWJ0Wm9nYmVkdDFsb3JaZTY4RU1oX294RzljOTlJaDhjX3RlM041WHYzSEVDN0piXzl5UDFhQUZXNXpjZVZwSVpEUHlZTC1FZ3lLd0ZPaGlHV2JMTHB2LQ?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0RRWmRuQldwcEF5clBjaGFRRkRGbDRGTENFZzFEMl9VWHlfWTBwUkdacmZianMtMzBsWVJyOF9nYWJ0Wm9nYmVkdDFsb3JaZTY4RU1oX294RzljOTlJaDhjX3RlM041WHYzSEVDN0piXzl5UDFhQUZXNXpjZVZwSVpEUHlZTC1FZ3lLd0ZPaGlHV2JMTHB2LQ?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "international",
+   "title_en": "India-Germany tie‑up for immunoglobulin production",
+   "title_gu": "ભારત‑જર્મની સહકારથી ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદન",
+   "summary_en": "India and Germany will work together to make immunoglobulin medicines, including a drug for organ transplants, after signing an NDA on 13 Oct 2026.",
+   "summary_gu": "ભારત અને જર્મની 13 ઓક્ટોબર 2026 નુ એનડીએ સાઇન કર્યા બાદ, અંગોનું ટ્રાન્સપ્લાન્ટ માટેની દવા સહિત ઇમ્યુનોગ્લોબ્યુલિન દવાઓનું ઉત્પાદન કરવા સહકાર કરશે.",
+   "points_en": [
+    "**Neovii Biotech GmbH** and **VINS Bioproducts Ltd** to collaborate",
+    "NDA signed on **13 October 2026** at the **Indo‑German Health Leadership Dialogue**",
+    "Collaboration includes **anti‑thymocyte globulin**, used in **organ transplantation** and blood disorders"
+   ],
+   "points_gu": [
+    "**Neovii Biotech GmbH** અને **VINS Bioproducts Ltd** વચ્ચે સહકાર",
+    "**13 ઓક્ટોબર 2026** ના **ઇન્ડો‑જર્મન હેલ્થ લીડરશિપ ડાયલોગ**માં એનડીએ સાઇન",
+    "સહકારમાં **એન્ટિ‑થાઇમસાઇટ ગ્લોબ્યુલિન** સામેલ, જે **અંગ ટ્રાન્સપ્લાન્ટ** અને રક્ત રોગોમાં ઉપયોગી"
+   ],
+   "details_en": "On the sidelines of the **Indo‑German Health Leadership Dialogue** held on **13 October 2026**, the Indian Embassy in Berlin facilitated a non‑disclosure agreement between Germany's **Neovii Biotech GmbH** and India's **VINS Bioproducts Ltd**. The agreement paves the way for joint manufacturing and **technology transfer** of **immunoglobulin products**, especially **anti‑thymocyte globulin**, a medicine essential for **human organ transplantation** and certain blood disorders. If realised, the tie‑up will boost India's domestic capacity, improve access to these specialised biologics and cut dependence on imports, a priority for the Ministry of Health and Family Welfare.",
+   "details_gu": "બર્લિનમાં ભારતીય દૂતાવાસે **13 ઓક્ટોબર 2026** ના **ઇન્ડો‑જર્મન હેલ્થ લીડરશિપ ડાયલોગ** દરમિયાન જર્મનીની **Neovii Biotech GmbH** અને ભારતની **VINS Bioproducts Ltd** વચ્ચે ગોપનીયતા કરાર (NDA) સુવિધિત કર્યો. આ કરાર દ્વારા **ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદનો**, ખાસ કરીને **એન્ટિ‑થાઇમસાઇટ ગ્લોબ્યુલિન**નું સહયોગી ઉત્પાદન અને **ટેકનોલોજી ટ્રાન્સફર** શક્ય બનશે, જે **અંગ ટ્રાન્સપ્લાન્ટ** અને કેટલીક રક્ત રોગોમાં આવશ્યક છે. સફળતા મળવાથી ભારતની ઘરેલું ક્ષમતા વધશે, આ વિશેષ બાયોલોજીકલ્સની પહોંચ સુધરશે અને આયાત પર નિર્ભરતા ઘટશે, જે આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલયનું મહત્વપૂર્ણ લક્ષ્ય છે.",
+   "mcq": {
+    "q_en": "Which German company signed an NDA with VINS Bioproducts Ltd for immunoglobulin production?",
+    "q_gu": "કયા જર્મન કંપનીએ VINS Bioproducts Ltd સાથે ઇમ્યુનોગ્લોબ્યુલિન ઉત્પાદન માટે એનડીએ સાઇન કર્યું?",
+    "o_en": [
+     "Neovii Biotech GmbH",
+     "Bayer AG",
+     "Siemens Healthineers",
+     "Merck KGaA"
+    ],
+    "o_gu": [
+     "Neovii Biotech GmbH",
+     "Bayer AG",
+     "Siemens Healthineers",
+     "Merck KGaA"
+    ],
+    "a": 0,
+    "e_en": "The NDA was between Neovii Biotech GmbH and VINS Bioproducts Ltd.",
+    "e_gu": "એનડીએ Neovii Biotech GmbH અને VINS Bioproducts Ltd વચ્ચે હતું."
+   },
+   "id": "ca-india-germany-tie-up-for-immunoglobulin-production",
+   "source": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece"
+    },
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/health/indian-german-firms-to-collaborate-on-immunoglobulin-products-indian-embassy/article71591495.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Bet Dwarka Corridor to Feature Underwater Darshan and Giant Krishna Statue",
+   "title_gu": "બેટ દ્વારકા કોરિડોરમાં અંડરવોટર દર્શન અને ૧૦૮ ફૂટનું કૃષ્ણ પ્રતિમા",
+   "summary_en": "Gujarat government plans the **Bet Dwarka Corridor** with an **underwater darshan** area and a **108‑foot Krishna** statue to boost tourism.",
+   "summary_gu": "ગુજરાત સરકાર બેટ દ્વારકા કોરિડોરમાં અંડરવોટર દર્શન વિસ્તાર અને ૧૦૮ ફૂટનું કૃષ્ણ પ્રતિમા બનાવીને પ્રવાસનને પ્રોત્સાહિત કરવાની યોજના બનાવી રહી છે.",
+   "points_en": [
+    "The project is named **Bet Dwarka Corridor**.",
+    "It will include an **underwater darshan** facility for visitors.",
+    "A **108‑foot** tall **Krishna** statue will be erected.",
+    "The initiative aims to develop coastal tourism in **Gujarat**."
+   ],
+   "points_gu": [
+    "પ્રોજેક્ટનું નામ **બેટ દ્વારકા કોરિડોર** છે.",
+    "તેમાં મુલાકાતીઓ માટે **અંડરવોટર દર્શન** સુવિધા હશે.",
+    "એક **૧૦૮ ફૂટ** ઊંચી **કૃષ્ણ** પ્રતિમા સ્થાપિત થશે.",
+    "આ પહેલ **ગુજરાત**માં કિનારીય પ્રવાસનને વિકસાવવા માટે છે."
+   ],
+   "details_en": "The Gujarat government has announced the **Bet Dwarka Corridor** project on the western coast of the state. The plan includes an **underwater darshan** zone where tourists can view marine life without getting wet, and a massive **108‑foot Krishna** statue that will become a landmark. The corridor is intended to link existing pilgrimage sites and improve infrastructure, thereby attracting more visitors and generating employment. The initiative falls under the state’s tourism development push and reflects a broader effort to showcase Gujarat’s cultural heritage and coastal potential.",
+   "details_gu": "ગુજરાત સરકારએ રાજ્યના પશ્ચિમ કિનારે **બેટ દ્વારકા કોરિડોર** પ્રોજેક્ટની જાહેરાત કરી છે. આ યોજનામાં મુલાકાતીઓ માટે **અંડરવોટર દર્શન** ક્ષેત્ર હશે, જ્યાં તેઓ પાણીમાં ન ડૂબ્યા જ સમુદ્રી જીવન જોઈ શકશે, અને એક વિશાળ **૧૦૮ ફૂટ** ઊંચી **કૃષ્ણ** પ્રતિમા હશે, જે નવું પ્રતીક બનશે. કોરિડોર હાલનાં તીર્થસ્થાનોને જોડશે, ઢાંચો સુધારશે અને વધુ પ્રવાસીઓને આકર્ષીને રોજગારી સર્જશે. આ પહેલ રાજ્યની પ્રવાસન વિકાસ નીતિનો ભાગ છે અને ગુજરાતની સાંસ્કૃતિક વારસો અને કિનારીય ક્ષમતા દર્શાવે છે.",
+   "mcq": {
+    "q_en": "What is the height of the Krishna statue planned under the Bet Dwarka Corridor?",
+    "q_gu": "બેટ દ્વારકા કોરિડોર હેઠળ યોજાયેલ કૃષ્ણ પ્રતિમાની ઊંચાઈ કેટલી છે?",
+    "o_en": [
+     "108 feet",
+     "150 feet",
+     "200 feet",
+     "250 feet"
+    ],
+    "o_gu": [
+     "૧૦૮ ફૂટ",
+     "૧૫૦ ફૂટ",
+     "૨૦૦ ફૂટ",
+     "૨૫૦ ફૂટ"
+    ],
+    "a": 0,
+    "e_en": "The plan specifies a **108‑foot** Krishna statue.",
+    "e_gu": "યોજનામાં **૧૦૮ ફૂટ** ઊંચી કૃષ્ણ પ્રતિમા દર્શાવવામાં આવી છે."
+   },
+   "id": "ca-bet-dwarka-corridor-to-feature-underwater-darshan-and-giant-",
+   "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNUV2Yk4yMkVvQXM1UWZxelBZTHlVUzU4Mlc0Snp3djlDWDlDSC1WQW01ekdKUm5oTXU5MjZKY2xNVnc1V2lvR1ZrNGhSR1BCU1M3SWZOdjhveGdJNHJBdUxVclZ0YWJYVnJjaG03VU9fV2x1NVZIcGc0RUp0WnpPaHJZVEF5U1UzRXRyZW1CSnpOcDQ4OVJ5RjdCalZnMkljZXl0aWhjWGhYN3RITzIxTUFDUnV2b05wXzBVWld3Y2ZTbHdWbE5UTjBoZV9aTGlMOWJmOW15WndkM24teXVkQ2VVMFFlMXBud3NGWlRfLXI2d2RUOUMzbFJpWFpMcUpDS2tHUHFZNWV4d9IBjwJBVV95cUxQTk5qRUpOX3N3VElXSWFrVll2WWZ0MzhKXy1reUlYMkdyaDNLZnFmcjV5djdKdk1QWDdpcDB3QWV3c2VGU3lzaVdBZ2JYaUd0ZGxCRjc3MnRWa0Nyc0ZRTU1kbmlvcVJ1S2VRbXZwdzhaNk83TzVMVzdNNzMtaWR2QVliUXNabWhNX1pGUUlMS05LLXVtQ3Bvano5RlM2dTJoS1NwZE5JbmxNSC16dWJrUjlqdjZiMUV1NXhKRVJsQUY0elg1MFNwdlhKU0twMUpLeUhBZWhINEJFTndMRU1hdGpfdFJEVHZwWGNDYnFZREx5UkxkS2Z6YV82bFE0SjlZdWVxNzZvYlhsc2dpS21z?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNUV2Yk4yMkVvQXM1UWZxelBZTHlVUzU4Mlc0Snp3djlDWDlDSC1WQW01ekdKUm5oTXU5MjZKY2xNVnc1V2lvR1ZrNGhSR1BCU1M3SWZOdjhveGdJNHJBdUxVclZ0YWJYVnJjaG03VU9fV2x1NVZIcGc0RUp0WnpPaHJZVEF5U1UzRXRyZW1CSnpOcDQ4OVJ5RjdCalZnMkljZXl0aWhjWGhYN3RITzIxTUFDUnV2b05wXzBVWld3Y2ZTbHdWbE5UTjBoZV9aTGlMOWJmOW15WndkM24teXVkQ2VVMFFlMXBud3NGWlRfLXI2d2RUOUMzbFJpWFpMcUpDS2tHUHFZNWV4d9IBjwJBVV95cUxQTk5qRUpOX3N3VElXSWFrVll2WWZ0MzhKXy1reUlYMkdyaDNLZnFmcjV5djdKdk1QWDdpcDB3QWV3c2VGU3lzaVdBZ2JYaUd0ZGxCRjc3MnRWa0Nyc0ZRTU1kbmlvcVJ1S2VRbXZwdzhaNk83TzVMVzdNNzMtaWR2QVliUXNabWhNX1pGUUlMS05LLXVtQ3Bvano5RlM2dTJoS1NwZE5JbmxNSC16dWJrUjlqdjZiMUV1NXhKRVJsQUY0elg1MFNwdlhKU0twMUpLeUhBZWhINEJFTndMRU1hdGpfdFJEVHZwWGNDYnFZREx5UkxkS2Z6YV82bFE0SjlZdWVxNzZvYlhsc2dpS21z?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat PSUs GEL and GTL give record dividend to state",
+   "title_gu": "ગુજરાતની પી.એસ.યુ.ઓ. GEL અને GTLએ રાજ્યને રેકોર્ડ ડિવિડન્ડ આપ્યો",
+   "summary_en": "The Gujarat state government received a record dividend of about **₹385 crore** from its two public‑sector units **GEL** and **GTL**.",
+   "summary_gu": "ગુજરાત રાજ્ય સરકારને તેના બે જાહેર ક્ષેત્ર યુનિટ **GEL** અને **GTL**માંથી અંદાજે **₹385 કરોડ**નું રેકોર્ડ ડિવિડન્ડ મળ્યું.",
+   "points_en": [
+    "**GEL** and **GTL** are Gujarat state‑owned public sector companies.",
+    "They paid a **record dividend** to the state government.",
+    "The dividend amount was roughly **₹385 crore**.",
+    "The payment boosts the state’s fiscal resources."
+   ],
+   "points_gu": [
+    "**GEL** અને **GTL** ગુજરાતની રાજ્ય માલિકીની જાહેર ક્ષેત્રની કંપનીઓ છે.",
+    "તેમણે રાજ્ય સરકારને **રેકોર્ડ ડિવિડન્ડ** આપ્યો.",
+    "ડિવિડન્ડની રકમ અંદાજે **₹385 કરોડ** હતી.",
+    "આ ચુકવણી રાજ્યની નાણાકીય સ્રોતોમાં વધારો કરે છે."
+   ],
+   "details_en": "The Gujarat government announced that its two public‑sector undertakings, **Gujarat Energy Transmission Ltd (GEL)** and **Gujarat State Petroleum Corporation Ltd (GTL)**, have paid a **record dividend** of about **₹385 crore** to the state treasury. This is the highest dividend ever received from these companies and adds significantly to the state’s revenue. The finance ministry of Gujarat will use the funds for development projects and to improve fiscal health. Earlier, both PSUs have contributed regularly, but this year’s payout marks a notable increase, reflecting better performance and profitability of the utilities.",
+   "details_gu": "ગુજરાત સરકારએ જાહેરાત કરી કે તેના બે જાહેર ક્ષેત્રની કંપનીઓ, **ગુજરાત એનર્જી ટ્રાન્સમિશન લિમિટેડ (GEL)** અને **ગુજરાત સ્ટેટ પેટ્રોલિયમ કોર્પોરેશન લિમિટેડ (GTL)**,એ રાજ્ય ખજાનામાં **રેકોર્ડ ડિવિડન્ડ** તરીકે અંદાજે **₹385 કરોડ**નું ચુકવણી કરી છે. આ બંને કંપનીઓમાંથી મળેલ સૌથી વધુ ડિવિડન્ડ છે અને રાજ્યની આવકમાં મહત્વપૂર્ણ વધારો કરે છે. ગુજરાતની નાણાકીય મંત્રાલય આ રકમને વિકાસ પ્રોજેક્ટો માટે અને નાણાકીય સ્વાસ્થ્ય સુધારવા માટે ઉપયોગ કરશે. અગાઉ પણ આ યુનિટ્સ નિયમિત રીતે યોગદાન આપતા હતા, પરંતુ આ વર્ષનું ચુકવણી તેમની કામગીરી અને નફાકારિતામાં નોંધપાત્ર વધારો દર્શાવે છે.",
+   "mcq": {
+    "q_en": "Which two Gujarat public‑sector units paid a record dividend of about ₹385 crore to the state government?",
+    "q_gu": "કયા બે ગુજરાતની જાહેર ક્ષેત્રની યુનિટ્સએ રાજ્ય સરકારને અંદાજે ₹385 કરોડનું રેકોર્ડ ડિવિડન્ડ આપ્યું?",
+    "o_en": [
+     "GEL and GTL",
+     "GSECL and GIDC",
+     "Gujarat Narmada Valley Development Corp and GIDC",
+     "Gujarat State Fertilizers and Gujarat Power Corporation"
+    ],
+    "o_gu": [
+     "GEL અને GTL",
+     "GSECL અને GIDC",
+     "ગુજરાત નર્મદા વેલી ડેવલપમેન્ટ કોર્પ અને GIDC",
+     "ગુજરાત સ્ટેટ ફર્ટિલાઇઝર્સ અને ગુજરાત પાવર કોર્પોરેશન"
+    ],
+    "a": 0,
+    "e_en": "The record dividend was paid by **GEL** and **GTL**.",
+    "e_gu": "રેકોર્ડ ડિવિડન્ડ **GEL** અને **GTL** દ્વારા ચૂકવવામાં આવ્યું."
+   },
+   "id": "ca-gujarat-psus-gel-and-gtl-give-record-dividend-to-state",
+   "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2ZLU3Y2dTFob19xVFV1aXZZLS1pRG11MU1WT2RHdWx4eUhuZkdGVEtuSTA1RXRqb0lsdC1YRmlrQWxZblA3R2FQRUJnYTlUVWVHeElvLWYtRTdtRElVQlhyUERvX3lNOVVTd1d0VV9FYm1nX080MGNPSnREcDdmeW9nSXoxcFFlZU9Oc3JGSExtQlVrcnhIcXJULTFfZmd0em95WXVpZHNuV2lfOWdNMHJhLURwT0tsNGhkRmo5dUJFSWFy0gHKAUFVX3lxTFB1VmJYcm1BeE1TTEJmdHE2UGNiTDNiVi1MTGZkQXM4MWVza0hHa29nSHB5NGhmQmxxSVM0a1hqSWhzRFR4S2xRaTRiOUdHS19BREJCZWNzNTdHS0VlSnV1ODJCeGpKaEJDZkY1YnBDMHZYZjBNb0JFVTRRR1p1bks4UnR1ckhjbmwxbGdrQk9iNWhLVTRKUFpSb3d1ZEhYMDR6MnlvZk1IRzU1UUJ1dl9DUHE0dEE2QmxUbTlLV25XbVk3b0Z4TlgzaUE?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2ZLU3Y2dTFob19xVFV1aXZZLS1pRG11MU1WT2RHdWx4eUhuZkdGVEtuSTA1RXRqb0lsdC1YRmlrQWxZblA3R2FQRUJnYTlUVWVHeElvLWYtRTdtRElVQlhyUERvX3lNOVVTd1d0VV9FYm1nX080MGNPSnREcDdmeW9nSXoxcFFlZU9Oc3JGSExtQlVrcnhIcXJULTFfZmd0em95WXVpZHNuV2lfOWdNMHJhLURwT0tsNGhkRmo5dUJFSWFy0gHKAUFVX3lxTFB1VmJYcm1BeE1TTEJmdHE2UGNiTDNiVi1MTGZkQXM4MWVza0hHa29nSHB5NGhmQmxxSVM0a1hqSWhzRFR4S2xRaTRiOUdHS19BREJCZWNzNTdHS0VlSnV1ODJCeGpKaEJDZkY1YnBDMHZYZjBNb0JFVTRRR1p1bks4UnR1ckhjbmwxbGdrQk9iNWhLVTRKUFpSb3d1ZEhYMDR6MnlvZk1IRzU1UUJ1dl9DUHE0dEE2QmxUbTlLV25XbVk3b0Z4TlgzaUE?oc=5"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRTkxR0tPSm13cFNCc3p5TVhqTmtHUFlvbEJycFR0UDk2bWtxU2VYRW92SUd0OHBaM2NCeE5PNzBxRWlhZ18xNEpSNjY0V2ktQzJtN2l1ZWNVS216WWg1Y3QzOUtMNzROWmdsZk1tMDRyQ3FlYy1MdUxqc2tXa210WkpYRjRRS0tzb09sdmpKMERZUmVQRFhyNnFYMFp3cTFQaWUxaS1YdWk2NmI5Vk5fZ0VpYmR1VjQ5ZmUyMEJB0gHEAUFVX3lxTE81YVFoTVd4N3hYMGE5NkxQQ1JlejhMeUpqOVBuSDNZaFN1Qk5Mb1c3cWdjWjFyMktBYzNVUTJLbUg5VTBWazlObFBVYVo5ZmNnQmx1UmxSbExtd2E3OU0tWGN3eTVTN2l6cENoOEtsSEM0RjlUNVR3aFBiM09CUENGTmkxcTNWbm9pQ21uSllNZVdudWtvcjZtSzQwWWJiMHpuZ0NaNFB0VTBScW9KVGJWdWVyZGFkTWt4TFUyNGQ0T3RhMkE?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat approves four PPP medical colleges",
+   "title_gu": "ગુજરાતે ચાર PPP મેડિકલ કૉલેજો મંજૂર કર્યા",
+   "summary_en": "The Gujarat government gave the green light to **four** public‑private partnership medical colleges as part of a district‑level push.",
+   "summary_gu": "ગુજરાત સરકારએ જિલ્લા સ્તરના પ્રોત્સાહન તરીકે **ચાર** PPP મેડિકલ કૉલેજો માટે મંજૂરી આપી.",
+   "points_en": [
+    "**Four** new **PPP** medical colleges approved by Gujarat government",
+    "Colleges will be set up in **districts** to expand health services",
+    "Aim is to raise the number of medical seats in the state",
+    "Land allocation linked to the **Urban Acres** initiative",
+    "Project overseen by Gujarat **Health Ministry**"
+   ],
+   "points_gu": [
+    "ગુજરાત સરકાર દ્વારા **ચાર** નવા **PPP** મેડિકલ કૉલેજો મંજૂર",
+    "કૉલેજો **જિલ્લાઓ**માં સ્થાપિત થશે જેથી આરોગ્ય સેવા વિસ્તરે",
+    "રાજ્યમાં મેડિકલ સીટોની સંખ્યા વધારવાનો હેતુ",
+    "જમીન વહેંચણી **Urban Acres** પહેલ સાથે જોડાયેલ",
+    "પ્રોજેક્ટનું નિરીક્ષણ ગુજરાતનું **હેલ્થ મંત્રાલય** કરે છે"
+   ],
+   "details_en": "The Gujarat government has approved the establishment of **four** public‑private partnership (PPP) medical colleges under its district development drive. The move, announced by the state **Health Ministry**, seeks to increase the number of medical seats and improve healthcare access in underserved districts. Land for the colleges will be provided through the **Urban Acres** programme, which allocates urban‑area plots for public projects. Gujarat has previously faced a shortfall of medical seats, prompting the use of the PPP model that combines government support with private investment. This initiative aligns with the state's broader goal of strengthening health infrastructure and creating more educational opportunities for aspiring doctors.",
+   "details_gu": "ગુજરાત સરકારએ પોતાના જિલ્લા વિકાસ અભિયાન હેઠળ **ચાર** જાહેર‑ખાનગી ભાગીદારી (PPP) મેડિકલ કૉલેજો સ્થાપિત કરવાની મંજૂરી આપી છે. રાજ્યનું **હેલ્થ મંત્રાલય** આ નિર્ણય જાહેર કર્યું, જેનુ હેતુ મેડિકલ સીટોની સંખ્યા વધારવો અને ઓછા સેવા પ્રાપ્ત થતા જિલ્લાઓમાં આરોગ્ય સેવા સુધારવી છે. કૉલેજો માટેની જમીન **Urban Acres** કાર્યક્રમ દ્વારા આપવામાં આવશે, જે જાહેર પ્રોજેક્ટો માટે શહેરી જમીન ફાળવે છે. અગાઉ ગુજરાતમાં મેડિકલ સીટોની કમી હતી, જેના કારણે PPP મોડેલ અપનાવવામાં આવ્યો, જેમાં સરકારનું સહયોગ અને ખાનગી રોકાણ જોડાય છે. આ પહેલ રાજ્યની આરોગ્ય માળખા મજબૂત કરવા અને ડોક્ટર બનવા ઇચ્છુક વિદ્યાર્થીઓ માટે વધુ શૈક્ષણિક અવસરો સર્જવા માટેની વ્યાપક યોજનાનો ભાગ છે.",
+   "mcq": {
+    "q_en": "How many PPP medical colleges did the Gujarat government approve in the recent district push?",
+    "q_gu": "તાજેતરના જિલ્લા પ્રોત્સાહનમાં ગુજરાત સરકારએ કેટલા PPP મેડિકલ કૉલેજો મંજૂર કર્યા?",
+    "o_en": [
+     "Two",
+     "Three",
+     "Four",
+     "Five"
+    ],
+    "o_gu": [
+     "બે",
+     "ત્રણ",
+     "ચાર",
+     "પાંચ"
+    ],
+    "a": 2,
+    "e_en": "The approval was for **four** PPP medical colleges.",
+    "e_gu": "મંજૂરી **ચાર** PPP મેડિકલ કૉલેજો માટે હતી."
+   },
+   "id": "ca-gujarat-approves-four-ppp-medical-colleges",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ZBMVFYYVlaUWlaQmpSNUhyQklMM0VzbkRydWptY21PRGVFaVludzUySDlKSVQ2dEQwV3pQQ3JwOXJWOGZIdWo0S2R3OTNMS2l3Rmp0ckFlMm9zYkI4QlEyS3VBcnJId3Z3ZGVibHlQaGFfNkNUaVVkT3d6dmx2dGNTdjR4cFhiMHc?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1ZBMVFYYVlaUWlaQmpSNUhyQklMM0VzbkRydWptY21PRGVFaVludzUySDlKSVQ2dEQwV3pQQ3JwOXJWOGZIdWo0S2R3OTNMS2l3Rmp0ckFlMm9zYkI4QlEyS3VBcnJId3Z3ZGVibHlQaGFfNkNUaVVkT3d6dmx2dGNTdjR4cFhiMHc?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat adds 18 machines to improve cataract surgery",
+   "title_gu": "ગુજરાતમાં કૅટારેક્ટ સર્જરી માટે ૧૮ નવું મશીન ઉમેરાયું",
+   "summary_en": "The Gujarat government will install **18** new machines in state hospitals to boost **cataract surgery** capacity.",
+   "summary_gu": "ગુજરાત સરકાર રાજ્યની હોસ્પિટલોમાં **૧૮** નવું મશીન લગાવી **કૅટારેક્ટ સર્જરી**ની ક્ષમતા વધારશે.",
+   "points_en": [
+    "**18** new machines will be placed in Gujarat hospitals",
+    "The machines are for **cataract surgery** to increase patient throughput",
+    "The move is part of the state’s health‑care improvement drive"
+   ],
+   "points_gu": [
+    "**૧૮** નવું મશીન ગુજરાતની હોસ્પિટલોમાં લગાડવામાં આવશે",
+    "મશીન **કૅટારેક્ટ સર્જરી** માટે છે, જેથી દર્દીઓની સંખ્યા વધે",
+    "આ પગલું રાજ્યની આરોગ્ય સુધારણા યોજનાનો ભાગ છે"
+   ],
+   "details_en": "The Gujarat government announced the procurement of **18** advanced machines to upgrade **cataract surgery** facilities across its hospitals. Cataract is a leading cause of reversible blindness in India, and increasing surgical capacity helps the state meet its public‑health targets. The health department will distribute the equipment to major district hospitals, aiming to reduce waiting times and improve outcomes. This initiative follows earlier state programmes that upgraded eye‑care units and aligns with the national goal of eliminating avoidable blindness by 2030. By expanding resources, Gujarat hopes to serve more patients, especially in rural areas where eye‑care access is limited.",
+   "details_gu": "ગુજરાત સરકારએ રાજ્યની હોસ્પિટલોમાં **કૅટારેક્ટ સર્જરી**ની સુવિધાઓ સુધારવા માટે **૧૮** અદ્યતન મશીન ખરીદવાની જાહેરાત કરી છે. કૅટારેક્ટ ભારતમાં પુનઃપ્રાપ્ય અંધત્વનું મુખ્ય કારણ છે, અને સર્જરીની ક્ષમતા વધારવાથી રાજ્યના આરોગ્ય લક્ષ્યો પૂર્ણ થાય છે. આરોગ્ય વિભાગ આ ઉપકરણો મુખ્ય જિલ્લા હોસ્પિટલોમાં વહેંચશે, જેથી રાહ જોવાનો સમય ઘટે અને પરિણામો સુધરે. આ પગલું અગાઉની રાજ્ય યોજનાઓને અનુસરે છે, જે આંખની કાળજીની યુનિટો અપગ્રેડ કરે છે અને 2030 સુધી ટાળવા યોગ્ય અંધત્વ દૂર કરવાની રાષ્ટ્રીય લક્ષ્ય સાથે સુસંગત છે. સ્રોતો વધારીને, ખાસ કરીને ગ્રામિણ વિસ્તારોમાં, ગુજરાત વધુ દર્દીઓને સેવા આપી શકશે.",
+   "mcq": {
+    "q_en": "How many new machines were announced for cataract surgery upgrades in Gujarat?",
+    "q_gu": "ગુજરાતમાં કૅટારેક્ટ સર્જરી સુધારણા માટે કેટલા નવા મશીનની જાહેરાત થઈ?",
+    "o_en": [
+     "10",
+     "15",
+     "18",
+     "20"
+    ],
+    "o_gu": [
+     "૧૦",
+     "૧૫",
+     "૧૮",
+     "૨૦"
+    ],
+    "a": 2,
+    "e_en": "The announcement mentioned **18** new machines.",
+    "e_gu": "જાહેરાતમાં **૧૮** નવા મશીનની વાત કરવામાં આવી હતી."
+   },
+   "id": "ca-gujarat-adds-18-machines-to-improve-cataract-surgery",
+   "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUs1czFPMExTYjMwOEdOUFVQV0FPZnpVMHU5dTRSZTJtMGl2cXRvMEtOWVNOa3FyRE1DaFVjaTZfTWlGVC1LSVJucEtVTU40OVpBTTFRU0VIRnFPdTRJM25GTFBpaE14cGM2ekVJekJZY1BUWVYzdkdLdzJnQWFPLTJXZ1MtRUkzWkJsQklNUk9YVXE0VHM2MHg4a21IZjNDRS1oeTFFWXhPZnhsUFh5NWpQUHlrNWxCaUE?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUs1czFPMExTYjMwOEdOUFVQV0FPZnpVMHU5dTRSZTJtMGl2cXRvMEtOWVNOa3FyRE1DaFVjaTZfTWlGVC1LSVJucEtVTU40OVpBTTFRU0VIRnFPdTRJM25GTFBpaE14cGM2ekVJekJZY1BUWVYzdkdLdzJnQWFPLTJXZ1MtRUkzWkJsQklNUk9YVXE0VHM2MHg4a21IZjNDRS1oeTFFWXhPZnhsUFh5NWpQUHlrNWxCaUE?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat allocates ₹1,100 crore incentives to entrepreneurs",
+   "title_gu": "ગુજરાતે ઉદ્યોગપતિઓને ૧,૧૦૦ કરોડ પ્રોત્સાહન આપ્યા",
+   "summary_en": "The Gujarat government handed out **₹1,100 crore** in incentives to **14,853 entrepreneurs**, removing the earlier **bank‑loan condition**.",
+   "summary_gu": "ગુજરાત સરકારએ **૧૪,૮૫૩ ઉદ્યોગપતિઓ**ને **૧,૧૦૦ કરોડ** પ્રોત્સાહન આપ્યું, અને અગાઉની **બેંક લોન શરત** દૂર કરી.",
+   "points_en": [
+    "**Harsh Sanghvi** oversaw the distribution of incentives.",
+    "**₹1,100 crore** was allocated to support entrepreneurs.",
+    "**14,853 entrepreneurs** received the financial aid.",
+    "The previous **bank‑loan condition** was eliminated."
+   ],
+   "points_gu": [
+    "**હર્ષ સંગ્વી**એ પ્રોત્સાહનનું વિતરણ નિરીક્ષિત કર્યું.",
+    "**૧,૧૦૦ કરોડ** ઉદ્યોગપતિઓને આપવામાં આવ્યા.",
+    "**૧૪,૮૫૩ ઉદ્યોગપતિઓ**ને આ નાણાકીય સહાય મળી.",
+    "પહેલાની **બેંક લોન શરત** હટાવી દેવામાં આવી."
+   ],
+   "details_en": "The Gujarat state government, under the supervision of **Harsh Sanghvi**, released a package of **₹1,100 crore** to boost small‑scale businesses. The funds were given to **14,853 entrepreneurs** across the state. Earlier, recipients had to secure a bank loan to qualify, but that requirement was removed to make the scheme more accessible. This move aims to encourage entrepreneurship, generate employment, and strengthen the local economy by reducing financial barriers for new and existing business owners.",
+   "details_gu": "ગુજરાત રાજ્ય સરકાર, **હર્ષ સંગ્વી**ની દેખરેખમાં, નાના વ્યવસાયો માટે **૧,૧૦૦ કરોડ**નું પેકેજ જાહેર કર્યું. આ રકમ **૧૪,૮૫૩ ઉદ્યોગપતિઓ**ને આપવામાં આવી. અગાઉ, લાભ મેળવવા માટે બેંક લોન લેવી આવશ્યક હતી, પરંતુ હવે આ શરત હટાવીને યોજના વધુ સરળ બનાવી. આ પગલું ઉદ્યોગસાહસિકતા પ્રોત્સાહિત કરવા, રોજગારી સર્જવા અને નાણાકીય અવરોધો ઘટાડીને સ્થાનિક અર્થવ્યવસ્થાને મજબૂત બનાવવા માટે છે.",
+   "mcq": {
+    "q_en": "How much incentive did the Gujarat government allocate to entrepreneurs?",
+    "q_gu": "ગુજરાત સરકારએ ઉદ્યોગપતિઓને કેટલું પ્રોત્સાહન આપ્યું?",
+    "o_en": [
+     "₹500 crore",
+     "₹1,100 crore",
+     "₹2,000 crore",
+     "₹750 crore"
+    ],
+    "o_gu": [
+     "₹૫૦૦ કરોડ",
+     "₹૧,૧૦૦ કરોડ",
+     "₹૨,૦૦૦ કરોડ",
+     "₹૭૫૦ કરોડ"
+    ],
+    "a": 1,
+    "e_en": "The government allocated **₹1,100 crore**.",
+    "e_gu": "સરકારે **૧,૧૦૦ કરોડ** પ્રોત્સાહન આપ્યું."
+   },
+   "id": "ca-gujarat-allocates-1-100-crore-incentives-to-entrepreneurs",
+   "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVzFiRENqUDFNLS1pVkNrdnFWTExxVU84RzZmZ3Q3OGxfTlZzdzU4MmpMRmVQWHp2V0ZXSG55bkFFWVJvb3BrU1k3LWdVZkhsaHpUZG9DWTdIRmNpY1JuT1RIVHRFNGRtQW5fc3NnYTEtcnZCd1lBS1JnYnFzc3JEZkV1NTNvOUJmbjNpcVN0aGJVMHBCSFp6M20xTDBHNmdmX3pWdlM0WF9PLVpFSGxYc29seldWUlpYZnIwRlU2akQ5SGdyWWgzUXJjMnJDaFI2djRiOGpLYURaRmZuVzZUS0hEank4R0M0YnRCTFlEREdfbHNfSnIzeXpB?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVzFiRENqUDFNLS1pVkNrdnFWTExxVU84RzZmZ3Q3OGxfTlZzdzU4MmpMRmVQWHp2V0ZXSG55bkFFWVJvb3BrU1k3LWdVZkhsaHpUZG9DWTdIRmNpY1JuT1RIVHRFNGRtQW5fc3NnYTEtcnZCd1lBS1JnYnFzc3JEZkV1NTNvOUJmbjNpcVN0aGJVMHBCSFp6M20xTDBHNmdmX3pWdlM0WF9PLVpFSGxYc29seldWUlpYZnIwRlU2akQ5SGdyWWgzUXJjMnJDaFI2djRiOGpLYURaRmZuVzZUS0hEank4R0M0YnRCTFlEREdfbHNfSnIzeXpB?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "India‑US trade pact moves ahead, China trade hurdles persist",
+   "title_gu": "ભારત‑યુએસ વેપાર કરાર આગળ વધે છે, ચીન સાથે વેપારમાં અવરોધો",
+   "summary_en": "Finance Minister **Nirmala Sitharaman** said the first phase of the **India‑U.S. trade pact** is being drafted, while non‑tariff barriers remain the main obstacle in India‑China trade.",
+   "summary_gu": "વિત્ત મંત્રી **નર્મલા સિથરમન**એ જણાવ્યું કે **ભારત‑યુએસ વેપાર કરાર**નો પ્રથમ તબક્કો કાનૂની ડ્રાફ્ટમાં છે, જ્યારે ભારત‑ચીન વેપારમાં નોન‑ટેરિફ અવરોધો મુખ્ય સમસ્યા છે.",
+   "points_en": [
+    "**Nirmala Sitharaman**, Union Finance Minister, said on **October 16, 2026** that the first phase of the **India‑U.S. trade pact** is under legal drafting.",
+    "**Piyush Goyal**, Commerce and Industry Minister, had announced on **October 15, 2026** that the same phase was finalised.",
+    "She highlighted **non‑tariff barriers**, especially **phytosanitary measures**, as the biggest hurdle to Indian exports to China."
+   ],
+   "points_gu": [
+    "**નર્મલા સિથરમન**, યુનિયન વિત્ત મંત્રી, એ **16 ઓક્ટોબર 2026**એ જણાવ્યું કે **ભારત‑યુએસ વેપાર કરાર**નો પ્રથમ તબક્કો કાનૂની ડ્રાફ્ટમાં છે.",
+    "**પિયુષ ગોયલ**, વેપાર અને ઉદ્યોગ મંત્રી, એ **15 ઓક્ટોબર 2026**એ એ તબક્કો પૂર્ણ થયો હોવાનું જણાવ્યું.",
+    "તેણીએ **નૉન‑ટેરિફ અવરોધો**, ખાસ કરીને **ફાઇટોસેનિટરી પગલાં**,ને ભારતની ચીનમાં નિકાસ માટે મુખ્ય સમસ્યા તરીકે દર્શાવી."
+   ],
+   "details_en": "On **October 16, 2026**, Union Finance Minister **Nirmala Sitharaman** expressed optimism that the **India‑U.S. trade pact** will be concluded soon, after **Commerce and Industry Minister Piyush Goyal** said on **October 15, 2026** that its first phase is finalised and now in legal drafting. Sitharaman also warned that **non‑tariff barriers**, such as **phytosanitary measures**, continue to block Indian products like generic medicines, beef and vegetables from entering the Chinese market. She noted India prefers negotiation over punitive tariffs. Understanding these developments helps candidates answer questions on trade policy, ministerial roles and current bilateral negotiations.",
+   "details_gu": "**16 ઓક્ટોબર 2026**એ યુનિયન વિત્ત મંત્રી **નર્મલા સિથરમન**એ આશા વ્યક્ત કરી કે **ભારત‑યુએસ વેપાર કરાર** જલ્દી પૂર્ણ થશે, જ્યારે **15 ઓક્ટોબર 2026**એ **વાણિજ્ય અને ઉદ્યોગ મંત્રી પિયુષ ગોયલ**એ જણાવ્યું કે તેનો પ્રથમ તબક્કો પૂર્ણ થઈ કાનૂની ડ્રાફ્ટમાં છે. સિથરમનએ એ પણ કહ્યું કે **નૉન‑ટેરિફ અવરોધો**, જેમ કે **ફાઇટોસેનિટરી પગલાં**, ભારતીય જનરિક દવાઓ, ગાયનું માંસ અને શાકભાજી જેવા ઉત્પાદનોને ચીનમાં પ્રવેશવામાં અવરોધ કરે છે. ભારત દંડાત્મક શુલ્કો કરતા ચર્ચા પસંદ કરે છે. આ જાણકારી ઉમેદવારોને વેપાર નીતિ, મંત્રી પદો અને વર્તમાન દ્વિપક્ષીય ચર્ચાઓ વિશે પ્રશ્નો માટે મદદ કરે છે.",
+   "mcq": {
+    "q_en": "Which minister said the first phase of the India‑U.S. trade pact is under legal drafting?",
+    "q_gu": "કયા મંત્રીએ જણાવ્યું કે ભારત‑યુએસ વેપાર કરારનો પ્રથમ તબક્કો કાનૂની ડ્રાફ્ટમાં છે?",
+    "o_en": [
+     "Piyush Goyal",
+     "Nirmala Sitharaman",
+     "Rajnath Singh",
+     "S. Jaishankar"
+    ],
+    "o_gu": [
+     "પિયુષ ગોયલ",
+     "નર્મલા સિથરમન",
+     "રાજનાથ સિંઘ",
+     "એસ. જયશંકર"
+    ],
+    "a": 1,
+    "e_en": "Finance Minister **Nirmala Sitharaman** made the statement on 16 October 2026.",
+    "e_gu": "વિત્ત મંત્રી **નર્મલા સિથરમન**એ 16 ઓક્ટોબર 2026એ આ નિવેદન આપ્યું."
+   },
+   "id": "ca-india-us-trade-pact-moves-ahead-china-trade-hurdles-persist",
+   "source": "https://www.thehindu.com/business/Economy/non-tariff-barriers-are-biggest-hurdle-in-india-china-trade-says-nirmala-sitharaman/article71591327.ece",
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/business/Economy/non-tariff-barriers-are-biggest-hurdle-in-india-china-trade-says-nirmala-sitharaman/article71591327.ece"
+    },
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/non-tariff-barriers-are-biggest-hurdle-in-india-china-trade-says-nirmala-sitharaman/article71591327.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "awards",
+   "title_en": "2026 Nobel Economics Prize Highlights Human‑Centric Macro",
+   "title_gu": "2026 નો નોબેલ અર્થશાસ્ત્ર પુરસ્કાર: માનવ‑કેન્દ્રિત મેક્રો",
+   "summary_en": "The **2026 Nobel Prize in Economic Sciences** was awarded to **Robert E. Hall** and **Michael Woodford** for work that stresses the human side of macroeconomics.",
+   "summary_gu": "**2026 નોબેલ અર્થશાસ્ત્ર પુરસ્કાર** **રોબર્ટ ઈ. હોલ** અને **માઇકલ વુડફોર્ડ** ને આપવામાં આવ્યો, જેમણે મેક્રો અર્થશાસ્ત્રમાં માનવ પાસાને મહત્વ આપ્યું છે.",
+   "points_en": [
+    "**Robert E. Hall** and **Michael Woodford** received the 2026 Nobel economics award",
+    "Their research stresses human welfare in macroeconomic policy",
+    "The prize challenges traditional ideas like the Phillips Curve"
+   ],
+   "points_gu": [
+    "**રોબર્ટ ઈ. હોલ** અને **માઇકલ વુડફોર્ડ** ને 2026 નોબેલ અર્થશાસ્ત્ર પુરસ્કાર મળ્યો",
+    "તેમની સંશોધન મેક્રો નીતિમાં માનવ કલ્યાણને મહત્વ આપે છે",
+    "આ પુરસ્કારે ફિલિપ્સ કર્વ જેવી પરંપરાગત ધારણાઓને પડકાર્યો"
+   ],
+   "details_en": "In **2026**, the Nobel Committee in Economic Sciences honoured two leading macroeconomists, **Robert E. Hall** and **Michael Woodford**. Their work moves beyond treating the economy as a set of mechanical variables and instead highlights how policies affect people's lives. By questioning long‑standing ideas such as the inverse link between unemployment and inflation, they aim to make macroeconomic theory more humane. This recognition underscores the importance of linking economic policy to social welfare, a theme that often appears in Gujarat Talati exams under the Ministry of Finance and related development schemes.",
+   "details_gu": "**2026** માં નોબેલ આર્થિક વિજ્ઞાન કમિટી બે મુખ્ય મેક્રો અર્થશાસ્ત્રીઓ, **રોબર્ટ ઈ. હોલ** અને **માઇકલ વુડફોર્ડ** ને સન્માનિત કરે છે. તેમની કામગીરી અર્થવ્યવસ્થાને માત્ર યાંત્રિક ચલ તરીકે નહીં, પરંતુ નીતિઓ લોકોની જીંદગીઓ પર કેવી અસર કરે છે તે પર ભાર મૂકે છે. બેરોજગારી અને મહંગાઈ વચ્ચેના વિપરીત સંબંધ જેવી પરંપરાગત ધારણાઓને પ્રશ્ન કરીને, તેઓ મેક્રો સિદ્ધાંતને વધુ માનવિય બનાવવા પ્રયત્ન કરે છે. આ માન્યતા નીતિ અને સામાજિક કલ્યાણને જોડવાની મહત્વતા દર્શાવે છે, જે ગુજરાત તાલાટી પરીક્ષાઓમાં નાણાકીય મંત્રાલય અને સંબંધિત વિકાસ યોજનાઓ હેઠળ વારંવાર પૂછવામાં આવે છે.",
+   "mcq": {
+    "q_en": "Who were awarded the **2026 Nobel Prize in Economic Sciences**?",
+    "q_gu": "**2026 નોબેલ અર્થશાસ્ત્ર પુરસ્કાર** કયા વ્યક્તિઓને મળ્યો?",
+    "o_en": [
+     "**Robert E. Hall** and **Michael Woodford**",
+     "Paul Krugman and Joseph Stiglitz",
+     "Milton Friedman and Friedrich Hayek",
+     "Amartya Sen and Esther Duflo"
+    ],
+    "o_gu": [
+     "**રોબર્ટ ઈ. હોલ** અને **માઇકલ વુડફોર્ડ**",
+     "પોલ ક્રુગમેન અને જોઝેફ સ્ટિગ્લિટ્ઝ",
+     "મિલ્ટન ફ્રીડમેન અને ફ્રિડ્રિખ હાયેક",
+     "અમર્ત્ય સેન અને એસ્ટર ડુફ્લો"
+    ],
+    "a": 0,
+    "e_en": "The prize was given to **Robert E. Hall** and **Michael Woodford** in 2026.",
+    "e_gu": "પુરસ્કાર **રોબર્ટ ઈ. હોલ** અને **માઇકલ વુડફોર્ડ** ને 2026 માં મળ્યો."
+   },
+   "id": "ca-2026-nobel-economics-prize-highlights-human-centric-macro",
+   "source": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "environment",
+   "title_en": "UN pre‑COP31 climate summit launches in Fiji",
+   "title_gu": "યુએન પ્રી‑સીઓપી૩૧ હવામાન સમિટ ફીજીમાં શરૂ",
+   "summary_en": "The UN’s pre‑COP31 meeting began on **October 5, 2026** in **Nadi, Fiji**, focusing on Pacific climate challenges.",
+   "summary_gu": "યુએનનું પ્રી‑સીઓપી૩૧ સમિટ **5 ઓક્ટોબર 2026** ના રોજ **નાડી, ફીજી**માં શરૂ થયું, પેસિફિક હવામાન સમસ્યાઓ પર ધ્યાન કેન્દ્રિત કરે છે.",
+   "points_en": [
+    "**October 5, 2026**: summit start date",
+    "**Nadi**, **Fiji**: host city and country",
+    "Fiji’s Climate Minister **Lynda Tabuya** opened the event",
+    "Prime Minister **Sitiveni Rabuka** inaugurated the stakeholder programme",
+    "Pre‑COP talks precede **COP31** in **Turkey** next month"
+   ],
+   "points_gu": [
+    "**5 ઓક્ટોબર 2026**: સમિટની શરૂઆતની તારીખ",
+    "**નાડી**, **ફીજી**: આયોજક શહેર અને દેશ",
+    "ફીજીની હવામાન મંત્રી **લિન્ડા ટાબુયા**એ સમિટનું ઉદ્ઘાટન કર્યું",
+    "પ્રધાનમંત્રી **સિતિવેની રાબુકા**એ સ્ટેકહોલ્ડર પ્રોગ્રામ શરૂ કર્યો",
+    "પ્રિ‑સીઓપી ચર્ચાઓ **ટીર્કી**માં આવતા મહિને યોજાનારી **COP31** માટે પૂર્વ તૈયારી"
+   ],
+   "details_en": "On **Monday, October 5, 2026**, the United Nations launched its pre‑COP31 climate summit in **Nadi, Fiji**. The meeting aims to highlight the vulnerability of Pacific islands to climate change. Fiji’s Climate Minister **Lynda Tabuya** welcomed participants, while Prime Minister **Sitiveni Rabuka** opened the stakeholder programme. Delegates will also meet in **Tuvalu**, another atoll nation facing rising seas. This gathering serves as a precursor to the main UN climate conference, **COP31**, scheduled for the following month in **Turkey**. Understanding these events helps candidates link international climate policy with regional impacts and India's role in global environmental negotiations.",
+   "details_gu": "**સોમવાર, 5 ઓક્ટોબર 2026** ના રોજ, યુનાઇટેડ નેશન્સએ **નાડી, ફીજી**માં પ્રી‑સીઓપી૩૧ હવામાન સમિટ શરૂ કર્યો. આ સમિટ પેસિફિક ટાપુઓની હવામાન પરિવર્તન પ્રત્યેની નાજુકતા દર્શાવવા છે. ફીજીની હવામાન મંત્રી **લિન્ડા ટાબુયા**એ ભાગ લેનારાઓનું સ્વાગત કર્યું, જ્યારે પ્રધાનમંત્રી **સિતિવેની રાબુકા**એ સ્ટેકહોલ્ડર પ્રોગ્રામનું ઉદ્ઘાટન કર્યું. પ્રતિનિધિઓ **તુવાલુ**માં પણ મળશે, જે સમુદ્ર સ્તર વધવાથી જોખમમાં છે. આ સમિટ મુખ્ય યુએન હવામાન સમિટ **COP31**ની પૂર્વ તૈયારી છે, જે આવતા મહિને **ટીર્કી**માં યોજાશે. ઉમેદવારો માટે આ આંતરરાષ્ટ્રીય હવામાન નીતિ અને પ્રદેશીય અસરને સમજવું મહત્વપૂર્ણ છે.",
+   "mcq": {
+    "q_en": "Which city hosted the UN pre‑COP31 summit on October 5, 2026?",
+    "q_gu": "યુએન પ્રી‑સીઓપી૩૧ સમિટ કયા શહેરમાં 5 ઓક્ટોબર 2026ને યોજાઈ?",
+    "o_en": [
+     "Suva",
+     "Nadi",
+     "Lautoka",
+     "Labasa"
+    ],
+    "o_gu": [
+     "સુવા",
+     "નાડી",
+     "લાઉટોકા",
+     "લાબાસા"
+    ],
+    "a": 1,
+    "e_en": "The summit was held in **Nadi**, Fiji.",
+    "e_gu": "સમિટ **નાડી**, ફીજીમાં યોજાઈ હતી."
+   },
+   "id": "ca-un-pre-cop31-climate-summit-launches-in-fiji",
+   "source": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
+    },
+    {
+     "name": "The Hindu (World)",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece"
+    }
+   ],
+   "by": "groq"
   }
  ]
 }
