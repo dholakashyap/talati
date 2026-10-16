@@ -342,6 +342,348 @@
    ],
    "by": "groq",
    "date": "2026-10-16"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Lancet Commission lists 17 global health threats to 2100",
+   "title_gu": "લાંસેટ કમિશન 2100 સુધી 17 વૈશ્વિક આરોગ્ય જોખમો સૂચવે છે",
+   "summary_en": "A new Lancet Commission report released at the World Health Summit in Berlin identifies **17** interlinked threats that could affect human health by **2100**.",
+   "summary_gu": "બર્લિનમાં વર્લ્ડ હેલ્થ સમિટમાં રજૂ થયેલ નવા લગ્નેટ કમિશન રિપોર્ટમાં 2100 સુધી માનવ આરોગ્યને અસર કરી શકે તેવા **17** પરસ્પર જોડાયેલા જોખમો દર્શાવાયા છે.",
+   "points_en": [
+    "**Lancet Commission** released the report at the **World Health Summit** in **Berlin**.",
+    "**37 experts** assessed risks across **204** countries.",
+    "Top catastrophic threats include **nuclear conflict** and **malicious AI**.",
+    "**Obesity** could cause the largest loss – about **23.1 billion DALYs**.",
+    "Improving education could avert **16.1 billion DALYs**."
+   ],
+   "points_gu": [
+    "**લાંસેટ કમિશન**એ **બર્લિન**માં થયેલ **વર્લ્ડ હેલ્થ સમિટ**માં રિપોર્ટ રજૂ કર્યો.",
+    "**37 નિષ્ણાતો**એ **204** દેશોમાં જોખમોનું મૂલ્યાંકન કર્યું.",
+    "મુખ્ય વિનાશકારી જોખમોમાં **પરમાણુ સંઘર્ષ** અને **દુષ્ટ AI** સામેલ છે.",
+    "**મોટાપો** સૌથી મોટો નુકસાનકારક છે – અંદાજે **23.1 બિલિયન DALYs**.",
+    "શિક્ષણમાં સુધારો **16.1 બિલિયન DALYs** બચાવી શકે."
+   ],
+   "details_en": "The **Lancet Commission** report, launched at the **World Health Summit** in **Berlin**, lists **17** interconnected threats that could shape global health up to **2100**. A team of **37 experts** examined hundreds of risks in **204** countries. The report groups threats into categories, with **nuclear conflict** and **malicious artificial intelligence** at the top due to extinction potential. **Obesity** is identified as the single largest health loss, potentially causing **23.1 billion disability‑adjusted life years** (DALYs) lost. The study also notes that better global education could prevent **16.1 billion DALYs**, highlighting the need for integrated policy action.",
+   "details_gu": "**લાંસેટ કમિશન**નો રિપોર્ટ, **બર્લિન**માં થયેલ **વર્લ્ડ હેલ્થ સમિટ**માં રજૂ થયો, જેમાં **2100** સુધી વૈશ્વિક આરોગ્યને અસર કરી શકે તેવા **17** પરસ્પર જોડાયેલા જોખમો દર્શાવાયા છે. **37 નિષ્ણાતો**એ **204** દેશોમાં સોં જોખમોનું મૂલ્યાંકન કર્યું. રિપોર્ટ જોખમોને કેટેગરીમાં વહેંચે છે, જેમાં **પરમાણુ સંઘર્ષ** અને **દુષ્ટ કૃત્રિમ બુદ્ધિમત્તા**ને વિનાશકારી ક્ષમતા કારણે ટોચમાં રાખવામાં આવ્યા છે. **મોટાપો** સૌથી મોટો આરોગ્ય નુકસાનકારક તરીકે ઓળખાય છે, જે **23.1 બિલિયન DALYs**નું નુકસાન કરી શકે છે. અભ્યાસમાં જણાવાયું છે કે વૈશ્વિક શિક્ષણમાં સુધારો **16.1 બિલિયન DALYs** બચાવી શકે છે, જે સંકલિત નીતિ પગલાંની જરૂરિયાત દર્શાવે છે.",
+   "mcq": {
+    "q_en": "Where was the Lancet Commission report on global health threats launched?",
+    "q_gu": "લાંસેટ કમિશનનો વૈશ્વિક આરોગ્ય જોખમો પરનો રિપોર્ટ ક્યાં લોન્ચ થયો?",
+    "o_en": [
+     "New York",
+     "Berlin",
+     "Tokyo",
+     "London"
+    ],
+    "o_gu": [
+     "ન્યુ યોર્ક",
+     "બર્લિન",
+     "ટોક્યો",
+     "લંડન"
+    ],
+    "a": 1,
+    "e_en": "The report was launched at the World Health Summit in Berlin.",
+    "e_gu": "રિપોર્ટ બર્લિનમાં થયેલ વર્લ્ડ હેલ્થ સમિટમાં લોન્ચ થયો હતો."
+   },
+   "id": "ca-lancet-commission-lists-17-global-health-threats-to-2100",
+   "source": "https://www.thehindu.com/sci-tech/health/shifting-global-focus-towards-more-comprehensive-assessment-of-threats-to-human-health-and-survival/article71587404.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/health/shifting-global-focus-towards-more-comprehensive-assessment-of-threats-to-human-health-and-survival/article71587404.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat CM inaugurates Tourism Trade Fair in Gandhinagar",
+   "title_gu": "ગુજરાતી મુખ્યમંત્રીએ ગાંધીનગરમાં ટૂરિઝમ ટ્રેડ ફેરનું ઉદ્ઘાટન કર્યું",
+   "summary_en": "The Gujarat Chief Minister opened the Tourism Trade Fair in Gandhinagar.",
+   "summary_gu": "ગુજરાતી મુખ્યમંત્રીએ ગાંધીનગરમાં ટૂરિઝમ ટ્રેડ ફેરનું ઉદ્ઘાટન કર્યું.",
+   "points_en": [
+    "**Gujarat Chief Minister** inaugurated the event",
+    "**Tourism Trade Fair** was the occasion",
+    "The fair was held in **Gandhinagar**"
+   ],
+   "points_gu": [
+    "**ગુજરાતી મુખ્યમંત્રીએ** ઉદ્ઘાટન કર્યું",
+    "**ટૂરિઝમ ટ્રેડ ફેર** એ કાર્યક્રમ હતો",
+    "ફેર **ગાંધીનગર**માં યોજાયો"
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Who inaugurated the Tourism Trade Fair in Gandhinagar?",
+    "q_gu": "ગાંધીનગરમાં ટૂરિઝમ ટ્રેડ ફેરનું ઉદ્ઘાટન કોણે કર્યું?",
+    "o_en": [
+     "Gujarat Chief Minister",
+     "Minister of Tourism",
+     "Mayor of Gandhinagar",
+     "Governor of Gujarat"
+    ],
+    "o_gu": [
+     "ગુજરાતી મુખ્યમંત્રીએ",
+     "ટૂરિઝમ મંત્રી",
+     "ગાંધીનગર મહાપાલિકા મેયર",
+     "ગુજરાતના ગવર્નર"
+    ],
+    "a": 0,
+    "e_en": "The source states the Gujarat Chief Minister inaugurated the fair.",
+    "e_gu": "સ્રોતમાં જણાવાયું છે કે ગુજરાતી મુખ્યમંત્રીએ ફેરનું ઉદ્ઘાટન કર્યું."
+   },
+   "id": "ca-gujarat-cm-inaugurates-tourism-trade-fair-in-gandhinagar",
+   "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOV9ycGF2ZW5Fa0hYaFBxb1AxdGdLa2c2enN0aUZjQnBSTEhHd3UwalA1WjQ1Sl8teFlubWlWTTI1UWg4Y05BRFdGaXJFVU44ZmRVSEhlZkR3YjBvLVB1ZGE1blZETG8tWFh1TTVFX3FaQndvb21zMU1udFVQcHh2Y0x3UzVjU2Z5dXc?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOV9ycGF2ZW5Fa0hYaFBxb1AxdGdLa2c2enN0aUZjQnBSTEhHd3UwalA1WjQ1Sl8teFlubWlWTTI1UWg4Y05BRFdGaXJFVU44ZmRVSEhlZkR3YjBvLVB1ZGE1blZETG8tWFh1TTVFX3FaQndvb21zMU1udFVQcHh2Y0x3UzVjU2Z5dXc?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat PSUs GEL and GTL pay record dividend",
+   "title_gu": "ગુજરાતની પીએસયુઝ GEL અને GTLએ રેકોર્ડ ડિવિડન્ડ આપ્યો",
+   "summary_en": "GEL and GTL together paid a record dividend of ₹384.6 crore to the Gujarat state.",
+   "summary_gu": "GEL અને GTLએ મળીને ગુજરાત રાજ્યને ₹384.6 કરોડનું રેકોર્ડ ડિવિડન્ડ આપ્યું છે.",
+   "points_en": [
+    "**GEL** and **GTL** are Gujarat state‑owned enterprises",
+    "They paid a **record dividend** of **₹384.6 crore**",
+    "The amount is credited to the **Gujarat state** treasury"
+   ],
+   "points_gu": [
+    "**GEL** અને **GTL** ગુજરાતની રાજ્ય માલિકીની કંપનીઓ છે",
+    "તેઓએ **₹384.6 કરોડ**નું **રેકોર્ડ ડિવિડન્ડ** આપ્યું",
+    "આ રકમ **ગુજરાત રાજ્ય**ના ખજાનામાં જમા થઈ"
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "What total dividend did GEL and GTL pay to the Gujarat state?",
+    "q_gu": "GEL અને GTLએ ગુજરાત રાજ્યને કેટલો કુલ ડિવિડન્ડ આપ્યો?",
+    "o_en": [
+     "₹384.6 crore",
+     "₹300 crore",
+     "₹500 crore",
+     "₹250 crore"
+    ],
+    "o_gu": [
+     "₹384.6 કરોડ",
+     "₹300 કરોડ",
+     "₹500 કરોડ",
+     "₹250 કરોડ"
+    ],
+    "a": 0,
+    "e_en": "The sources state the dividend was ₹384.6 crore.",
+    "e_gu": "સ્રોતોમાં જણાવાયું છે કે ડિવિડન્ડ ₹384.6 કરોડ હતું."
+   },
+   "id": "ca-gujarat-psus-gel-and-gtl-pay-record-dividend",
+   "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2ZLU3Y2dTFob19xVFV1aXZZLS1pRG11MU1WT2RHdWx4eUhuZkdGVEtuSTA1RXRqb0lsdC1YRmlrQWxZblA3R2FQRUJnYTlUVWVHeElvLWYtRTdtRElVQlhyUERvX3lNOVVTd1d0VV9FYm1nX080MGNPSnREcDdmeW9nSXoxcFFlZU9Oc3JGSExtQlVrcnhIcXJULTFfZmd0em95WXVpZHNuV2lfOWdNMHJhLURwT0tsNGhkRmo5dUJFSWFy0gHKAUFVX3lxTFB1VmJYcm1BeE1TTEJmdHE2UGNiTDNiVi1MTGZkQXM4MWVza0hHa29nSHB5NGhmQmxxSVM0a1hqSWhzRFR4S2xRaTRiOUdHS19BREJCZWNzNTdHS0VlSnV1ODJCeGpKaEJDZkY1YnBDMHZYZjBNb0JFVTRRR1p1bks4UnR1ckhjbmwxbGdrQk9iNWhLVTRKUFpSb3d1ZEhYMDR6MnlvZk1IRzU1UUJ1dl9DUHE0dEE2QmxUbTlLV25XbVk3b0Z4TlgzaUE?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2ZLU3Y2dTFob19xVFV1aXZZLS1pRG11MU1WT2RHdWx4eUhuZkdGVEtuSTA1RXRqb0lsdC1YRmlrQWxZblA3R2FQRUJnYTlUVWVHeElvLWYtRTdtRElVQlhyUERvX3lNOVVTd1d0VV9FYm1nX080MGNPSnREcDdmeW9nSXoxcFFlZU9Oc3JGSExtQlVrcnhIcXJULTFfZmd0em95WXVpZHNuV2lfOWdNMHJhLURwT0tsNGhkRmo5dUJFSWFy0gHKAUFVX3lxTFB1VmJYcm1BeE1TTEJmdHE2UGNiTDNiVi1MTGZkQXM4MWVza0hHa29nSHB5NGhmQmxxSVM0a1hqSWhzRFR4S2xRaTRiOUdHS19BREJCZWNzNTdHS0VlSnV1ODJCeGpKaEJDZkY1YnBDMHZYZjBNb0JFVTRRR1p1bks4UnR1ckhjbmwxbGdrQk9iNWhLVTRKUFpSb3d1ZEhYMDR6MnlvZk1IRzU1UUJ1dl9DUHE0dEE2QmxUbTlLV25XbVk3b0Z4TlgzaUE?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "science",
+   "title_en": "ISRO completes key Gaganyaan crew‑module separation test",
+   "title_gu": "આઇએસઆરઓએ ગગનયાન ક્રૂ મોડ્યુલ અલગાવ પરીક્ષણ પૂર્ણ કર્યું",
+   "summary_en": "ISRO successfully carried out crew‑module and service‑module separation tests for the Gaganyaan mission, boosting confidence for the first uncrewed G1 launch scheduled this year.",
+   "summary_gu": "આઇએસઆરઓએ ગગનયાન મિશન માટે ક્રૂ મોડ્યુલ‑સર્વિસ મોડ્યુલ અલગાવ પરીક્ષણ સફળતાપૂર્વક પૂર્ણ કર્યું, જે પ્રથમ અનમનુષ્ય G1 મિશન માટે વિશ્વાસ વધારશે.",
+   "points_en": [
+    "ISRO carried out CM‑SM separation tests for Gaganyaan at **Vikram Sarabhai Space Centre**, **Thiruvananthapuram**.",
+    "The tests simulated severing of **umbilical connections** and validated **pyrotechnic devices**.",
+    "Successful test boosts confidence for the upcoming **first uncrewed G1 mission** slated for launch this year."
+   ],
+   "points_gu": [
+    "આઇએસઆરઓએ **વિક્રમ સારાભાઈ સ્પેસ સેન્ટર**, **થિરુવનંતપુરમ**માં ગગનયાન માટે **CM‑SM અલગાવ પરીક્ષણ** કર્યું.",
+    "પરીક્ષણમાં **ઉમ્બિલિકલ કનેક્શન**નું વિચ્છેદન અને **પાયોટોનિક ઉપકરણો**ની તપાસ કરવામાં આવી.",
+    "સફળતા સાથે **પ્રથમ અનમનુષ્ય G1 મિશન** માટે વિશ્વાસ વધ્યો, જે આ વર્ષમાં લોન્ચ થવાનું છે."
+   ],
+   "details_en": "The Indian Space Research Organisation (ISRO) performed a series of crew‑module (CM) and service‑module (SM) separation tests for the Gaganyaan human‑spaceflight programme. The test set‑up at the Vikram Sarabhai Space Centre in Thiruvananthapuram simulated the breaking of multiple umbilical connections and the activation of pyrotechnic devices that separate the modules before re‑entry. ISRO said the trials confirmed the design adequacy, shock‑survivability and robustness of critical subsystems such as avionics, navigation and thermal protection. This success gives the agency confidence ahead of the first uncrewed G1 mission planned for launch later this year.",
+   "details_gu": "ભારતીય અવકાશ સંશોધન સંગઠન (આઇએસઆરઓ)એ ગગનયાન માનવ અવકાશયાન કાર્યક્રમ માટે ક્રૂ મોડ્યુલ (CM) અને સર્વિસ મોડ્યુલ (SM) અલગાવ પરીક્ષણો કર્યા. થિરુવનંતપુરમના વિક્રમ સારાભાઈ સ્પેસ સેન્ટરમાં તૈયાર કરાયેલ સેટ‑અપમાં અનેક ઉમ્બિલિકલ કનેક્શનનું વિચ્છેદન અને પુન:પ્રવેશ પહેલાં મોડ્યુલોને અલગ કરવા માટે પાયોટોનિક ઉપકરણોનું સક્રિયકરણ સિમ્યુલેટ કરવામાં આવ્યું. આ પરીક્ષણોએ અવિયોનિક્સ, નેવિગેશન અને થર્મલ પ્રોટેક્શન જેવા મહત્વપૂર્ણ ઉપપ્રણાલીઓની ડિઝાઇન યોગ્યતા, શોક સહનશક્તિ અને મજબૂતીની પુષ્ટિ કરી. સફળતા આ વર્ષમાં યોજાનાર પ્રથમ અનમનુષ્ય G1 મિશન માટે આઇએસઆરઓને વિશ્વાસ આપે છે.",
+   "mcq": {
+    "q_en": "Where were the Gaganyaan crew‑module separation tests conducted?",
+    "q_gu": "ગગનયાન ક્રૂ મોડ્યુલ અલગાવ પરીક્ષણ કયા સ્થળે કરવામાં આવ્યા?",
+    "o_en": [
+     "Bangalore",
+     "Thiruvananthapuram",
+     "Mumbai",
+     "Hyderabad"
+    ],
+    "o_gu": [
+     "બેંગલોર",
+     "થિરુવનંતપુરમ",
+     "મુंबई",
+     "હૈદરાબાદ"
+    ],
+    "a": 1,
+    "e_en": "The tests were carried out at the Vikram Sarabhai Space Centre in Thiruvananthapuram.",
+    "e_gu": "પરીક્ષણો વિક્રમ સારાભાઈ સ્પેસ સેન્ટર, થિરુવનંતપુરમમાં કરવામાં આવ્યા હતા."
+   },
+   "id": "ca-isro-completes-key-gaganyaan-crew-module-separation-test",
+   "source": "https://www.thehindu.com/sci-tech/science/gaganyaan-isro-completes-key-test-ahead-of-first-uncrewed-mission/article71592436.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/science/gaganyaan-isro-completes-key-test-ahead-of-first-uncrewed-mission/article71592436.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "sports",
+   "title_en": "India Grants ₹2,000 crore for 2030 Commonwealth Games in Ahmedabad",
+   "title_gu": "ભારતમાં 2030 કોમનવેલ્થ ગેમ્સ માટે અમદાવાદમાં 2,000 કરોડની ગ્રાન્ટ",
+   "summary_en": "The Union Sports Ministry will give a **₹2,000 crore** grant to Gujarat for the **2030 Commonwealth Games** in **Ahmedabad**, with the amount likely to rise to about **₹2,500 crore** by 2030.",
+   "summary_gu": "યુનિયન સ્પોર્ટ્સ મંત્રાલય ગુજરાતને **2030 કોમનવેલ્થ ગેમ્સ** માટે **અમદાવાદ**માં **₹2,000 કરોડ**ની ગ્રાન્ટ આપશે, જે 2030 સુધીમાં **₹2,500 કરોડ** સુધી વધી શકે છે.",
+   "points_en": [
+    "**Union Sports Ministry** approved a **grant‑in‑aid of ₹2,000 crore** for the **2030 Commonwealth Games** in **Ahmedabad**.",
+    "The grant is listed under the **Assistance to National Sports Federations (ANSF)** scheme.",
+    "Funding will be released **as and when** Gujarat requests, and may rise to **≈₹2,500 crore** after CPI adjustment.",
+    "Ahmedabad won the **centenary edition** bid, beating **Nigeria**, and India plans **15‑17 sports** for the event."
+   ],
+   "points_gu": [
+    "**યુનિયન સ્પોર્ટ્સ મંત્રાલય**એ **2030 કોમનવેલ્થ ગેમ્સ** માટે **અમદાવાદ**માં **₹2,000 કરોડ**ની ગ્રાન્ટ‑ઇન‑એડ મંજૂર કરી.",
+    "આ ગ્રાન્ટ **એનએસએફ (Assistance to National Sports Federations)** યોજના હેઠળ છે.",
+    "ગુજરાત સરકારની વિનંતી પર **જરૂર મુજબ** રકમ આપશે, અને CPI મુજબ **≈₹2,500 કરોડ** સુધી વધી શકે છે.",
+    "**નાઇજેરિયા**ને હરાવીને **સેંટેનિયર એડિશન**ની બિડ જીતવામાં આવી, અને ભારત **15‑17 રમતો** યોજશે."
+   ],
+   "details_en": "The **Union Sports Ministry** has pledged a **grant‑in‑aid of ₹2,000 crore** to the **Gujarat Government** for hosting the **2030 Commonwealth Games** in **Ahmedabad**. The funding is recorded in the revised **Assistance to National Sports Federations (ANSF)** norms and will be released **as and when** Gujarat submits a request. Based on 2025 price levels, the amount is expected to rise to about **₹2,500 crore** by 2030 after adjustment for the **Consumer Price Index**. The grant is part of the Scheme continued for **2026‑27 to 2030‑31** under the **16th Finance Commission Cycle**, which has a total outlay of **₹7,386.74 crore**. Ahmedabad secured the **centenary edition** bid, beating **Nigeria**, and India aims to feature **15‑17 disciplines**, expanding the programme from the ten events held in Glasgow.",
+   "details_gu": "**યુનિયન સ્પોર્ટ્સ મંત્રાલય**એ **ગુજરાત સરકાર**ને **2030 કોમનવેલ્થ ગેમ્સ** માટે **અમદાવાદ**માં આયોજિત કરવા માટે **₹2,000 કરોડ**ની **ગ્રાન્ટ‑ઇન‑એડ** આપવાની પ્રતિજ્ઞા કરી. આ નાણાં **Assistance to National Sports Federations (ANSF)**ની સુધારેલી નિયમોમાં નોંધાયેલ છે અને ગુજરાતની વિનંતી પર **જરૂર મુજબ** જારી થશે. 2025ની કિંમતો પર આધારિત, **Consumer Price Index** મુજબ સમાયોજિત કરીને 2030 સુધી રકમ **≈₹2,500 કરોડ** સુધી વધવાની અપેક્ષા છે. આ ગ્રાન્ટ **2026‑27 થી 2030‑31** સુધી **16મો નાણાકીય કમિશન ચક્ર** હેઠળ ચાલુ રાખવામાં આવેલ યોજના નો ભાગ છે, જેના કુલ ખર્ચ **₹7,386.74 કરોડ** છે. **નાઇજેરિયા**ને હરાવીને **સેંટેનિયર એડિશન**ની બિડ **અમદાવાદ**એ જીતી, અને ભારત **15‑17 રમતો** સામેલ કરવાની યોજના ધરાવે છે, જે ગ્લાસગોમાં થયેલ દસ રમતોની તુલનામાં વધુ છે.",
+   "mcq": {
+    "q_en": "Which ministry pledged a grant of ₹2,000 crore for the 2030 Commonwealth Games in Ahmedabad?",
+    "q_gu": "કયા મંત્રાલયએ અમદાવાદમાં 2030 કોમનવેલ્થ ગેમ્સ માટે ₹2,000 કરોડની ગ્રાન્ટ આપવાની પ્રતિજ્ઞા કરી?",
+    "o_en": [
+     "Ministry of Finance",
+     "Union Sports Ministry",
+     "Ministry of Home Affairs",
+     "Union Sports Ministry with ₹1,000 crore"
+    ],
+    "o_gu": [
+     "નાણાકીય મંત્રાલય",
+     "યુનિયન સ્પોર્ટ્સ મંત્રાલય",
+     "ગૃહ મંત્રાલય",
+     "યુનિયન સ્પોર્ટ્સ મંત્રાલય સાથે ₹1,000 કરોડ"
+    ],
+    "a": 1,
+    "e_en": "The source states the Union Sports Ministry approved the ₹2,000 crore grant.",
+    "e_gu": "સ્રોતમાં જણાવાયું છે કે યુનિયન સ્પોર્ટ્સ મંત્રાલયએ ₹2,000 કરોડની ગ્રાન્ટ મંજૂર કરી."
+   },
+   "id": "ca-india-grants-2-000-crore-for-2030-commonwealth-games-in-ahme",
+   "source": "https://sportstar.thehindu.com/other-sports/sports-ministry-grant-gujarat-commonwealth-games-2030-grant/article71593471.ece",
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/other-sports/sports-ministry-grant-gujarat-commonwealth-games-2030-grant/article71593471.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat CM reviews Dholera projects and semiconductor plant",
+   "title_gu": "ગુજરાત મુખ્યમંત્રીએ ધોલેરા પ્રોજેક્ટ્સ અને સેમિકન્ડક્ટર પ્લાન્ટની સમીક્ષા કરી",
+   "summary_en": "The Gujarat Chief Minister inspected ongoing projects at Dholera, including the construction of a semiconductor facility.",
+   "summary_gu": "ગુજરાત મુખ્યમંત્રીએ ધોલેરા ખાતે ચાલી રહેલા પ્રોજેક્ટ્સ, ખાસ કરીને સેમિકન્ડક્ટર ફેસિલિટીનું નિર્માણ,ની સમીક્ષા કરી.",
+   "points_en": [
+    "**Gujarat Chief Minister** conducted a review of Dholera projects.",
+    "The review covered a **semiconductor facility construction**.",
+    "The inspection was part of ongoing development efforts at **Dholera**."
+   ],
+   "points_gu": [
+    "**ગુજરાત મુખ્યમંત્રીએ** ધોલેરા પ્રોજેક્ટ્સની સમીક્ષા કરી.",
+    "સમીક્ષામાં **સેમિકન્ડક્ટર ફેસિલિટીનું નિર્માણ** સામેલ હતું.",
+    "આ નિરીક્ષણ **ધોલેરા**માં ચાલી રહેલી વિકાસ કામગીરીનો ભાગ છે."
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Who reviewed the Dholera projects that include a semiconductor facility?",
+    "q_gu": "કોણે ધોલેરા પ્રોજેક્ટ્સની સમીક્ષા કરી, જેમાં સેમિકન્ડક્ટર ફેસિલિટી સામેલ હતી?",
+    "o_en": [
+     "Gujarat Chief Minister",
+     "Mayor of Ahmedabad",
+     "Union Minister of Commerce",
+     "Director of Dholera Special Economic Zone"
+    ],
+    "o_gu": [
+     "ગુજરાત મુખ્યમંત્રીએ",
+     "અમદાવાદના મેયર",
+     "કેન્દ્રિય વેપાર મંત્રી",
+     "ધોલેરા સ્પેશિયલ ઇકોનોમિક ઝોનના ડિરેક્ટર"
+    ],
+    "a": 0,
+    "e_en": "The review was carried out by the Gujarat Chief Minister.",
+    "e_gu": "સમિક્ષા ગુજરાત મુખ્યમંત્રીએ કરી હતી."
+   },
+   "id": "ca-gujarat-cm-reviews-dholera-projects-and-semiconductor-plant",
+   "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUhqYnZubmRRTjhxNXNiSUtiZXZJaXB4N2FZNHo1TXhoUGwwZnU0cjVDejhDQzdMa1IwY3dRUlRtdlNjY0hVUlYyNnVoQldGWENoZFctdEVYNU9HTXZQN1JtQTZlZkNoaFo1ZW9acVRTekptNFRIR3A3TXNqQ0tRbW16QzlneW82NW9zRk9SdXNrNUt6bTh3ellkWU5vVkNZbWVwb1FZUnhwSVlieW9ueXJMZ2FJR1Yyajl6b3doVFI3dUlYZ2tmdVJ4RnFRWjA00gHQAUFVX3lxTE9FSGpidm5uZFFOOHE1c2JJS2JldklpcHg3YVk0ejVNeGhQbDBmdTRyNUN6OENDN0xrUjBjd1FSVG12U2NjSFVSVjI2dWhCV0ZYQ2hkVy10RVg1T0dNdlA3Um1BNmVmQ2hoWjVlb1pxVFN6Sm00VEhHcDdNc2pDS1FtbXpDOWd5bzY1b3NGT1J1c2s1S3ptOHd6WWRZTm9WQ1ltZXBvUVlSeHBJWWJ5b255ckxnYUlHVjJqOXpvd2hUUjd1SVhna2Z1UnhGcVFaMDQ?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUhqYnZubmRRTjhxNXNiSUtiZXZJaXB4N2FZNHo1TXhoUGwwZnU0cjVDejhDQzdMa1IwY3dRUlRtdlNjY0hVUlYyNnVoQldGWENoZFctdEVYNU9HTXZQN1JtQTZlZkNoaFo1ZW9acVRTekptNFRIR3A3TXNqQ0tRbW16QzlneW82NW9zRk9SdXNrNUt6bTh3ellkWU5vVkNZbWVwb1FZUnhwSVlieW9ueXJMZ2FJR1Yyajl6b3doVFI3dUlYZ2tmdVJ4RnFRWjA00gHQAUFVX3lxTE9FSGpidm5uZFFOOHE1c2JJS2JldklpcHg3YVk0ejVNeGhQbDBmdTRyNUN6OENDN0xrUjBjd1FSVG12U2NjSFVSVjI2dWhCV0ZYQ2hkVy10RVg1T0dNdlA3Um1BNmVmQ2hoWjVlb1pxVFN6Sm00VEhHcDdNc2pDS1FtbXpDOWd5bzY1b3NGT1J1c2s1S3ptOHd6WWRZTm9WQ1ltZXBvUVlSeHBJWWJ5b255ckxnYUlHVjJqOXpvd2hUUjd1SVhna2Z1UnhGcVFaMDQ?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
+  },
+  {
+   "category": "schemes",
+   "title_en": "AI Matchmaking Added to Vibrant Gujarat 2027",
+   "title_gu": "વાઇબ્રન્ટ ગુજરાત 2027માં AI મેચમેકિંગ",
+   "summary_en": "The Gujarat government said **Vibrant Gujarat 2027** will feature **AI matchmaking** to boost **export growth**.",
+   "summary_gu": "ગુજરાત સરકારએ જાહેરાત કરી કે **વાઇબ્રન્ટ ગુજરાત 2027**માં **AI મેચમેકિંગ** ઉમેરવામાં આવશે, જે **નિકાસ વૃદ્ધિ**માં સહાય કરશે.",
+   "points_en": [
+    "**Vibrant Gujarat 2027** will include **AI matchmaking**.",
+    "The AI tool is intended to drive **export growth**.",
+    "It is part of Gujarat’s push to enhance trade."
+   ],
+   "points_gu": [
+    "**વાઇબ્રન્ટ ગુજરાત 2027**માં **AI મેચમેકિંગ** સામેલ થશે.",
+    "AI સાધન **નિકાસ વૃદ્ધિ**ને પ્રોત્સાહિત કરવા માટે છે.",
+    "ગુજરાતની વેપાર વૃદ્ધિ માટેની પહેલનો ભાગ છે."
+   ],
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "What new feature was introduced in Vibrant Gujarat 2027 to promote export growth?",
+    "q_gu": "વાઇબ્રન્ટ ગુજરાત 2027માં નિકાસ વૃદ્ધિ માટે કયું નવું સુવિધા રજૂ કરવામાં આવ્યું?",
+    "o_en": [
+     "AI matchmaking",
+     "Blockchain financing",
+     "Drone logistics",
+     "Virtual reality expo"
+    ],
+    "o_gu": [
+     "AI મેચમેકિંગ",
+     "બ્લોકચેન નાણાકીય સહાય",
+     "ડ્રોન લોજિસ્ટિક્સ",
+     "વર્ચ્યુઅલ રિયાલિટી પ્રદર્શન"
+    ],
+    "a": 0,
+    "e_en": "The announcement highlighted AI matchmaking as the new feature.",
+    "e_gu": "જાહેરાતમાં AI મેચમેકિંગને નવું સુવિધા તરીકે દર્શાવાયું."
+   },
+   "id": "ca-ai-matchmaking-added-to-vibrant-gujarat-2027",
+   "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUk1d1AxdzVoUFk4WGoxNURCTDk5SnRwNmNYWE5GRThFWlREUlU4NVlzUThoNThnNy0tb0lIcERjMGRtTTk3ZFFvaWhKVDViMHBWelFNZHg2N1ZIT1NVSk91TWZZc2o2UUpiNTlHM1p5SEIyd1FLVE8yQ29pZElDLXI0NlBqRnVtdUFIeVdvcw?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUk1d1AxdzVoUFk4WGoxNURCTDk5SnRwNmNYWE5GRThFWlREUlU4NVlzUThoNThnNy0tb0lIcERjMGRtTTk3ZFFvaWhKVDViMHBWelFNZHg2N1ZIT1NVSk91TWZZc2o2UUpiNTlHM1p5SEIyd1FLVE8yQ29pZElDLXI0NlBqRnVtdUFIeVdvcw?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-16"
   }
  ]
 }
