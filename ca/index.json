@@ -1,5 +1,10 @@
 {
- "updated": "2026-10-16T08:27",
+ "updated": "2026-10-16T08:29",
  "source": "Official releases (PIB) and news reports; summaries written for exam revision",
- "days": []
+ "days": [
+  {
+   "date": "2026-10-16",
+   "n": 7
+  }
+ ]
 }

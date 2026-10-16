@@ -1,0 +1,356 @@
+{
+ "date": "2026-10-16",
+ "items": [
+  {
+   "category": "science",
+   "title_en": "Gujarat Girl Among 20 Selected for Satellite Mission",
+   "title_gu": "ગુજરાતી છોકરી સેટેલાઇટ મિશન માટે 20 માંથી પસંદ",
+   "summary_en": "A girl from Gujarat is one of **20 students** chosen nationwide for a **satellite technology mission**.",
+   "summary_gu": "ગુજરાતની છોકરી દેશભરમાંથી પસંદ થયેલ **20 વિદ્યાર્થીઓ**માંની એક છે, જે **સેટેલાઇટ ટેકનોલોજી મિશન** માટે છે.",
+   "points_en": [
+    "A **Gujarat girl** was selected among **20 students** from across **India** for a **satellite technology mission**.",
+    "The selection showcases Gujarat's role in the country's space efforts.",
+    "It provides the student with practical exposure to satellite design and operations."
+   ],
+   "points_gu": [
+    "**ગુજરાતી છોકરી**ને દેશભરના **20 વિદ્યાર્થીઓ**માં પસંદ કરવામાં આવી, જે **સેટેલાઇટ ટેકનોલોજી મિશન** માટે છે.",
+    "આ પસંદગી ગુજરાતની અવકાશ ક્ષેત્રમાં યોગદાનને દર્શાવે છે.",
+    "તે વિદ્યાર્થીને સેટેલાઇટ ડિઝાઇન અને ઓપરેશનમાં પ્રાયોગિક અનુભવ આપે છે."
+   ],
+   "details_en": "A girl from Gujarat has been selected as one of only **twenty students** from across **India** to take part in a **satellite technology mission**. The selection highlights the state's contribution to the country's space initiatives and offers the student hands‑on experience with satellite design and operations. The mission, organized by the national space agency, aims to involve young talent in practical space projects, encouraging STEM education. Candidates were chosen after a competitive process that evaluated academic performance and interest in aerospace. This achievement reflects Gujarat's growing emphasis on science and technology education.",
+   "details_gu": "ગુજરાતની એક છોકરીને દેશભરના **વિસ વિદ્યાર્થીઓ**માંની એક તરીકે **સેટેલાઇટ ટેકનોલોજી મિશન**માં ભાગ લેવા માટે પસંદ કરવામાં આવી છે. આ પસંદગી રાજ્યની અવકાશ પહેલોમાં યોગદાનને દર્શાવે છે અને વિદ્યાર્થીને સેટેલાઇટ ડિઝાઇન અને ઓપરેશનમાં પ્રાયોગિક અનુભવ આપે છે. રાષ્ટ્રીય અવકાશ એજન્સી દ્વારા આયોજિત આ મિશન યુવાન પ્રતિભાને પ્રાયોગિક અવકાશ પ્રોજેક્ટોમાં સામેલ કરવા, STEM શિક્ષણને પ્રોત્સાહિત કરવા માટે છે. ઉમેદવારોને શૈક્ષણિક પ્રદર્શન અને એરોસ્પેસમાં રસ આધારીત સ્પર્ધાત્મક પ્રક્રિયા દ્વારા પસંદ કરવામાં આવ્યા. આ સિદ્ધિ ગુજરાતની વૈજ્ઞાનિક અને ટેકનોલોજી શિક્ષણ પર વધતી ભારને દર્શાવે છે.",
+   "mcq": {
+    "q_en": "How many students from across India were selected for the satellite technology mission that included a girl from Gujarat?",
+    "q_gu": "ગુજરાતની છોકરીને સામેલ કરેલા સેટેલાઇટ ટેકનોલોજી મિશન માટે દેશભરના કેટલા વિદ્યાર્થીઓ પસંદ થયા?",
+    "o_en": [
+     "10",
+     "15",
+     "20",
+     "25"
+    ],
+    "o_gu": [
+     "૧૦",
+     "૧૫",
+     "૨૦",
+     "૨૫"
+    ],
+    "a": 2,
+    "e_en": "The article states that **20 students** were selected nationwide.",
+    "e_gu": "લેખમાં જણાવાયું છે કે **૨૦ વિદ્યાર્થીઓ** દેશભરમાંથી પસંદ થયા હતા."
+   },
+   "id": "ca-gujarat-girl-among-20-selected-for-satellite-mission",
+   "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEhFb0NHcGNnWlRodldOakFpOFhycE5IM2dEVjBKRHZ1U0JFRllkZXhPOVFqQVBVckZxNlNEOUlDWDR2UUF0SHBoZGk1QVRHNkxRemZkdk9NVGc2SjhaQmZadkhPQ2EzOTQ4TFBYQWNuUkZZY0d3TXVGa3V5WmlvVWFJOGxMQWFLUjdRVDBzZTN4TU5xQV80eFhUZmRTMGdsdFB2TmFPcEdJWUVXTWRSVzdpVmhzYmI5ODQ0dw?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEhFb0NHcGNnWlRodldOakFpOFhycE5IM2dEVjBKRHZ1U0JFRllkZXhPOVFqQVBVckZxNlNEOUlDWDR2UUF0SHBoZGk1QVRHNkxRemZkdk9NVGc2SjhaQmZadkhPQ2EzOTQ4TFBYQWNuUkZZY0d3TXVGa3V5WmlvVWFJOGxMQWFLUjdRVDBzZTN4TU5xQV80eFhUZmRTMGdsdFB2TmFPcEdJWUVXTWRSVzdpVmhzYmI5ODQ0dw?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat gets record Rs 385 crore dividend from GEL and GTL",
+   "title_gu": "ગुજરાજને GEL અને GTLમાંથી રેકોર્ડ ૩૮૫ કરોડ ડિવિડન્ડ",
+   "summary_en": "The Gujarat government received a record dividend of about Rs 385 crore from its power generation and transmission firms.",
+   "summary_gu": "ગुજરાજ સરકારને તેના વીજ ઉત્પાદન અને ટ્રાન્સમિશન કંપનીઓમાંથી લગભગ ૩૮૫ કરોડ રૂપિયાનો રેકોર્ડ ડિવિડન્ડ મળ્યો છે.",
+   "points_en": [
+    "**Record dividend of Rs 385 crore** paid to Gujarat government",
+    "Paid by **Gujarat Energy Limited (GEL)** and **Gujarat Transmission Limited (GTL)**",
+    "Announced by **Chief Minister Bhupendra Patel**"
+   ],
+   "points_gu": [
+    "**૩૮૫ કરોડ રૂપિયાનો રેકોર્ડ ડિવિડન્ડ** ગુજરાજ સરકારને મળ્યો",
+    "**ગુજરાજ એનર્જી લિમિટેડ (GEL)** અને **ગુજરાજ ટ્રાન્સમિશન લિમિટેડ (GTL)** દ્વારા ચૂકવાયો",
+    "**મુખ્‍યમંત્રિ ભુપેન્દ્ર પટેલ** દ્વારા જાહેર કર્યો"
+   ],
+   "details_en": "Gujarat's state‑owned power companies, Gujarat Energy Limited (GEL) and Gujarat Transmission Limited (GTL), together paid a **record dividend of Rs 385 crore** to the state government. The dividend reflects strong earnings from power generation and transmission operations. **Chief Minister Bhupendra Patel** highlighted that the funds will strengthen the state's finances and can be used for development projects. Such large dividends are uncommon; earlier years saw much lower payouts, making this a notable achievement for the state's energy sector and its contribution to Gujarat's economy.",
+   "details_gu": "ગુજરાજની રાજ્ય માલિકીની વીજ કંપનીઓ, ગુજરાત એનર્જી લિમિટેડ (GEL) અને ગુજરાત ટ્રાન્સમિશન લિમિટેડ (GTL) એ મળીને **૩૮૫ કરોડ રૂપિયાનો રેકોર્ડ ડિવિડન્ડ** રાજ્ય સરકારને આપ્યો છે. આ ડિવિડન્ડ વીજ ઉત્પાદન અને ટ્રાન્સમિશનમાંથી મળેલી મજબૂત કમાઈનું પ્રતિબિંબ છે. **મુખ્‍યમંત્રિ ભુપેન્દ્ર પટેલ** એ જણાવ્યું કે આ રકમ રાજ્યની નાણાકીય સ્થિતિને મજબૂત કરશે અને વિકાસ પ્રોજેક્ટોમાં ઉપયોગી થશે. અગાઉના વર્ષોમાં આ પ્રકારનું મોટું ડિવિડન્ડ મળતું ન હતું, તેથી આ ગુજરાજની ઊર્જા ક્ષેત્રની મહત્વપૂર્ણ સિદ્ધિ છે.",
+   "mcq": {
+    "q_en": "Which two state‑owned companies paid a record dividend of about Rs 385 crore to Gujarat?",
+    "q_gu": "કયા બે રાજ્ય માલિકીની કંપનીઓએ ગુજરાજને લગભગ ૩૮૫ કરોડ રૂપિયાનો રેકોર્ડ ડિવિડન્ડ આપ્યો?",
+    "o_en": [
+     "Gujarat Energy Limited and Gujarat Transmission Limited",
+     "Gujarat State Petroleum Corporation and Gujarat Narmada Valley",
+     "Gujarat Power Corporation and Gujarat Water Supply",
+     "Gujarat Renewable Energy Ltd and Gujarat Gas"
+    ],
+    "o_gu": [
+     "ગુજરાત એનર્જી લિમિટેડ અને ગુજરાત ટ્રાન્સમિશન લિમિટેડ",
+     "ગુજરાત સ્ટેટ પેટ્રોલિયમ કોર્પોરેશન અને ગુજરાત નર્મદા વેલી",
+     "ગુજરાત પાવર કોર્પોરેશન અને ગુજરાત વોટર સપ્લાય",
+     "ગુજરાત રિન્યુએબલ એનર્જી લિમિટેડ અને ગુજરાત ગેસ"
+    ],
+    "a": 0,
+    "e_en": "The dividend came from Gujarat Energy Limited (GEL) and Gujarat Transmission Limited (GTL).",
+    "e_gu": "ડિવિડન્ડ ગુજરાત એનર્જી લિમિટેડ (GEL) અને ગુજરાત ટ્રાન્સમિશન લિમિટેડ (GTL) દ્વારા આપ્યો હતો."
+   },
+   "id": "ca-gujarat-gets-record-rs-385-crore-dividend-from-gel-and-gtl",
+   "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjVUQ2ozcjlEQmJPYmxtX2ZkaFNWOUdoT1g1TndPaE9LbDkyY0trSzEtdGlSbDBxMzI0aU1FLVRWeUIzODdWOXNMQk1zTzRNWlFZMjg3RzZ2TjR5ck9GRl9Rb1BMQ0FEVmFnYU5qZW1ON01hVnNKbDB5SEo5WGY1NWcyOVBhcE5VZFZMSkFGT2lLRFZHQjYw?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjVUQ2ozcjlEQmJPYmxtX2ZkaFNWOUdoT1g1TndPaE9LbDkyY0trSzEtdGlSbDBxMzI0aU1FLVRWeUIzODdWOXNMQk1zTzRNWlFZMjg3RzZ2TjR5ck9GRl9Rb1BMQ0FEVmFnYU5qZW1ON01hVnNKbDB5SEo5WGY1NWcyOVBhcE5VZFZMSkFGT2lLRFZHQjYw?oc=5"
+    },
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://news.google.com/rss/articles/CBMimgdBVV95cUxQeW8tckc1QUhiUTlUemtOVHR6RDJxNTdPLTFEOTBKd0dlN1pERDBNZzJMUE5MckxGTVA4U09ZN29rUXVLTVJGYU9kbC1PVVcycnVOd3hSWlNTcGc4emlvd2hpVENLZjNpQkluNHcwREVKZXE1c3ZXZnlmT0Z2MzBBX2hxdGM0MzIxeW4yWjljamhkWHpWamJILTBFQjM0U0t6SUYxZHByRDdpSUtidkhuOFRKWVNKNlhjcTIxSXVibU5oOGEwbGRIUFdTdWxreVFnOS1oV19BN1g0XzFsSWZqTmNfT0JFMFJla1BheEdWc3RtZEVvaUpoQTEtbDU2ZEdrS2I4elhsZWtWSXliVnVvYXNYUGp2LWxWdDFfT1d3N291MktzR2dzN2dyNlRhYzVSOVJUdkVpbFUybE14Yi1PVlM1Yzh4WGpPLTNITjVyQkl6OUxNdzFlUnpWUk52cW9vcW9PUVlmRFhVSjdhX2NXZ2pSN05YM1ExWlFDRExUcnpEaDkwbnY2bFdUNnVJS3F2YlU0aW5lVGxUWXAtelY2X19jcnhiTlI2YUwwczlOTW5RNzBqM3NYNk9XRnVvUUMyWU9LMTVudlRDRlp4dzZjUUQ4T2RaRGFwVU9ibS1kYm1mZEt4ODZDUDlHQVpScXczaGtPSHZRRmNuQWl3UTJ5ZUtzMEtaMmxjT3QzeC13eGdUS2puM01vYUpjbllnVFBhUWRWZ2Y5UlE2UnBwNnM0RnNnYWhWNGVlemlLTXRTWkt3eDBZN0x1OU1YT09TR3dhd0pmVklRdUFOS2o5cEtTM3BjNGM0eDNlSGZsakhxVl9mdlJnbTZXVDJxa1ZnZzJsaVhOWjFJMzJQUHI0MW5lV0g5b1pUR2tUUl9KTXhJaUVRY3EyYUJ4NzE5RURmNjBvRWFkbS1INnZaYV9qblp3cE9qVW5Ma19NZWlnQ3JTSEU0Zk56OFJJQlVkbUZmaktyRWFUc2xMb1Znd1cwRVd1QmdkNkJia1kySkduRFVSNDZ0clRLaWNvV1lEWVNBSW8xM3VFdmJra1c5N2FmODgzanRLZWU1YmZHc040eFhJazI3V0dhb0RMc2NSamYwcmFOaF8wRjdESHZhWmZBLU1IeDRPeUdLMF9sVmdxZ3RoSVQySTNUV0N6UHRCczNjcmdkd0JEbTRYbkNfSVBPLW9CaUVKbEtoZWxBYnJyNWJNZ0VEejJLY1ZqVFZB?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "CM Patel launches 101 Shramik Annapurna meal centres",
+   "title_gu": "મુખ્યમંત્રી પટેલે ૧૦૧ શ્રમિક અન્નપૂર્ણા કેન્દ્રો શરૂ કરે છે",
+   "summary_en": "Gujarat Chief Minister **Bhupendra Patel** inaugurated **101 Shramik Annapurna** meal centres, including several in **Ahmedabad**, to provide free nutritious food to workers.",
+   "summary_gu": "ગુજરાત મુખ્યમંત્રી **ભુપેન્દ્ર પટેલ**એ **૧૦૧ શ્રમિક અન્નપૂર્ણા** ભોજન કેન્દ્રો, જેમાં **અમદાવાદ**માં પણ કેટલાક છે, કામદારોને મફત પોષક ખોરાક આપવા માટે ઉદ્ઘાટન કર્યું.",
+   "points_en": [
+    "**Bhupendra Patel**, Chief Minister of Gujarat, inaugurated the centres.",
+    "A total of **101 Shramik Annapurna** meal centres were opened.",
+    "The centres are located in **Ahmedabad** and other parts of the state.",
+    "The scheme offers free, nutritious meals to daily‑wage workers."
+   ],
+   "points_gu": [
+    "**ભુપેન્દ્ર પટેલ**, ગુજરાતના મુખ્યમંત્રી, કેન્દ્રોનું ઉદ્ઘાટન કર્યું.",
+    "**૧૦૧ શ્રમિક અન્નપૂર્ણા** ભોજન કેન્દ્રો ખોલવામાં આવ્યા.",
+    "કેન્દ્રો **અમદાવાદ** અને રાજ્યના અન્ય વિસ્તારોમાં છે.",
+    "આ યોજના રોજગાર કામદારોને મફત પોષક ભોજન આપે છે."
+   ],
+   "details_en": "On a recent day, Gujarat’s **Chief Minister Bhupendra Patel** officially opened **101 Shramik Annapurna** meal centres across the state. Several of these centres are situated in **Ahmedabad**, a major urban hub. The programme aims to give daily‑wage labourers free, balanced meals, helping them meet basic nutritional needs. Such welfare initiatives fall under the state’s social welfare efforts and reflect the government’s focus on labour welfare. Candidates should note the name of the scheme, the number of centres, the chief minister’s role, and the key city involved, as these are typical exam questions linking current affairs with static GK about Gujarat’s administration.",
+   "details_gu": "તાજેતરના દિવસે, ગુજરાતના **મુખ્યમંત્રી ભુપેન્દ્ર પટેલ**એ રાજ્યભરમાં **૧૦૧ શ્રમિક અન્નપૂર્ણા** ભોજન કેન્દ્રોનું ઔપચારિક ઉદ્ઘાટન કર્યું. આમાંથી ઘણા કેન્દ્રો **અમદાવાદ**માં સ્થિત છે, જે શહેર રાજ્યનું મુખ્ય શહેરી કેન્દ્ર છે. આ યોજના રોજગાર કામદારોને મફત અને સંતુલિત ભોજન પ્રદાન કરે છે, જેથી તેમની મૂળભૂત પોષણ જરૂરિયાતો પૂરી થાય. આવા કલ્યાણ કાર્યક્રમો રાજ્યની સામાજિક કલ્યાણ નીતિનો ભાગ છે અને કામદારોની કલ્યાણ પર સરકારની ધ્યાનને દર્શાવે છે. ઉમેદવારોને યોજના નામ, કેન્દ્રોની સંખ્યા, મુખ્યમંત્રીની ભૂમિકા અને સંબંધિત શહેર જેવા મુદ્દાઓ યાદ રાખવા જોઈએ, કારણ કે આ પ્રશ્નો સામાન્ય રીતે ગુજરાતની વર્તમાન ઘટનાઓ અને સ્થિર જ્ઞાન સાથે જોડાય છે.",
+   "mcq": {
+    "q_en": "How many Shramik Annapurna meal centres were inaugurated by Gujarat's Chief Minister?",
+    "q_gu": "ગુજરાતના મુખ્યમંત્રી દ્વારા કેટલા શ્રમિક અન્નપૂર્ણા ભોજન કેન્દ્રોનું ઉદ્ઘાટન કરવામાં આવ્યું?",
+    "o_en": [
+     "50",
+     "75",
+     "101",
+     "150"
+    ],
+    "o_gu": [
+     "૫૦",
+     "૭૫",
+     "૧૦૧",
+     "૧૫૦"
+    ],
+    "a": 2,
+    "e_en": "The reports state that **101** centres were inaugurated.",
+    "e_gu": "રિપોર્ટમાં જણાવાયું છે કે **૧૦૧** કેન્દ્રોનું ઉદ્ઘાટન થયું."
+   },
+   "id": "ca-cm-patel-launches-101-shramik-annapurna-meal-centres",
+   "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW9IQnlxUVdraHgyN285ZjZvdk9XSElaYThBLXUtWnNKSjg0LVprMWxvbG5SSm0yQWpZYzQtSzNtOGlRX2FVZExLUExwX05mT1MxdUU2R3pkVUFMcmJNMk96M0xEMjRDYm92ZG10U09Ld2pzeGg1UU1MLTY0eDJKb05NSXp4TWgxRGRROHl3U2o0TWhidXVEZmp5QThHdHF5NUJHS1RzaW9JQ04wNklPdS1Scw?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW9IQnlxUVdraHgyN285ZjZvdk9XSElaYThBLXUtWnNKSjg0LVprMWxvbG5SSm0yQWpZYzQtSzNtOGlRX2FVZExLUExwX05mT1MxdUU2R3pkVUFMcmJNMk96M0xEMjRDYm92ZG10U09Ld2pzeGg1UU1MLTY0eDJKb05NSXp4TWgxRGRROHl3U2o0TWhidXVEZmp5QThHdHF5NUJHS1RzaW9JQ04wNklPdS1Scw?oc=5"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2NtNWFmQ3dhU01ta1dXT1lrQl91VmwxM2VQZU14V0diQWJFZS1MeGlfallLNk5JdjAzbEUtLTJhaHdNNlRCZnVnZTItdW1QV2F5NHpzbjhvTE93Ti0zU2xRM3E0MWpTcGhtYl90cXRNZXdBdDlfUmN3VzNRRjlraTdSaW5icTlLR1V2VnA4MDZYSkw5TXJfYTBudmJOTFY5bnVJ?oc=5"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFZkMGd6a0dkZGlJZFB6clRsUWlma0pJVlRBeWM4aEdTWGpaU3poR1I1ZU9JNEkzNkozcDdwUllkcHFsb1Q4ekhiVDRxRDJFOXJLWkthMUtNdE9aaTJaSlQ4VnBkb1VxQjBmNXNlbF8xRXM1NGstYV9vOVhVQWR0aGw4R0p2TndxTDJhQm1MWHh2LW5CUDhMUERzRHNVaGZpNVBkV29YSjg3UUgtbjZqbFRxMWl1RkhiOXFxclVKYmNycWR2Nlh3bWpCSUI2Z3ExQ0dxUTdkajY1WUnSAeABQVVfeXFMTzVtNnJRT3Bna3BERW9tMzZPNzdLQ0ZfcGxSWFRrdnY1Yy1fNVZCRTFWLWszdWZSbVp2emlKMUJJMk5QMjZ2MkpNSTZOWlQxVnlwcHhZTDlxeFhlTGN0bDE4VDBvRnNWYXIxc292Yy1hMzJaMm5TMTduMEcwZnF3UEdMemRpZEpDQ2tuNWk4UnRVMlhzQnp2bEtIMTcxeEl0VVgxWUJUaGtVclNBOTZrZlV4VUNLXzc3ajY0Ul9fRUVfTzI4VVVvUjFId3E5Q1pEdjZ0cTI4Nkd4a3E2bDBpZ3A?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat Sets Panel to Review DElEd Fees After 20 Years",
+   "title_gu": "ગુજરાતે 20 વર્ષ પછી DElEd ફી સમીક્ષા માટે પેનલ રચી",
+   "summary_en": "The **Gujarat government** has created a panel to examine **DElEd fees** that haven’t been changed for **20 years**.",
+   "summary_gu": "**ગુજરાત સરકાર**એ **DElEd ફી**ની સમીક્ષા માટે પેનલ રચી છે, જે **20 વર્ષ**થી બદલાઈ નથી.",
+   "points_en": [
+    "The **Gujarat government** formed a review panel.",
+    "The panel will look at **DElEd fees**.",
+    "Fees have remained unchanged for **20 years**.",
+    "The move aims to make education costs more affordable."
+   ],
+   "points_gu": [
+    "**ગુજરાત સરકાર**એ સમીક્ષા પેનલ રચી.",
+    "પેનલ **DElEd ફી**ની તપાસ કરશે.",
+    "ફી **20 વર્ષ**થી બદલાઈ નથી.",
+    "આ પગલું શિક્ષણ ખર્ચને સસ્તું 만드는 માટે છે."
+   ],
+   "details_en": "Recently, the **Gujarat government** announced the formation of a panel tasked with reviewing the fee structure of the **Department of Education (DElEd)**. The fees have stayed the same for **20 years**, leading to concerns that they no longer reflect current costs. By reassessing these charges, the state aims to ease the financial burden on students and parents, a topic often asked in the Talati exam under education policy and state initiatives. The panel’s recommendations could influence future budget allocations by the state’s education ministry.",
+   "details_gu": "તાજેતરમાં, **ગુજરાત સરકાર**એ **DElEd (વિભાગ ઓફ એજ્યુકેશન)**ની ફી રચનાની સમીક્ષા કરવા માટે પેનલ રચી છે. ફી **20 વર્ષ**થી બદલાઈ નથી, જેના કારણે હાલની ખર્ચ સાથે સુસંગતતા ન હોવાની ચિંતા છે. આ સમીક્ષા દ્વારા રાજ્ય વિદ્યાર્થીઓ અને માતાપિતાઓનું આર્થિક ભાર હળવું કરવા ઈચ્છે છે, જે તાલાટી પરીક્ષામાં શિક્ષણ નીતિ અને રાજ્યની પહેલ તરીકે વારંવાર પૂછવામાં આવે છે. પેનલની ભલામણો રાજ્યની શિક્ષણ મંત્રાલયની બજેટ વિતરણને પ્રભાવિત કરી શકે છે.",
+   "mcq": {
+    "q_en": "What is the primary task of the panel formed by the Gujarat government?",
+    "q_gu": "ગુજરાત સરકાર દ્વારા રચાયેલ પેનલનું મુખ્ય કામ શું છે?",
+    "o_en": [
+     "Review DElEd fees",
+     "Increase teacher salaries",
+     "Build new schools",
+     "Launch a scholarship scheme"
+    ],
+    "o_gu": [
+     "DElEd ફીની સમીક્ષા",
+     "શિક્ષકની પગારવધારો",
+     "નવા શાળાઓનું નિર્માણ",
+     "સ્કોલરશિપ યોજના શરૂ કરવી"
+    ],
+    "a": 0,
+    "e_en": "The panel was set up specifically to review DElEd fees.",
+    "e_gu": "પેનલ ખાસ કરીને DElEd ફીની સમીક્ષા કરવા માટે રચાઈ હતી."
+   },
+   "id": "ca-gujarat-sets-panel-to-review-deled-fees-after-20-years",
+   "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTZiakljTWVQbzg0MmpnOVJOcmk2Sk1LWk84NnJtNTkyZUppX293WDZBMk5UeEJkS3JycUF4M3dyb1l1X0VLVldwZEJmTEYyY3N2WkZrczhiZTd3T05VVGg0RGVTUUprdTVDMjRiOUQ3YW9DNU5kT3ZHbFFELU9YRDJzRHhSV2xkNV9rR3QtVjVkWmhTcE9DRDVHZkhNakk?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTZiakljTWVQbzg0MmpnOVJOcmk2Sk1LWk84NnJtNTkyZUppX293WDZBMk5UeEJkS3JycUF4M3dyb1l1X0VLVldwZEJmTEYyY3N2WkZrczhiZTd3T05VVGg0RGVTUUprdTVDMjRiOUQ3YW9DNU5kT3ZHbFFELU9YRDJzRHhSV2xkNV9rR3QtVjVkWmhTcE9DRDVHZkhNakk?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat approves four new medical colleges, free hospital services",
+   "title_gu": "ગુજરાતે ચાર નવા મેડિકલ કોલેજો મંજૂર કર્યા, મફત હોસ્પિટલ સેવાઓ",
+   "summary_en": "The Gujarat government has approved **four brownfield medical colleges** and ordered that they provide **free hospital services** under **The Healthy Indian Project (THIP)**.",
+   "summary_gu": "ગુજરાત સરકારએ **ચાર બ્રાઉનફિલ્ડ મેડિકલ કોલેજો** મંજૂર કરી અને **મફત હોસ્પિટલ સેવાઓ** આપવાનું આદેશ આપ્યું છે, જે **ધ હેલ્ધી ઇન્ડિયન પ્રોજેક્ટ (THIP)** હેઠળ છે.",
+   "points_en": [
+    "**Four brownfield medical colleges** will be set up in Gujarat",
+    "Each college must deliver **free hospital services** to patients",
+    "The move is part of **The Healthy Indian Project (THIP)**",
+    "The state health ministry will supervise implementation"
+   ],
+   "points_gu": [
+    "ગુજરાતમાં **ચાર બ્રાઉનફિલ્ડ મેડિકલ કોલેજો** સ્થાપિત થશે",
+    "દરેક કોલેજને દર્દીઓને **મફત હોસ્પિટલ સેવાઓ** આપવી પડશે",
+    "આ પગલું **ધ હેલ્ધી ઇન્ડિયન પ્રોજેક્ટ (THIP)** નો ભાગ છે",
+    "રાજ્ય આરોગ્ય મંત્રાલય અમલની દેખરેખ રાખશે"
+   ],
+   "details_en": "The state government of Gujarat has given approval for the establishment of **four brownfield medical colleges** across the state. These institutions will be set up by upgrading existing facilities rather than building new campuses. The approval also requires each college to offer **free hospital services** to patients, a move aimed at improving public health access. The directive comes under **The Healthy Indian Project (THIP)**, a national initiative to strengthen healthcare delivery. The health ministry of Gujarat will monitor implementation, and the policy aligns with earlier state efforts to increase medical seats and reduce out‑of‑pocket expenses for citizens.",
+   "details_gu": "ગુજરાત રાજ્ય સરકારએ રાજ્યમાં **ચાર બ્રાઉનફિલ્ડ મેડિકલ કોલેજો** સ્થાપિત કરવાની મંજૂરી આપી છે. આ સંસ્થાઓ નવી કેમ્પસો બનાવવા બદલે હાલની સુવિધાઓને અપગ્રેડ કરીને તૈયાર કરવામાં આવશે. મંજૂરી સાથે દરેક કોલેજને દર્દીઓને **મફત હોસ્પિટલ સેવાઓ** આપવી ફરજિયાત છે, જે જાહેર આરોગ્યની પહોંચ સુધારવા માટે છે. આ આદેશ **ધ હેલ્ધી ઇન્ડિયન પ્રોજેક્ટ (THIP)** હેઠળ છે, જે આરોગ્ય સેવા મજબૂત 만드는 માટેનું રાષ્ટ્રીય પહેલ છે. ગુજરાત આરોગ્ય મંત્રાલય અમલની દેખરેખ રાખશે, અને આ નીતિ અગાઉના રાજ્ય પ્રયાસો સાથે સુસંગત છે, જેમ કે મેડિકલ સીટો વધારવી અને નાગરિકોના ખર્ચમાં ઘટાડો કરવો.",
+   "mcq": {
+    "q_en": "How many brownfield medical colleges did the Gujarat government approve?",
+    "q_gu": "ગુજરાત સરકારએ કેટલા બ્રાઉનફિલ્ડ મેડિકલ કોલેજો મંજૂર કર્યા?",
+    "o_en": [
+     "Two",
+     "Four",
+     "Six",
+     "Eight"
+    ],
+    "o_gu": [
+     "બે",
+     "ચાર",
+     "છ",
+     "આઠ"
+    ],
+    "a": 1,
+    "e_en": "The approval was for **four** colleges.",
+    "e_gu": "મંજૂરી **ચાર** કોલેજો માટે હતી."
+   },
+   "id": "ca-gujarat-approves-four-new-medical-colleges-free-hospital-ser",
+   "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzdRR0c4b1dQMFNwYTNTVm1tam44WFBHUTF4cEVkZG5YOXlsZzFndElHejM1UjkyQlRVTXpFbmFJSFdaZTNsclZRMGtnejVOc01PLS1mRVdnblRkOWN5amV1b2VNZGJBbmNZR2ZCLVp6dHdsUVlxVEh6WnFjdGpWLXpZNWNFZTVfT1RBdnBERFdkQjZEUGFZNEFQTzc0cWxlLTdpVEF2RXFReHZVZFZTcC05dzQxR3Ns?oc=5",
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzdRR0c4b1dQMFNwYTNTVm1tam44WFBHUTF4cEVkZG5YOXlsZzFndElHejM1UjkyQlRVTXpFbmFJSFdaZTNsclZRMGtnejVOc01PLS1mRVdnblRkOWN5amV1b2VNZGJBbmNZR2ZCLVp6dHdsUVlxVEh6WnFjdGpWLXpZNWNFZTVfT1RBdnBERFdkQjZEUGFZNEFQTzc0cWxlLTdpVEF2RXFReHZVZFZTcC05dzQxR3Ns?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Record Bank Deposits Reach ₹284 Trillion in September",
+   "title_gu": "સપ્ટેમ્બરમાં બેંક જમા રકમનું રેકોર્ડ ₹284 ટ્રિલિયન",
+   "summary_en": "India's banking system deposits hit a record **₹284 trillion** in September, helped by the RBI's discounted dollar swap scheme that drew about **$133 billion** of inflows.",
+   "summary_gu": "ભારતની બેંકિંગ સિસ્ટમની જમા રકમ સપ્ટેમ્બરમાં **₹284 ટ્રિલિયન** સુધી પહોંચી, જે RBI ના ડિસ્કાઉન્ટેડ ડોલર સ્વેપ સ્કીમ દ્વારા અંદાજે **$133 બિલિયન**ની આવકથી સહાય મળી.",
+   "points_en": [
+    "Deposits rose to **₹284 trillion** in September.",
+    "The RBI used a **discounted dollar swap scheme**.",
+    "The scheme attracted roughly **$133 billion** in inflows.",
+    "Record level equals about **$2.99 trillion**."
+   ],
+   "points_gu": [
+    "સપ્ટેમ્બરમાં જમા **₹284 ટ્રિલિયન** સુધી વધી.",
+    "RBI એ **ડિસ્કાઉન્ટેડ ડોલર સ્વેપ સ્કીમ** અપનાવી.",
+    "સ્કીમ દ્વારા અંદાજે **$133 બિલિયન**ની આવક થઈ.",
+    "રેકોર્ડ સ્તર લગભગ **$2.99 ટ્રિલિયન** સમાન."
+   ],
+   "details_en": "In September, total deposits in India’s banking system reached a historic **₹284 trillion** (about **$2.99 trillion**). The surge was largely due to the Reserve Bank of India’s **discounted dollar swap scheme**, which offers banks cheaper dollar swaps to manage foreign‑exchange liquidity. This scheme attracted about **$133 billion** of foreign currency inflows, boosting overall deposits. The RBI, under the Ministry of Finance, introduced the scheme to stabilise the rupee and provide cheaper dollar funding to banks. Such large‑scale deposits are important for credit growth and indicate confidence in the banking sector, a topic often asked in Gujarat Talati exams.",
+   "details_gu": "સપ્ટેમ્બરમાં ભારતની બેંકિંગ સિસ્ટમની કુલ જમા રકમ ઐતિહાસિક **₹284 ટ્રિલિયન** (લગભગ **$2.99 ટ્રિલિયન**) સુધી પહોંચી. આ વૃદ્ધિ મુખ્યત્વે રિઝર્વ બેંક ઓફ ઈન્ડિયાની **ડિસ્કાઉન્ટેડ ડોલર સ્વેપ સ્કીમ**ને કારણે હતી, જે બેંકોને વિદેશી વિનિમય લિક્વિડિટી મેનેજ કરવા માટે સસ્તા ડોલર સ્વેપ પ્રદાન કરે છે. આ સ્કીમ દ્વારા અંદાજે **$133 બિલિયન**ની વિદેશી ચલણ આવક થઈ, જે કુલ જમાને વધારી. RBI, જે નાણાકીય મંત્રાલય હેઠળ છે, રૂપીયાની સ્થિરતા અને બેંકોને સસ્તા ડોલર ફંડિંગ આપવા માટે આ યોજના શરૂ કરી. આ પ્રકારની મોટી જમા રકમો ક્રેડિટ વૃદ્ધિ માટે મહત્વપૂર્ણ છે અને ગુજરાત તલાટી પરીક્ષામાં વારંવાર પૂછવામાં આવે છે.",
+   "mcq": {
+    "q_en": "What was the approximate amount of foreign currency inflow attracted by the RBI's discounted dollar swap scheme in September?",
+    "q_gu": "RBI ની ડિસ્કાઉન્ટેડ ડોલર સ્વેપ સ્કીમ દ્વારા સપ્ટેમ્બરમાં કેટલા વિદેશી ચલણની આવક આકર્ષિત થઈ?",
+    "o_en": [
+     "$100 billion",
+     "$133 billion",
+     "$150 billion",
+     "$200 billion"
+    ],
+    "o_gu": [
+     "$100 બિલિયન",
+     "$133 બિલિયન",
+     "$150 બિલિયન",
+     "$200 બિલિયન"
+    ],
+    "a": 1,
+    "e_en": "The scheme attracted about **$133 billion** of inflows.",
+    "e_gu": "સ્કીમ દ્વારા અંદાજે **$133 બિલિયન**ની આવક થઈ."
+   },
+   "id": "ca-record-bank-deposits-reach-284-trillion-in-september",
+   "source": "https://www.business-standard.com/industry/banking/bank-deposits-hit-record-3-trillion-boosted-by-dollar-deposits-scheme-126101500967_1.html",
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/industry/banking/bank-deposits-hit-record-3-trillion-boosted-by-dollar-deposits-scheme-126101500967_1.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "national",
+   "title_en": "Lancet Report Lists 17 Global Health Threats to 2100",
+   "title_gu": "લાંસેટ રિપોર્ટ 2100 સુધી 17 વૈશ્વિક આરોગ્ય જોખમો સૂચવે છે",
+   "summary_en": "A new **Lancet Commission** report released at the **World Health Summit** in **Berlin** identifies **17** interlinked threats that could affect human health up to the year **2100**.",
+   "summary_gu": "નવું **લાંસેટ કમિશન** રિપોર્ટ **વર્લ્ડ હેલ્થ સમિટ**માં **બર્લિન**માં રજૂ થયું, જે **17** પરસ્પર જોડાયેલા જોખમો દર્શાવે છે, જે વર્ષ **2100** સુધી માનવ આરોગ્યને અસર કરી શકે છે.",
+   "points_en": [
+    "The commission included **37 experts** from health, economics, security and technology sectors.",
+    "**Nuclear conflict** and **malicious use of artificial intelligence** are the only threats with extinction potential.",
+    "**Obesity** could cause the biggest loss, about **23.1 billion DALYs** if not tackled.",
+    "Improving global education could avert **16.1 billion DALYs**."
+   ],
+   "points_gu": [
+    "કમિશનમાં **37 નિષ્ણાતો** આરોગ્ય, અર્થશાસ્ત્ર, સુરક્ષા અને ટેકનોલોજી ક્ષેત્રમાંથી હતા.",
+    "**ન્યુક્લિયર સંઘર્ષ** અને **કૃત્રિમ બુદ્ધિનો દુરૂપયોગ** જ વિનાશકારી ક્ષમતા ધરાવતા જોખમો છે.",
+    "**મોટાપો** યોગ્ય રીતે ન હલવામાં આવે તો **23.1 બિલિયન DALYs**નું સૌથી મોટું નુકસાન કરશે.",
+    "વિશ્વવ્યાપી શિક્ષણમાં સુધારો **16.1 બિલિયન DALYs** બચાવી શકે છે."
+   ],
+   "details_en": "The **Lancet Commission** comprising **37 experts** presented its findings at the **World Health Summit** in **Berlin**. It catalogued **17** catastrophic threats that could shape global health through **2100**. The report stresses that **nuclear conflict** and **malicious AI** have extinction potential, while **obesity** alone may cause **23.1 billion DALYs** of loss. It also notes that better education could prevent **16.1 billion DALYs**. The analysis uses the \"amenable\" DALY metric, measuring healthy years that can be saved by policy action. High‑income countries face non‑communicable risks, whereas low‑income regions risk childhood malnutrition and aid cuts, making the findings relevant for the Ministry of Health and Family Welfare’s long‑term planning.",
+   "details_gu": "**લાંસેટ કમિશન**, જેમાં **37 નિષ્ણાતો** સામેલ હતા, એ પોતાના નિષ્કર્ષો **વર્લ્ડ હેલ્થ સમિટ**માં **બર્લિન**માં રજૂ કર્યા. તેમણે **17** વિનાશકારી જોખમોનું વર્ણન કર્યું, જે **2100** સુધી વૈશ્વિક આરોગ્યને અસર કરી શકે છે. રિપોર્ટમાં **ન્યુક્લિયર સંઘર્ષ** અને **કૃત્રિમ બુદ્ધિનો દુરૂપયોગ**ને વિનાશકારી ક્ષમતા ધરાવતા તરીકે દર્શાવ્યા છે, જ્યારે **મોટાપો** માત્ર **23.1 બિલિયન DALYs**નું નુકસાન કરી શકે છે. વધુ શિક્ષણ **16.1 બિલિયન DALYs** બચાવી શકે છે. આ વિશ્લેષણ \"સુધારી શકાય તેવી\" DALY પદ્ધતિનો ઉપયોગ કરે છે, જે નીતિ પગલાં દ્વારા બચાવી શકાય તેવી સ્વસ્થ વર્ષો માપે છે. ઉચ્ચ આવકવાળા દેશો નોન‑કોમ્યુનિકેબલ જોખમોનો સામનો કરે છે, જ્યારે નીચી આવકવાળા પ્રદેશો બાળમાલન્યુટ્રીશન અને સહાયમાં કાપની જોખમમાં છે, જે આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલયની લાંબા ગાળાની યોજના માટે મહત્વપૂર્ણ છે.",
+   "mcq": {
+    "q_en": "Which two threats were given extinction potential in the Lancet Commission report?",
+    "q_gu": "લાંસેટ કમિશન રિપોર્ટમાં કયા બે જોખમોને વિનાશકારી ક્ષમતા આપવામાં આવી હતી?",
+    "o_en": [
+     "Nuclear conflict and malicious AI",
+     "Air pollution and obesity",
+     "Childhood malnutrition and high blood pressure",
+     "Climate change and antimicrobial resistance"
+    ],
+    "o_gu": [
+     "ન્યુક્લિયર સંઘર્ષ અને કૃત્રિમ બુદ્ધિનો દુરૂપયોગ",
+     "હવા પ્રદૂષણ અને મોટાપો",
+     "બાળમાલન્યુટ્રીશન અને ઊંચો રક્તચાપ",
+     "જલવાયુ પરિવર્તન અને એન્ટિમાઇક્રોબિયલ પ્રતિરોધ"
+    ],
+    "a": 0,
+    "e_en": "The report lists **nuclear conflict** and **malicious AI** as the only Category 1 threats with extinction potential.",
+    "e_gu": "રિપોર્ટમાં **ન્યુક્લિયર સંઘર્ષ** અને **કૃત્રિમ બુદ્ધિનો દુરૂપયોગ**ને વિનાશકારી ક્ષમતા ધરાવતા એકમાત્ર જોખમો તરીકે દર્શાવ્યા છે."
+   },
+   "id": "ca-lancet-report-lists-17-global-health-threats-to-2100",
+   "source": "https://www.thehindu.com/sci-tech/health/shifting-global-focus-towards-more-comprehensive-assessment-of-threats-to-human-health-and-survival/article71587404.ece",
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/health/shifting-global-focus-towards-more-comprehensive-assessment-of-threats-to-human-health-and-survival/article71587404.ece"
+    }
+   ],
+   "by": "groq"
+  }
+ ]
+}
