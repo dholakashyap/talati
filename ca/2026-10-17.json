@@ -2,6 +2,328 @@
  "date": "2026-10-17",
  "items": [
   {
+   "category": "awards",
+   "title_en": "Robert E. Hall and Michael Woodford Win Nobel Prize in Economics",
+   "title_gu": "રોબર્ટ ઈ. હોલ અને માઈકલ વુડફોર્ડને અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર મળ્યો",
+   "summary_en": "**Robert E. Hall** and **Michael Woodford** won the **Nobel Prize in Economics**. Their research quantifies future-looking aspects in consumption and pricing decisions.",
+   "summary_gu": "**રોબર્ટ ઈ. હોલ** અને **માઈકલ વુડફોર્ડ**ને **અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર** એનાયત થયો છે. તેમના સંશોધને પરિવારો અને કંપનીઓના ભવિષ્ય આધારિત આર્થિક નિર્ણયોનું વિશ્લેષણ કર્યું છે.",
+   "facts": [
+    {
+     "k_en": "Award",
+     "k_gu": "પુરસ્કાર",
+     "v_en": "**Nobel Prize in Economics**",
+     "v_gu": "**અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર**"
+    },
+    {
+     "k_en": "Laureates",
+     "k_gu": "વિજેતાઓ",
+     "v_en": "**Robert E. Hall** and **Michael Woodford**",
+     "v_gu": "**રોબર્ટ ઈ. હોલ** અને **માઈકલ વુડફોર્ડ**"
+    },
+    {
+     "k_en": "Field",
+     "k_gu": "ક્ષેત્ર",
+     "v_en": "Consumption and pricing expectations",
+     "v_gu": "વપરાશ અને કિંમત નિર્ધારણની અપેક્ષાઓ"
+    }
+   ],
+   "points_en": [
+    "Hall's work helps governments identify households living hand-to-mouth.",
+    "Woodford showed how companies' future expectations shape current market prices."
+   ],
+   "points_gu": [
+    "હોલનું સંશોધન રોજનું કમાઈને ગુજરાન ચલાવતા પરિવારોને ઓળખવામાં મદદ કરે છે.",
+    "વુડફોર્ડે દર્શાવ્યું કે કંપનીઓની ભવિષ્યની અપેક્ષાઓ વર્તમાન ભાવો નક્કી કરવામાં અસર કરે છે."
+   ],
+   "context_en": "The Nobel Prize in Economics honours outstanding contributions to economic science.",
+   "context_gu": "અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર આર્થિક વિજ્ઞાન ક્ષેત્રે ઉત્કૃષ્ટ પ્રદાન માટે એનાયત કરવામાં આવે છે.",
+   "remember_en": "**Robert E. Hall** and **Michael Woodford** won the Nobel Prize in Economics.",
+   "remember_gu": "**રોબર્ટ ઈ. હોલ** અને **માઈકલ વુડફોર્ડ**ને અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર મળ્યો છે.",
+   "why_en": "Nobel laureates and international awards are frequently asked in competitive exams.",
+   "why_gu": "સ્પર્ધાત્મક પરીક્ષાઓમાં નોબેલ વિજેતાઓ અને આંતરરાષ્ટ્રીય પુરસ્કારોના પ્રશ્નો વારંવાર પૂછાય છે.",
+   "details_en": "Economists **Robert E. Hall** and **Michael Woodford** received the Nobel Prize in Economics. They quantified future expectations behind consumption and pricing choices. Mr. Hall studied households living hand-to-mouth. This helps governments target welfare subsidies and handle supply shocks effectively. Mr. Woodford analysed how firms set present prices using future expectations. Both laureates emphasized clear policy communication to help businesses and families make confident economic choices.",
+   "details_gu": "અર્થશાસ્ત્રી **રોબર્ટ ઈ. હોલ** અને **માઈકલ વુડફોર્ડ**ને અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર આપવામાં આવ્યો છે. તેમણે વપરાશ અને કિંમતો નક્કી કરતી વખતે ભવિષ્યની અપેક્ષાઓની ગણતરી કરી. હોલનું સંશોધન રોજનું કમાઈને જીવતા ગરીબ પરિવારોની ચોક્કસ ટકાવારી શોધવામાં મદદ કરે છે. આનાથી સરકારોને સબસિડી ખર્ચ વ્યવસ્થિત કરવામાં મદદ મળે છે. વુડફોર્ડે દર્શાવ્યું કે ભવિષ્યના અનુમાનો વર્તમાન કિંમતો પર સીધી અસર કરે છે.",
+   "mcq": {
+    "q_en": "Who has been awarded the Nobel Prize in Economics according to recent reports?",
+    "q_gu": "અહેવાલો અનુસાર કોને અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર એનાયત કરવામાં આવ્યો છે?",
+    "o_en": [
+     "Robert E. Hall and Michael Woodford",
+     "Abhijit Banerjee and Esther Duflo",
+     "Claudia Goldin and David Card",
+     "Paul Milgrom and Robert Wilson"
+    ],
+    "o_gu": [
+     "રોબર્ટ ઈ. હોલ અને માઈકલ વુડફોર્ડ",
+     "અભિજીત બેનર્જી અને એસ્થર ડુફ્લો",
+     "ક્લાઉડિયા ગોલ્ડિન અને ડેવિડ કાર્ડ",
+     "પોલ મિલ્ગ્રોમ અને રોબર્ટ વિલ્સન"
+    ],
+    "a": 0,
+    "e_en": "Robert E. Hall and Michael Woodford were awarded the Nobel Prize in Economics.",
+    "e_gu": "રોબર્ટ ઈ. હોલ અને માઈકલ વુડફોર્ડને અર્થશાસ્ત્રનો નોબેલ પુરસ્કાર એનાયત થયો છે."
+   },
+   "id": "ca-robert-e-hall-and-michael-woodford-win-nobel-prize-in-econom",
+   "source": "https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece",
+   "exam": {
+    "score": 9,
+    "why": "Recipients and economic research awarded the Nobel Memorial Prize."
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/opinion/editorial/ripples-from-the-future-on-the-nobel-prize-for-economics-2026/article71592499.ece"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat CM Inaugurates 101 Food Centres Under Shramik Annapurna Yojana",
+   "title_gu": "મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે શ્રમિક અન્નપૂર્ણા યોજના હેઠળ ૧૦૧ નવા કેન્દ્રો શરૂ કર્યા",
+   "summary_en": "Gujarat Chief Minister **Bhupendra Patel** inaugurated **101** new meal centres under the **Shramik Annapurna Yojana**. The new centres expand meal services for workers across **28 districts** of Gujarat.",
+   "summary_gu": "મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલે** **શ્રમિક અન્નપૂર્ણા યોજના** હેઠળ **૧૦૧** નવા ભોજન વિતરણ કેન્દ્રોનું ઉદ્ઘાટન કર્યું. આ કેન્દ્રો રાજ્યના **૨૮ જિલ્લાઓમાં** શ્રમિકોને ભોજન પૂરું પાડશે.",
+   "facts": [
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજના",
+     "v_en": "**Shramik Annapurna Yojana**",
+     "v_gu": "**શ્રમિક અન્નપૂર્ણા યોજના**"
+    },
+    {
+     "k_en": "Inaugurated by",
+     "k_gu": "ઉદ્ઘાટનકર્તા",
+     "v_en": "Chief Minister **Bhupendra Patel**",
+     "v_gu": "મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલ**"
+    },
+    {
+     "k_en": "New Centres",
+     "k_gu": "નવા કેન્દ્રો",
+     "v_en": "**101**",
+     "v_gu": "**૧૦૧**"
+    },
+    {
+     "k_en": "Districts Covered",
+     "k_gu": "આવરી લેવાયેલા જિલ્લા",
+     "v_en": "**28 districts**",
+     "v_gu": "**૨૮ જિલ્લા**"
+    }
+   ],
+   "points_en": [
+    "The initiative expands the reach of food distribution to workers across Gujarat.",
+    "The Chief Minister served food personally to beneficiaries during the launch."
+   ],
+   "points_gu": [
+    "આ પહેલ રાજ્યભરમાં શ્રમિકો સુધી ભોજન વિતરણનો વ્યાપ વધારશે.",
+    "લોકાર્પણ પ્રસંગે મુખ્યમંત્રીએ પોતે શ્રમિકોને ભોજન પીરસ્યું હતું."
+   ],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "**Bhupendra Patel** opened **101** **Shramik Annapurna Yojana** meal centres in **28 districts**.",
+   "remember_gu": "**ભૂપેન્દ્ર પટેલે** **૨૮ જિલ્લામાં** **શ્રમિક અન્નપૂર્ણા યોજના**ના **૧૦૧** કેન્દ્રો શરૂ કર્યા.",
+   "why_en": "Questions on Gujarat welfare schemes and district coverage often appear in Talati exams.",
+   "why_gu": "તલાટી પરીક્ષામાં ગુજરાત સરકારની કલ્યાણકારી યોજનાઓ અને આંકડાકીય વિગતો પૂછાય છે.",
+   "details_en": "Gujarat Chief Minister **Bhupendra Patel** inaugurated **101** new food distribution centres under the **Shramik Annapurna Yojana**. The new centres will operate across **28 districts** of the state. This initiative expands meal distribution to labourers throughout Gujarat. During the launch event, the Chief Minister served food directly to people to highlight welfare support.",
+   "details_gu": "ગુજરાતના મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલે** રાજ્યના **૨૮ જિલ્લાઓમાં** **શ્રમિક અન્નપૂર્ણા યોજના** હેઠળ **૧૦૧** નવા ભોજન વિતરણ કેન્દ્રોનું લોકાર્પણ કર્યું છે. આ પહેલનો મુખ્ય હેતુ રાજ્યભરના શ્રમિકો સુધી ભોજન વિતરણ સેવાનો વ્યાપ વધારવાનો છે. ઉદ્ઘાટન પ્રસંગે મુખ્યમંત્રીએ જાતે શ્રમિકોને ભોજન પીરસીને જનકલ્યાણની ભાવના વ્યક્ત કરી હતી.",
+   "mcq": {
+    "q_en": "Under the Shramik Annapurna Yojana, how many new food distribution centres were recently inaugurated across 28 districts of Gujarat?",
+    "q_gu": "તાજેતરમાં ગુજરાતના ૨૮ જિલ્લાઓમાં શ્રમિક અન્નપૂર્ણા યોજના હેઠળ કેટલા નવા ભોજન વિતરણ કેન્દ્રો શરૂ કરાયા?",
+    "o_en": [
+     "51",
+     "75",
+     "101",
+     "151"
+    ],
+    "o_gu": [
+     "૫૧",
+     "૭૫",
+     "૧૦૧",
+     "૧૫૧"
+    ],
+    "a": 2,
+    "e_en": "Chief Minister Bhupendra Patel inaugurated 101 new meal centres across 28 districts.",
+    "e_gu": "મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે ૨૮ જિલ્લાઓમાં ૧૦૧ નવા ભોજન વિતરણ કેન્દ્રો શરૂ કર્યા છે."
+   },
+   "id": "ca-gujarat-cm-inaugurates-101-food-centres-under-shramik-annapu",
+   "source": "https://www.magzter.com/stories/newspaper/The-Daily-Guardian/GUJARAT-CM-PATEL-INAUGURATES-SHRAMIK-ANNAPURNA-MEAL-CENTRES",
+   "exam": {
+    "score": 8,
+    "why": "Expansion of Gujarat's subsidised meal scheme for construction workers."
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.magzter.com/stories/newspaper/The-Daily-Guardian/GUJARAT-CM-PATEL-INAUGURATES-SHRAMIK-ANNAPURNA-MEAL-CENTRES"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://singraulimirror.in/news/gujarat-cm-bhupendra-patel-inaugurates-shramik-annapurna-meal-centres-in-ahmedabad"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat CM Reviews Lothal National Maritime Heritage Complex Progress",
+   "title_gu": "મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે લોથલમાં નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સની સમીક્ષા કરી",
+   "summary_en": "Chief Minister **Bhupendra Patel** reviewed the **National Maritime Heritage Complex (NMHC)** at **Lothal**. He urged officials to finish the work on time.",
+   "summary_gu": "મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલે** **લોથલ** ખાતે નિર્માણ પામી રહેલા **નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ (NMHC)**ની સમીક્ષા કરી. તેમણે આ કામ સમયમર્યાદામાં પૂરું કરવા પર ભાર મૂક્યો હતો.",
+   "facts": [
+    {
+     "k_en": "Project",
+     "k_gu": "પ્રોજેક્ટ",
+     "v_en": "**National Maritime Heritage Complex (NMHC)**",
+     "v_gu": "**નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ (NMHC)**"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "સ્થળ",
+     "v_en": "**Lothal**, Gujarat",
+     "v_gu": "**લોથલ**, ગુજરાત"
+    },
+    {
+     "k_en": "Reviewed by",
+     "k_gu": "સમીક્ષા કરનાર",
+     "v_en": "Chief Minister **Bhupendra Patel**",
+     "v_gu": "મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલ**"
+    },
+    {
+     "k_en": "Proposed Attraction",
+     "k_gu": "આયોજિત આકર્ષણ",
+     "v_en": "World's tallest **Lighthouse Museum**",
+     "v_gu": "વિશ્વનું સૌથી ઊંચું **લાઇટહાઉસ મ્યુઝિયમ**"
+    }
+   ],
+   "points_en": [
+    "The complex will showcase India's maritime history through galleries and museums.",
+    "Patel checked facilities planned under **Phase I** and **Phase II**."
+   ],
+   "points_gu": [
+    "આ સંકુલ ગેલેરીઓ અને સંગ્રહાલયો દ્વારા ભારતના સમુદ્રી ઇતિહાસને પ્રદર્શિત કરશે.",
+    "મુખ્યમંત્રીએ **ફેઝ-1** અને **ફેઝ-2** હેઠળ આયોજિત સુવિધાઓની વિગતો મેળવી હતી."
+   ],
+   "context_en": "**Lothal** was a prominent port city of the ancient **Indus Valley Civilisation**.",
+   "context_gu": "**લોથલ** પ્રાચીન **સિંધુ ખીણની સંસ્કૃતિ**નું એક અગ્રણી બંદર અને નગર હતું.",
+   "remember_en": "The National Maritime Heritage Complex is being built at Lothal in Gujarat.",
+   "remember_gu": "નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ ગુજરાતના લોથલ ખાતે બની રહ્યું છે.",
+   "why_en": "Talati exams often test questions on major cultural projects and ancient Indus sites.",
+   "why_gu": "તલાટી પરીક્ષામાં રાજ્યના સાંસ્કૃતિક પ્રોજેક્ટ્સ અને સિંધુ સભ્યતાના સ્થળો વિશે પ્રશ્નો પૂછાય છે.",
+   "details_en": "Gujarat Chief Minister **Bhupendra Patel** reviewed the construction progress of the **National Maritime Heritage Complex (NMHC)** at **Lothal**. The project at this ancient **Indus Valley Civilisation** site will display India's seafaring heritage. It will also feature the world's tallest **Lighthouse Museum**. Officials briefed him on works planned under **Phase I** and **Phase II**. Patel instructed officials to finish construction strictly within the set timeframe.",
+   "details_gu": "ગુજરાતના મુખ્યમંત્રી **ભૂપેન્દ્ર પટેલે** **લોથલ** ખાતે નિર્માણાધીન **નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ (NMHC)**ની સમીક્ષા કરી હતી. પ્રાચીન **સિંધુ ખીણની સંસ્કૃતિ**ના સ્થળે આકાર લઈ રહેલો આ પ્રોજેક્ટ દેશના દરિયાઈ વારસાને ઉજાગર કરશે. અહીં વિશ્વનું સૌથી ઊંચું **લાઇટહાઉસ મ્યુઝિયમ** પણ બનાવવાનું આયોજન છે. મુખ્યમંત્રીએ **ફેઝ-1** અને **ફેઝ-2** હેઠળની સુવિધાઓની માહિતી મેળવી કામ સમયસર પૂર્ણ કરવા સૂચના આપી હતી.",
+   "mcq": {
+    "q_en": "Where is the National Maritime Heritage Complex (NMHC) being developed in Gujarat?",
+    "q_gu": "ગુજરાતમાં નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ (NMHC) ક્યાં વિકસાવવામાં આવી રહ્યું છે?",
+    "o_en": [
+     "Dholavira",
+     "Lothal",
+     "Dwarka",
+     "Mandvi"
+    ],
+    "o_gu": [
+     "ધોળાવીરા",
+     "લોથલ",
+     "દ્વારકા",
+     "માંડવી"
+    ],
+    "a": 1,
+    "e_en": "The NMHC is under construction at the ancient Indus Valley site of Lothal.",
+    "e_gu": "સિંધુ ખીણની સંસ્કૃતિના ઐતિહાસિક સ્થળ લોથલ ખાતે NMHC નું નિર્માણ થઈ રહ્યું છે."
+   },
+   "id": "ca-gujarat-cm-reviews-lothal-national-maritime-heritage-complex",
+   "source": "https://www.socialnews.xyz/2026/10/16/gujarat-cm-reviews-lothal-maritime-heritage-project-stresses-timely-completion/",
+   "exam": {
+    "score": 7,
+    "why": "Progress review of National Maritime Heritage Complex at Lothal."
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.socialnews.xyz/2026/10/16/gujarat-cm-reviews-lothal-maritime-heritage-project-stresses-timely-completion/"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "national",
+   "title_en": "Centre allows private school teachers for Census enumeration duties",
+   "title_gu": "કેન્દ્ર સરકારે ખાનગી શાળાના શિક્ષકોને વસ્તી ગણતરીની ફરજ સોંપવાની મંજૂરી આપી",
+   "summary_en": "The Centre amended the Census Rules of 1990. Private school teachers can now work as census enumerators.",
+   "summary_gu": "કેન્દ્ર સરકારે વસ્તી ગણતરી નિયમોમાં સુધારો કર્યો છે. હવે ખાનગી શાળાના શિક્ષકો પણ વસ્તી ગણતરીકાર તરીકે ફરજ બજાવી શકશે.",
+   "facts": [
+    {
+     "k_en": "Amended Rules",
+     "k_gu": "સુધારેલા નિયમો",
+     "v_en": "**Census Rules of 1990**",
+     "v_gu": "**વસ્તી ગણતરી નિયમો, 1990**"
+    },
+    {
+     "k_en": "Eligible Staff",
+     "k_gu": "પાત્ર સ્ટાફ",
+     "v_en": "Teachers of **aided and unaided private bodies**",
+     "v_gu": "**અનુદાનિત અને બિન-અનુદાનિત ખાનગી સંસ્થાઓના શિક્ષકો**"
+    },
+    {
+     "k_en": "Next Census",
+     "k_gu": "આગામી વસ્તી ગણતરી",
+     "v_en": "**2027 Census** in **two phases**",
+     "v_gu": "**બે તબક્કામાં** **2027 ની વસ્તી ગણતરી**"
+    },
+    {
+     "k_en": "Early Start Date",
+     "k_gu": "શરૂઆતની તારીખ",
+     "v_en": "**December 1, 2026** in certain states",
+     "v_gu": "ચોક્કસ રાજ્યોમાં **1 ડિસેમ્બર, 2026**"
+    }
+   ],
+   "points_en": [
+    "The change follows a legal challenge over using private school staff.",
+    "Elections prompted earlier enumeration in select states from December 2026."
+   ],
+   "points_gu": [
+    "ખાનગી શાળા સ્ટાફની સેવાઓ લેવા સામેના કાનૂની પડકાર બાદ આ ફેરફાર કરાયો છે.",
+    "ચૂંટણીઓને કારણે પસંદગીના રાજ્યોમાં ડિસેમ્બર 2026 થી ગણતરી વહેલી શરૂ થશે."
+   ],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "Private teachers can now conduct Census duties under amended 1990 rules.",
+   "remember_gu": "સુધારેલા 1990 ના નિયમો હેઠળ ખાનગી શિક્ષકો વસ્તી ગણતરીની ફરજ બજાવી શકશે.",
+   "why_en": "Administrative rules and census procedures are frequently tested in competitive government exams.",
+   "why_gu": "સ્પર્ધાત્મક પરીક્ષાઓમાં વસ્તી ગણતરીના નિયમો અને સરકારી વહીવટી નિર્ણયો વિશે વારંવાર પૂછાય છે.",
+   "details_en": "The Central government has amended the **Census Rules of 1990**. According to the Registrar General of India, teachers of aided and unaided private institutions can now be appointed as enumerators. This decision follows a legal challenge against using private school staff for census work. Furthermore, the **2027 Census** will be conducted in **two phases**. A substantial budget has been approved for the exercise. Due to upcoming elections, census enumeration will begin early in certain states on **December 1, 2026**.",
+   "details_gu": "કેન્દ્ર સરકારે **વસ્તી ગણતરી નિયમો, 1990** માં સુધારો કર્યો છે. રજિસ્ટ્રાર જનરલ ઓફ ઇન્ડિયા અનુસાર, સહાયિત અને બિન-સહાયિત ખાનગી સંસ્થાઓના શિક્ષકો હવે ગણતરીકાર તરીકે સેવા આપી શકશે. આ બાબતે અગાઉ થયેલા કાનૂની વિવાદ પછી નિયમો બદલવામાં આવ્યા છે. વધુમાં, **2027 ની વસ્તી ગણતરી** **બે તબક્કામાં** હાથ ધરાશે. આ કામગીરી માટે મોટું બજેટ મંજૂર કરવામાં આવ્યું છે. કેટલીક જગ્યાએ યોજાનારી ચૂંટણીઓને કારણે અમુક રાજ્યોમાં **1 ડિસેમ્બર, 2026** થી ગણતરી વહેલી શરૂ થશે.",
+   "mcq": {
+    "q_en": "Which year's Census Rules were amended to allow private school teachers to be appointed for census duties?",
+    "q_gu": "ખાનગી શાળાના શિક્ષકોને વસ્તી ગણતરીની ફરજ સોંપવા માટે કયા વર્ષના વસ્તી ગણતરી નિયમોમાં સુધારો કરવામાં આવ્યો?",
+    "o_en": [
+     "Census Rules of 1971",
+     "Census Rules of 1981",
+     "Census Rules of 1990",
+     "Census Rules of 2001"
+    ],
+    "o_gu": [
+     "વસ્તી ગણતરી નિયમો, 1971",
+     "વસ્તી ગણતરી નિયમો, 1981",
+     "વસ્તી ગણતરી નિયમો, 1990",
+     "વસ્તી ગણતરી નિયમો, 2001"
+    ],
+    "a": 2,
+    "e_en": "The Centre amended the Census Rules of 1990 to allow aided and unaided private teachers as enumerators.",
+    "e_gu": "કેન્દ્ર સરકારે વસ્તી ગણતરી નિયમો, 1990 માં સુધારો કરીને ખાનગી શિક્ષકોને ગણતરીકાર તરીકે નિયુક્ત કરવાની મંજૂરી આપી છે."
+   },
+   "id": "ca-centre-allows-private-school-teachers-for-census-enumeration",
+   "source": "https://m.economictimes.com/news/india/teachers-of-aided/unaided-private-bodies-can-be-appointed-for-census-duties-registrar-general-of-india/articleshow/134992834.cms",
+   "exam": {
+    "score": 7,
+    "why": "Census rule amendment allowing private school teachers for Census duties."
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://m.economictimes.com/news/india/teachers-of-aided/unaided-private-bodies-can-be-appointed-for-census-duties-registrar-general-of-india/articleshow/134992834.cms"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
    "category": "schemes",
    "title_en": "Gujarat to Hold Workshop on Leveraging FTAs to Boost Exports",
    "title_gu": "ગुજરાતમાં નિકાસ સ્પર્ધાત્મકતા વધારવા માટે FTAs વર્કશોપ",
