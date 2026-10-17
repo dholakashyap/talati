@@ -324,6 +324,330 @@
    "by": "gemini"
   },
   {
+   "category": "gujarat",
+   "title_en": "Gujarat Amends Recruitment and Promotion Rules for Class 1 to 3",
+   "title_gu": "ગુજરાત સરકારે વર્ગ 1 થી 3 ના ભરતી અને બઢતીના નિયમો બદલ્યા",
+   "summary_en": "Gujarat updated recruitment and promotion rules for **Class 1, 2, and 3** posts. The new rules add clear service benchmarks and registration norms.",
+   "summary_gu": "ગુજરાત સરકારે **વર્ગ 1, 2 અને 3** માટે ભરતી તેમજ બઢતીના નિયમોમાં સુધારો કર્યો છે. નવા નિયમોમાં સર્વિસ બેન્ચમાર્ક અને રજિસ્ટ્રેશનની શરતો સ્પષ્ટ કરવામાં આવી છે.",
+   "facts": [
+    {
+     "k_en": "Department",
+     "k_gu": "વિભાગ",
+     "v_en": "**General Administration Department (GAD)**",
+     "v_gu": "**સામાન્ય વહીવટ વિભાગ**"
+    },
+    {
+     "k_en": "Cadres Covered",
+     "k_gu": "સંવર્ગ",
+     "v_en": "**Class 1, 2, and 3**",
+     "v_gu": "**વર્ગ 1, 2 અને 3**"
+    },
+    {
+     "k_en": "Amended Forms",
+     "k_gu": "સુધારેલા ફોર્મ",
+     "v_en": "**Model Forms 1 to 4**",
+     "v_gu": "**મોડેલ ફોર્મ 1 થી 4**"
+    },
+    {
+     "k_en": "Promotion Benchmarks",
+     "k_gu": "બઢતી માટેના બેન્ચમાર્ક",
+     "v_en": "**'Good' and 'Very Good'**",
+     "v_gu": "**'ગુડ' અને 'વેરી ગુડ'**"
+    }
+   ],
+   "points_en": [
+    "Direct recruitment now has clearer terms for experience and professional registration.",
+    "All state departments must follow the revised guidelines for framing new rules."
+   ],
+   "points_gu": [
+    "સીધી ભરતી માટે જરૂરી અનુભવ અને પ્રોફેશનલ રજિસ્ટ્રેશનની શરતો વધુ સ્પષ્ટ કરાઈ.",
+    "રાજ્યના તમામ વિભાગોએ નવા નિયમો બનાવતી વખતે આ માર્ગદર્શિકાનું પાલન કરવાનું રહેશે."
+   ],
+   "context_en": "The General Administration Department manages civil service rules and administrative reforms in Gujarat.",
+   "context_gu": "સામાન્ય વહીવટ વિભાગ ગુજરાતમાં સનદી સેવાઓના નિયમો અને વહીવટી સુધારાનું સંચાલન કરે છે.",
+   "remember_en": "Gujarat amended Model Forms 1 to 4 for Class 1 to 3 recruitments.",
+   "remember_gu": "ગુજરાતે વર્ગ 1 થી 3 ની ભરતી માટે મોડેલ ફોર્મ 1 થી 4 માં સુધારો કર્યો.",
+   "why_en": "Questions on state recruitment guidelines and administrative reforms frequently appear in Gujarat exams.",
+   "why_gu": "ગુજરાતની પરીક્ષાઓમાં વહીવટી સુધારા અને ભરતી નિયમો અંગે પ્રશ્નો પૂછાય છે.",
+   "details_en": "The General Administration Department of Gujarat issued new guidelines amending Model Forms 1 to 4 for framing recruitment rules. These changes apply to Class 1, 2, and 3 posts. The government clarified experience requirements and professional body registration rules for direct recruitment. For promotions, authorities introduced service benchmarks of 'Good' and 'Very Good'. All government departments must now follow these revised guidelines when preparing recruitment and promotion rules.",
+   "details_gu": "ગુજરાત સરકારના સામાન્ય વહીવટ વિભાગે વર્ગ 1, 2 અને 3 માટે ભરતી અને બઢતીના નિયમોમાં ફેરફાર કર્યા છે. સરકારે ભરતી નિયમો માટેના મોડેલ ફોર્મ 1 થી 4 સુધારીને નવી માર્ગદર્શિકા બહાર પાડી છે. સીધી ભરતીમાં જરૂરી અનુભવ અને પ્રોફેશનલ બોડીમાં રજિસ્ટ્રેશનની શરતો વધુ ચોક્કસ કરવામાં આવી છે. પ્રમોશન માટે 'ગુડ' અને 'વેરી ગુડ' જેવા સર્વિસ બેન્ચમાર્ક નક્કી કરાયા છે. હવે તમામ વિભાગોએ નિયમો ઘડતી વખતે આ નવી માર્ગદર્શિકા અપનાવવાની રહેશે.",
+   "mcq": {
+    "q_en": "Which department of Gujarat amended the recruitment rules for Class 1 to 3?",
+    "q_gu": "ગુજરાતના કયા વિભાગે વર્ગ 1 થી 3 ના ભરતી નિયમોમાં ફેરફાર કર્યા છે?",
+    "o_en": [
+     "Finance Department",
+     "Home Department",
+     "General Administration Department (GAD)",
+     "Revenue Department"
+    ],
+    "o_gu": [
+     "નાણા વિભાગ",
+     "ગૃહ વિભાગ",
+     "સામાન્ય વહીવટ વિભાગ",
+     "મહેસૂલ વિભાગ"
+    ],
+    "a": 2,
+    "e_en": "The General Administration Department amended Model Forms 1 to 4 for Class 1 to 3 recruitments.",
+    "e_gu": "સામાન્ય વહીવટ વિભાગે વર્ગ 1 થી 3 માટેના મોડેલ ફોર્મ 1 થી 4 માં સુધારો કર્યો છે."
+   },
+   "id": "ca-gujarat-amends-recruitment-and-promotion-rules-for-class-1-t",
+   "source": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-government-class-1-to-3-recruitment-rules-change",
+   "exam": {
+    "score": 7,
+    "why": "Gujarat government amendments to Class 1 to 3 recruitment rules"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-government-class-1-to-3-recruitment-rules-change"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat Grants Citizenship to 319 Displaced Persons in Rajkot",
+   "title_gu": "રાજકોટમાં ૩૧૯ વિસ્થાપિતોને ભારતીય નાગરિકતા પ્રમાણપત્રો અપાયાં",
+   "summary_en": "The Gujarat government granted Indian citizenship certificates to 319 displaced people from Pakistan in Rajkot.",
+   "summary_gu": "ગુજરાત સરકારે રાજકોટમાં પાકિસ્તાનથી આવેલા ૩૧૯ વિસ્થાપિત લોકોને ભારતીય નાગરિકતાનાં પ્રમાણપત્રો આપ્યાં.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Indian citizenship** granted to **319 people**",
+     "v_gu": "**૩૧૯ લોકોને** **ભારતીય નાગરિકતા** એનાયત"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Pramukh Swami Auditorium**, **Rajkot**",
+     "v_gu": "**પ્રમુખસ્વામી ઓડિટોરિયમ**, **રાજકોટ**"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**October 15**",
+     "v_gu": "**૧૫ ઓક્ટોબર**"
+    },
+    {
+     "k_en": "Act",
+     "k_gu": "કાયદો",
+     "v_en": "**Citizenship (Amendment) Act (CAA)**",
+     "v_gu": "**નાગરિકતા (સુધારા) કાયદો (CAA)**"
+    }
+   ],
+   "points_en": [
+    "The recipients belong to **four districts** of the Saurashtra-Kutch region.",
+    "More than **1,500 people** in Gujarat have received citizenship under CAA."
+   ],
+   "points_gu": [
+    "લાભાર્થીઓ સૌરાષ્ટ્ર-કચ્છ વિસ્તારના **ચાર જિલ્લાઓ**માંથી આવે છે.",
+    "ગુજરાતમાં CAA હેઠળ અત્યાર સુધીમાં **૧,૫૦૦ થી વધુ** લોકોને નાગરિકતા મળી છે."
+   ],
+   "context_en": "The law covers non-Muslim minorities from Pakistan, Bangladesh, and Afghanistan who arrived before 2015.",
+   "context_gu": "આ કાયદો ૨૦૧૫ પહેલાં આવેલા પાકિસ્તાન, બાંગ્લાદેશ અને અફઘાનિસ્તાનના બિન-મુસ્લિમ લઘુમતીઓને આવરી લે છે.",
+   "remember_en": "Rajkot hosted the distribution of citizenship certificates to 319 displaced migrants.",
+   "remember_gu": "રાજકોટમાં ૩૧૯ વિસ્થાપિતોને ભારતીય નાગરિકતા પ્રમાણપત્રો એનાયત કરવામાં આવ્યાં હતાં.",
+   "why_en": "Gujarat administrative decisions and CAA implementation are key Talati exam topics.",
+   "why_gu": "ગુજરાત વહીવટી નિર્ણયો અને CAAનો અમલ તલાટી પરીક્ષા માટે મહત્ત્વપૂર્ણ છે.",
+   "details_en": "The Rajkot district administration organised a certificate distribution event on **October 15**. Officials handed over Indian citizenship certificates to **319 displaced people** from Pakistan. These recipients now live across **four districts** of the Saurashtra-Kutch region. The process took place under the **Citizenship (Amendment) Act (CAA)**. According to state officials, more than **1,500 people** have received citizenship in Gujarat under this law.",
+   "details_gu": "રાજકોટ જિલ્લા વહીવટીતંત્રે **૧૫ ઓક્ટોબર**ના રોજ નાગરિકતા પ્રમાણપત્ર વિતરણ કાર્યક્રમ યોજ્યો હતો. આ કાર્યક્રમમાં પાકિસ્તાનથી આવેલા **૩૧૯ વિસ્થાપિતોને** ભારતીય નાગરિકતાનાં પ્રમાણપત્રો આપવામાં આવ્યાં હતાં. આ લાભાર્થીઓ સૌરાષ્ટ્ર-કચ્છના **ચાર જિલ્લાઓમાં** રહે છે. આ સમગ્ર પ્રક્રિયા **નાગરિકતા (સુધારા) કાયદા (CAA)** હેઠળ પૂર્ણ કરવામાં આવી હતી. રાજ્યના અધિકારીઓ અનુસાર, આ કાયદા હેઠળ ગુજરાતમાં અત્યાર સુધી **૧,૫૦૦ થી વધુ** લોકોને નાગરિકતા મળી ચૂકી છે.",
+   "mcq": {
+    "q_en": "How many Pakistan-displaced persons received Indian citizenship certificates at the ceremony in Rajkot?",
+    "q_gu": "રાજકોટ ખાતે યોજાયેલા કાર્યક્રમમાં પાકિસ્તાનથી આવેલા કેટલા વિસ્થાપિતોને ભારતીય નાગરિકતા પ્રમાણપત્રો અપાયાં?",
+    "o_en": [
+     "219",
+     "319",
+     "419",
+     "519"
+    ],
+    "o_gu": [
+     "૨૧૯",
+     "૩૧૯",
+     "૪૧૯",
+     "૫૧૯"
+    ],
+    "a": 1,
+    "e_en": "A total of 319 displaced persons received Indian citizenship certificates in Rajkot under the CAA.",
+    "e_gu": "CAA હેઠળ રાજકોટમાં કુલ ૩૧૯ વિસ્થાપિતોને ભારતીય નાગરિકતાનાં પ્રમાણપત્રો એનાયત કરવામાં આવ્યાં હતાં."
+   },
+   "id": "ca-gujarat-grants-citizenship-to-319-displaced-persons-in-rajko",
+   "source": "https://indianmasterminds.com/news/gujarat-citizenship-certificates-319-pakistan-displaced-people-243158/",
+   "exam": {
+    "score": 6,
+    "why": "Citizenship grant to Pakistani Hindu displaced persons in Rajkot"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://indianmasterminds.com/news/gujarat-citizenship-certificates-319-pakistan-displaced-people-243158/"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Harsh Sanghavi inaugurates 86 projects and E-Kaksha Bus in Surat",
+   "title_gu": "સુરતમાં હર્ષભાઇ સંઘવીએ 86 પ્રકલ્પો અને ‘ઇ-કક્ષા બસ’નું લોકાર્પણ કર્યું",
+   "summary_en": "In **Surat**, **Harsh Sanghavi** inaugurated **86 projects**. He also flagged off an **'E-Kaksha Bus'** for students.",
+   "summary_gu": "**સુરત** ખાતે **હર્ષભાઇ સંઘવી**એ **86 પ્રકલ્પો**નું લોકાર્પણ કર્યું. આ સાથે તેમણે વિદ્યાર્થીઓ માટે **'ઇ-કક્ષા બસ'** શરૂ કરાવી.",
+   "facts": [
+    {
+     "k_en": "Place",
+     "k_gu": "સ્થળ",
+     "v_en": "**Surat**",
+     "v_gu": "**સુરત**"
+    },
+    {
+     "k_en": "Inaugurated by",
+     "k_gu": "કોના હસ્તે લોકાર્પણ",
+     "v_en": "**Harsh Sanghavi**",
+     "v_gu": "**હર્ષભાઇ સંઘવી**"
+    },
+    {
+     "k_en": "Number of Projects",
+     "k_gu": "પ્રકલ્પોની સંખ્યા",
+     "v_en": "**86**",
+     "v_gu": "**86**"
+    },
+    {
+     "k_en": "Student Initiative",
+     "k_gu": "વિદ્યાર્થીઓ માટે પહેલ",
+     "v_en": "**'E-Kaksha Bus'**",
+     "v_gu": "**'ઇ-કક્ષા બસ'**"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "**Harsh Sanghavi** launched **86 projects** and the **'E-Kaksha Bus'** in **Surat**.",
+   "remember_gu": "**હર્ષભાઇ સંઘવી**એ **સુરત**માં **86 પ્રકલ્પો** અને **'ઇ-કક્ષા બસ'**નું લોકાર્પણ કર્યું.",
+   "why_en": "Tests knowledge of recent student initiatives and development projects launched in Gujarat.",
+   "why_gu": "ગુજરાતમાં શરૂ થયેલા નવા વિકાસ પ્રકલ્પો અને વિદ્યાર્થીલક્ષી પહેલ પરીક્ષા માટે ઉપયોગી છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "In which city was the 'E-Kaksha Bus' for students flagged off alongside 86 development projects?",
+    "q_gu": "વિદ્યાર્થીઓ માટે 'ઇ-કક્ષા બસ' અને 86 પ્રકલ્પોનું લોકાર્પણ કયા શહેરમાં કરવામાં આવ્યું?",
+    "o_en": [
+     "Surat",
+     "Ahmedabad",
+     "Rajkot",
+     "Vadodara"
+    ],
+    "o_gu": [
+     "સુરત",
+     "અમદાવાદ",
+     "રાજકોટ",
+     "વડોદરા"
+    ],
+    "a": 0,
+    "e_en": "Harsh Sanghavi inaugurated 86 projects and flagged off the 'E-Kaksha Bus' in Surat.",
+    "e_gu": "સુરત ખાતે હર્ષભાઇ સંઘવીના હસ્તે 86 પ્રકલ્પો અને 'ઇ-કક્ષા બસ'નું લોકાર્પણ થયું હતું."
+   },
+   "id": "ca-harsh-sanghavi-inaugurates-86-projects-and-e-kaksha-bus-in-s",
+   "source": "https://www.gujaratfirst.com/surat/surat-development-projects-108-crores-e-kaksha-bus-initiative-harsh-sanghavi/346759/amp",
+   "exam": {
+    "score": 6,
+    "why": "Surat's launch of innovative E-Kaksha mobile bus for students"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratfirst.com/surat/surat-development-projects-108-crores-e-kaksha-bus-initiative-harsh-sanghavi/346759/amp"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat Boat Ambulances Handled 777 Emergencies from 2018 to 2026",
+   "title_gu": "ગુજરાતની બોટ એમ્બ્યુલન્સે 2018 થી 2026 વચ્ચે 777 ઇમરજન્સી કેસ સંભાળ્યા",
+   "summary_en": "Gujarat's two boat ambulances handled **777** medical emergencies between **April 2018** and **September 2026**. They provide urgent healthcare to remote coastal and island communities.",
+   "summary_gu": "ગુજરાતની બે બોટ એમ્બ્યુલન્સે **એપ્રિલ 2018** થી **સપ્ટેમ્બર 2026** દરમિયાન **777** મેડિકલ ઇમરજન્સી કેસ સંભાળ્યા. આ સેવા દરિયાકાંઠાના અને ટાપુ વિસ્તારના લોકોને તાત્કાલિક સારવાર પહોંચાડે છે.",
+   "facts": [
+    {
+     "k_en": "Total Cases",
+     "k_gu": "કુલ કેસ",
+     "v_en": "**777** emergencies",
+     "v_gu": "**777** ઇમરજન્સી"
+    },
+    {
+     "k_en": "Locations",
+     "k_gu": "કેન્દ્રો",
+     "v_en": "**Okha** and **Porbandar**",
+     "v_gu": "**ઓખા** અને **પોરબંદર**"
+    },
+    {
+     "k_en": "Top Emergency",
+     "k_gu": "મુખ્ય કારણ",
+     "v_en": "**Pregnancy-related** complications (**355**)",
+     "v_gu": "**સગર્ભાવસ્થા** સંબંધિત તકલીફો (**355**)"
+    },
+    {
+     "k_en": "Busiest Unit",
+     "k_gu": "સૌથી વધુ કેસ",
+     "v_en": "**Okha** unit (**720** cases)",
+     "v_gu": "**ઓખા** યુનિટ (**720** કેસ)"
+    }
+   ],
+   "points_en": [
+    "The Okha boat ambulance in Devbhoomi Dwarka handled about 92.7 percent of missions.",
+    "Most pregnancy cases came from Beyt Dwarka due to limited road connectivity.",
+    "Boat ambulances operate as part of the 108 Emergency Response Service."
+   ],
+   "points_gu": [
+    "દેવભૂમિ દ્વારકાના ઓખા યુનિટે કુલ મિશનના આશરે 92.7 ટકા કેસ સંભાળ્યા.",
+    "સગર્ભાવસ્થાના મોટાભાગના કેસ બેટ દ્વારકા ટાપુ પરથી નોંધાયા હતા.",
+    "આ બોટ એમ્બ્યુલન્સ સેવા 108 ઇમરજન્સી રિસ્પોન્સ સર્વિસ સાથે જોડાયેલી છે."
+   ],
+   "context_en": "Gujarat runs dedicated marine ambulances to transfer emergency patients across sea routes to hospitals.",
+   "context_gu": "ગુજરાત સરકાર દરિયાઈ માર્ગે દર્દીઓને હોસ્પિટલ પહોંચાડવા ખાસ બોટ એમ્બ્યુલન્સ ચલાવે છે.",
+   "remember_en": "Gujarat boat ambulances at Okha and Porbandar handled 777 emergency cases.",
+   "remember_gu": "ગુજરાતમાં ઓખા અને પોરબંદરની બોટ એમ્બ્યુલન્સે 777 ઇમરજન્સી કેસ સંભાળ્યા.",
+   "why_en": "Tests knowledge of Gujarat public health initiatives and coastal emergency medical services.",
+   "why_gu": "ગુજરાતની દરિયાકાંઠાની આરોગ્ય સેવાઓ અને સરકારી યોજનાઓની માહિતી ચકાસવા માટે મહત્વપૂર્ણ.",
+   "details_en": "The Gujarat government operates two boat ambulances under the **108 Emergency Response Service**. They are stationed at **Okha** in **Devbhoomi Dwarka** district and at **Porbandar**. Between **April 2018** and **September 2026**, these units attended to **777** emergency cases. The Okha unit handled **720** of these missions. Complications during pregnancy formed the biggest share with **355** cases, largely from **Beyt Dwarka** island. The service helps coastal residents and fishermen reach hospitals quickly.",
+   "details_gu": "ગુજરાત સરકાર **108 ઇમરજન્સી રિસ્પોન્સ સર્વિસ** હેઠળ બે બોટ એમ્બ્યુલન્સ ચલાવે છે. આ સેવા **દેવભૂમિ દ્વારકા** જિલ્લાના **ઓખા** અને **પોરબંદર** ખાતે કાર્યરત છે. **એપ્રિલ 2018** થી **સપ્ટેમ્બર 2026** વચ્ચે આ બોટ એમ્બ્યુલન્સે **777** કટોકટીના કેસમાં મદદ કરી હતી. તેમાંથી ઓખા યુનિટે એકલા **720** કેસ સંભાળ્યા હતા. સૌથી વધુ **355** કેસ સગર્ભાવસ્થાને લગતા હતા, જે મુખ્યત્વે **બેટ દ્વારકા** ટાપુ પરથી આવ્યા હતા.",
+   "mcq": {
+    "q_en": "At which two coastal locations does the Gujarat government operate boat ambulances?",
+    "q_gu": "ગુજરાત સરકાર કયા બે દરિયાકાંઠાના સ્થળોએ બોટ એમ્બ્યુલન્સ ચલાવે છે?",
+    "o_en": [
+     "Okha and Porbandar",
+     "Mandvi and Veraval",
+     "Dahej and Ghogha",
+     "Alang and Kandla"
+    ],
+    "o_gu": [
+     "ઓખા અને પોરબંદર",
+     " માંડવી અને વેરાવળ",
+     "દહેજ અને ઘોઘા",
+     "અલંગ અને કંડલા"
+    ],
+    "a": 0,
+    "e_en": "The Gujarat government operates two boat ambulances, one at Okha and another at Porbandar.",
+    "e_gu": "ગુજરાત સરકાર બે બોટ એમ્બ્યુલન્સ ચલાવે છે, એક ઓખા અને બીજી પોરબંદર ખાતે."
+   },
+   "id": "ca-gujarat-boat-ambulances-handled-777-emergencies-from-2018-to",
+   "source": "https://www.aninews.in/news/national/general-news/from-pregnancy-to-cardiac-emergencies-gujarat-boat-ambulances-handle-777-medical-cases20261017174049",
+   "exam": {
+    "score": 6,
+    "why": "Performance and emergency coverage of Gujarat's 108 boat ambulances"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.aninews.in/news/national/general-news/from-pregnancy-to-cardiac-emergencies-gujarat-boat-ambulances-handle-777-medical-cases20261017174049"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://thenewsmill.com/2026/10/gujarat-boat-ambulances-handle-777-emergencies-from-2018-to-2026/"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
    "category": "awards",
    "title_en": "Ustad Bismillah Khan Youth Award to be presented on Oct 19",
    "title_gu": "ઉસ્તાદ બિસ્મિલ્હા ખાન યુવા પુરસ્કાર 19 ઓક્ટોબરે આપવામાં આવશે",
