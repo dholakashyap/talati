@@ -1890,6 +1890,88 @@
    "date": "2026-10-18"
   },
   {
+   "category": "economy",
+   "title_en": "Wholesale inflation reached series-high of 11.4% in September 2026",
+   "title_gu": "સપ્ટેમ્બર 2026માં જથ્થાબંધ ફુગાવો નવી શ્રેણીના સર્વોચ્ચ 11.4% પર પહોંચ્યો",
+   "summary_en": "Wholesale price inflation surged to **11.4%** in **September 2026**. High food and fuel prices drove this sharp increase.",
+   "summary_gu": "**સપ્ટેમ્બર 2026**માં ભારતનો જથ્થાબંધ ફુગાવો વધીને **11.4%** થયો હતો. ખાદ્યચીજો અને ઇંધણના વધતા ભાવોએ આ મોટો વધારો કર્યો હતો.",
+   "facts": [
+    {
+     "k_en": "Indicator",
+     "k_gu": "સૂચકાંક",
+     "v_en": "Wholesale Price Index (WPI)",
+     "v_gu": "જથ્થાબંધ ભાવ સૂચકાંક (WPI)"
+    },
+    {
+     "k_en": "Rate",
+     "k_gu": "દર",
+     "v_en": "**11.4%** in **September 2026**",
+     "v_gu": "**સપ્ટેમ્બર 2026**માં **11.4%**"
+    },
+    {
+     "k_en": "Base Year",
+     "k_gu": "આધાર વર્ષ",
+     "v_en": "**2022-23** (new series)",
+     "v_gu": "**2022-23** (નવી શ્રેણી)"
+    },
+    {
+     "k_en": "Food Inflation",
+     "k_gu": "ખાદ્ય ફુગાવો",
+     "v_en": "**8.1%**",
+     "v_gu": "**8.1%**"
+    }
+   ],
+   "points_en": [
+    "Fuel and power inflation reached **25.85%** during September 2026.",
+    "Inflation in manufactured products climbed to a series-high of **9.8%**."
+   ],
+   "points_gu": [
+    "સપ્ટેમ્બર 2026 દરમિયાન ઇંધણ અને વીજળી કેટેગરીમાં ફુગાવો **25.85%** રહ્યો હતો.",
+    "ઉત્પાદિત ચીજવસ્તુઓનો ફુગાવો નવી શ્રેણીમાં સૌથી ઊંચા સ્તરે **9.8%** પહોંચ્યો હતો."
+   ],
+   "context_en": "The Wholesale Price Index measures the average change in prices of commodities at the wholesale level.",
+   "context_gu": "જથ્થાબંધ ભાવ સૂચકાંક જથ્થાબંધ સ્તરે વિવિધ ચીજવસ્તુઓના ભાવમાં થતા સરેરાશ ફેરફારને માપે છે.",
+   "remember_en": "September 2026 wholesale inflation hit a new series-high of 11.4%.",
+   "remember_gu": "સપ્ટેમ્બર 2026માં જથ્થાબંધ ફુગાવો નવી શ્રેણીના સર્વોચ્ચ 11.4% પર રહ્યો હતો.",
+   "why_en": "Inflation rates and base years of economic indices are regularly asked in competitive exams.",
+   "why_gu": "સ્પર્ધાત્મક પરીક્ષાઓમાં ફુગાવાના દર અને સૂચકાંકના આધાર વર્ષ વારંવાર પૂછવામાં આવે છે.",
+   "details_en": "In **September 2026**, Wholesale Price Index (WPI) inflation rose to **11.4%**. This is a record high under the new series, which uses **2022-23** as its base year. The older **2011-12** series showed it was a **49-month-high**. Food inflation surged from **5.7%** in August to **8.1%** in September. Fuel and power inflation touched **25.85%**, while manufactured goods inflation stood at **9.8%**.",
+   "details_gu": "**સપ્ટેમ્બર 2026**માં ભારતનો જથ્થાબંધ ભાવ સૂચકાંક (WPI) ફુગાવો વધીને **11.4%** થયો હતો. આ વધારો **2022-23**ના આધાર વર્ષવાળી નવી શ્રેણીમાં સૌથી ઊંચો છે. જૂની **2011-12**ની શ્રેણી મુજબ તે **49 મહિનાની** ટોચે પહોંચ્યો હતો. ખાદ્ય પદાર્થોનો ફુગાવો ઓગસ્ટના **5.7%**થી વધીને સપ્ટેમ્બરમાં **8.1%** થયો હતો. આ ઉપરાંત, ઇંધણ અને વીજળી કેટેગરીનો ફુગાવો **25.85%** તથા ઉત્પાદિત ચીજોનો ફુગાવો **9.8%** રહ્યો હતો.",
+   "mcq": {
+    "q_en": "What is the base year of the new Wholesale Price Index (WPI) series?",
+    "q_gu": "જથ્થાબંધ ભાવ સૂચકાંક (WPI)ની નવી શ્રેણીનું આધાર વર્ષ કયું છે?",
+    "o_en": [
+     "2011-12",
+     "2014-15",
+     "2020-21",
+     "2022-23"
+    ],
+    "o_gu": [
+     "2011-12",
+     "2014-15",
+     "2020-21",
+     "2022-23"
+    ],
+    "a": 3,
+    "e_en": "The new series of the WPI has 2022-23 as its base year, replacing the 2011-12 base.",
+    "e_gu": "WPIની નવી શ્રેણીનું આધાર વર્ષ 2022-23 છે, જ્યારે જૂની શ્રેણીનું આધાર વર્ષ 2011-12 હતું."
+   },
+   "id": "ca-wholesale-inflation-reached-series-high-of-11-4-in-september",
+   "source": "https://www.thehindu.com/business/Economy/september-wpi-inflation-rises-to-1139-as-food-fuel-and-manufactured-goods-prices-increase/article71582698.ece",
+   "exam": {
+    "score": 8,
+    "why": "Wholesale inflation rate reaches new series peak of 11.4%"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/september-wpi-inflation-rises-to-1139-as-food-fuel-and-manufactured-goods-prices-increase/article71582698.ece"
+    }
+   ],
+   "by": "gemini",
+   "date": "2026-10-18"
+  },
+  {
    "category": "national",
    "title_en": "Delhi launches Delhi Institute for Transformation and Innovation (DITI)",
    "title_gu": "દિલ્લીનું નવું વિચારમંચ DITI શરૂ થયું",
