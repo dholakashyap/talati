@@ -530,6 +530,89 @@
    "by": "groq"
   },
   {
+   "category": "defence",
+   "title_en": "INS Sudarshini Departs Salalah in Oman Under Lokayan-2026 Deployment",
+   "title_gu": "ભારતીય નૌકાદળનું જહાજ સુદર્શિની લોકાયન-2026 હેઠળ ઓમાનના સલાલાહથી રવાના થયું",
+   "summary_en": "Indian Naval Ship (INS) Sudarshini departed **Salalah in Oman** after completing its visit. The ship is continuing its historic voyage named **Lokayan-2026**.",
+   "summary_gu": "ભારતીય નેવલ શિપ (INS) સુદર્શિની પોતાની મુલાકાત પૂર્ણ કરીને **ઓમાનના સલાલાહ**થી રવાના થયું છે. આ જહાજે પોતાનું ઐતિહાસિક દરિયાઈ અભિયાન **લોકાયન-2026** આગળ વધાર્યું છે.",
+   "facts": [
+    {
+     "k_en": "Ship Name",
+     "k_gu": "જહાજનું નામ",
+     "v_en": "**INS Sudarshini**",
+     "v_gu": "**આઈએનએસ સુદર્શિની**"
+    },
+    {
+     "k_en": "Deployment Name",
+     "k_gu": "અભિયાનનું નામ",
+     "v_en": "**Lokayan-2026**",
+     "v_gu": "**લોકાયન-2026**"
+    },
+    {
+     "k_en": "Port Visited",
+     "k_gu": "મુલાકાત લીધેલ સ્થળ",
+     "v_en": "**Salalah, Oman**",
+     "v_gu": "**સલાલાહ, ઓમાન**"
+    },
+    {
+     "k_en": "Visit Dates",
+     "k_gu": "મુલાકાતની તારીખ",
+     "v_en": "**14-17 October 2026**",
+     "v_gu": "**14-17 ઓક્ટોબર 2026**"
+    }
+   ],
+   "points_en": [
+    "INS Sudarshini is a **three-masted sail training ship** of the Indian Navy.",
+    "The voyage has entered its **tenth month** of oceanic deployment.",
+    "The visit strengthened friendly ties with the **Royal Navy of Oman**."
+   ],
+   "points_gu": [
+    "આઈએનએસ સુદર્શિની ભારતીય નૌકાદળનું **ત્રણ માસ્તુલવાળું સેઇલ ટ્રેનિંગ જહાજ** છે.",
+    "આ સમુદ્રી અભિયાન હવે તેના **દસમા મહિનામાં** પ્રવેશી ચૂક્યું છે.",
+    "આ મુલાકાતે **રોયલ નેવી ઓફ ઓમાન** સાથેના મૈત્રીપૂર્ણ સંબંધો મજબૂત કર્યા છે."
+   ],
+   "context_en": "The Indian Navy uses sail training ships to impart sea-training skills to naval trainees.",
+   "context_gu": "ભારતીય નૌકાદળ કેડેટ્સને પરંપરાગત નાવિક કૌશલ્ય શીખવવા માટે સેઇલ ટ્રેનિંગ જહાજોનો ઉપયોગ કરે છે.",
+   "remember_en": "**INS Sudarshini** visited **Salalah, Oman** under the **Lokayan-2026** training deployment.",
+   "remember_gu": "**આઈએનએસ સુદર્શિની** જહાજે **લોકાયન-2026** અભિયાન હેઠળ **ઓમાનના સલાલાહ**ની મુલાકાત લીધી હતી.",
+   "why_en": "Naval training deployments and port calls often feature in general knowledge exams.",
+   "why_gu": "નૌકાદળના તાલીમી જહાજો અને આંતરરાષ્ટ્રીય યાત્રાઓ વિશે સ્પર્ધાત્મક પરીક્ષાઓમાં અવારનવાર પૂછાય છે.",
+   "details_en": "The Indian Navy's three-masted sail training ship, Indian Naval Ship (INS) Sudarshini, departed from Salalah in Oman. The ship stayed at the port from 14 to 17 October 2026. This port call was part of its oceanic deployment called Lokayan-2026. The voyage has now entered its tenth month. During the halt, naval personnel held professional and sports events with the Royal Navy of Oman. The ship acts as India's goodwill ambassador and promotes maritime diplomacy.",
+   "details_gu": "ભારતીય નૌકાદળનું ત્રણ માસ્તુલવાળું સેઇલ ટ્રેનિંગ જહાજ આઈએનએસ (INS) સુદર્શિની ઓમાનના સલાલાહથી રવાના થયું છે. આ જહાજ 14 થી 17 ઓક્ટોબર 2026 દરમિયાન ત્યાં રોકાયું હતું. આ યાત્રા તેના દરિયાઈ અભિયાન 'લોકાયન-2026'નો ભાગ છે. આ અભિયાન હવે તેના દસમા મહિનામાં પ્રવેશી ચૂક્યું છે. બંદર પર રોકાણ દરમિયાન ભારતીય નૌકાદળ અને રોયલ નેવી ઓફ ઓમાન વચ્ચે વ્યાવસાયિક સંવાદ અને રમતો યોજાઈ હતી. આ જહાજ ભારતના રાજદૂત તરીકે દરિયાઈ રાજદ્વારી સંબંધોને મજબૂત કરે છે.",
+   "mcq": {
+    "q_en": "Which Indian Naval Ship (INS) departed Salalah in Oman under the Lokayan-2026 deployment?",
+    "q_gu": "લોકાયન-2026 અભિયાન હેઠળ ભારતીય નૌકાદળનું કયું જહાજ ઓમાનના સલાલાહથી રવાના થયું?",
+    "o_en": [
+     "INS Tarangini",
+     "INS Sudarshini",
+     "INS Vikrant",
+     "INS Mormugao"
+    ],
+    "o_gu": [
+     "આઈએનએસ તરંગિણી",
+     "આઈએનએસ સુદર્શિની",
+     "આઈએનએસ વિક્રાંત",
+     "આઈએનએસ મોર્મુગાઓ"
+    ],
+    "a": 1,
+    "e_en": "INS Sudarshini departed Salalah, Oman as part of its Lokayan-2026 ocean deployment.",
+    "e_gu": "આઈએનએસ સુદર્શિની લોકાયન-2026 દરિયાઈ અભિયાન હેઠળ ઓમાનના સલાલાહથી રવાના થયું હતું."
+   },
+   "id": "ca-ins-sudarshini-departs-salalah-in-oman-under-lokayan-2026-de",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324948",
+   "exam": {
+    "score": 7,
+    "why": "Naval sail training ship INS Sudarshini deployment under Lokayan 2026."
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324948"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
    "category": "schemes",
    "title_en": "Social Justice Ministry launches 9‑day Craft Confluence Fair in Mysore",
    "title_gu": "સામાજિક ન્યાય મંત્રાલયે મૈસૂરમાં 9‑દિવસીય કારીગર મેલાનો આરંભ કર્યો",
@@ -1049,6 +1132,95 @@
     {
      "name": "The Hindu (Economy)",
      "url": "https://www.thehindu.com/business/Economy/retail-inflation-rises-in-september-on-costlier-food-items/article71574789.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat hits record electricity demand of 29,822 MW",
+   "title_gu": "ગુજરાતે વીજ માંગમાં નવો રેકોર્ડ 29,822 મેગાવોટ નોંધ્યો",
+   "summary_en": "On 16 October 2026 Gujarat’s peak demand reached 29,822 MW, 36.6% higher than last year, prompting a review of power supply.",
+   "summary_gu": "16 ઓક્ટોબર 2026એ ગુજરાતની પીક વીજ માંગ 29,822 મેગાવોટ સુધી પહોંચી, ગયા વર્ષથી 36.6% વધારે, જેથી વીજ પુરવઠો સમીક્ષિત થયો.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "16 October 2026",
+     "v_gu": "16 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Peak demand 29,822 MW",
+     "v_gu": "પીક માંગ 29,822 મેગાવોટ"
+    },
+    {
+     "k_en": "Increase",
+     "k_gu": "વધારો",
+     "v_en": "36.6% higher than 2025",
+     "v_gu": "2025 કરતા 36.6% વધારે"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Energy Minister Rushikesh Patel",
+     "v_gu": "ઊર્જા મંત્રી Rushikesh Patel"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "Industrial, agricultural, festive, weather factors",
+     "v_gu": "ઉદ્યોગ, કૃષિ, તહેવારો, હવામાન"
+    }
+   ],
+   "points_en": [
+    "State reviewed power procurement and fuel supply.",
+    "Additional electricity arranged from central sources.",
+    "Consumers urged to save power during evening peaks."
+   ],
+   "points_gu": [
+    "રાજ્યએ વીજ ખરીદી અને ઇંધણ પુરવઠો સમીક્ષિત કર્યો.",
+    "કેન્દ્રિય સ્ત્રોતોથી વધારાનો વીજ વ્યવસ્થા કરવામાં આવ્યો.",
+    "સાંજના પીક સમયમાં વીજ બચાવવા માટે ઉપભોક્તાઓને વિનંતી."
+   ],
+   "context_en": "Gujarat Energy and Petrochemicals Department oversees state power planning; State Load Dispatch Centre manages grid operations.",
+   "context_gu": "ગુજરાત ઊર્જા અને પેટ્રોકેમિકલ વિભાગ રાજ્યની વીજ યોજના સંભાળે છે; સ્ટેટ લોડ ડિસ્પેચ સેન્ટર ગ્રિડનું સંચાલન કરે છે.",
+   "remember_en": "Record peak 29,822 MW on 16 Oct 2026, 36.6% rise.",
+   "remember_gu": "16 ઓક્ટોબર 2026એ 29,822 મેગાવોટ પીક, 36.6% વધારો.",
+   "why_en": "Shows growing demand beyond summer, affecting future power planning.",
+   "why_gu": "ગર્મીથી બહારની માંગ વૃદ્ધિ દર્શાવે છે, વીજ યોજના પર અસર.",
+   "details_en": "Gujarat recorded its highest-ever peak electricity demand of 29,822 MW on 16 October 2026. The figure is about 36.6% higher than the 21,822 MW seen in the same period last year. Officials said the surge came from industrial activity, agricultural irrigation, festive-season use and weather‑related pressure on generation. Energy Minister Rushikesh Patel, Minister of State for Energy Kaushik Vekariya and senior officials held a high‑level review. The state is arranging extra power from central sources, boosting thermal generation, and looking at battery storage to ensure reliable supply. Consumers were asked to use electricity wisely during evening peak hours.",
+   "details_gu": "ગુજરાતે 16 ઓક્ટોબર 2026એ 29,822 મેગાવોટની સૌથી ઊંચી પીક વીજ માંગ નોંધાવી. આ આંકડો ગયા વર્ષના સમાન સમયગાળામાં નોંધાયેલ 21,822 મેગાવોટ કરતાં 36.6% વધારે છે. અધિકારીઓએ ઉદ્યોગ, કૃષિ સિંચાઈ, તહેવારો અને હવામાન સંબંધિત જનરેશન દબાણને કારણ તરીકે દર્શાવ્યું. ઊર્જા મંત્રી Rushikesh Patel, રાજ્ય ઊર્જા મંત્રી Kaushik Vekariya અને મુખ્ય અધિકારીઓએ ઉચ્ચ સ્તરની સમીક્ષા કરી. રાજ્ય કેન્દ્રિય સ્ત્રોતોથી વધારાનો વીજ, થર્મલ જનરેશન વધારવા અને બેટરી સ્ટોરેજ જેવા ઉપાયો અપનાવી રહ્યું છે. સાંજના પીક સમયમાં વીજ બચાવવા માટે ઉપભોક્તાઓને વિનંતી કરવામાં આવી.",
+   "mcq": {
+    "q_en": "What was Gujarat's peak electricity demand on 16 October 2026?",
+    "q_gu": "16 ઓક્ટોબર 2026એ ગુજરાતની પીક વીજ માંગ કેટલી હતી?",
+    "o_en": [
+     "21,822 MW",
+     "25,500 MW",
+     "29,822 MW",
+     "33,000 MW"
+    ],
+    "o_gu": [
+     "21,822 મેગાવોટ",
+     "25,500 મેગાવોટ",
+     "29,822 મેગાવોટ",
+     "33,000 મેગાવોટ"
+    ],
+    "a": 2,
+    "e_en": "The record peak was 29,822 MW.",
+    "e_gu": "રેકોર્ડ પીક 29,822 મેગાવોટ હતી."
+   },
+   "id": "ca-gujarat-hits-record-electricity-demand-of-29-822-mw",
+   "source": "https://nationpathindia.com/national/gujarat-record-electricity-demand-29822-mw-october-2026",
+   "exam": {
+    "score": 6,
+    "why": "Gujarat sets record all-time high electricity demand of 29,822 MW."
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://nationpathindia.com/national/gujarat-record-electricity-demand-29822-mw-october-2026"
     }
    ],
    "by": "groq"
