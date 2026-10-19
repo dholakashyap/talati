@@ -1,17 +1,28 @@
 {
- "ads": {
-  "enabled": false,
-  "order": {
-   "banner": ["admob", "cas", "adplus"],
-   "interstitial": ["admob", "cas", "adplus"],
-   "rewarded": ["cas", "adplus"]
+  "ads": {
+    "enabled": true,
+    "order": {
+      "banner": [
+        "admob",
+        "cas",
+        "adplus"
+      ],
+      "interstitial": [
+        "admob",
+        "cas",
+        "adplus"
+      ],
+      "rewarded": [
+        "cas",
+        "adplus"
+      ]
+    },
+    "interstitialCooldownSec": 90,
+    "appOpen": true
   },
-  "interstitialCooldownSec": 90,
-  "appOpen": true
- },
- "update": {
-  "minBuild": 0,
-  "en": "A newer version of Talati Exam Prep is available with fixes and new questions.",
-  "gu": "તલાટી પરીક્ષા તૈયારીનું નવું વર્ઝન ઉપલબ્ધ છે: સુધારા અને નવા પ્રશ્નો સાથે."
- }
+  "update": {
+    "minBuild": 0,
+    "en": "A newer version of Talati Exam Prep is available with fixes and new questions.",
+    "gu": "તલાટી પરીક્ષા તૈયારીનું નવું વર્ઝન ઉપલબ્ધ છે: સુધારા અને નવા પ્રશ્નો સાથે."
+  }
 }
