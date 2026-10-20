@@ -1,0 +1,357 @@
+{
+ "date": "2026-10-20",
+ "items": [
+  {
+   "category": "sports",
+   "title_en": "India Wins 11 Medals on Opening Day of Asian Para Games 2026",
+   "title_gu": "એશિયન પેરા ગેમ્સ 2026માં ભારતે પ્રથમ દિવસે 11 મેડલ જીત્યા",
+   "summary_en": "India won **11 medals**, including **four gold**, on day one of the **5th Asian Para Games**.",
+   "summary_gu": "ભારતે **5મી એશિયન પેરા ગેમ્સ**ના પ્રથમ દિવસે **ચાર ગોલ્ડ** સહિત કુલ **11 મેડલ** જીત્યા છે.",
+   "facts": [
+    {
+     "k_en": "Event",
+     "k_gu": "સ્પર્ધા",
+     "v_en": "**5th Asian Para Games 2026**",
+     "v_gu": "**5મી એશિયન પેરા ગેમ્સ 2026**"
+    },
+    {
+     "k_en": "Host City",
+     "k_gu": "યજમાન શહેર",
+     "v_en": "**Aichi-Nagoya**",
+     "v_gu": "**આઈચી-નાગોયા**"
+    },
+    {
+     "k_en": "Total Medals",
+     "k_gu": "કુલ મેડલ",
+     "v_en": "**11** (4 Gold, 5 Silver, 2 Bronze)",
+     "v_gu": "**11** (4 ગોલ્ડ, 5 સિલ્વર, 2 બ્રોન્ઝ)"
+    },
+    {
+     "k_en": "India's Rank",
+     "k_gu": "ભારતનો ક્રમ",
+     "v_en": "**Fourth** position",
+     "v_gu": "**ચોથો** ક્રમ"
+    }
+   ],
+   "points_en": [
+    "**168 Indian athletes** are competing across **11 sports** in the event.",
+    "Archer **Sheetal Devi** set a new Asian record in the ranking round."
+   ],
+   "points_gu": [
+    "આ સ્પર્ધામાં **168 ભારતીય ખેલાડીઓ** **11 રમતો**માં ભાગ લઈ રહ્યા છે.",
+    "તીરંદાજ **શીતલ દેવી**એ રેન્કિંગ રાઉન્ડમાં નવો એશિયન રેકોર્ડ બનાવ્યો છે."
+   ],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "India claimed **11 medals** and stood **fourth** on day one in **Aichi-Nagoya**.",
+   "remember_gu": "ભારતે **આઈચી-નાગોયા**માં પ્રથમ દિવસે **11 મેડલ** જીતીને **ચોથો** ક્રમ મેળવ્યો.",
+   "why_en": "Sports tournaments and India's medal counts are frequently asked in Talati exams.",
+   "why_gu": "તલાટી પરીક્ષામાં રમતગમત સ્પર્ધાઓ અને ભારતના મેડલને લગતા પ્રશ્નો અવારનવાર પૂછાય છે.",
+   "details_en": "India opened its campaign at the **5th Asian Para Games** in **Aichi-Nagoya** with **11 medals**. The tally includes **four gold**, five silver, and two bronze medals. This performance placed India in **fourth** position in the standings. **Mona Agarwal** won gold in shooting, while **Nishad Kumar** secured gold in long jump. **Rinku** won gold in javelin throw, and **Soumya** took gold in the 1500m race.",
+   "details_gu": "ભારતે **આઈચી-નાગોયા** ખાતે **5મી એશિયન પેરા ગેમ્સ**માં શાનદાર શરૂઆત કરીને **11 મેડલ** જીત્યા. આ મેડલમાં **ચાર ગોલ્ડ**, પાંચ સિલ્વર અને બે બ્રોન્ઝ મેડલ સામેલ છે. આ સાથે ભારત મેડલ ટેલીમાં **ચોથા** સ્થાને પહોંચ્યું છે. શૂટિંગમાં **મોના અગ્રવાલ** અને લાંબી કૂદમાં **નિષાદ કુમારે** ગોલ્ડ મેડલ જીત્યો હતો. ભાલા ફેંકમાં **રિંકુ** અને 1500 મીટર દોડમાં **સૌમ્યા**એ ગોલ્ડ મેડલ મેળવ્યો હતો.",
+   "mcq": {
+    "q_en": "How many total medals did India win on the opening day of the Asian Para Games 2026?",
+    "q_gu": "એશિયન પેરા ગેમ્સ 2026ના પ્રથમ દિવસે ભારતે કુલ કેટલા મેડલ જીત્યા?",
+    "o_en": [
+     "8",
+     "11",
+     "15",
+     "18"
+    ],
+    "o_gu": [
+     "8",
+     "11",
+     "15",
+     "18"
+    ],
+    "a": 1,
+    "e_en": "India won 11 medals, including 4 gold, 5 silver, and 2 bronze medals.",
+    "e_gu": "ભારતે 4 ગોલ્ડ, 5 સિલ્વર અને 2 બ્રોન્ઝ સાથે કુલ 11 મેડલ જીત્યા હતા."
+   },
+   "id": "ca-india-wins-11-medals-on-opening-day-of-asian-para-games-2026",
+   "source": "https://sportstar.thehindu.com/other-sports/asian-para-games-2026-october-19-indian-results-list-details-medal-winners/article71602756.ece",
+   "exam": {
+    "score": 7,
+    "why": "India's gold medal tally and performance at Asian Para Games"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/other-sports/asian-para-games-2026-october-19-indian-results-list-details-medal-winners/article71602756.ece"
+    }
+   ],
+   "by": "gemini"
+  },
+  {
+   "category": "sports",
+   "title_en": "Manish Narwal wins silver, secures LA28 quota at Asian Para Games",
+   "title_gu": "મનિષ નરવાલે એશિયન પારા ગેમ્સમાં ચાંદીનું પદક જીતી, LA28 ક્વોટા મેળવ્યો",
+   "summary_en": "Manish Narwal took silver in the men’s P1 10 m air pistol SH1 at the 2026 Asian Para Games in Aichi‑Nagoya, earning India a quota for the 2028 Los Angeles Paralympics.",
+   "summary_gu": "મનિષ નરવાલે એશિયન પારા ગેમ્સ 2026માં એઇચી‑નાગોયા, જાપાનમાં P1 10 મીટર એર પિસ્ટોલ SH1માં ચાંદીનું પદક જીતી, ભારત માટે 2028 લોસ એન્જેલિસ પેરાલિમ્પિક્સનું ક્વોટા મેળવ્યું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Manish Narwal",
+     "v_gu": "મનિષ નરવાલ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Silver medal, LA28 quota",
+     "v_gu": "ચાંદીનું પદક, LA28 ક્વોટા"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Aichi‑Nagoya, Japan",
+     "v_gu": "એઇચી‑નાગોયા, જાપાન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2026 Asian Para Games",
+     "v_gu": "2026 એશિયન પારા ગેમ્સ"
+    },
+    {
+     "k_en": "Score",
+     "k_gu": "સ્કોર",
+     "v_en": "224.2 points",
+     "v_gu": "૨૨૪.૨ પોઇન્ટ"
+    }
+   ],
+   "points_en": [
+    "Jo Jeongdu of South Korea won gold with 233.7 points.",
+    "Jo broke the Asian Para Games record previously 238.6 set by Huang Xing.",
+    "Rudransh Khandelwal finished seventh with 127.3 points."
+   ],
+   "points_gu": [
+    "દક્ષિણ કોરિયાના જોયોંગદુએ 233.7 પોઇન્ટ સાથે સોનું જીતી.",
+    "જોયે એશિયન પારા ગેમ્સનું રેકોર્ડ તોડ્યું, પહેલો 238.6 પોઇન્ટ હુઆંગ શિંગનો.",
+    "રુદ્રંશ ખંડેલવાલે 127.3 પોઇન્ટ સાથે સાતમો સ્થાન મેળવ્યો."
+   ],
+   "context_en": "The Asian Para Games are a multi‑sport event for athletes with disabilities, held every four years; the 2026 edition was hosted by Japan.",
+   "context_gu": "એશિયન પારા ગેમ્સ વિકલાંગ ક્રીડાઓ માટેની ચાર વર્ષમાં એક વાર યોજાતી બહુ‑ખેલ ઇવેન્ટ છે; 2026નું આયોજક જાપાન હતું.",
+   "remember_en": "Manish Narwal – silver, 224.2, LA28 quota, Aichi‑Nagoya 2026.",
+   "remember_gu": "મનિષ નરવાલ – ચાંદી, 224.2, LA28 ક્વોટા, એઇચી‑નાગોયા 2026.",
+   "why_en": "Shows India's medal prospects and qualification path for the 2028 Paralympics.",
+   "why_gu": "ભારતની પેરાલિમ્પિક્સની મેડલ અને ક્વોટા મેળવવાની શક્યતા દર્શાવે છે.",
+   "details_en": "At the 2026 Asian Para Games in Aichi‑Nagoya, Manish Narwal scored 224.2 points to finish second in the men’s P1 10 m air pistol SH1 event, securing a quota place for India at the 2028 Los Angeles Paralympics. South Korea’s Jo Jeongdu won gold with 233.7 points, breaking the Asian Para Games record previously set at 238.6 by China’s Huang Xing in Hangzhou 2022. Indian teammate Rudransh Khandelwal placed seventh with 127.3 points after qualifying second with 571 points.",
+   "details_gu": "એશિયન પારા ગેમ્સ 2026માં એઇચી‑નાગોયામાં મનિષ નરવાલે 224.2 પોઇન્ટ મેળવીને પુરૂષ P1 10 મીટર એર પિસ્ટોલ SH1માં બીજા સ્થાન પર આવીને ભારત માટે 2028 લોસ એન્જેલિસ પેરાલિમ્પિક્સનું ક્વોટા મેળવ્યું. દક્ષિણ કોરિયાના જોયોંગદુએ 233.7 પોઇન્ટ સાથે સોનું જીતી, હુઆંગ શિંગ દ્વારા 2022 હાંગઝુમાં સ્થાપિત 238.6 પોઇન્ટનું રેકોર્ડ તોડ્યું. ભારતીય સહકર્મી રુદ્રંશ ખંડેલવાલે 127.3 પોઇન્ટ સાથે સાતમો સ્થાન મેળવ્યો, ક્વોલિફિકેશનમાં 571 પોઇન્ટ સાથે બીજા સ્થાન પર હતા.",
+   "mcq": {
+    "q_en": "Which Indian shooter won silver and secured a quota for the 2028 Los Angeles Paralympics at the 2026 Asian Para Games?",
+    "q_gu": "2026 એશિયન પારા ગેમ્સમાં કયા ભારતીય શૂટરએ ચાંદીનું પદક જીતી અને 2028 લોસ એન્જેલિસ પેરાલિમ્પિક્સનું ક્વોટા મેળવ્યું?",
+    "o_en": [
+     "Rudransh Khandelwal",
+     "Manish Narwal",
+     "Jo Jeongdu",
+     "Huang Xing"
+    ],
+    "o_gu": [
+     "રુદ્રંશ ખંડેલવાલ",
+     "મનિષ નરવાલ",
+     "જોયોંગદુ",
+     "હુઆંગ શિંગ"
+    ],
+    "a": 1,
+    "e_en": "Manish Narwal won silver and earned the LA28 quota.",
+    "e_gu": "મનિષ નરવાલે ચાંદીનું પદક જીતી અને LA28 ક્વોટા મેળવ્યો."
+   },
+   "id": "ca-manish-narwal-wins-silver-secures-la28-quota-at-asian-para-g",
+   "source": "https://sportstar.thehindu.com/shooting/asian-para-games-2026-manish-narwal-wins-shooting-silver-medal-p1-10m-air-pistol-sh1/article71603210.ece",
+   "exam": {
+    "score": 7,
+    "why": "Manish Narwal silver medal and Los Angeles 2028 quota win"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/shooting/asian-para-games-2026-manish-narwal-wins-shooting-silver-medal-p1-10m-air-pistol-sh1/article71603210.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Chief Minister Bhupendra Patel prays at Varadayini Temple on Navratri",
+   "title_gu": "મુખ્યમંત્રી ભુપેન્દ્ર પટેલ નવરાત્રીમાં વારાદયી મંદિર ખાતે પ્રાર્થના",
+   "summary_en": "On the ninth day of Navratri, Gujarat CM Bhupendra Patel visited Shree Varadayini Mataji Temple in Rupal and offered prayers before the Palli Yatra began.",
+   "summary_gu": "નવરાત્રીના નવમો દિવસ ગૂજરાતના મુખ્યમંત્રી ભુપેન્દ્ર પટેલ રુપલના શ્રી વારાદયી માતાજી મંદિરની મુલાકાત લઈને પલ્લી યાત્રા પહેલા પ્રાર્થના કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Bhupendra Patel, Chief Minister of Gujarat",
+     "v_gu": "ભુપેન્દ્ર પટેલ, ગૂજરાતના મુખ્યમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Visited Shree Varadayini Mataji Temple and offered prayers",
+     "v_gu": "શ્રી વારાદયી માતાજી મંદિરની મુલાકાત લીધી અને પ્રાર્થના કરી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Rupal, Gandhinagar district, Gujarat",
+     "v_gu": "રુપલ, ગાંધીનગર જિલ્લો, ગૂજરાત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "9th day of Navratri, 19 Oct 2026",
+     "v_gu": "નવરાત્રીનો નવમો દિવસ, 19 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Chief Minister of Gujarat",
+     "v_gu": "ગૂજરાતના મુખ્યમંત્રી"
+    }
+   ],
+   "points_en": [
+    "He prayed for health, happiness, peace and prosperity of all.",
+    "District Collector Ravindra Khatale welcomed him.",
+    "The visit coincided with the start of the traditional Palli Yatra."
+   ],
+   "points_gu": [
+    "તેણે સૌની આરોગ્ય, ખુશી, શાંતિ અને સમૃદ્ધિ માટે પ્રાર્થના કરી.",
+    "ગાંધીનગર જિલ્લા કલેક્શન રવિન્દ્ર ખટાલે તેમને સ્વાગત કર્યો.",
+    "મુલાકાત પલ્લી યાત્રાની શરૂઆત સાથે સમન્વયિત હતી."
+   ],
+   "context_en": "Navratri is a nine‑night Hindu festival; the Palli Yatra is a traditional procession that starts from Varadayini Temple each year.",
+   "context_gu": "નવરાત્રી હિંદુ તહેવાર છે; પલ્લી યાત્રા દર વર્ષે વારાદયી મંદિરથી શરૂ થાય છે.",
+   "remember_en": "Bhupendra Patel prayed at Varadayini Temple on Navratri's 9th day.",
+   "remember_gu": "ભુપેન્દ્ર પટેલ નવરાત્રીના 9મા દિવસે વારાદયી મંદિર ખાતે પ્રાર્થના કરી.",
+   "why_en": "Shows the CM’s participation in cultural‑religious events and outreach.",
+   "why_gu": "મુખ્યમંત્રીની સાંસ્કૃતિક‑ધાર્મિક ઘટનાઓમાં ભાગીદારી દર્શાવે છે.",
+   "details_en": "On the ninth day of Navratri, Gujarat Chief Minister Bhupendra Patel went to Shree Varadayini Mataji Temple in Rupal, Gandhinagar district. He offered prayers for the health, happiness, peace and prosperity of all people. Before the traditional Palli Yatra began, he interacted with devotees and was welcomed by District Collector Ravindra Khatale and temple trustees. The visit was part of the annual Asho Navratri celebrations. Later the same day, Patel met Prime Minister Narendra Modi in New Delhi to discuss welfare schemes for the poor, youth, farmers and women, reinforcing the state’s development goals.",
+   "details_gu": "નવરાત્રીના નવમો દિવસે ગૂજરાતના મુખ્યમંત્રી ભુપેન્દ્ર પટેલ રુપલ, ગાંધીનગર જિલ્લાની શ્રી વારાદયી માતાજી મંદિરની મુલાકાત લીધી. તેમણે સૌની આરોગ્ય, ખુશી, શાંતિ અને સમૃદ્ધિ માટે પ્રાર્થના કરી. પલ્લી યાત્રા શરૂ થાય તે પહેલાં, તેમણે ભક્તો સાથે વાતચીત કરી અને જિલ્લા કલેક્શન રવિન્દ્ર ખટાલે અને મંદિર ટ્રસ્ટીઓએ તેમને સ્વાગત કર્યો. આ મુલાકાત અશો નવરાત્રીની વાર્ષિક ઉજવણીનો ભાગ હતી. ત્યારબાદ, મુખ્યમંત્રી નવી દિલ્હી માં પ્રધાનમંત્રી નરેન્દ્ર મોદીને મળ્યા અને ગરીબો, યુવાનો, ખેડૂત અને સ્ત્રીઓ માટે કલ્યાણ યોજનાઓ પર ચર્ચા કરી, રાજ્યના વિકાસ લક્ષ્યોને મજબૂત બનાવ્યા.",
+   "mcq": {
+    "q_en": "On which day of Navratri did Gujarat Chief Minister Bhupendra Patel visit Shree Varadayini Mataji Temple?",
+    "q_gu": "ગૂજરાતના મુખ્યમંત્રી ભુપેન્દ્ર પટેલે શ્રી વારાદયી માતાજી મંદિરની મુલાકાત કયા નવરાત્રી દિવસે લીધી?",
+    "o_en": [
+     "First day",
+     "Fifth day",
+     "Ninth day",
+     "Eleventh day"
+    ],
+    "o_gu": [
+     "પ્રથમ દિવસ",
+     "પાંચમો દિવસ",
+     "નવમો દિવસ",
+     "અગિયારમો દિવસ"
+    ],
+    "a": 2,
+    "e_en": "The visit was on the ninth day of Navratri.",
+    "e_gu": "મુલાકાત નવરાત્રીના નવમો દિવસે થઈ હતી."
+   },
+   "id": "ca-chief-minister-bhupendra-patel-prays-at-varadayini-temple-on",
+   "source": "https://www.aninews.in/news/national/general-news/gujarat-cm160bhupendra-patel-offers-prayers-at-shree-varadayini-mataji-temple-in-rupal16020261019221816",
+   "exam": {
+    "score": 6,
+    "why": "Traditional Rupal Palli Yatra at Varadayini Mataji temple Gandhinagar"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.aninews.in/news/national/general-news/gujarat-cm160bhupendra-patel-offers-prayers-at-shree-varadayini-mataji-temple-in-rupal16020261019221816"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://thenewsmill.com/2026/10/gujarat-cm-bhupendra-patel-prays-at-shree-varadayini-mataji-temple/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Special Cleanliness Campaign 6.0 earns ₹491.28 crore from waste removal",
+   "title_gu": "વિશેષ સ્વચ્છતા અભિયાન ૬.૦ માંથી ભંગાર નિકાલથી રૂ. ૪૯૧.૨૮ કરોડ કમાયા",
+   "summary_en": "The central government’s Special Cleanliness Campaign 6.0 collected ₹491.28 crore from waste removal by 19 Oct 2026.",
+   "summary_gu": "કેન્દ્ર સરકારના વિશેષ સ્વચ્છતા અભિયાન ૬.૦ માં ૧૯ ઓક્ટોબર ૨૦૨૬ સુધીમાં ભંગાર નિકાલથી રૂ. ૪૯૧.૨૮ કરોડ કમાયા.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Special Cleanliness Campaign 6.0",
+     "v_gu": "વિશેષ સ્વચ્છતા અભિયાન ૬.૦"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2 Oct 2026 – 31 Oct 2026",
+     "v_gu": "૨ ઓક્ટોબર ૨૦૨૬ થી ૩૧ ઓક્ટોબર ૨૦૨૬"
+    },
+    {
+     "k_en": "Revenue",
+     "k_gu": "રકમ",
+     "v_en": "₹491.28 crore",
+     "v_gu": "રૂ. ૪૯૧.૨૮ કરોડ"
+    },
+    {
+     "k_en": "Railway Ministry revenue",
+     "k_gu": "મંત્રાલયની આવક",
+     "v_en": "₹425.06 crore",
+     "v_gu": "રૂ. ૪૨૫.૦૬ કરોડ"
+    },
+    {
+     "k_en": "Sites covered",
+     "k_gu": "ક્યાં",
+     "v_en": "8,34,509 locations",
+     "v_gu": "૮,૩૪,૫૦૯ સ્થળો"
+    }
+   ],
+   "points_en": [
+    "The campaign started on 2 Oct 2026 and ends on 31 Oct 2026.",
+    "It targets waste removal, recycling and better office space use.",
+    "Revenue this year is far higher than the ₹304.72 crore earned last year."
+   ],
+   "points_gu": [
+    "અભિયાન ૨ ઓક્ટોબર ૨૦૨૬ થી ૩૧ ઓક્ટોબર ૨૦૨૬  સુધી ચાલે છે.",
+    "ભંગાર નિકાલ, પુનઃઉપયોગ અને કચેરી જગ્યા સુધારવા પર ધ્યાન.",
+    "ગયા વર્ષની રૂ. ૩૦૪.૭૨ કરોડની આવકની તુલનામાં આ વર્ષની આવક વધારે."
+   ],
+   "context_en": "The Special Cleanliness Campaign is a central government initiative to improve waste management across India.",
+   "context_gu": "વિશેષ સ્વચ્છતા અભિયાન ભારત સરકારનું કચરા વ્યવસ્થાપન સુધારવા માટેનું પ્રોજેક્ટ છે.",
+   "remember_en": "₹491.28 crore earned by 19 Oct 2026 from waste removal.",
+   "remember_gu": "૧૯ ઓક્ટોબર ૨૦૨૬ સુધીમાં ભંગાર નિકાલથી રૂ. ૪૯૧.૨૮ કરોડ કમાયા.",
+   "why_en": "Exam may ask revenue figures and scope of the national cleanliness drive.",
+   "why_gu": "પરીક્ષામાં આવક અને અભિયાનની વ્યાપ્તિ સંબંધિત પ્રશ્નો હોઈ શકે.",
+   "details_en": "Under the Special Cleanliness Campaign 6.0, the central government carried out cleaning operations at 8,34,509 sites across the country. By 19 October 2026, waste removal generated ₹491.28 crore, a sharp rise from ₹304.72 crore the previous year. The Railway Ministry contributed the largest share with ₹425.06 crore. The campaign began on 2 October 2026 and will conclude on 31 October 2026, focusing on waste disposal, recycling, better use of office space and scientific e‑waste management.",
+   "details_gu": "વિશેષ સ્વચ્છતા અભિયાન ૬.૦ હેઠળ દેશભરમાં ૮,૩૪,૫૦૯ સ્થળોએ સફાઈ કરવામાં આવી. ૧૯ ઓક્ટોબર ૨૦૨૬ સુધીમાં ભંગાર નિકાલથી રૂ. ૪૯૧.૨૮ કરોડની આવક થઈ, જે ગયા વર્ષની રૂ. ૩૦૪.૭૨ કરોડની આવક કરતાં ઘણો વધારો છે. રેલવે મંત્રાલયએ સૌથી વધુ રૂ. ૪૨૫.૦૬ કરોડ કમાયા. અભિયાન ૨ ઓક્ટોબર ૨૦૨૬ થી ૩૧ ઓક્ટોબર ૨૦૨૬  સુધી ચાલશે, જેમાં કચરા નિકાલ, પુનઃઉપયોગ, કચેરી જગ્યા સુધારો અને વૈજ્ઞાનિક ઇ‑વેસ્ટ વ્યવસ્થાપન પર ભાર છે.",
+   "mcq": {
+    "q_en": "How much revenue did the Railway Ministry earn from waste removal under the Special Cleanliness Campaign 6.0 by 19 Oct 2026?",
+    "q_gu": "વિશેષ સ્વચ્છતા અભિયાન ૬.૦ હેઠળ રેલવે મંત્રાલયએ ભંગાર નિકાલથી કેટલા રૂપિયા કમાયા?",
+    "o_en": [
+     "₹300.00 crore",
+     "₹425.06 crore",
+     "₹500.00 crore",
+     "₹491.28 crore"
+    ],
+    "o_gu": [
+     "રૂ. ૩૦૦.૦૦ કરોડ",
+     "રૂ. ૪૨૫.૦૬ કરોડ",
+     "રૂ. ૫૦૦.૦૦ કરોડ",
+     "રૂ. ૪૯૧.૨૮ કરોડ"
+    ],
+    "a": 1,
+    "e_en": "The Railway Ministry earned ₹425.06 crore.",
+    "e_gu": "રેલવે મંત્રાલયએ રૂ. ૪૨૫.૦૬ કરોડ કમાયા."
+   },
+   "id": "ca-special-cleanliness-campaign-6-0-earns-491-28-crore-from-was",
+   "source": "https://www.gujaratsamachar.com/news/national/cleanliness-campaign-government-earns-rs-500-crore-from-scrap-15886084161",
+   "exam": {
+    "score": 6,
+    "why": "Special Campaign scrap disposal earnings and clean office drive results"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratsamachar.com/news/national/cleanliness-campaign-government-earns-rs-500-crore-from-scrap-15886084161"
+    }
+   ],
+   "by": "groq"
+  }
+ ]
+}
