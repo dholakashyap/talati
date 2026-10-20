@@ -4793,6 +4793,76 @@
   },
   {
    "category": "gujarat",
+   "title_en": "Chief Minister reviews Tata semiconductor fab in Dholera",
+   "title_gu": "મુખ્યમંત્રી ધોલેરા માં ટાટા સેમિકન્ડક્ટર ફેબની સમીક્ષા કરે છે",
+   "summary_en": "The chief minister inspected Tata's new semiconductor fab and related connectivity projects in Dholera Special Investment Region.",
+   "summary_gu": "મુખ્યમંત્રી ધોલેરા સ્પેશિયલ ઇન્વેસ્ટમેન્ટ રીજનમાં ટાટા સેમિકન્ડક્ટર ફેબ અને જોડાણ પ્રોજેક્ટ્સની મુલાકાત લે છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Chief Minister of Gujarat",
+     "v_gu": "ગુજરાતના મુખ્યમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Tata Semiconductor Fabrication Plant",
+     "v_gu": "ટાટા સેમિકન્ડક્ટર ફેબ્રિકેશન પ્લાન્ટ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Dholera Special Investment Region, Gujarat",
+     "v_gu": "ધોલેરા સ્પેશિયલ ઇન્વેસ્ટમેન્ટ રીજન, ગુજરાત"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "Dholera Special Investment Region is a planned industrial hub in Gujarat.",
+   "context_gu": "ધોલેરા સ્પેશિયલ ઇન્વેસ્ટમેન્ટ રીજન ગુજરાતનું આયોજન કરેલું ઔદ્યોગિક કેન્દ્ર છે.",
+   "remember_en": "CM inspected Tata fab and connectivity works in Dholera.",
+   "remember_gu": "મુખ્યમંત્રી ધોલેરામાં ટાટા ફેબ અને જોડાણ કામોનું નિરીક્ષણ કર્યું.",
+   "why_en": "Shows Gujarat's push for high‑tech manufacturing and infrastructure.",
+   "why_gu": "ગુજરાતની હાઈ‑ટેક ઉત્પાદન અને ઢાંચા વિકાસની દિશા દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Which company’s semiconductor fab did the Gujarat chief minister review in Dholera?",
+    "q_gu": "ધોલેરામાં ગુજરાતના મુખ્યમંત્રીએ કયા કંપનીનું સેમિકન્ડક્ટર ફેબ્રિકેશન પ્લાન્ટ સમીક્ષા કર્યું?",
+    "o_en": [
+     "Tata",
+     "Reliance",
+     "Adani",
+     "Infosys"
+    ],
+    "o_gu": [
+     "ટાટા",
+     "રિલાયન્સ",
+     "આદાની",
+     "ઇન્ફોસિસ"
+    ],
+    "a": 0,
+    "e_en": "The news mentions Tata Semiconductor Fab.",
+    "e_gu": "સમાચારમાં ટાટા સેમિકન્ડક્ટર ફેબનું ઉલ્લેખ છે."
+   },
+   "id": "ca-chief-minister-reviews-tata-semiconductor-fab-in-dholera",
+   "source": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-dholera-special-investment-region-development-projects",
+   "exam": {
+    "score": 7,
+    "why": "Semiconductor fab review, key state industrial project"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-dholera-special-investment-region-development-projects"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-20"
+  },
+  {
+   "category": "gujarat",
    "title_en": "Chief Minister Bhupendra Patel prays at Varadayini Temple on Navratri",
    "title_gu": "મુખ્યમંત્રી ભુપેન્દ્ર પટેલ નવરાત્રીમાં વારાદયી મંદિર ખાતે પ્રાર્થના",
    "summary_en": "On the ninth day of Navratri, Gujarat CM Bhupendra Patel visited Shree Varadayini Mataji Temple in Rupal and offered prayers before the Palli Yatra began.",
