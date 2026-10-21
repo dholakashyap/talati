@@ -5514,6 +5514,320 @@
    ],
    "by": "groq",
    "date": "2026-10-20"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches 101 Shramik Annapurna Yojana centres",
+   "title_gu": "ગુજરાતમાં ૧૦૧ શ્રમિક અન્નપૂર્ણા યોજના કેન્દ્રોનું ઉદ્ઘાટન",
+   "summary_en": "The Gujarat Chief Minister opened 101 Shramik Annapurna Yojana centres across 28 districts.",
+   "summary_gu": "ગુજરાતના મુખ્યમંત્રી દ્વારા ૨૮ જિલ્લાઓમાં ૧૦૧ શ્રમિક અન્નપૂર્ણા યોજના કેન્દ્રોનું ઉદ્ઘાટન થયું.",
+   "facts": [
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાનું નામ",
+     "v_en": "Shramik Annapurna Yojana",
+     "v_gu": "શ્રમિક અન્નપૂર્ણા યોજના"
+    },
+    {
+     "k_en": "Centres launched",
+     "k_gu": "કેન્દ્રોની સંખ્યા",
+     "v_en": "101",
+     "v_gu": "૧૦૧"
+    },
+    {
+     "k_en": "Districts covered",
+     "k_gu": "જિલ્લાઓની સંખ્યા",
+     "v_en": "28",
+     "v_gu": "૨૮"
+    },
+    {
+     "k_en": "Launched by",
+     "k_gu": "લૉન્ચ કરનાર",
+     "v_en": "Gujarat Chief Minister",
+     "v_gu": "ગુજરાત મુખ્યમંત્રી"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "101 centres opened in 28 districts under Shramik Annapurna Yojana.",
+   "remember_gu": "૨૮ જિલ્લાઓમાં ૧૦૧ કેન્દ્રો શ્રમિક અન્નપૂર્ણા યોજનામાં ખોલાયા.",
+   "why_en": "Shows state effort to support workers with affordable meals.",
+   "why_gu": "મજૂરોને સસ્તા ભોજન માટે રાજ્યની કોશિશ દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How many Shramik Annapurna Yojana centres were launched in Gujarat?",
+    "q_gu": "ગુજરાતમાં કેટલા શ્રમિક અન્નપૂર્ણા યોજના કેન્દ્રોનું ઉદ્ઘાટન થયું?",
+    "o_en": [
+     "50",
+     "75",
+     "101",
+     "150"
+    ],
+    "o_gu": [
+     "૫૦",
+     "૭૫",
+     "૧૦૧",
+     "૧૫૦"
+    ],
+    "a": 2,
+    "e_en": "The news states 101 centres were opened.",
+    "e_gu": "સમાચાર મુજબ ૧૦૧ કેન્દ્રો ખોલાયા."
+   },
+   "id": "ca-gujarat-launches-101-shramik-annapurna-yojana-centres",
+   "source": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-shramik-annapurna-yojana-new-centres-inauguration",
+   "exam": {
+    "score": 7,
+    "why": "New state welfare scheme launch"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-shramik-annapurna-yojana-new-centres-inauguration"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-21"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Japan to invest billions in Gujarat",
+   "title_gu": "જાપાનથી ગુજરાતમાં અબજોનું રોકાણ",
+   "summary_en": "Japan announced a plan to invest billions of rupees in Gujarat.",
+   "summary_gu": "જાપાનએ ગુજરાતમાં અબજોનું રોકાણ કરવાનો પ્લાન જાહેર કર્યો.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "investment of billions of rupees",
+     "v_gu": "અબજોનું રોકાણ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat, India",
+     "v_gu": "ગુજરાત, ભારત"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Japanese investors",
+     "v_gu": "જાપાની રોકાણકારો"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "Japan plans billions‑rupee investment in Gujarat.",
+   "remember_gu": "જાપાન ગુજરાતમાં અબજોનું રોકાણ કરશે.",
+   "why_en": "Shows foreign interest and economic boost for Gujarat.",
+   "why_gu": "ગુજરાત માટે વિદેશી રસ અને આર્થિક વૃદ્ધિ દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Which country announced a multi‑billion rupee investment in Gujarat?",
+    "q_gu": "કયા દેશે ગુજરાતમાં અબજોનું રોકાણ જાહેર કર્યું?",
+    "o_en": [
+     "China",
+     "Japan",
+     "South Korea",
+     "Germany"
+    ],
+    "o_gu": [
+     "ચીન",
+     "જાપાન",
+     "દક્ષિણ કોરિયા",
+     "જર્મની"
+    ],
+    "a": 1,
+    "e_en": "Japan announced the investment.",
+    "e_gu": "જાપાનએ રોકાણની જાહેરાત કરી."
+   },
+   "id": "ca-japan-to-invest-billions-in-gujarat",
+   "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHhjRFBVVEJUZzh5Rm5EaWw0U2RQbVRxWWhkaW9DQ1ZwYTR1d180NGVhQlpsd21udV80aGlLZmdpTURVRnNBNTZmd0ptbWE5ZmQ2d0gzWEhtc2l4R3ltUUhhd2FZZk5PVThobUhEbkVOOGI0QXVvbEFqSkpxelBKWkVCbVhPUk8zbndXS1AzeXNpRHZEUFFiMW4xYnVMVjJjZlZPc1VpaE1Yei1LYzNTRDVhV25HczZrRVpQWDU0TndLUDhvOHlmV2pleUQ0S3ZJRzg2YVVjY2_SAdgBQVVfeXFMUGR4Y0RQVVRCVGc4eUZuRGlsNFNkUG1UcVloZGlvQ0NWcGE0dXdfNDRlYUJabHdtbnVfNGhpS2ZnaU1EVUZzQTU2ZndKbW1hOWZkNndIM1hIbXNpeEd5bVFIYXdhWWZOT1U4aG1IRG5FTjhiNEF1b2xBakpKcXpQSlpFQm1YT1JPM253V0tQM3lzaUR2RFBRYjFuMWJ1TFYyY2ZWT3NVaWhNWHotS2MzU0Q1YVduR3M2a0VaUFg1NE53S1A4bzh5ZldqZXlENEt2SUc4NmFVY2Nv?oc=5",
+   "exam": {
+    "score": 7,
+    "why": "Japan‑Gujarat investment synergy"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHhjRFBVVEJUZzh5Rm5EaWw0U2RQbVRxWWhkaW9DQ1ZwYTR1d180NGVhQlpsd21udV80aGlLZmdpTURVRnNBNTZmd0ptbWE5ZmQ2d0gzWEhtc2l4R3ltUUhhd2FZZk5PVThobUhEbkVOOGI0QXVvbEFqSkpxelBKWkVCbVhPUk8zbndXS1AzeXNpRHZEUFFiMW4xYnVMVjJjZlZPc1VpaE1Yei1LYzNTRDVhV25HczZrRVpQWDU0TndLUDhvOHlmV2pleUQ0S3ZJRzg2YVVjY2_SAdgBQVVfeXFMUGR4Y0RQVVRCVGc4eUZuRGlsNFNkUG1UcVloZGlvQ0NWcGE0dXdfNDRlYUJabHdtbnVfNGhpS2ZnaU1EVUZzQTU2ZndKbW1hOWZkNndIM1hIbXNpeEd5bVFIYXdhWWZOT1U4aG1IRG5FTjhiNEF1b2xBakpKcXpQSlpFQm1YT1JPM253V0tQM3lzaUR2RFBRYjFuMWJ1TFYyY2ZWT3NVaWhNWHotS2MzU0Q1YVduR3M2a0VaUFg1NE53S1A4bzh5ZldqZXlENEt2SUc4NmFVY2Nv?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-21"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat assigns extra duties to twelve IAS officers",
+   "title_gu": "ગુજરાતે ૧૨ IAS અધિકારીઓને વધારાના કાર્યો સોંપ્યા",
+   "summary_en": "Twelve Indian Administrative Service officers received additional responsibilities before the Vibrant Gujarat Global Summit.",
+   "summary_gu": "વાઇબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં ૧૨ IAS અધિકારીઓને વધારાના કાર્યો સોંપવામાં આવ્યા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "12 IAS officers",
+     "v_gu": "૧૨ IAS અધિકારીઓ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "assigned additional charges",
+     "v_gu": "વધારાના કાર્યો સોંપ્યા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "ahead of Vibrant Gujarat Global Summit",
+     "v_gu": "વાઇબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "The Vibrant Gujarat Global Summit is a biennial trade and investment event organized by the Gujarat government.",
+   "context_gu": "વાઇબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ ગુજરાત સરકાર દ્વારા આયોજિત દ્વિવાર્ષિક વેપાર અને રોકાણ કાર્યક્રમ છે.",
+   "remember_en": "Twelve IAS officers got extra duties before the summit.",
+   "remember_gu": "સમિટ પહેલાં ૧૨ IAS અધિકારીઓને વધારાના કાર્યો મળ્યા.",
+   "why_en": "Shows government staffing changes for major events.",
+   "why_gu": "મહત્વપૂર્ણ કાર્યક્રમો માટે સરકારની સ્ટાફિંગ બદલાવ દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How many IAS officers were given additional charges before the Vibrant Gujarat Global Summit?",
+    "q_gu": "વાઇબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં કેટલા IAS અધિકારીઓને વધારાના કાર્યો સોંપવામાં આવ્યા?",
+    "o_en": [
+     "10",
+     "12",
+     "15",
+     "20"
+    ],
+    "o_gu": [
+     "૧૦",
+     "૧૨",
+     "૧૫",
+     "૨૦"
+    ],
+    "a": 1,
+    "e_en": "The sources state twelve IAS officers received extra duties.",
+    "e_gu": "સ્રોતો મુજબ ૧૨ IAS અધિકારીઓને વધારાના કાર્યો સોંપવામાં આવ્યા."
+   },
+   "id": "ca-gujarat-assigns-extra-duties-to-twelve-ias-officers",
+   "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3JOZ1lEOUlLRzZPRXY5TDRZMVVtYjNDQVZlRWc2LVB4blhvUlE2Z01Tc053d0hxREtSOU9vSGdlYllGQ2V1VW9fakFQVFk1VXFiUFFXODE3U0wtbThGX3phNUE1MTNaLVd1LTctMHFnTGd1MktPeXp5Mk0tUWk1cHRvTktoWU9uZUh0eW9PMHZxYVlVTzBCQVFpSkFhTW5aWWoyR1o1QTNadlQz?oc=5",
+   "exam": {
+    "score": 6,
+    "why": "IAS officer reassignments before summit"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3JOZ1lEOUlLRzZPRXY5TDRZMVVtYjNDQVZlRWc2LVB4blhvUlE2Z01Tc053d0hxREtSOU9vSGdlYllGQ2V1VW9fakFQVFk1VXFiUFFXODE3U0wtbThGX3phNUE1MTNaLVd1LTctMHFnTGd1MktPeXp5Mk0tUWk1cHRvTktoWU9uZUh0eW9PMHZxYVlVTzBCQVFpSkFhTW5aWWoyR1o1QTNadlQz?oc=5"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXZxaGFxOFFzM2FlMlpWekdNVWZJZ0RPZ3hMUTBEU1Y0VHh4b0p5Nk82SVY2WUdNcmFGVDhUUVFESDByUWJLQ05JSS1HbmhZekZSWWJ4N2lPZEZDMHpyWkdxSnYzc2xnaXI5Y29MY0xfX2U4T2FCR2trVHA3NFBtSVdSekUyOTVQcm10Qmh1OW9NMGxIbnc?oc=5"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-21"
+  },
+  {
+   "category": "international",
+   "title_en": "US Secretary Rubio urges India to boost energy and defence purchases",
+   "title_gu": "યુ.એસ. સચિવ રૂબિયો ભારતને ઊર્જા અને રક્ષા ખરીદી વધારવા પ્રોત્સાહિત કરે છે",
+   "summary_en": "During a visit to Mumbai on Oct 20 2026, US Secretary of State Marco Rubio asked India to increase US energy imports and buy more American defence technology.",
+   "summary_gu": "20 ઓક્ટોબર 2026 ના રોજ મુંબઈમાં થયેલી મુલાકાતમાં, યુ.એસ. સચિવ માર્કો રૂબિયોએ ભારતને અમેરિકન ઊર્જા આયાત અને રક્ષા ટેકનોલોજી ખરીદી વધારવા વિનંતી કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Marco Rubio, US Secretary of State",
+     "v_gu": "માર્કો રૂબિયો, યુ.એસ. સચિવ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Mumbai, India",
+     "v_gu": "મુંબઇ, ભારત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 20, 2026",
+     "v_gu": "20 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "External Affairs Minister S. Jaishankar hosted meeting",
+     "v_gu": "બાહ્ય બાબતો મંત્રી એસ. જયશંકર દ્વારા બેઠકનું આયોજન"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Energy trade and defence cooperation",
+     "v_gu": "ઊર્જા વેપાર અને રક્ષા સહકાર"
+    }
+   ],
+   "points_en": [
+    "Rubio called India a crude‑oil refining superpower.",
+    "He urged processing more Venezuelan crude in India.",
+    "Both sides said the India‑US trade pact is close to completion."
+   ],
+   "points_gu": [
+    "રૂબિયોએ ભારતને કાચા તેલની રિફાઇનિંગ સુપરપાવર ગણાવ્યું.",
+    "વેનિઝુએલા કાચા તેલનું પ્રોસેસિંગ વધારવા વિનંતી કરી.",
+    "બંને પક્ષોએ ભારત‑યુ.એસ. વેપાર કરાર નજીક હોવાનું જણાવ્યું."
+   ],
+   "context_en": "The US Department of State handles foreign policy; the Indian Ministry of External Affairs manages diplomatic relations.",
+   "context_gu": "યુ.એસ. સ્ટેટ ડિપાર્ટમેન્ટ વિદેશ નીતિ સંભાળે છે; ભારતનું બાહ્ય બાબતો મંત્રાલય કૂટનીતિક સંબંધોનું સંચાલન કરે છે.",
+   "remember_en": "Rubio urged more US energy and defence purchases in Mumbai, Oct 2026.",
+   "remember_gu": "રૂબિયોએ 2026 ઓક્ટોબરમાં મુંબઈમાં યુ.એસ. ઊર્જા અને રક્ષા ખરીદી વધારવા વિનંતી કરી.",
+   "why_en": "Exam may ask about recent US‑India trade talks and strategic partnership.",
+   "why_gu": "પરીક્ષામાં તાજેતરના યુ.એસ‑ભારત વેપાર ચર્ચા અને વ્યૂહાત્મક ભાગીદારી વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On Oct 20 2026, US Secretary of State Marco Rubio met External Affairs Minister S. Jaishankar in Mumbai. Rubio described India as a crude‑oil refining superpower and asked New Delhi to import more US energy, especially Venezuelan crude, and to buy more American defence technologies. He said only a few items remain before the India‑US Bilateral Trade Agreement is signed. Both officials said the talks covered trade, energy, technology, defence and people‑to‑people ties, and reaffirmed commitment to the Comprehensive Global Strategic Partnership.",
+   "details_gu": "20 ઓક્ટોબર 2026 ના રોજ યુ.એસ. સચિવ માર્કો રૂબિયોએ બાહ્ય બાબતો મંત્રી એસ. જયશંકર સાથે મુંબઈમાં બેઠક કરી. રૂબિયોએ ભારતને કાચા તેલની રિફાઇનિંગ સુપરપાવર ગણાવી, યુ.એસ. ઊર્જા, ખાસ કરીને વેનિઝુએલા કાચા તેલનું આયાત વધારવા અને અમેરિકન રક્ષા ટેકનોલોજી ખરીદી માટે વિનંતી કરી. તેમણે કહ્યું કે ભારત‑યુ.એસ. દ્વિપક્ષીય વેપાર કરારમાં માત્ર થોડા મુદ્દાઓ બાકી છે. બંને અધિકારીઓએ વેપાર, ઊર્જા, ટેકનોલોજી, રક્ષા અને લોકો‑થી‑લોકો સંબંધો પર ચર્ચા કરી અને વ્યાપક વૈશ્વિક વ્યૂહાત્મક ભાગીદારી માટે પ્રતિબદ્ધતા પુનઃપ્રમાણિત કરી.",
+   "mcq": {
+    "q_en": "Which US official urged India to increase purchases of American defence technology in October 2026?",
+    "q_gu": "ઓક્ટોબર 2026 માં કયા યુ.એસ. અધિકારીએ ભારતને અમેરિકન રક્ષા ટેકનોલોજી ખરીદી વધારવા પ્રોત્સાહિત કર્યું?",
+    "o_en": [
+     "Secretary of State Marco Rubio",
+     "Ambassador to India Sergio Gor",
+     "President Joe Biden",
+     "Vice President Kamala Harris"
+    ],
+    "o_gu": [
+     "સચિવ રાજ્ય માર્કો રૂબિયો",
+     "ભારતમાં રાજદૂત સર્ગિયો ગોર",
+     "રાષ્ટ્રપતિ જો બાઇડન",
+     "ઉપરાષ્ટ્રપતિ કમલા હરિસ"
+    ],
+    "a": 0,
+    "e_en": "Marco Rubio, the US Secretary of State, made the request.",
+    "e_gu": "માર્કો રૂબિયો, યુ.એસ. સચિવ, એ વિનંતી કરી."
+   },
+   "id": "ca-us-secretary-rubio-urges-india-to-boost-energy-and-defence-p",
+   "source": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
+   "exam": {
+    "score": 6,
+    "why": "India‑US trade deal progress"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (World)",
+     "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece"
+    },
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/india-is-a-refining-superpower-can-process-venezuelan-oil-marco-rubio-126102000549_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-21"
   }
  ]
 }
