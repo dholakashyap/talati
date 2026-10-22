@@ -7812,6 +7812,96 @@
    ],
    "by": "groq",
    "date": "2026-10-22"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat government schools attract thousands of former private‑school students",
+   "title_gu": "ગુજરાત સરકારનાં શાળાઓએ ખાનગી શાળાઓના હજારો વિદ્યાર્થીઓને આકર્ષ્યા",
+   "summary_en": "Modern facilities and nutrition support in Ahmedabad government schools led thousands of students to leave private schools in 2025‑26.",
+   "summary_gu": "અમદાવાદની સરકારી શાળાઓમાં આધુનિક સુવિધાઓ અને પોષણ સહાયથી ૨૦૨૫‑૨૬માં હજારો વિદ્યાર્થીઓ ખાનગી શાળાઓ છોડ્યા.",
+   "facts": [
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Ahmedabad district, Gujarat",
+     "v_gu": "ગુજરાત, અમદાવાદ જિલ્લો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2025‑26 academic year",
+     "v_gu": "૨૦૨૫‑૨૬ શૈક્ષણિક વર્ષ"
+    },
+    {
+     "k_en": "Number of students shifted",
+     "k_gu": "સંખ્યા",
+     "v_en": "4,817 students",
+     "v_gu": "૪,૮૧૭ વિદ્યાર્થીઓ"
+    },
+    {
+     "k_en": "School example",
+     "k_gu": "શાળા",
+     "v_en": "Thaltej Primary School – 2",
+     "v_gu": "થલતેજ પ્રાથમિક શાળા – ૨"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાઓ",
+     "v_en": "Mission Schools of Excellence",
+     "v_gu": "મિશન સ્કૂલ્સ ઓફ એક્સેલન્સ"
+    }
+   ],
+   "points_en": [
+    "Smart classrooms, robotics labs and digital tools are now in many government schools.",
+    "Students receive milk, breakfast and meals at school.",
+    "Chief Minister Bhupendra Patel backs the Mission Schools of Excellence programme."
+   ],
+   "points_gu": [
+    "સ마트 ક્લાસરૂમ, રોબોટિક્સ લેબ અને ડિજિટલ સાધનો સરકારી શાળાઓમાં છે.",
+    "વિદ્યાર્થીઓને દૂધ, નાસ્તો અને ભોજન મળે છે.",
+    "મુખ्यमंत्री ભુપેન્દ્ર પટેલ મિશન સ્કૂલ્સ ઓફ એક્સેલન્સને સમર્થન આપે છે."
+   ],
+   "context_en": "The Gujarat Education Department runs the Mission Schools of Excellence to upgrade government school infrastructure.",
+   "context_gu": "ગુજરાત શિક્ષણ વિભાગ મિશન સ્કૂલ્સ ઓફ એક્સેલન્સ દ્વારા સરકારી શાળાઓની સુવિધાઓ સુધારે છે.",
+   "remember_en": "4,817 students switched in 2025‑26 after schools added smart labs.",
+   "remember_gu": "૨૦૨૫‑૨૬માં ૪,૮૧૭ વિદ્યાર્થીઓ સ્માર્ટ લેબ્સ પછી બદલ્યા.",
+   "why_en": "Shows impact of modern facilities on public‑school enrollment.",
+   "why_gu": "સરકારી શાળાઓમાં આધુનિક સુવિધાઓના પ્રભાવને દર્શાવે છે.",
+   "details_en": "In the 2025‑26 academic year, 4,817 students from private schools in Ahmedabad district enrolled in government schools. The shift is driven by modern amenities such as smart classrooms, digital learning tools, science and mathematics laboratories, and a robotics lab at schools like Thaltej Primary School – 2. Students also receive daily milk, breakfast and meals. The changes are part of Chief Minister Bhupendra Patel's Mission Schools of Excellence, which aims to improve infrastructure, technology and nutrition in Gujarat's public schools, boosting parental confidence.",
+   "details_gu": "૨૦૨૫‑૨૬ શૈક્ષણિક વર્ષમાં અમદાવાદ જિલ્લામાં ખાનગી શાળાઓમાંથી ૪,૮૧૭ વિદ્યાર્થીઓ સરકારી શાળાઓમાં દાખલ થયા. આ બદલાવ સ્માર્ટ ક્લાસરૂમ, ડિજિટલ લર્નિંગ સાધનો, વિજ્ઞાન‑ગણિત લેબ અને થલતેજ પ્રાથમિક શાળા – ૨માં રોબોટિક્સ લેબ જેવી આધુનિક સુવિધાઓને કારણે થયો. વિદ્યાર્થીઓને દૂધ, નાસ્તો અને ભોજન પણ મળે છે. મુખ્યમંત્રી ભુપેન્દ્ર પટેલની મિશન સ્કૂલ્સ ઓફ એક્સેલન્સ યોજના આ સુવિધાઓ અને પોષણને સુધારીને માતાપિતાનો વિશ્વાસ વધારવા માટે છે.",
+   "mcq": {
+    "q_en": "How many students shifted from private to government schools in Ahmedabad during the 2025‑26 academic year?",
+    "q_gu": "૨૦૨૫‑૨૬ શૈક્ષણિક વર્ષમાં અમદાવાદમાં ખાનગીથી સરકારી શાળાઓમાં કેટલા વિદ્યાર્થીઓ બદલાયા?",
+    "o_en": [
+     "3,210",
+     "4,817",
+     "5,500",
+     "6,120"
+    ],
+    "o_gu": [
+     "૩,૨૧૦",
+     "૪,૮૧૭",
+     "૫,૫૦૦",
+     "૬,૧૨૦"
+    ],
+    "a": 1,
+    "e_en": "The source states 4,817 students moved to government schools.",
+    "e_gu": "સ્રોતમાં ૪,૮૧૭ વિદ્યાર્થીઓ સરકારી શાળાઓમાં બદલાયા જણાવવામાં આવ્યા છે."
+   },
+   "id": "ca-gujarat-government-schools-attract-thousands-of-former-priva",
+   "source": "https://www.indiatribune.com/from-smart-classrooms-to-robotics-labs-gujarat-government-schools-emerge-as-a-preferred-choice",
+   "exam": {
+    "score": 6,
+    "why": "Smart classrooms initiative, notable state scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.indiatribune.com/from-smart-classrooms-to-robotics-labs-gujarat-government-schools-emerge-as-a-preferred-choice"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-22"
   }
  ]
 }
