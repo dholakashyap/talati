@@ -6818,6 +6818,370 @@
    ],
    "by": "groq",
    "date": "2026-10-21"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches rooftop solar subsidy for households",
+   "title_gu": "ગુજરાતે ઘરછત સોલાર સબસિડી શરૂ કરી",
+   "summary_en": "The Gujarat government will pay 90% of rooftop solar costs, 95% for SC/ST families, helping about 3 lakh homes.",
+   "summary_gu": "ગુજરાત સરકાર ઘરછત સોલાર ખર્ચનું 90% અને SC/ST પરિવારો માટે 95% ભરે છે, આશરે 3 લાખ ઘરોને મદદ કરશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Rooftop Solar Subsidy Scheme",
+     "v_gu": "ઘરછત સોલાર સબસિડી યોજના"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat state, India",
+     "v_gu": "ગુજરાત, ભારત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "22 Oct 2026",
+     "v_gu": "૨૨ ઓક્ટોબર ૨૦૨૬"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "₹1,000 crore subsidy",
+     "v_gu": "₹૧,૦૦૦ કરોડ સબસિડી"
+    },
+    {
+     "k_en": "Beneficiaries",
+     "k_gu": "લાભાર્થીઓ",
+     "v_en": "≈3 lakh families, SC/ST pay 5%",
+     "v_gu": "≈૩ લાખ પરિવારો, SC/ST ૫% આપે"
+    }
+   ],
+   "points_en": [
+    "Households pay only 10% of installation cost.",
+    "SC/ST families pay just 5% of cost.",
+    "Scheme aims to reduce power shortage and promote renewables."
+   ],
+   "points_gu": [
+    "ઘરોને સ્થાપન ખર્ચનું માત્ર ૧૦% જ ચૂકવવું પડશે.",
+    "SC/ST પરિવારોને માત્ર ૫% જ ચૂકવવું પડશે.",
+    "યોજનાનો હેતુ વીજ કમી ઘટાડો અને નવિનીકરણીય ઊર્જા પ્રોત્સાહન છે."
+   ],
+   "context_en": "The scheme is part of Gujarat's push for renewable energy and was announced after a state cabinet meeting.",
+   "context_gu": "યોજનાનો ઉદ્દેશ ગુજરાતમાં નવિનીકરણીય ઊર્જા પ્રોત્સાહિત કરવો છે અને રાજ્ય કેબિનેટની બેઠક બાદ જાહેર થયો.",
+   "remember_en": "Gujarat rooftop solar subsidy: 10% household, 5% SC/ST, ₹1,000 crn.",
+   "remember_gu": "ગુજરાત ઘરછત સોલાર સબસિડી: ૧૦% ઘર, ૫% SC/ST, ₹૧,૦૦૦ કૃ.",
+   "why_en": "Exam may ask subsidy rates, target families, and total budget.",
+   "why_gu": "પરીક્ષામાં સબસિડી દર, લાભાર્થી અને કુલ બજેટ પૂછાઈ શકે.",
+   "details_en": "After a cabinet meeting on 22 October 2026, Gujarat approved a rooftop solar subsidy. The state and central governments will cover 90% of the installation cost for ordinary households and 95% for Scheduled Caste and Scheduled Tribe families, who only need to pay 10% and 5% respectively. About three lakh families are expected to benefit, with the government bearing an estimated financial burden of roughly ₹1,000 crore. The scheme seeks to lower electricity demand and promote renewable energy use across the state.",
+   "details_gu": "૨૨ ઓક્ટોબર ૨૦૨૬ની કેબિનેટ બેઠક પછી, ગુજરાતે ઘરછત સોલાર સબસિડી મંજૂર કરી. રાજ્ય અને કેન્દ્ર સરકારો સામાન્ય ઘરો માટે સ્થાપન ખર્ચનું ૯૦% અને શેડ્યુલ્ડ કાસ્ટ અને શેડ્યુલ્ડ ટ્રાઇબ પરિવાર માટે ૯૫% ભરે છે, જેથી ઘરોએ ક્રમશઃ ૧૦% અને ૫% જ ચૂકવવું પડે. આશરે ત્રણ લાખ પરિવારોને લાભ મળશે, અને સરકારનું આર્થિક ભાર લગભગ ₹૧,૦૦૦ કરોડ છે. આ યોજના વીજ માંગ ઘટાડવા અને રાજ્યમાં નવિનીકરણીય ઊર્જાનો ઉપયોગ વધારવા માટે છે.",
+   "mcq": {
+    "q_en": "Under Gujarat's rooftop solar scheme, what percentage of the cost do SC/ST families pay?",
+    "q_gu": "ગુજરાતની ઘરછત સોલાર યોજનામાં SC/ST પરિવારો કેટલા ટકા ખર્ચ ચૂકવે છે?",
+    "o_en": [
+     "5%",
+     "10%",
+     "15%",
+     "20%"
+    ],
+    "o_gu": [
+     "૫%",
+     "૧૦%",
+     "૧૫%",
+     "૨૦%"
+    ],
+    "a": 0,
+    "e_en": "SC/ST families pay only 5% of the installation cost.",
+    "e_gu": "SC/ST પરિવારોને સ્થાપન ખર્ચનું માત્ર ૫% જ ચૂકવવું પડે."
+   },
+   "id": "ca-gujarat-launches-rooftop-solar-subsidy-for-households",
+   "source": "https://english.gujaratsamachar.com/news/gandhinagar/gujarat-rooftop-solar-scheme-subsidy-64663783399",
+   "exam": {
+    "score": 8,
+    "why": "Rooftop solar subsidy scheme details"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://english.gujaratsamachar.com/news/gandhinagar/gujarat-rooftop-solar-scheme-subsidy-64663783399"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-22"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat Deputy Chief Minister leads Japan investment tour",
+   "title_gu": "ગુજરાત ઉપમુખ्यमंत्री જાપાન રોકાણ પ્રવાસનું નેતૃત્વ કરે છે",
+   "summary_en": "Deputy Chief Minister Harsh Sanghavi met Japanese officials and firms in Tokyo to attract investment before the Vibrant Gujarat 2027 summit.",
+   "summary_gu": "ઉપમુખમંત્રી હર્ષ સંગવીએ ટોક્યોમાં જાપાની અધિકારીઓ અને કંપનીઓને મળીને વૈબ્રન્ટ ગુજરાત ૨૦૨૭ સમિટ પહેલાં રોકાણ આકર્ષ્યું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Harsh Sanghavi, Deputy Chief Minister of Gujarat",
+     "v_gu": "હર્ષ સંગવી, ગુજરાત ઉપમુખમંત્રી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "21 October 2024",
+     "v_gu": "૨૧ ઓક્ટોબર ૨૦૨૪"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Tokyo, Japan",
+     "v_gu": "ટોક્યો, જાપાન"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "20 meetings and 2 roundtables with Japanese firms and ministries",
+     "v_gu": "જાપાની કંપનીઓ અને મંત્રાલયો સાથે ૨૦ મીટિંગ અને ૨ રાઉન્ડટેબલ"
+    },
+    {
+     "k_en": "Key firms",
+     "k_gu": "મુખ્ય કંપનીઓ",
+     "v_en": "Suzuki Motor, JERA, Tokyo Electron, Sumitomo Chemical, Furukawa Electric, Marubeni",
+     "v_gu": "સુઝુકી મોટર, જેરા, ટોક્યો ઇલેક્ટ્રોન, સુમિતોમો કેમિકલ, ફુરુકાવા ઇલેક્ટ્રિક, મારુબેની"
+    }
+   ],
+   "points_en": [
+    "Discussions covered electric vehicles, semiconductors, clean energy and chemicals.",
+    "Japanese State Minister for Foreign Affairs Yasutaka Nakasone met the delegation.",
+    "The visit aims to bring investments to Gujarat before the Vibrant Gujarat Global Summit in January 2027."
+   ],
+   "points_gu": [
+    "ચર્ચાઓમાં ઇલેક્ટ્રિક વાહન, સેમિકન્ડક્ટર, સ્વચ્છ ઊર્જા અને રસાયણો સામેલ હતા.",
+    "જાપાનના વિદેશ મંત્રાલયના રાજ્યમંત્રી યાસુતાકા નાકાસોને મળ્યા.",
+    "વૈબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં ગુજરાતમાં રોકાણ લાવવા માટે આ મુલાકાત."
+   ],
+   "context_en": "Vibrant Gujarat Global Summit is a biennial trade expo held in Gujarat to attract foreign investment.",
+   "context_gu": "વૈબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ ગુજરાતમાં દર બે વર્ષમાં યોજાતો વેપાર પ્રદર્શિત કરે છે, જે વિદેશી રોકાણ આકર્ષે છે.",
+   "remember_en": "Harsh Sanghavi met Japanese firms in Tokyo on 21 Oct 2024.",
+   "remember_gu": "હર્ષ સંગવી ૨૧ ઓક્ટોબરે ટોક્યોમાં જાપાની કંપનીઓને મળ્યા.",
+   "why_en": "Exam may ask about Gujarat's overseas investment outreach and key partners.",
+   "why_gu": "પરીક્ષામાં ગુજરાતની વિદેશી રોકાણ પ્રવૃત્તિ અને મુખ્ય ભાગીદારો વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 21 October 2024, Gujarat Deputy Chief Minister Harsh Sanghavi travelled to Tokyo and held twenty meetings and two roundtable discussions with Japanese government officials and senior executives of major companies such as Suzuki Motor Corporation, JERA, Tokyo Electron, Sumitomo Chemical, Furukawa Electric and Marubeni. The talks focused on attracting investments in electric vehicles, semiconductor manufacturing, clean energy projects, specialty chemicals and advanced manufacturing. Sanghavi also met Japan’s State Minister for Foreign Affairs Yasutaka Nakasone and the director‑general of the Ministry of Economy, Trade and Industry, Kazushige Tanaka, to deepen Gujarat‑Japan trade ties ahead of the Vibrant Gujarat Global Summit scheduled for January 2027.",
+   "details_gu": "૨૧ ઓક્ટોબર ૨૦૨૪એ, ગુજરાત ઉપમુખમંત્રી હર્ષ સંગવી ટોક્યો ગયા અને સુઝુકી મોટર, જેરા, ટોક્યો ઇલેક્ટ્રોન, સુમિતોમો કેમિકલ, ફુરુકાવા ઇલેક્ટ્રિક અને મારુબેની જેવી મુખ્ય જાપાની કંપનીઓના સિનિયર અધિકારીઓ સાથે ૨૦ મીટિંગ અને ૨ રાઉન્ડટેબલ કર્યા. ચર્ચાઓમાં ઇલેક્ટ્રિક વાહન, સેમિકન્ડક્ટર ઉત્પાદન, સ્વચ્છ ઊર્જા પ્રોજેક્ટ, વિશેષ રસાયણો અને અદ્યતન ઉત્પાદન ક્ષેત્રમાં રોકાણ આકર્ષવાનો સમાવેશ હતો. સંગવી જાપાનના રાજ્ય વિદેશ મંત્રી યાસુતાકા નાકાસોને અને અર્થવ્યવસ્થા, વેપાર અને ઉદ્યોગ મંત્રાલયના ડિરેક્ટર‑જનરલ કઝુશિગે તાનિકા સાથે પણ મળ્યા, જેથી જાન્યુઆરી ૨૦૨૭માં યોજાનારી વૈબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં ગુજરાત‑જાપાન વેપાર સંબંધો મજબૂત થાય.",
+   "mcq": {
+    "q_en": "Which Gujarat official led the delegation that met Japanese firms in Tokyo on 21 Oct 2024?",
+    "q_gu": "કયા ગુજરાત અધિકારીએ ૨૧ ઓક્ટોબર ૨૦૨૪એ ટોક્યોમાં જાપાની કંપનીઓને મળતા પ્રતિનિધિ સમૂહનું નેતૃત્વ કર્યું?",
+    "o_en": [
+     "Chief Minister Bhupendra Patel",
+     "Deputy Chief Minister Harsh Sanghavi",
+     "Finance Minister Bhupendra Patel",
+     "Industry Minister Pradip Parmar"
+    ],
+    "o_gu": [
+     "મુખમંત્રી ભુપેન્દ્ર પટેલ",
+     "ઉપમુખમંત્રી હર્ષ સંગવી",
+     "વિત્તમંત્રિ ભુપેન્દ્ર પટેલ",
+     "ઉદ્યોગમંત્રિ પ્રદીપ પરમાર"
+    ],
+    "a": 1,
+    "e_en": "Harsh Sanghavi, the Deputy Chief Minister, led the Tokyo delegation.",
+    "e_gu": "હર્ષ સંગવી, ઉપમુખમંત્રી, ટોક્યો પ્રતિનિધિ સમૂહનું નેતૃત્વ કરે છે."
+   },
+   "id": "ca-gujarat-deputy-chief-minister-leads-japan-investment-tour",
+   "source": "https://www.tradingview.com/news/moodys:64ebb37c63832:0-gujarat-woos-japanese-investors-in-tokyo-ahead-of-vibrant-gujarat-summit-2027/",
+   "exam": {
+    "score": 7,
+    "why": "Japan investment push before Vibrant Gujarat 2027"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.tradingview.com/news/moodys:64ebb37c63832:0-gujarat-woos-japanese-investors-in-tokyo-ahead-of-vibrant-gujarat-summit-2027/"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.indiatribune.com/20-meetings-in-a-day-dy-cm-sanghavi-woos-japanese-investors-ahead-of-vibrant-gujarat-summit"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-22"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat government vows extra water for drinking and farms",
+   "title_gu": "ગુજરાત સરકાર પીવાના અને ખેતી માટે વધારાનો પાણી આપશે",
+   "summary_en": "The state will take steps to supply more water for households and irrigation and is looking at sources beyond the Narmada network.",
+   "summary_gu": "રાજ્ય ઘરેલું અને સિંચાઈ માટે વધુ પાણી પૂરું પાડશે અને નર્મદા નેટવર્કથી બહારના સ્ત્રોતો શોધી રહ્યું છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Jitu Vaghani, government spokesperson",
+     "v_gu": "જિતુ વાઘાણી, રાજ્ય પ્રસારક"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gandhinagar, Gujarat",
+     "v_gu": "ગાંધીનગર, ગુજરાત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "22 October 2026",
+     "v_gu": "૨૨ ઓક્ટોબર ૨૦૨૬"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Exploring water sources beyond Narmada",
+     "v_gu": "નર્મદા સિવાયના પાણી સ્ત્રોતો શોધી રહ્યા છે"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Agriculture department proposal on low‑water crops",
+     "v_gu": "કૃષિ વિભાગનું ઓછા પાણીવાળા પાકો માટે પ્રસ્તાવ"
+    }
+   ],
+   "points_en": [
+    "Additional water has already been supplied recently.",
+    "The government has not declared official water scarcity.",
+    "Farmers will be advised to grow less water‑intensive crops."
+   ],
+   "points_gu": [
+    "તાજેતરમાં વધારાનું પાણી પૂરું પાડવામાં આવ્યું છે.",
+    "રાજ્યએ સત્તાવાર પાણીની કમીની ઘોષણા કરી નથી.",
+    "કૃષિકો ને ઓછા પાણીવાળા પાકો માટે સલાહ આપવામાં આવશે."
+   ],
+   "context_en": "Gujarat relies heavily on the Narmada water network for drinking and irrigation.",
+   "context_gu": "ગુજરાત નર્મદા પાણી નેટવર્ક પર પીવાના અને સિંચાઈ માટે ભારે નિર્ભર છે.",
+   "remember_en": "Jitu Vaghani said Gujarat will seek water beyond Narmada.",
+   "remember_gu": "જિતુ વાઘાણી કહે છે કે ગુજરાત નર્મદા સિવાયનું પાણી શોધશે.",
+   "why_en": "Exam may ask about Gujarat's water strategy and spokesperson.",
+   "why_gu": "પરીક્ષામાં ગુજરાતની પાણીની નીતિ અને પ્રસારક વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 22 October 2026, government spokesperson Jitu Vaghani told reporters in Gandhinagar that the Gujarat government will take all necessary steps to ensure water for drinking and irrigation. He said the state had already supplied extra water and is now looking at sources beyond the Narmada network, though no specific alternatives were named. Vaghani also mentioned that the agriculture department is preparing a proposal to guide farmers toward crops that need less water, but details of the programme were not disclosed. No formal scarcity declaration has been made.",
+   "details_gu": "૨૨ ઓક્ટોબર ૨૦૨૬ ના રોજ, ગાંધીનગરમાં પ્રેસ કોન્ફરન્સમાં રાજ્ય પ્રસારક જિતુ વાઘાણીએ જણાવ્યું કે ગુજરાત સરકાર પીવાના અને સિંચાઈ માટે જરૂરી તમામ પગલાં લેશે. તેમણે કહ્યું કે રાજ્યએ પહેલાથી જ વધારાનું પાણી પૂરું પાડ્યું છે અને હવે નર્મદા નેટવર્કથી બહારના સ્ત્રોતો શોધી રહ્યું છે, પરંતુ કોઈ ખાસ વિકલ્પો જણાવ્યા નથી. additionally, કૃષિ વિભાગ ઓછા પાણીવાળા પાકો માટે ખેડુતોને માર્ગદર્શન આપતા પ્રસ્તાવ તૈયાર કરી રહ્યું છે, પરંતુ કાર્યક્રમની વિગત જાહેર કરવામાં આવી નથી. કોઈ સત્તાવાર પાણીની કમીની ઘોષણા કરવામાં આવી નથી.",
+   "mcq": {
+    "q_en": "Who said Gujarat will explore water sources beyond the Narmada network?",
+    "q_gu": "કોણે કહ્યું કે ગુજરાત નર્મદા નેટવર્કથી બહારના પાણી સ્ત્રોતો શોધશે?",
+    "o_en": [
+     "Chief Minister Bhupendra Patel",
+     "Minister of Water Resources",
+     "Government spokesperson Jitu Vaghani",
+     "Agriculture Minister"
+    ],
+    "o_gu": [
+     "મુખ्यमंत्री ભુપેન્દ્ર પટેલ",
+     "પાણી સ્રોતો મંત્રી",
+     "રાજ્ય પ્રસારક જિતુ વાઘાણી",
+     "કૃષિ મંત્રી"
+    ],
+    "a": 2,
+    "e_en": "Jitu Vaghani, the government spokesperson, made the statement.",
+    "e_gu": "જિતુ વાઘાણી, રાજ્ય પ્રસારક, એ નિવેદન આપ્યું."
+   },
+   "id": "ca-gujarat-government-vows-extra-water-for-drinking-and-farms",
+   "source": "https://urbanacres.in/gujarat-water-availability-gets-state-push-beyond-narmada-network/",
+   "exam": {
+    "score": 6,
+    "why": "State push for water beyond Narmada"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://urbanacres.in/gujarat-water-availability-gets-state-push-beyond-narmada-network/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-22"
+  },
+  {
+   "category": "days",
+   "title_en": "National Unity Day 2026 to be celebrated at Statue of Unity on 31 Oct",
+   "title_gu": "31 ઑક્ટોબરે સ્ટેટ્યુ ઓફ યુનિટી ખાતે રાષ્ટ્રીય એકતા દિવસ 2026 ઉજવાશે",
+   "summary_en": "The 2026 National Unity Day and Bharat Parva will be held on 31 October in Ekta Nagar, Gujarat. The parade will start with a tribute to Sardar Vallabhbhai Patel.",
+   "summary_gu": "2026નું રાષ્ટ્રીય એકતા દિવસ અને ભારત પર્વ 31 ઓક્ટોબરે ગુજરાતના એકતા નગરમાં યોજાશે. પરેડ સardar વલ્લભભાઈ પટેલને સન્માનથી શરૂ થશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "National Unity Day and Bharat Parva 2026",
+     "v_gu": "રાષ્ટ્રીય એકતા દિવસ અને ભારત પર્વ 2026"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "31 October 2026",
+     "v_gu": "31 ઑક્ટોબર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Ekta Nagar, Gujarat (Statue of Unity)",
+     "v_gu": "એકતા નગર, ગુજરાત (સ્ટેટ્યુ ઓફ યુનિટી)"
+    },
+    {
+     "k_en": "Chief Guest",
+     "k_gu": "મુખ્ય મહેમાન",
+     "v_en": "Prime Minister Narendra Modi",
+     "v_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "\"Vande Mataram\" 150th year",
+     "v_gu": "\"વંદે માતરમ\" 150મો વર્ષ"
+    }
+   ],
+   "points_en": [
+    "Parade will showcase state police, Central Armed Police Forces and Central Police Organisations.",
+    "Around 5,000 artists will perform cultural shows titled “Ek Bharat Shreshtha Bharat”.",
+    "A drama based on Bankim Chandra Chattopadhyay’s novel “Anandamath” will be staged."
+   ],
+   "points_gu": [
+    "પરેડમાં રાજ્ય પોલીસ, કેન્દ્રીય સશસ્ત્ર પોલીસ બળો અને કેન્દ્રીય પોલીસ સંગઠનોની કામગીરી દર્શાવવામાં આવશે.",
+    "લગભગ 5,000 કલાકારો “એક ભારત શ્રેષ્ઠ ભારત” શીર્ષક હેઠળ સાંસ્કૃતિક પ્રદર્શન કરશે.",
+    "બંકિમ ચંદ્ર ચટ્ટોપાધ્યાયની નવલકથા “આનંદમઠ” પર આધારિત નાટક રજૂ થશે."
+   ],
+   "context_en": "National Unity Day commemorates the birth anniversary of Sardar Vallabhbhai Patel, India’s first Home Minister.",
+   "context_gu": "રાષ્ટ્રીય એકતા દિવસ સardar વલ્લભભાઈ પટેલ, ભારતના પ્રથમ ગૃહમંત્રી,ના જન્મદિવસને સ્મરણ કરે છે.",
+   "remember_en": "31 Oct 2026, Ekta Nagar, tribute to Patel, Vande Mataram theme.",
+   "remember_gu": "31 ઓક્ટો 2026, એકતા નગર, પટેલને સન્માન, વંદે માતરમ થીમ.",
+   "why_en": "Exam may ask date, venue, chief guest and theme of the 2026 celebration.",
+   "why_gu": "પરીક્ષામાં 2026ની ઉજવણીની તારીખ, સ્થળ, મુખ્ય મહેમાન અને થીમ પૂછાઈ શકે છે.",
+   "details_en": "On 31 October 2026, the National Unity Day and Bharat Parva will be held in Ekta Nagar, Gujarat, around the Statue of Unity. Prime Minister Narendra Modi will open the event by paying tribute to Sardar Vallabhbhai Patel at the monument. The parade, scheduled for the evening, will feature state police forces, Central Armed Police Forces and Central Police Organisations, highlighting their anti‑Naxal work. About 5,000 artists will present cultural performances under the banner “Ek Bharat Shreshtha Bharat”. A drama based on Bankim Chandra Chattopadhyay’s novel “Anandamath” will be staged, reflecting the theme “Vande Mataram” on its 150th anniversary.",
+   "details_gu": "31 ઓક્ટોબર 2026ને ગુજરાતના એકતા નગરમાં સ્ટેટ્યુ ઓફ યુનિટી આસપાસ રાષ્ટ્રીય એકતા દિવસ અને ભારત પર્વનું આયોજન થશે. પ્રધાનમંત્રી નરેન્દ્ર મોદી સ્ટેટ્યુ પર સardar વલ્લભભાઈ પટેલને સન્માન આપીને સમારંભની શરૂઆત કરશે. સાંજના સમયગાળા માટે યોજાયેલ પરેડમાં રાજ્ય પોલીસ, કેન્દ્રીય સશસ્ત્ર પોલીસ બળો અને કેન્દ્રીય પોલીસ સંગઠનોની કામગીરી દર્શાવવામાં આવશે, ખાસ કરીને સશસ્ત્ર નક્સલવાદ સામેની તેમની સફળતા. લગભગ 5,000 કલાકારો “એક ભારત શ્રેષ્ઠ ભારત” નામની સાંસ્કૃતિક પ્રસ્તુતિ કરશે. બંકિમ ચંદ્ર ચટ્ટોપાધ્યાયની નવલકથા “આનંદમઠ” પર આધારિત નાટક રજૂ થશે, જે 150મો વર્ષગાંઠ મનાવતી “વંદે માતરમ” થીમને પ્રતિબિંબિત કરે છે.",
+   "mcq": {
+    "q_en": "When and where will the 2026 National Unity Day be celebrated?",
+    "q_gu": "2026નું રાષ્ટ્રીય એકતા દિવસ ક્યારે અને ક્યાં ઉજવાશે?",
+    "o_en": [
+     "31 Oct 2026, Ekta Nagar, Gujarat",
+     "15 Aug 2026, Ahmedabad, Gujarat",
+     "31 Oct 2025, Delhi",
+     "26 Jan 2026, Mumbai"
+    ],
+    "o_gu": [
+     "31 ઓક્ટો 2026, એકતા નગર, ગુજરાત",
+     "15 ઑગસ્ટ 2026, અમદાવાદ, ગુજરાત",
+     "31 ઓક્ટો 2025, દિલ્હી",
+     "26 જાન્યુઆરી 2026, મુંબઈ"
+    ],
+    "a": 0,
+    "e_en": "The event is scheduled for 31 October 2026 at Ekta Nagar, Gujarat.",
+    "e_gu": "સમારંભ 31 ઓક્ટોબર 2026ને એકતા નગર, ગુજરાતમાં યોજાશે."
+   },
+   "id": "ca-national-unity-day-2026-to-be-celebrated-at-statue-of-unity-",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326168",
+   "exam": {
+    "score": 6,
+    "why": "Central Home Secretary on National Unity Day"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326168"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-22"
   }
  ]
 }
