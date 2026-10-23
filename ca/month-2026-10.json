@@ -8628,6 +8628,76 @@
    ],
    "by": "groq",
    "date": "2026-10-23"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat signs MoUs with Scotland in Gandhinagar",
+   "title_gu": "ગુજરાતે ગાંધીનગરમાં સ્કોટલેન્ડ સાથે એમઓયુ સાઇન કર્યા",
+   "summary_en": "The Gujarat government and Scotland signed important memoranda of understanding in Gandhinagar.",
+   "summary_gu": "ગુજરાત સરકાર અને સ્કોટલેન્ડે ગાંધીનગરમાં મહત્વપૂર્ણ એમઓયુ પર હસ્તાક્ષર કર્યા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Government of Gujarat and Scotland",
+     "v_gu": "ગુજરાત સરકાર અને સ્કોટલેન્ડ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Signed MoUs",
+     "v_gu": "એમઓયુ સાઇન કર્યા"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gandhinagar, Gujarat",
+     "v_gu": "ગાંધીનગર, ગુજરાત"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "Gujarat and Scotland signed MoUs in Gandhinagar.",
+   "remember_gu": "ગુજરાત અને સ્કોટલેન્ડે ગાંધીનગરમાં એમઓયુ સાઇન કર્યા.",
+   "why_en": "Shows Gujarat's international cooperation efforts.",
+   "why_gu": "ગુજરાતની આંતરરાષ્ટ્રીય સહકારની કોશિશ દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Where were the MoUs between Gujarat and Scotland signed?",
+    "q_gu": "ગુજરાત અને સ્કોટલેન્ડ વચ્ચેના એમઓયુ કયા સ્થળે સાઇન થયા?",
+    "o_en": [
+     "Ahmedabad",
+     "Surat",
+     "Gandhinagar",
+     "Rajkot"
+    ],
+    "o_gu": [
+     "અમદાવાદ",
+     "સુરત",
+     "ગાંધીનગર",
+     "રાજકોટ"
+    ],
+    "a": 2,
+    "e_en": "The MoUs were signed in Gandhinagar.",
+    "e_gu": "એમઓયુ ગાંધીનગરમાં સાઇન થયા."
+   },
+   "id": "ca-gujarat-signs-mous-with-scotland-in-gandhinagar",
+   "source": "https://cmogujarat.gov.in/en/latest-news/important-mous-signed-between-the-government-of-gujarat-and-scotland-in-gandhinagar",
+   "exam": {
+    "score": 6,
+    "why": "Gujarat-Scotland MoUs, state‑level foreign tie"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/important-mous-signed-between-the-government-of-gujarat-and-scotland-in-gandhinagar"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-23"
   }
  ]
 }
