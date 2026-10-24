@@ -178,6 +178,95 @@
     }
    ],
    "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Gujarat cancels weekly power cuts for South Gujarat industries",
+   "title_gu": "ગુજરાતે દક્ષિણ ગુજરાત ઉદ્યોગો માટે સાપ્તાહિક વીજ કાપો રદ કર્યા",
+   "summary_en": "The state withdrew the once‑a‑week eight‑hour power‑staggering after industry protests, just before Diwali.",
+   "summary_gu": "ઉદ્યોગોના વિરોધ પછી રાજ્યએ દિવાળી પહેલા દક્ષિણ ગુજરાતમાં સાપ્તાહિક 8‑કલાક વીજ કાપો રદ કર્યો.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**October 24, 2026**",
+     "v_gu": "**૨૪ ઓક્ટોબર ૨૦૨૬**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**South Gujarat**",
+     "v_gu": "**દક્ષિણ ગુજરાત**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Cancellation of once‑a‑week eight‑hour power staggering**",
+     "v_gu": "**સાપ્તાહિક 8‑કલાક વીજ કાપો રદ**"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Dakshin Gujarat Vij Company Limited (DGVCL)**",
+     "v_gu": "**દક્ષિણ ગુજરાત વીજ કંપની લિમિટેડ (ડીજીવીસીએલ)**"
+    },
+    {
+     "k_en": "Power demand",
+     "k_gu": "વીજ માંગ",
+     "v_en": "**29,822 MW (record)**",
+     "v_gu": "**૨૯,૮૨૨ મેગાવોટ (રેકોર્ડ)**"
+    }
+   ],
+   "points_en": [
+    "Industries feared losses before Diwali.",
+    "Textile sector expected weekly loss of Rs 300 crore.",
+    "State is usually power‑surplus."
+   ],
+   "points_gu": [
+    "ઉદ્યોગો દિવાળી પહેલા નુકસાનની ચિંતા કરતા હતા.",
+    "ટેક્સટાઇલ ક્ષેત્રને સાપ્તાહિક ૩૦૦ કરોડ રૂપિયાનો નુકસાન થવાનો અંદાજ.",
+    "રાજ્ય સામાન્ય રીતે વીજ‑સપ્લાયમાં અતિરેક ધરાવે છે."
+   ],
+   "context_en": "DGVCL is the distribution utility for South Gujarat; Gujarat often has surplus power.",
+   "context_gu": "ડીજીવીસીએલ દક્ષિણ ગુજરાતની વિતરણ યુટિલિટી છે; ગુજરાતમાં સામાન્ય રીતે વીજ અતિરેક હોય છે.",
+   "remember_en": "Power cuts cancelled after industry protests, just before Diwali.",
+   "remember_gu": "દિવાળી પહેલા ઉદ્યોગોનું વિરોધ, વીજ કાપો રદ.",
+   "why_en": "Shows how government can quickly reverse policies affecting industry.",
+   "why_gu": "ઉદ્યોગો પર અસર કરતા નીતિઓને સરકાર કેવી રીતે તરત બદલાવે છે તે દર્શાવે છે.",
+   "details_en": "The Gujarat government had issued a notice for a once‑a‑week eight‑hour power‑staggering for South Gujarat industries. The measure began after a record power demand of 29,822 MW on October 16, driven by higher consumption, Navratri festivities and pre‑Diwali industrial activity. Industry bodies, led by the Southern Gujarat Chamber of Commerce and Industry, warned of heavy losses, especially a projected Rs 300 crore weekly loss for textiles. Responding to these representations, the Dakshin Gujarat Vij Company Limited announced that the staggering is cancelled, and no power cuts occurred on Friday evening.",
+   "details_gu": "ગુજરાત સરકારએ દક્ષિણ ગુજરાત ઉદ્યોગો માટે સાપ્તાહિક 8‑કલાક વીજ કાપોનો નોટિસ જારી કર્યો હતો. આ પગલું ૧૬ ઓક્ટોબરે ૨૯,૮૨૨ મેગાવોટની રેકોર્ડ વીજ માંગ પછી લેવામાં આવ્યું, જે વધેલી ઉપભોગ, નવરાત્રી અને દિવાળી પૂર્વ ઉદ્યોગ પ્રવૃત્તિથી આવ્યું હતું. દક્ષિણ ગુજરાત ચેમ્બર ઓફ કોમર્સ એન્ડ ઇન્ડસ્ટ્રી જેવા ઉદ્યોગ સંગઠનોએ ભારે નુકસાનની ચેતવણી આપી, ખાસ કરીને ટેક્સટાઇલ ક્ષેત્રમાં સાપ્તાહિક ૩૦૦ કરોડ રૂપિયાનો નુકસાન થવાનો અંદાજ હતો. આ પ્રતિનિધિત્વો પછી, દક્ષિણ ગુજરાત વીજ કંપની લિમિટેડએ કાપો રદ કરવાનો સંદેશો આપ્યો અને શુક્રવાર સાંજે કોઈ વીજ કાપો ન થયો.",
+   "mcq": {
+    "q_en": "Why did Gujarat cancel the weekly power cuts for South Gujarat industries?",
+    "q_gu": "ગુજરાતે દક્ષિણ ગુજરાત ઉદ્યોગો માટે સાપ્તાહિક વીજ કાપો કેમ રદ કર્યા?",
+    "o_en": [
+     "Because power demand fell sharply",
+     "Because industry bodies warned of heavy losses",
+     "Because the central government ordered it",
+     "Because DGVCL ran out of coal"
+    ],
+    "o_gu": [
+     "કારણ વીજ માંગમાં તીવ્ર ઘટાડો થયો",
+     "કારણ ઉદ્યોગ સંગઠનોએ ભારે નુકસાનની ચેતવણી આપી",
+     "કારણ કેન્દ્ર સરકારએ આદેશ આપ્યો",
+     "કારણ ડીજીવીસીએલ પાસે કોયલ ખતમ થઈ ગયું"
+    ],
+    "a": 1,
+    "e_en": "Industry bodies warned of heavy losses, prompting the cancellation.",
+    "e_gu": "ઉદ્યોગ સંગઠનોએ ભારે નુકસાનની ચેતવણી આપી, જેના કારણે કાપો રદ થયો."
+   },
+   "id": "ca-gujarat-cancels-weekly-power-cuts-for-south-gujarat-industri",
+   "source": "https://www.financialexpress.com/policy/economy/after-industry-outcry-gujarat-rolls-back-power-cuts-in-south-gujarat/4368196/",
+   "exam": {
+    "score": 6,
+    "why": "Rollback of power cuts after industry protest"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.financialexpress.com/policy/economy/after-industry-outcry-gujarat-rolls-back-power-cuts-in-south-gujarat/4368196/"
+    }
+   ],
+   "by": "groq"
   }
  ]
 }
