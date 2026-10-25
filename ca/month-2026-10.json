@@ -9248,6 +9248,96 @@
    "date": "2026-10-25"
   },
   {
+   "category": "economy",
+   "title_en": "RBI report says satellite lights and Google Trends improve growth estimates",
+   "title_gu": "આરબીઆઈ રિપોર્ટ: ઉપગ્રહ પ્રકાશ અને ગૂગલ ટ્રેન્ડ્સથી વૃદ્ધિ અંદાજ સુધરે",
+   "summary_en": "A Reserve Bank of India bulletin finds that using night‑time satellite lights and Google search trends cuts errors in quarterly growth estimates for Gujarat, Maharashtra and Karnataka.",
+   "summary_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયાના બુલેટિનમાં જણાવાયું છે કે ઉપગ્રહ રાત્રી પ્રકાશ અને ગૂગલ શોધ ટ્રેન્ડ્સથી ગુજરાત, મહારાષ્ટ્ર અને કર્નાટકમાં ત્રિમાસિક વૃદ્ધિ અંદાજની ભૂલો ઘટે છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Reserve Bank of India (RBI)",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા (આરબીઆઈ)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Bulletin report on growth estimation methods",
+     "v_gu": "વૃદ્ધિ અંદાજ પદ્ધતિઓ પર બુલેટિન રિપોર્ટ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat, Maharashtra, Karnataka",
+     "v_gu": "ગુજરાત, મહારાષ્ટ્ર, કર્નાટક"
+    },
+    {
+     "k_en": "Method",
+     "k_gu": "પદ્ધતિ",
+     "v_en": "Night‑time lights + Google Trends data",
+     "v_gu": "રાત્રી પ્રકાશ + ગૂગલ ટ્રેન્ડ્સ ડેટા"
+    },
+    {
+     "k_en": "Improvement",
+     "k_gu": "સુધારો",
+     "v_en": "Error reduction up to **62 %**",
+     "v_gu": "ભૂલમાં **૬૨ %** સુધી ઘટાડો"
+    }
+   ],
+   "points_en": [
+    "Combining the two data sources cuts estimation errors dramatically.",
+    "The approach works for three industrial states.",
+    "It helps policymakers get quicker growth signals."
+   ],
+   "points_gu": [
+    "બંને ડેટા જોડવાથી અંદાજની ભૂલોમાં નોંધપાત્ર ઘટાડો થાય છે.",
+    "આ પદ્ધતિ ત્રણ ઔદ્યોગિક રાજ્યોમાં કામ કરે છે.",
+    "તે નીતિનિર્માતાઓને ઝડપી વૃદ્ધિ સંકેતો આપે છે."
+   ],
+   "context_en": "Reserve Bank of India is India’s central bank; its bulletins often guide economic policy.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા ભારતનું કેન્દ્રિય બેંક છે; તેના બુલેટિન સામાન્ય રીતે આર્થિક નીતિને માર્ગદર્શિત કરે છે.",
+   "remember_en": "RBI uses satellite lights and Google Trends to sharpen growth estimates.",
+   "remember_gu": "આરબીઆઈ ઉપગ્રહ પ્રકાશ અને ગૂગલ ટ્રેન્ડ્સથી વૃદ્ધિ અંદાજને સુધારે છે.",
+   "why_en": "Exam may ask how new data tools improve economic forecasting.",
+   "why_gu": "પરીક્ષામાં નવા ડેટા સાધનો કેવી રીતે આર્થિક આગાહી સુધારે છે તે પૂછાઈ શકે.",
+   "details_en": "The RBI bulletin reports that merging night‑time illumination data from satellites with Google search trend information reduces errors in quarterly growth estimates by up to 62 % for Gujarat, Maharashtra and Karnataka. This method offers a faster, more accurate picture of state‑level economic activity, aiding policymakers and analysts.",
+   "details_gu": "આરબીઆઈ બુલેટિનમાં જણાવાયું છે કે ઉપગ્રહો દ્વારા મળતા રાત્રી પ્રકાશ ડેટા અને ગૂગલ શોધ ટ્રેન્ડ્સને જોડવાથી ગુજરાત, મહારાષ્ટ્ર અને કર્નાટકમાં ત્રિમાસિક વૃદ્ધિ અંદાજની ભૂલોમાં **૬૨ %** સુધી ઘટાડો થાય છે. આ પદ્ધતિ રાજ્ય સ્તરની આર્થિક ગતિવિધિનું ઝડપી અને સચોટ ચિત્ર આપે છે, જે નીતિનિર્માતાઓ અને વિશ્લેષકોને મદદ કરે છે.",
+   "mcq": {
+    "q_en": "Which data combination did the RBI bulletin say reduces growth‑estimate errors by up to 62 %?",
+    "q_gu": "આરબીઆઈ બુલેટિન અનુસાર કયા ડેટા જોડાણથી વૃદ્ધિ અંદાજની ભૂલોમાં ૬૨ % સુધી ઘટાડો થાય છે?",
+    "o_en": [
+     "Satellite night‑time lights + Google Trends",
+     "Census data + Stock market indices",
+     "Agricultural output + Export data",
+     "Industrial production + Consumer price index"
+    ],
+    "o_gu": [
+     "ઉપગ્રહ રાત્રી પ્રકાશ + ગૂગલ ટ્રેન્ડ્સ",
+     "જનગણના ડેટા + સ્ટોક માર્કેટ સૂચકાંકો",
+     "કૃષિ ઉત્પાદન + નિકાસ ડેટા",
+     "ઉદ્યોગ ઉત્પાદન + ગ્રાહક મૂલ્ય સૂચકાંક"
+    ],
+    "a": 0,
+    "e_en": "The bulletin highlighted night‑time lights and Google Trends as the effective pair.",
+    "e_gu": "બુલેટિનમાં રાત્રી પ્રકાશ અને ગૂગલ ટ્રેન્ડ્સને અસરકારક જોડાણ તરીકે દર્શાવ્યું હતું."
+   },
+   "id": "ca-rbi-report-says-satellite-lights-and-google-trends-improve-g",
+   "source": "https://www.business-standard.com/economy/news/economy-news-satellite-lights-google-searches-estimate-state-quarterly-growth-rbi-bulletin-126102500368_1.html",
+   "exam": {
+    "score": 7,
+    "why": "RBI method improves state growth estimates"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/economy-news-satellite-lights-google-searches-estimate-state-quarterly-growth-rbi-bulletin-126102500368_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-25"
+  },
+  {
    "category": "schemes",
    "title_en": "PRASHAD scheme boosts pilgrimage infrastructure",
    "title_gu": "PRASHAD યોજના દ્વારા યાત્રા સ્થળોની સુવિધાઓમાં વધારો",
@@ -9332,6 +9422,262 @@
     {
      "name": "Google News: schemes, appointments, MoUs",
      "url": "https://vajiramandravi.com/upsc-exam/prashad-scheme/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-25"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat pensioners receive up to 443% inflation allowance increase",
+   "title_gu": "ગુજરાત પેન્શનરોને ૪૪૩% સુધી મોંઘવારી ભથ્થો વધારો",
+   "summary_en": "The Gujarat Finance Department approved a step‑wise rise in inflation allowance for pensioners, reaching 443% by January 2024, and ordered payment of 131% arrears.",
+   "summary_gu": "ગુજરાત નાણાં વિભાગે પેન્શનરો માટે મોંઘવારી ભથ્થો ક્રમશઃ વધારીને જાન્યુઆરી 2024 સુધી ૪૪૩% સુધી પહોંચાડ્યો અને ૧૩૧% એરિયર્સની ચુકવણીનું નિર્દેશ આપ્યો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat Finance Department",
+     "v_gu": "ગુજરાત નાણાં વિભાગ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Inflation allowance increase up to 443%",
+     "v_gu": "મોંઘવારી ભથ્થો ૪૪૩% સુધી વધારો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "July 2022 – Jan 2024 (step‑wise)",
+     "v_gu": "જુલાઈ 2022 – જાન્યુઆરી 2024 (પગલું‑પગલું)"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "131% arrears payable July 2021 – June 2024",
+     "v_gu": "૧૩૧% એરિયર્સ જુલાઈ 2021 – જૂન 2024 સુધી"
+    }
+   ],
+   "points_en": [
+    "Allowance rose from 396% (July 2022) to 443% (Jan 2024).",
+    "Arrears cover July 2021 to June 2024.",
+    "Payments will be directly credited to eligible pensioners' accounts."
+   ],
+   "points_gu": [
+    "ભથ્થો ૩૯૬% (જુલાઈ 2022) થી ૪૪૩% (જાન્યુઆરી 2024) સુધી વધ્યો.",
+    "એરિયર્સ જુલાઈ 2021 થી જૂન 2024 સુધી આવરી લે છે.",
+    "પાત્ર પેન્શનરોના ખાતામાં સીધો જ નાણાં જમા થશે."
+   ],
+   "context_en": "The Finance Department handles state budget and pension matters for Gujarat.",
+   "context_gu": "નાણાં વિભાગ રાજ્યનું બજેટ અને પેન્શન સંબંધિત કામ કરે છે.",
+   "remember_en": "Gujarat pensioners get 443% inflation allowance by Jan 2024.",
+   "remember_gu": "ગુજરાત પેન્શનરોને જાન્યુઆરી 2024 સુધી ૪૪૩% મોંઘવારી ભથ્થો મળશે.",
+   "why_en": "Shows how state adjusts pensions for inflation and clears arrears.",
+   "why_gu": "રાજ્ય કેવી રીતે પેન્શનને મોંઘવારી માટે સમાયોજિત કરે છે અને બાકી રકમ ચૂકવે છે તે દર્શાવે છે.",
+   "details_en": "The Gujarat Finance Department issued a resolution to raise the inflation allowance for pensioners under the Fifth Pay Commission. Starting July 2022, the rate was set at 396%, increased to 412% in January 2023, then to 427% in July 2023, and finally to 443% from January 2024. Additionally, the department approved payment of arrears amounting to 131% of the original pension for the period July 2021 to June 2024. The amounts will be credited to the accounts of all eligible pensioners in a phased manner.",
+   "details_gu": "ગુજરાત નાણાં વિભાગે પાંચમા પગાર પંચ હેઠળ પેન્શનરો માટે મોંઘવારી ભથ્થો વધારવાનો નિર્ણય કર્યો. જુલાઈ 2022થી દર ૩૯૬% નક્કી થયો, જાન્યુઆરી 2023માં ૪૧૨% થયો, જુલાઈ 2023માં ૪૨૭% અને જાન્યુઆરી 2024થી ૪૪૩% સુધી પહોંચ્યો. સાથે જ જુલાઈ 2021થી જૂન 2024 સુધીની ૧૩૧% એરિયર્સની ચુકવણીનું નિર્દેશ આપ્યું. આ રકમો પાત્ર પેન્શનરોના ખાતામાં તબક્કાવાર જમા થશે.",
+   "mcq": {
+    "q_en": "What was the final inflation allowance percentage approved for Gujarat pensioners by January 2024?",
+    "q_gu": "જાન્યુઆરી 2024 સુધી ગુજરાત પેન્શનરો માટે મંજૂર થયેલ અંતિમ મોંઘવારી ભથ્થો ટકા શું હતો?",
+    "o_en": [
+     "396%",
+     "412%",
+     "427%",
+     "443%"
+    ],
+    "o_gu": [
+     "૩૯૬%",
+     "૪૧૨%",
+     "૪૨૭%",
+     "૪૪૩%"
+    ],
+    "a": 3,
+    "e_en": "The resolution set the allowance at 443% from January 2024.",
+    "e_gu": "નિર્ણય મુજબ જાન્યુઆરી 2024થી ભથ્થો ૪૪૩% હતો."
+   },
+   "id": "ca-gujarat-pensioners-receive-up-to-443-inflation-allowance-inc",
+   "source": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-pensioners-get-major-da-hike-up-to-443-percrent",
+   "exam": {
+    "score": 6,
+    "why": "large DA hike for pensioners, fiscal impact"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-pensioners-get-major-da-hike-up-to-443-percrent"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-25"
+  },
+  {
+   "category": "defence",
+   "title_en": "Prime Minister Modi attends IAF air show in Varanasi",
+   "title_gu": "પ્રધાનમંત્રી મોદીએ વારાણસીમાં આઇએએફ એર શોમાં હાજરી આપી",
+   "summary_en": "On 25 Oct 2026, Prime Minister Narendra Modi watched the Indian Air Force’s “Wings over Ganges” display at Namo Ghat, Varanasi.",
+   "summary_gu": "૨૫ ઓક્ટોબર ૨૦૨૬એ પ્રધાનમંત્રી નરેન્દ્ર મોદીએ નમો ઘાટ, વારાણસીમાં આયોજિત “વિંગ્સ ઓવર ગંગેસ” આઇએએફ પ્રદર્શન જોયો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Prime Minister Narendra Modi**",
+     "v_gu": "**પ્રધાનમંત્રી નરેન્દ્ર મોદી**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Wings over Ganges** air show",
+     "v_gu": "**વિંગ્સ ઓવર ગંગેસ** એર શો"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Namo Ghat, Varanasi, Uttar Pradesh**",
+     "v_gu": "**નમો ઘાટ, વારાણસી, ઉત્તર પ્રદેશ**"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**25 October 2026**",
+     "v_gu": "**૨૫ ઓક્ટોબર ૨૦૨૬**"
+    },
+    {
+     "k_en": "Aircraft",
+     "k_gu": "વિમાનો",
+     "v_en": "**Sukhoi‑30 MKI, Tejas, LCH Prachand**",
+     "v_gu": "**સukhoi‑30 MKI, તેજસ, LCH પ્રચંડ**"
+    }
+   ],
+   "points_en": [
+    "Defence Minister Rajnath Singh and others accompanied Modi.",
+    "Surya Kiran team flew three Kiran jets in a V‑formation.",
+    "Mi‑17 helicopters displayed the national flag."
+   ],
+   "points_gu": [
+    "રક્ષણ મંત્રી રાજનાથ સિંહ અને અન્યોએ મોદીને સાથે લીધા.",
+    "સુર્ય કિરન ટીમે ત્રણ કિરન જેટ્સ V આકારમાં ઉડાવ્યા.",
+    "Mi‑17 હેલિકોપ્ટરોએ ત્રિવળિયું ધ્વજ દર્શાવ્યું."
+   ],
+   "context_en": "The Indian Air Force (IAF) is the aerial warfare branch of the Indian Armed Forces, headquartered in New Delhi.",
+   "context_gu": "ભારતીય વાયુસેના (IAF) ભારતની સશસ્ત્ર દળોની હવાઈ શાખા છે, મુખ્યાલય ન્યૂ દિલ્હી માં છે.",
+   "remember_en": "Modi attended the IAF ‘Wings over Ganges’ show on 25 Oct 2026 in Varanasi.",
+   "remember_gu": "મોદીએ ૨૫ ઓક્ટો ૨૦૨૬એ વારાણસીમાં IAF ‘વિંગ્સ ઓવર ગંગેસ’ શો જોયો.",
+   "why_en": "Shows the government's support for defence and regional development.",
+   "why_gu": "રક્ષણ અને પ્રદેશીય વિકાસ માટે સરકારનું સમર્થન દર્શાવે છે.",
+   "details_en": "On 25 October 2026, Prime Minister Narendra Modi arrived in Varanasi and attended the Indian Air Force’s three‑day “Wings over Ganges” aerial display at Namo Ghat. Defence Minister Rajnath Singh, Uttar Pradesh Governor Anandiben Patel and Chief Minister Yogi Adityanath were with him. The show featured fighter jets such as Sukhoi‑30 MKI, indigenous Tejas and LCH Prachand, plus helicopter displays. The Surya Kiran aerobatic team flew three Kiran aircraft in a V‑formation in the colours of the national flag, while Mi‑17 helicopters carried the tricolour in an Omkar formation. The event drew large crowds who welcomed the Prime Minister with cultural programmes and rose petals. Earlier that day, Modi inaugurated a new garment unit of Arvind Ltd in Mirzamurad, aiming to boost local industry and create jobs, especially for women.",
+   "details_gu": "૨૫ ઓક્ટોબર ૨૦૨૬એ પ્રધાનમંત્રી નરેન્દ્ર મોદીએ વારાણસીમાં આવીને નમો ઘાટ પર ભારતીય વાયુસેનાનો ત્રણ દિવસનો “વિંગ્સ ઓવર ગંગેસ” પ્રદર્શન જોયો. રક્ષણ મંત્રી રાજનાથ સિંહ, ઉત્તર પ્રદેશ ગવર્નર આનંદિબેન પટેલ અને મુખ્યમંત્રી યોગી આદિત્યનાથ તેમની સાથે હતા. પ્રદર્શનમાં સુખોઇ‑30 MKI,国产 તેજસ અને LCH પ્રચંડ જેવા ફાઇટર જેટ્સ તેમજ હેલિકોપ્ટર શો સામેલ હતા. સુર્ય કિરન ટીમે ત્રણ કિરન વિમાનોને રાષ્ટ્રીય ધ્વજનાં રંગોમાં V આકારમાં ઉડાવ્યા, જ્યારે Mi‑17 હેલિકોપ્ટરોએ ઓંકાર રચનામાં ત્રિવળિયું ધ્વજ દર્શાવ્યું. મોટી ભીડે પ્રધાનમંત્રીનું સ્વાગત રોઝ પાંખો અને સાંસ્કૃતિક કાર્યક્રમો સાથે કર્યું. દિવસની શરૂઆતમાં, મોદીએ મિરઝામુરાદમાં અર્વિંદ લિમિટેડની નવી ગાર્મેન્ટ યુનિટનું ઉદ્ઘાટન કર્યું, જે સ્થાનિક ઉદ્યોગને પ્રોત્સાહન અને ખાસ કરીને સ્ત્રીઓ માટે રોજગારી સર્જશે.",
+   "mcq": {
+    "q_en": "Which Indian Air Force aircraft were highlighted at the Varanasi air show on 25 Oct 2026?",
+    "q_gu": "૨૫ ઓક્ટો ૨૦૨૬એ વારાણસી એર શોમાં કયા IAF વિમાનોને મુખ્યત્વે દર્શાવવામાં આવ્યા?",
+    "o_en": [
+     "Sukhoi‑30 MKI, Tejas, LCH Prachand",
+     "Mirage 2000, Rafale, MiG‑29",
+     "C-130, IL‑76, An-32",
+     "Boeing 777, Airbus A320, Embraer 190"
+    ],
+    "o_gu": [
+     "સukhoi‑30 MKI, તેજસ, LCH પ્રચંડ",
+     "મિરાજ 2000, રાફેલ, MiG‑29",
+     "C-130, IL‑76, An-32",
+     "Boeing 777, Airbus A320, Embraer 190"
+    ],
+    "a": 0,
+    "e_en": "The report lists Sukhoi‑30 MKI, Tejas and LCH Prachand as part of the display.",
+    "e_gu": "રિપોર્ટમાં સુખોઇ‑30 MKI, તેજસ અને LCH પ્રચંડને પ્રદર્શનનો ભાગ જણાવવામાં આવ્યો છે."
+   },
+   "id": "ca-prime-minister-modi-attends-iaf-air-show-in-varanasi",
+   "source": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece",
+   "exam": {
+    "score": 6,
+    "why": "PM at IAF air show, showcases air power"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/pm-modi-varanasi-uttar-pradesh-iaf-air-show/article71622977.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-25"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat Chief Minister to meet neighboring CM's in Delhi on water",
+   "title_gu": "ગુજરાત મુખ્યમંત્રીએ દિલ્હી માં પાણી મુદ્દે પડોશી રાજ્યોના મુખ્યમંત્રીઓ સાથે બેઠક કરશે",
+   "summary_en": "The Gujarat chief minister will meet the chief ministers of Madhya Pradesh, Maharashtra and Rajasthan in Delhi on Tuesday to discuss water issues.",
+   "summary_gu": "ગુજરાત મુખ્યમંત્રીએ મંગળવારે દિલ્હી માં મધ્ય પ્રદેશ, મહારાષ્ટ્ર અને રાજસ્થાનના મુખ્યમંત્રીઓ સાથે પાણી સંબંધિત મુદ્દાઓ પર ચર્ચા કરશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat Chief Minister",
+     "v_gu": "ગુજરાત મુખ્યમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Meeting with neighboring chief ministers",
+     "v_gu": "પડોશી રાજ્યોના મુખ્યમંત્રીઓ સાથે બેઠક"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Delhi",
+     "v_gu": "દિલ્હી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Tuesday",
+     "v_gu": "મંગળવાર"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Water issue",
+     "v_gu": "પાણી મુદ્દો"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "The chief minister is the head of a state government in India.",
+   "context_gu": "મુખ્યમંત્રી ભારતના રાજ્ય સરકારનું વડા છે.",
+   "remember_en": "Gujarat CM meets MP, Maharashtra, Rajasthan CM in Delhi on water.",
+   "remember_gu": "ગુજરાત મુખ્યમંત્રીએ પાણી મુદ્દે MP, મહારાષ્ટ્ર, રાજસ્થાનના મુખ્યમંત્રીઓ સાથે દિલ્હી માં બેઠક કરી.",
+   "why_en": "Shows inter‑state cooperation on water resources, a common exam topic.",
+   "why_gu": "પાણી સ્રોતો પર રાજ્યો વચ્ચે સહકાર દર્શાવે છે, પરીક્ષાનો સામાન્ય વિષય.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Which city will the Gujarat chief minister visit to meet other state chief ministers on water issues?",
+    "q_gu": "પાણી સંબંધિત મુદ્દાઓ માટે ગુજરાત મુખ્યમંત્રીએ કયા શહેરમાં અન્ય રાજ્યોના મુખ્યમંત્રીઓ સાથે બેઠક કરશે?",
+    "o_en": [
+     "Ahmedabad",
+     "Surat",
+     "Delhi",
+     "Rajkot"
+    ],
+    "o_gu": [
+     "અમદાવાદ",
+     "સુરત",
+     "દિલ્હી",
+     "રાજકોટ"
+    ],
+    "a": 2,
+    "e_en": "The meeting is scheduled in Delhi.",
+    "e_gu": "બેઠક દિલ્હી માં નક્કી થયેલી છે."
+   },
+   "id": "ca-gujarat-chief-minister-to-meet-neighboring-cm-s-in-delhi-on-",
+   "source": "https://deshgujarat.com/2026/10/25/gujarat-cm-to-meet-counterparts-of-madhya-pradesh-maharashtra-and-rajasthan-in-delhi-on-tuesday-on-water-issue/",
+   "exam": {
+    "score": 6,
+    "why": "CM meets states on water issues"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://deshgujarat.com/2026/10/25/gujarat-cm-to-meet-counterparts-of-madhya-pradesh-maharashtra-and-rajasthan-in-delhi-on-tuesday-on-water-issue/"
     }
    ],
    "by": "groq",
