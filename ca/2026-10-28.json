@@ -99,6 +99,81 @@
    "by": "groq"
   },
   {
+   "category": "gujarat",
+   "title_en": "Chief Minister launches over ₹500 crore health projects",
+   "title_gu": "મુખ્યમંત્રી દ્વારા ૫૦૦ કરોડથી વધુ આરોગ્ય પ્રોજેક્ટ્સનું લોન્ચિંગ",
+   "summary_en": "The Gujarat chief minister started health projects worth more than ₹500 crore and laid the foundation of a ₹223 crore neuroscience institute.",
+   "summary_gu": "ગુજરાતના મુખ્યમંત્રી ૫૦૦ કરોડથી વધુ મૂલ્યનાં આરોગ્ય પ્રોજેક્ટ્સ શરૂ કર્યા અને ૨૨૩ કરોડની ન્યુરૉસાઇન્સ ઇન્સ્ટિટ્યુટની પાયો મૂકી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Chief Minister Bhupendra Patel",
+     "v_gu": "મુખ્યમંત્રી ભુપેન્દ્ર પટેલ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Launched healthcare projects over ₹500 crore",
+     "v_gu": "૫૦૦ કરોડથી વધુ આરોગ્ય પ્રોજેક્ટ્સનું લોન્ચિંગ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Foundation laid for ₹223 crore Neuroscience Institute",
+     "v_gu": "૨૨૩ કરોડની ન્યુરૉસાઇન્સ ઇન્સ્ટિટ્યુટની પાયો મૂકી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat, India",
+     "v_gu": "ગુજરાત, ભારત"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "CM Patel launched ₹500 cr health projects and a ₹223 cr institute.",
+   "remember_gu": "મુખ્યમંત્રી પટેલે ૫૦૦ ક્રોર આરોગ્ય પ્રોજેક્ટ્સ અને ૨૨૩ ક્રોર ઇન્સ્ટિટ્યુટ લોન્ચ કર્યું.",
+   "why_en": "Shows government's health investment scale for exam.",
+   "why_gu": "પરીક્ષામાં સરકારની આરોગ્ય રોકાણની સ્તર બતાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How much is the neuroscience institute worth that the Gujarat chief minister inaugurated?",
+    "q_gu": "ગુજરાતના મુખ્યમંત્રી દ્વારા પાયો મૂકાયેલ ન્યુરૉસાઇન્સ ઇન્સ્ટિટ્યુટનું મૂલ્ય કેટલું છે?",
+    "o_en": [
+     "₹100 crore",
+     "₹150 crore",
+     "₹223 crore",
+     "₹300 crore"
+    ],
+    "o_gu": [
+     "₹૧૦૦ કરોડ",
+     "₹૧૫૦ કરોડ",
+     "₹૨૨૩ કરોડ",
+     "₹૩૦૦ કરોડ"
+    ],
+    "a": 2,
+    "e_en": "The institute was valued at ₹223 crore.",
+    "e_gu": "ઇન્સ્ટિટ્યુટનું મૂલ્ય ₹૨૨૩ કરોડ હતું."
+   },
+   "id": "ca-chief-minister-launches-over-500-crore-health-projects",
+   "source": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-launches-healthcare-projects-500-crore-neuroscience-institute",
+   "exam": {
+    "score": 8,
+    "why": "₹500 Cr health projects, major state investment"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-launches-healthcare-projects-500-crore-neuroscience-institute"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "environment",
    "title_en": "India ranks among top nations for heatwave exposure of infants and elders",
    "title_gu": "ભારતમાં શિશુઓ અને વૃદ્ધો માટે તાપમાપી પ્રભાવમાં ટોચની સ્થિતિ",
@@ -701,6 +776,99 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://theblunttimes.in/gujarat-banaskantha-centre-to-multiply-elite-cattle-genetics-target-25000-embryos-annually/75840/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "international",
+   "title_en": "India and Mexico sign terms to start trade talks",
+   "title_gu": "ભારત અને મેક્સિકો વેપાર ચર્ચા માટે શરતો પર હસ્તાક્ષર કરે",
+   "summary_en": "India and Mexico signed a Terms of Reference in Mexico to begin negotiations for a preferential trade agreement.",
+   "summary_gu": "ભારત અને મેક્સિકોએ મેક્સિકોમાં શરતો પર હસ્તાક્ષર કરીને પ્રીફરન્શિયલ ટ્રેડ એગ્રીમેન્ટની ચર્ચા શરૂ કરી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Terms of Reference for Preferential Trade Agreement negotiations",
+     "v_gu": "પ્રીફરન્શિયલ ટ્રેડ એગ્રીમેન્ટ ચર્ચા માટેની શરતો"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Mexico",
+     "v_gu": "મેક્સિકો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Wednesday (date not specified)",
+     "v_gu": "બુધવાર (તારીખ નિર્ધારિત નથી)"
+    },
+    {
+     "k_en": "Indian representative",
+     "k_gu": "ભારતીય પ્રતિનિધિ",
+     "v_en": "Commerce Secretary Rajesh Agrawal",
+     "v_gu": "વાણિજ્ય સચિવ રાજેશ અગ્રવાલ"
+    },
+    {
+     "k_en": "Mexican representative",
+     "k_gu": "મેકસિકન પ્રતિનિધિ",
+     "v_en": "Undersecretary of Foreign Trade Luis Rosendo Gutiérrez Romano",
+     "v_gu": "વિદેશી વેપાર ઉપમંત્રાલય અધિકારી લુઇસ રોસેન્ડો ગુટિએરેઝ રોમાનો"
+    }
+   ],
+   "points_en": [
+    "The ToR sets the framework, scope and roadmap for talks.",
+    "Key areas include market access, rules of origin and customs procedures.",
+    "A Mexican business mission to India may be organised in early 2027."
+   ],
+   "points_gu": [
+    "શરતો ચર્ચા માટેનું માળખું, વ્યાપ અને માર્ગનકશો નક્કી કરે છે.",
+    "મુખ્ય ક્ષેત્રોમાં બજાર પ્રવેશ, મૂળ નિયમો અને કસ્ટમ પ્રક્રિયાઓ સામેલ છે.",
+    "મેકસિકન વ્યવસાય મિશન 2027ની પ્રથમ ત્રિમાસમાં ભારતમાં યોજાઈ શકે."
+   ],
+   "context_en": "A Preferential Trade Agreement (PTA) is a pact that gives lower tariffs between two countries.",
+   "context_gu": "પ્રીફરન્શિયલ ટ્રેડ એગ્રીમેન્ટ (PTA) એ બે દેશો વચ્ચે કમી કરવાળા શુલ્કો આપતું કરાર છે.",
+   "remember_en": "India‑Mexico ToR signed by Rajesh Agrawal and Luis Rosendo Gutiérrez Romano.",
+   "remember_gu": "ભારત‑મેક્સિકો શરતો રાજેશ અગ્રવાલ અને લુઇસ રોસેન્ડો ગુટિએરેઝ રોમાનો દ્વારા હસ્તાક્ષર.",
+   "why_en": "Shows India's push to expand trade with Latin America.",
+   "why_gu": "લેટિન અમેરિકા સાથે વેપાર વિસ્તરણ માટે ભારતની કોશિશ દર્શાવે છે.",
+   "details_en": "On a Wednesday in Mexico, India and Mexico signed a Terms of Reference (ToR) that will launch negotiations for a Preferential Trade Agreement. The Indian side was led by Commerce Secretary Rajesh Agrawal, while Mexico was represented by Undersecretary of Foreign Trade Luis Rosendo Gutiérrez Romano, acting for Economy Secretary Marcelo Ebrard Casaubon. The ToR outlines the negotiation framework, covering market access, rules of origin, customs procedures, trade remedies and other technical issues. Both sides also discussed a possible Mexican business mission to India in the first quarter of 2027 to explore commercial opportunities.",
+   "details_gu": "મેકસિકોમાં બુધવારે ભારત અને મેક્સિકોએ પ્રીફરન્શિયલ ટ્રેડ એગ્રીમેન્ટ માટેની ચર્ચા શરૂ કરવા શરતો (ToR) પર હસ્તાક્ષર કર્યા. ભારતીય પક્ષનું નેતૃત્વ વાણિજ્ય સચિવ રાજેશ અગ્રવાલ કરે છે, જ્યારે મેક્સિકોનું પ્રતિનિધિત્વ વિદેશી વેપાર ઉપમંત્રાલય અધિકારી લુઇસ રોસેન્ડો ગુટિએરેઝ રોમાનો કરે છે, જે અર્થવ્યવસ્થા સચિવ માર્કેલો એબ્રાર્ડ કાસાઉબોન માટે કામ કરે છે. શરતોમાં બજાર પ્રવેશ, મૂળ નિયમો, કસ્ટમ પ્રક્રિયાઓ, વેપાર ઉપાય અને અન્ય તકનીકી મુદ્દાઓનો સમાવેશ થાય છે. બંને પક્ષો 2027ની પ્રથમ ત્રિમાસમાં ભારત માટે મેક્સિકન વ્યવસાય મિશનની શક્યતા પર પણ ચર્ચા કરે છે.",
+   "mcq": {
+    "q_en": "Who represented India in signing the ToR with Mexico?",
+    "q_gu": "મેકસિકો સાથે શરતો પર હસ્તાક્ષર કરતી વખતે ભારતનું પ્રતિનિધિત્વ કોણ કરે છે?",
+    "o_en": [
+     "Commerce Secretary Rajesh Agrawal",
+     "Foreign Minister S. Jaishankar",
+     "Prime Minister Narendra Modi",
+     "Trade Minister Piyush Goyal"
+    ],
+    "o_gu": [
+     "વાણિજ્ય સચિવ રાજેશ અગ્રવાલ",
+     "વિદેશ મંત્રી એસ. જયશંકર",
+     "પ્રધાનમંત્રી નરેન્દ્ર મોદી",
+     "વાણિજ્ય મંત્રી પિયુષ ગોયલ"
+    ],
+    "a": 0,
+    "e_en": "The Indian side was led by Commerce Secretary Rajesh Agrawal.",
+    "e_gu": "ભારતીય પક્ષનું નેતૃત્વ વાણિજ્ય સચિવ રાજેશ અગ્રવાલ કરે છે."
+   },
+   "id": "ca-india-and-mexico-sign-terms-to-start-trade-talks",
+   "source": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
+   "exam": {
+    "score": 6,
+    "why": "India‑Mexico trade talks, potential agreement"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece"
+    },
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/india-mexico-pta-negotiations-trade-agreement-terms-reference-126102801014_1.html"
     }
    ],
    "by": "groq"
