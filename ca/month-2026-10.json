@@ -13998,6 +13998,256 @@
    ],
    "by": "groq",
    "date": "2026-10-28"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat Announces Drought Relief Assistance for Farmers in Four Districts",
+   "title_gu": "ગુજરાત સરકારે ચાર જિલ્લાના ખેડૂતો માટે દુષ્કાળ સહાય જાહેર કરી",
+   "summary_en": "The Gujarat government announced financial assistance for drought-affected farmers in four districts. Eligible farmers will receive **₹8,500 per hectare** up to a two-hectare limit.",
+   "summary_gu": "ગુજરાત સરકારે ચાર જિલ્લાના દુષ્કાળગ્રસ્ત ખેડૂતો માટે નાણાકીય સહાય જાહેર કરી છે. પાત્ર ખેડૂતોને બે હેક્ટરની મર્યાદામાં **હેક્ટર દીઠ ₹8,500** મળશે.",
+   "facts": [
+    {
+     "k_en": "Assistance Amount",
+     "k_gu": "સહાયની રકમ",
+     "v_en": "**₹8,500 per hectare**",
+     "v_gu": "**હેક્ટર દીઠ ₹8,500**"
+    },
+    {
+     "k_en": "Maximum Limit",
+     "k_gu": "મહત્તમ મર્યાદા",
+     "v_en": "**₹17,000** (up to **2 hectares**)",
+     "v_gu": "**₹17,000** (**2 હેક્ટર** ની મર્યાદામાં)"
+    },
+    {
+     "k_en": "Covered Districts",
+     "k_gu": "સમાવિષ્ટ જિલ્લાઓ",
+     "v_en": "**4 districts**",
+     "v_gu": "**4 જિલ્લાઓ**"
+    }
+   ],
+   "points_en": [
+    "The four beneficiary districts include **Devbhumi Dwarka**, **Jamnagar**, **Porbandar**, and **Kutch**.",
+    "The state previously identified **108 drought-affected talukas**."
+   ],
+   "points_gu": [
+    "સહાય મેળવનાર ચાર જિલ્લામાં **દેવભૂમિ દ્વારકા**, **જામનગર**, **પોરબંદર** અને **કચ્છ** સામેલ છે.",
+    "રાજ્યમાં અગાઉ **108 દુષ્કાળગ્રસ્ત તાલુકાઓ** નોંધાયા હતા."
+   ],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "Gujarat grants ₹8,500 per hectare drought assistance up to two hectares.",
+   "remember_gu": "ગુજરાત સરકારે ખેડૂતો માટે હેક્ટર દીઠ ₹8,500 દુષ્કાળ સહાય જાહેર કરી.",
+   "why_en": "Tests knowledge of Gujarat government disaster relief and agricultural assistance packages.",
+   "why_gu": "ગુજરાત સરકારની આપત્તિ રાહત અને કૃષિ સહાયને લગતા પ્રશ્નો માટે ઉપયોગી.",
+   "details_en": "The Gujarat government announced drought relief assistance for farmers across four districts. The covered regions include **Devbhumi Dwarka**, **Jamnagar**, **Porbandar**, and **Kutch**. Under this relief measure, eligible cultivators receive **₹8,500 per hectare**. The total financial assistance is capped at **₹17,000** for up to **two hectares**. Reports identify **108 drought-affected talukas** across the state.",
+   "details_gu": "ગુજરાત સરકારે ચાર જિલ્લાના ખેડૂતો માટે દુષ્કાળ રાહત સહાયની જાહેરાત કરી છે. આ જિલ્લાઓમાં **દેવભૂમિ દ્વારકા**, **જામનગર**, **પોરબંદર** અને **કચ્છ** નો સમાવેશ થાય છે. આ યોજના હેઠળ ખેડૂતોને **હેક્ટર દીઠ ₹8,500** ની સહાય આપવામાં આવશે. આ સહાય વધુમાં વધુ **બે હેક્ટર** માટે એટલે કે **₹17,000** સુધી મળવાપાત્ર છે. રાજ્યમાં કુલ **108 તાલુકાઓ** દુષ્કાળગ્રસ્ત જાહેર કરાયેલા છે.",
+   "mcq": {
+    "q_en": "How much drought assistance per hectare has the Gujarat government announced for affected farmers?",
+    "q_gu": "ગુજરાત સરકારે અસરગ્રસ્ત ખેડૂતો માટે હેક્ટર દીઠ કેટલી દુષ્કાળ સહાય જાહેર કરી છે?",
+    "o_en": [
+     "₹5,000",
+     "₹8,500",
+     "₹17,000",
+     "₹22,000"
+    ],
+    "o_gu": [
+     "₹5,000",
+     "₹8,500",
+     "₹17,000",
+     "₹22,000"
+    ],
+    "a": 1,
+    "e_en": "The government announced drought assistance of ₹8,500 per hectare up to a limit of two hectares.",
+    "e_gu": "સરકારે બે હેક્ટરની મર્યાદામાં હેક્ટર દીઠ ₹8,500 ની દુષ્કાળ સહાય જાહેર કરી છે."
+   },
+   "id": "ca-gujarat-announces-drought-relief-assistance-for-farmers-in-f",
+   "source": "https://aamaadmiparty.org/aap-news/by-providing-just-%E2%82%B917000-in-only-four-districts-out-of-108-drought-affected-talukas-the-gujarat-government-has-mocked-5-4-million-farmers/",
+   "exam": {
+    "score": 6,
+    "why": "Drought aid disparity, farmer impact"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://aamaadmiparty.org/aap-news/by-providing-just-%E2%82%B917000-in-only-four-districts-out-of-108-drought-affected-talukas-the-gujarat-government-has-mocked-5-4-million-farmers/"
+    }
+   ],
+   "by": "gemini",
+   "date": "2026-10-28"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat to drop NA permission for town planning and industrial plots",
+   "title_gu": "ગુજરાતમાં ટાઉન પ્લાનિંગ અને ઔદ્યોગિક પ્લોટ માટે એનએ પરવાનગી દૂર",
+   "summary_en": "The Gujarat government plans to remove mandatory Non‑Agricultural permission for plots in town‑planning areas and notified industrial zones before the Vibrant Gujarat Global Summit 2027.",
+   "summary_gu": "ગુજરાત સરકાર ટાઉન પ્લાનિંગ અને ઔદ્યોગિક ઝોનમાં પ્લોટ માટેની ફરજિયાત નોન‑એગ્રીકલ્ચરલ પરવાનગીને 2027 ના વાયબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં દૂર કરવાની યોજના બનાવી રહી છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "scrap mandatory Non‑Agricultural permission",
+     "v_gu": "ફરજિયાત નોન‑એગ્રીકલ્ચરલ પરવાનગી દૂર કરવી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Town Planning areas and notified industrial zones, Gujarat",
+     "v_gu": "ટાઉન પ્લાનિંગ ક્ષેત્રો અને સૂચિત ઔદ્યોગિક ઝોન, ગુજરાત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "before January 2027 Vibrant Gujarat Global Summit",
+     "v_gu": "જાન્યુઆરી 2027 ના વાયબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat state government",
+     "v_gu": "ગુજરાત રાજ્ય સરકાર"
+    },
+    {
+     "k_en": "Exclusion",
+     "k_gu": "બહાર",
+     "v_en": "Agricultural land remains subject to NA permission",
+     "v_gu": "કૃષિ જમીન માટે એનએ પરવાનગી જ રહેશે"
+    }
+   ],
+   "points_en": [
+    "The move aims to speed up industrial and real‑estate projects.",
+    "Legal and revenue issues will be examined before finalising.",
+    "Land under tenancy disputes may not qualify for exemption."
+   ],
+   "points_gu": [
+    "આ પગલાં ઔદ્યોગિક અને રિયલ‑એસ્ટેટ પ્રોજેક્ટ્સને ઝડપી બનાવશે.",
+    "કાનૂની અને આવક સંબંધિત મુદ્દાઓ અંતિમ નિર્ણય પહેલાં તપાસવામાં આવશે.",
+    "ટેનેન્સી વિવાદિત જમીન માટે મુક્તિ ન મળી શકે."
+   ],
+   "context_en": "Non‑Agricultural (NA) permission is a land‑use clearance required for non‑farm projects in Gujarat.",
+   "context_gu": "નોન‑એગ્રીકલ્ચરલ (એનએ) પરવાનગી ગુજરાતમાં કૃષિ સિવાયની પ્રોજેક્ટ્સ માટે જરૂરી જમીન ઉપયોગ મંજૂરી છે.",
+   "remember_en": "NA permission removal targets TP and industrial zones before Jan 2027.",
+   "remember_gu": "એનએ પરવાનગી દૂર કરવું ટિપીએ અને ઔદ્યોગિક ઝોન માટે જાન્યુઆરી 2027 પહેલાં.",
+   "why_en": "Exam may ask about new land‑use policy and its implementation timeline.",
+   "why_gu": "પરીક્ષામાં નવી જમીન‑ઉપયોગ નીતિ અને સમયસીમા વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Gujarat government is planning to eliminate the mandatory Non‑Agricultural permission for plots located in Town Planning areas and notified industrial zones. The change is intended to cut bureaucratic delays and speed up industrial, commercial and real‑estate projects. Agricultural land will still need the permission, and lands involved in tenancy or revenue disputes may be excluded. The government expects to finalize the policy before the Vibrant Gujarat Global Summit scheduled for January 2027, after reviewing legal and revenue implications.",
+   "details_gu": "ગુજરાત સરકાર ટાઉન પ્લાનિંગ ક્ષેત્રો અને સૂચિત ઔદ્યોગિક ઝોનમાં આવેલા પ્લોટ માટે ફરજિયાત નોન‑એગ્રીકલ્ચરલ પરવાનગી દૂર કરવાની યોજના બનાવી રહી છે. આ પગલાં બ્યુરોક્રેટિક વિલંબ ઘટાડીને ઔદ્યોગિક, વ્યાપારી અને રિયલ‑એસ્ટેટ પ્રોજેક્ટ્સને ઝડપી બનાવશે. કૃષિ જમીન માટે પરવાનગી જ રહેશે, અને ટેનેન્સી અથવા આવક સંબંધિત વિવાદિત જમીન માટે મુક્તિ ન મળી શકે. સરકાર આ નીતિને જાન્યુઆરી 2027 ના વાયબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં અંતિમ રૂપ આપશે, કાનૂની અને આવક સંબંધિત મુદ્દાઓની સમીક્ષા કર્યા બાદ.",
+   "mcq": {
+    "q_en": "When does Gujarat plan to implement the removal of NA permission for TP and industrial plots?",
+    "q_gu": "ગુજરાત ક્યારે ટાઉન પ્લાનિંગ અને ઔદ્યોગિક પ્લોટ માટેની એનએ પરવાનગી દૂર કરવાની યોજના અમલમાં મૂકે છે?",
+    "o_en": [
+     "Before January 2027 Vibrant Gujarat Global Summit",
+     "After the 2028 state elections",
+     "From July 2026 onward",
+     "Only for agricultural land"
+    ],
+    "o_gu": [
+     "જાન્યુઆરી 2027 ના વાયબ્રન્ટ ગુજરાત ગ્લોબલ સમિટ પહેલાં",
+     "2028 રાજ્ય ચૂંટણી પછી",
+     "જુલાઈ 2026 થી શરૂ",
+     "માત્ર કૃષિ જમીન માટે"
+    ],
+    "a": 0,
+    "e_en": "The policy is targeted to be in place before the January 2027 summit.",
+    "e_gu": "આ નીતિ જાન્યુઆરી 2027 ના સમિટ પહેલાં અમલમાં મૂકવાની છે."
+   },
+   "id": "ca-gujarat-to-drop-na-permission-for-town-planning-and-industri",
+   "source": "https://www.ahmedabadmirror.com/guj-plans-to-scrap-na-permission-for-tp-industrial-plots/81924697.html",
+   "exam": {
+    "score": 6,
+    "why": "NA permission scrap, land policy"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.ahmedabadmirror.com/guj-plans-to-scrap-na-permission-for-tp-industrial-plots/81924697.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-28"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat makes land measurement on government property free",
+   "title_gu": "ગુજરાતમાં સરકારી જમીન માપણી મફત",
+   "summary_en": "The Gujarat Revenue Department issued a circular on 26 October saying all surveys of government land and public roads will be done without any fee.",
+   "summary_gu": "ગુજરાત મહેસૂલ વિભાગે 26 ઓક્ટોબરે પરિપત્રમાં કહ્યું કે સરકારી જમીન અને જાહેર રસ્તાઓની તમામ માપણી હવે કોઈ ફી વગર થશે.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "26 October 2024",
+     "v_gu": "26 ઓક્ટોબર 2024"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat Revenue Department",
+     "v_gu": "ગુજરાત મહેસૂલ વિભાગ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Free measurement of government land and public roads",
+     "v_gu": "સરકારી જમીન અને જાહેર રસ્તાઓની માપણી મફત"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "To stop illegal encroachments and speed up projects",
+     "v_gu": "ગેરકાયદે દબાણો અટકાવવા અને પ્રોજેક્ટ્સ ઝડપી કરવા"
+    }
+   ],
+   "points_en": [
+    "No fee will be collected from Panchayats, municipalities or road‑building departments.",
+    "Survey officers must complete the work quickly without delay.",
+    "Fast demarcation will help demolition and land‑grabbing actions."
+   ],
+   "points_gu": [
+    "પંચાયત, પાલિકા અથવા માર્ગ‑મકાન વિભાગો પાસેથી કોઈ ફી વસૂલાશે નહીં.",
+    "માપણી અધિકારીઓને વિલંબ વગર કામ પૂર્ણ કરવું પડશે.",
+    "ઝડપી સીમા નિર્ધારણથી ડિમોલિશન અને લેન્ડ ગ્રેબિંગમાં સહાય મળશે."
+   ],
+   "context_en": "The Gujarat Revenue Department handles land records and revenue matters for the state.",
+   "context_gu": "ગુજરાત મહેસૂલ વિભાગ રાજ્યની જમીન રેકોર્ડ અને આવક સંબંધિત કામો સંભાળે છે.",
+   "remember_en": "Free land surveys start from 26 Oct 2024 in Gujarat.",
+   "remember_gu": "26 ઓક્ટોબર 2024થી ગુજરાતમાં જમીન માપણી મફત.",
+   "why_en": "Exam may ask about new revenue‑department policy and its date.",
+   "why_gu": "પરીક્ષામાં નવું મહેસૂલ વિભાગનું નીતિ અને તારીખ પૂછાઈ શકે.",
+   "details_en": "On 26 October 2024 the Gujarat Revenue Department released a circular stating that all surveys to fix boundaries of government-owned land, riverbeds, state highways and public roads will be carried out without any charge. Earlier, a fee had to be paid to the District Land Records Office, causing delays and allowing illegal encroachments to persist. The new order directs survey officers to act promptly and instructs district collectors and taluka officials to give priority to these cases. Faster demarcation is expected to aid demolition actions under the Gujarat Land Grabbing Act and speed up road‑expansion, bridge construction and town‑planning projects.",
+   "details_gu": "26 ઓક્ટોબર 2024એ ગુજરાત મહેસૂલ વિભાગે પરિપત્ર જારી કરીને કહ્યું કે રાજ્યની માલિકીની જમીન, નદી‑નાળાના પટ, સ્ટેટ હાઈવે અને જાહેર રસ્તાઓની સીમા નક્કી કરવા માટેની તમામ માપણી હવે કોઈ ફી વગર કરવામાં આવશે. અગાઉ જમીન રેકોર્ડ કચેરીમાં ફી ભરવી પડતી, જેના કારણે કામમાં વિલંબ અને ગેરકાયદે દબાણો ચાલુ રહેતા. નવા આદેશમાં માપણી અધિકારીઓને તાત્કાલિક કામ પૂર્ણ કરવા અને જિલ્લા કલેક્ટરો તથા તાલુકા અધિકારીઓને પ્રાથમિકતા આપવા કહ્યું છે. ઝડપી સીમા નિર્ધારણથી લેન્ડ ગ્રેબિંગ અધિનિયમ હેઠળ ડિમોલિશન અને માર્ગ વિસ્તરણ, પુલ નિર્માણ, ટાઉન પ્લાનિંગ પ્રોજેક્ટ્સમાં ઝડપ આવશે.",
+   "mcq": {
+    "q_en": "When did Gujarat announce that land measurement on government property will be free?",
+    "q_gu": "ગુજરાતે ક્યારે જાહેર કર્યું કે સરકારી જમીનની માપણી મફત રહેશે?",
+    "o_en": [
+     "1 July 2024",
+     "15 August 2024",
+     "26 October 2024",
+     "5 December 2024"
+    ],
+    "o_gu": [
+     "1 જુલાઈ 2024",
+     "15 ઓગસ્ટ 2024",
+     "26 ઓક્ટોબર 2024",
+     "5 ડિસેમ્બર 2024"
+    ],
+    "a": 2,
+    "e_en": "The circular was issued on 26 October 2024.",
+    "e_gu": "પરિપત્ર 26 ઓક્ટોબર 2024ને જારી થયો હતો."
+   },
+   "id": "ca-gujarat-makes-land-measurement-on-government-property-free",
+   "source": "https://www.gujaratfirst.com/gandhinagar/gujarat-revenue-department-free-land-survey-government-land-encroachment-circular/349478/",
+   "exam": {
+    "score": 6,
+    "why": "Free land survey, major admin move"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratfirst.com/gandhinagar/gujarat-revenue-department-free-land-survey-government-land-encroachment-circular/349478/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-10-28"
   }
  ]
 }
