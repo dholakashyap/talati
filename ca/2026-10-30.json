@@ -1,0 +1,379 @@
+{
+ "date": "2026-10-30",
+ "items": [
+  {
+   "category": "science",
+   "title_en": "ISRO to launch NVS-03 satellite on 30 Oct 2026",
+   "title_gu": "ઇસરો ૩૦ ઓક્ટોબર ૨૦૨૬એ એનવીએસ-૦૩ સેટેલાઇટ લોન્ચ કરશે",
+   "summary_en": "The Indian Space Research Organisation will launch the NVS-03 satellite on 30 Oct 2026 to revive NavIC navigation.",
+   "summary_gu": "ભારતીય અવકાશ સંશોધન સંગઠન ૩૦ ઓક્ટોબર ૨૦૨૬એ એનવીએસ-૦૩ સેટેલાઇટ લોન્ચ કરશે, જેથી નાવિક નેવિગેશન સિસ્ટમ પુનઃસ્થાપિત થાય.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**NVS-03** navigation satellite",
+     "v_gu": "**એનવીએસ-૦૩** નેવિગેશન સેટેલાઇટ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**30 Oct 2026**",
+     "v_gu": "**૩૦ ઓક્ટોબર ૨૦૨૬**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Satish Dhawan Space Centre, Sriharikota**",
+     "v_gu": "**સતીશ ધવન સ્પેસ સેન્ટર, શ્રીહરિકોટા**"
+    },
+    {
+     "k_en": "Launch vehicle",
+     "k_gu": "લૉન્ચ વાહન",
+     "v_en": "**GSLV‑F18**",
+     "v_gu": "**જીએસએલવી‑એફ૧૮**"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "Restore **NavIC** system",
+     "v_gu": "**નાવિક** સિસ્ટમ પુનઃસ્થાપિત કરવી"
+    }
+   ],
+   "points_en": [
+    "Launch scheduled at 23:51 IST",
+    "NavIC has faced clock failures",
+    "NVS‑02 could not reach intended orbit"
+   ],
+   "points_gu": [
+    "લૉન્ચ સમય ૨૩:૫૧ IST",
+    "નાવિકમાં ઘડિયાળની ખામી",
+    "એનવીએસ‑૦૨ યોગ્ય કક્ષામાં ન પહોંચી"
+   ],
+   "context_en": "Indian Space Research Organisation (ISRO) is India’s national space agency, headquartered in Bengaluru.",
+   "context_gu": "ભારતીય અવકાશ સંશોધન સંગઠન (ઇસરો) ભારતનું રાષ્ટ્રીય અવકાશ એજન્સી છે, જેનું મુખ્યાલય બેંગલોરમાં છે.",
+   "remember_en": "NVS‑03 launch aims to fix NavIC’s satellite gaps.",
+   "remember_gu": "એનવીએસ‑૦૩ લોન્ચ નાવિકની ખાલી જગ્યાઓ સુધારવા માટે છે.",
+   "why_en": "Exam may ask about NavIC’s status and ISRO’s launch plans.",
+   "why_gu": "પરીક્ષામાં નાવિકની સ્થિતિ અને ઇસરોની લોન્ચ યોજનાઓ વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "ISRO will launch the **NVS-03** satellite on **30 Oct 2026** at **23:51 IST** from **Satish Dhawan Space Centre (SDSC‑SHAR)** in **Sriharikota** using the **GSLV‑F18** rocket. The mission seeks to restore the indigenous **NavIC** navigation system, which has been weakened by repeated failures of onboard atomic clocks and the inability to place the previous replacement **NVS-02** in its intended orbit.",
+   "details_gu": "ઇસરો **૩૦ ઓક્ટોબર ૨૦૨૬**ને **૨૩:૫૧ IST**એ **સતીશ ધવન સ્પેસ સેન્ટર (SDSC‑SHAR)**, **શ્રીહરિકોટા**થી **GSLV‑F18** રૉકેટ દ્વારા **એનવીએસ-૦૩** સેટેલાઇટ લોન્ચ કરશે. આ મિશન ભારતની સ્વદેશી **નાવિક** નેવિગેશન સિસ્ટમને પુનઃસ્થાપિત કરવા માટે છે, કારણ કે અગાઉની સેટેલાઇટોનું ઘડિયાળ નિષ્ફળતા અને **એનવીએસ-૦૨** યોગ્ય કક્ષામાં ન પહોંચવાને કારણે સિસ્ટમ કમજોર થઈ ગઈ હતી.",
+   "mcq": {
+    "q_en": "Which satellite will ISRO launch on 30 Oct 2026 to support NavIC?",
+    "q_gu": "ઇસરો ૩૦ ઓક્ટોબર ૨૦૨૬એ નાવિકને સહાય કરવા કયું સેટેલાઇટ લોન્ચ કરશે?",
+    "o_en": [
+     "NVS-01",
+     "NVS-02",
+     "NVS-03",
+     "GSAT-30"
+    ],
+    "o_gu": [
+     "એનવીએસ-૦૧",
+     "એનવીએસ-૦૨",
+     "એનવીએસ-૦૩",
+     "જીSAT-૩૦"
+    ],
+    "a": 2,
+    "e_en": "The article states ISRO will launch NVS-03.",
+    "e_gu": "લેખમાં ઇસરો એનવીએસ-૦૩ લોન્ચ કરશે એવું જણાવાયું છે."
+   },
+   "id": "ca-isro-to-launch-nvs-03-satellite-on-30-oct-2026",
+   "source": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+   "exam": {
+    "score": 8,
+    "why": "NavIC satellite crucial for navigation"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+    },
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "international",
+   "title_en": "India's External Affairs Minister attends G20 meeting in Atlanta",
+   "title_gu": "ભારતના વિદેશ મંત્રી એટલાન્ટામાં જી20 બેઠકમાં હાજર",
+   "summary_en": "External Affairs Minister S. Jaishankar reached Atlanta on Oct 29 and will join the G20 Foreign Ministers’ meeting on Oct 30, focusing on energy and economic issues.",
+   "summary_gu": "વિદેશ મંત્રી એસ. જયશંકરે ૨૯ ઓક્ટોબરે એટલાન્ટા પહોંચ્યા અને ૩૦ ઓક્ટોબરે જી20 વિદેશ મંત્રીઓની બેઠકમાં ભાગ લેશે, ઊર્જા અને અર્થવ્યવસ્થા પર ચર્ચા થશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "S. Jaishankar",
+     "v_gu": "એસ. જયશંકર"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "External Affairs Minister of India",
+     "v_gu": "ભારતના વિદેશ મંત્રી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Atlanta, United States",
+     "v_gu": "એટલાન્ટા, યુનાઇટેડ સ્ટેટ્સ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Oct 30, 2026 (meeting); arrived Oct 29, 2026",
+     "v_gu": "૩૦ ઓક્ટોબર ૨૦૨૬ (બેઠક); ૨૯ ઓક્ટોબર ૨૦૨૬ પહોંચ્યા"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Energy supply chains and economic growth",
+     "v_gu": "ઊર્જા પુરવઠા શૃંખલાઓ અને આર્થિક વૃદ્ધિ"
+    }
+   ],
+   "points_en": [
+    "Meeting chaired by US Secretary of State Marco Rubio",
+    "Quad foreign ministers will meet on the sidelines",
+    "Jaishankar will travel to Antigua and Barbuda for Commonwealth meeting on Nov 1‑4"
+   ],
+   "points_gu": [
+    "બેઠકનું અધ્યક્ષતા યુ.એસ. સચિવ માર્કો રૂબીો કરે છે",
+    "સાઇડલાઇનમાં ક્વાડ વિદેશ મંત્રીઓની બેઠક થશે",
+    "જયશંકર ૧‑૪ નવેમ્બર એન્ટિગ્વા અને બાર્બુડામાં કોમનવેલ્થ શીર્ષમંત્રીઓની બેઠકમાં જશે"
+   ],
+   "context_en": "The G20 is a forum of major economies that meets annually to discuss global economic issues; the 2026 foreign ministers’ meeting is held in Atlanta, USA.",
+   "context_gu": "જી20 મુખ્ય અર્થવ્યવસ્થાઓનું વૈશ્વિક આર્થિક મંચ છે; ૨૦૨૬નું વિદેશ મંત્રીઓનું સમ્મેલન એટલાન્ટા, યુ.એસ.માં થાય છે.",
+   "remember_en": "Jaishankar attended the G20 foreign ministers’ meeting in Atlanta on Oct 30, 2026.",
+   "remember_gu": "જયશંકરે ૩૦ ઓક્ટોબર ૨૦૨૬એ એટલાન્ટામાં જી20 વિદેશ મંત્રીઓની બેઠકમાં હાજરી આપી.",
+   "why_en": "Exam may ask about India's representation in G20 and related diplomatic events.",
+   "why_gu": "પરીક્ષામાં ભારતની જી20 પ્રતિનિધિત્વ અને કૂટનીતિક ઘટનાઓ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "External Affairs Minister S. Jaishankar arrived in Atlanta late on Thursday, October 29, 2026. He will take part in the two‑day G20 Foreign Ministers’ meeting chaired by US Secretary of State Marco Rubio, starting on Friday, October 30. The agenda includes easing energy supply chains and boosting economic growth. A Quad foreign ministers’ meeting will also be held on the sidelines. After the G20 and Quad sessions, Jaishankar will travel to Antigua and Barbuda for the Commonwealth Heads of Government Meeting scheduled for November 1‑4, 2026.",
+   "details_gu": "વિદેશ મંત્રી એસ. જયશંકરે ગુરુવાર, ૨૯ ઓક્ટોબર ૨૦૨૬એ એટલાન્ટામાં રાત્રે પહોંચ્યા. તેઓ યુ.એસ. સચિવ માર્કો રૂબીોનું અધ્યક્ષતા હેઠળ ૩૦ ઓક્ટોબરથી શરૂ થતી બે દિવસની જી20 વિદેશ મંત્રીઓની બેઠકમાં ભાગ લેશે. એજન્ડામાં ઊર્જા પુરવઠા શૃંખલાઓને સરળ બનાવવી અને આર્થિક વૃદ્ધિ વધારવી છે. ક્વાડ વિદેશ મંત્રીઓની બેઠક પણ સાઇડલાઇનમાં થશે. જી20 અને ક્વાડ સત્રો પછી, જયશંકર ૧‑૪ નવેમ્બર ૨૦૨૬એ એન્ટિગ્વા અને બાર્બુડામાં કોમનવેલ્થ શીર્ષમંત્રીઓની બેઠકમાં હાજરી આપશે.",
+   "mcq": {
+    "q_en": "Which Indian minister attended the G20 Foreign Ministers’ meeting in Atlanta in October 2026?",
+    "q_gu": "કયા ભારતીય મંત્રી એટલાન્ટામાં ૨૦૨૬ ઓક્ટોબરમાં જી20 વિદેશ મંત્રીઓની બેઠકમાં હાજર હતા?",
+    "o_en": [
+     "Finance Minister Nirmala Sitharaman",
+     "External Affairs Minister S. Jaishankar",
+     "Defence Minister Rajnath Singh",
+     "Home Minister Amit Shah"
+    ],
+    "o_gu": [
+     "વિત્ત મંત્રી નિર્મલા સિથારમન",
+     "વિદેશ મંત્રી એસ. જયશંકર",
+     "રક્ષા મંત્રી રાજનાથ સિંહ",
+     "ગૃહ મંત્રી અમિત શાહ"
+    ],
+    "a": 1,
+    "e_en": "S. Jaishankar, the External Affairs Minister, attended the meeting.",
+    "e_gu": "એસ. જયશંકર, વિદેશ મંત્રી, બેઠકમાં હાજર હતા."
+   },
+   "id": "ca-india-s-external-affairs-minister-attends-g20-meeting-in-atl",
+   "source": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece",
+   "exam": {
+    "score": 7,
+    "why": "Jaishankar at G20, foreign policy"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat expands CM Fellowship to 47 fellows and 45 projects",
+   "title_gu": "ગુજરાતે સીએમ ફેલોશિપ 47 ફેલોઝ અને 45 પ્રોજેક્ટ સુધી વિસ્તારી",
+   "summary_en": "The Gujarat government increased the Sardar Patel Good Governance CM Fellowship to 47 fellows and 45 projects, covering many sectors.",
+   "summary_gu": "ગુજરાત સરકાર સાર્દાર પટેલ ગૂડ ગવર્નન્સ સીએમ ફેલોશિપને 47 ફેલોઝ અને 45 પ્રોજેક્ટ સુધી વધારી, વિવિધ ક્ષેત્રો આવરી લે છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Chief Minister Bhupendra Patel",
+     "v_gu": "મુખ્યમંત્રી ભુપેન્દ્ર પટેલ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Sardar Patel Good Governance CM Fellowship expanded",
+     "v_gu": "સાર્દાર પટેલ ગૂડ ગવર્નન્સ સીએમ ફેલોશિપ વિસ્તારી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 29, 2026",
+     "v_gu": "૨૯ ઓક્ટોબર ૨૦૨૬"
+    },
+    {
+     "k_en": "Number of fellows",
+     "k_gu": "ફેલોઝની સંખ્યા",
+     "v_en": "47",
+     "v_gu": "૪૭"
+    },
+    {
+     "k_en": "Number of projects",
+     "k_gu": "પ્રોજેક્ટની સંખ્યા",
+     "v_en": "45",
+     "v_gu": "૪૫"
+    },
+    {
+     "k_en": "Knowledge partner",
+     "k_gu": "જ્ઞાન ભાગીદાર",
+     "v_en": "Indian Institute of Management Ahmedabad (IIM Ahmedabad)",
+     "v_gu": "ઇન્ડિયન ઇન્સ્ટિટ્યુટ ઓફ મેનેજમેન્ટ અમદાવાદ (IIM અમદાવાદ)"
+    }
+   ],
+   "points_en": [
+    "Fellows will work for 1‑2 years inside state administration.",
+    "Projects cover education, health, nutrition, agriculture, urban services and environment.",
+    "AI tools may be used for data analysis, but results are verified manually."
+   ],
+   "points_gu": [
+    "ફેલોઝ ૧‑૨ વર્ષ રાજ્ય પ્રશાસનમાં કામ કરશે.",
+    "પ્રોજેક્ટમાં શિક્ષણ, આરોગ્ય, પોષણ, કૃષિ, શહેરી સેવા અને પર્યાવરણ સામેલ છે.",
+    "AI સાધનો ડેટા વિશ્લેષણ માટે ઉપયોગમાં લેવાશે, પરંતુ પરિણામો હાથથી ચકાસવામાં આવશે."
+   ],
+   "context_en": "The CM Fellowship is a state‑run programme that places young professionals in government departments to research and improve scheme implementation.",
+   "context_gu": "સીએમ ફેલોશિપ રાજ્યનું કાર્યક્રમ છે, જે યુવાન વ્યાવસાયિકોને વિભાગોમાં રાખીને યોજનાઓની અમલવારી સુધારે છે.",
+   "remember_en": "47 fellows, 45 projects, IIM Ahmedabad as partner.",
+   "remember_gu": "૪૭ ફેલોઝ, ૪૫ પ્રોજેક્ટ, IIM અમદાવાદ ભાગીદાર.",
+   "why_en": "Shows Gujarat’s push for research‑based governance and youth involvement.",
+   "why_gu": "ગુજરાતની સંશોધન‑આધારિત શાસન અને યુવાન ભાગીદારીની દિશા દર્શાવે છે.",
+   "details_en": "On 29 October 2026, Gujarat Chief Minister Bhupendra Patel announced that the Sardar Patel Good Governance CM Fellowship Programme will now have 47 fellows instead of 41 and will handle 45 projects rather than 20. The General Administration Department, working under the chief minister, issued the resolution. Indian Institute of Management Ahmedabad remains the knowledge partner and will appoint a senior faculty member to oversee the fellowship. Fellows will spend one to two years in state departments, researching and recommending improvements in sectors such as education, health, nutrition, agriculture, urban administration and environment. Projects include expanding centralised kitchens for the PM POSHAN midday‑meal scheme, studying PMJAY‑MA health‑insurance claims, and improving waste‑recycling in Bhavnagar. AI tools may help analyse data, but all outputs will be verified against original documents.",
+   "details_gu": "૨૯ ઓક્ટોબર ૨૦૨૬ ના રોજ, ગુજરાત મુખ્યમંત્રી ભુપેન્દ્ર પટેલે જાહેરાત કરી કે સાર્દાર પટેલ ગૂડ ગવર્નન્સ સીએમ ફેલોશિપ પ્રોગ્રામમાં હવે ૪૧ની બદલે ૪૭ ફેલોઝ અને ૨૦ની બદલે ૪૫ પ્રોજેક્ટ હશે. મુખ્યમંત્રીની સીધી દેખરેખ હેઠળ જનરલ એડમિનિસ્ટ્રેશન ડિપાર્ટમેન્ટે આ નિર્ણય જાહેર કર્યો. ભારતીય ઇન્સ્ટિટ્યુટ ઓફ મેનેજમેન્ટ અમદાવાદ (IIM અમદાવાદ) જ્ઞાન ભાગીદાર તરીકે ચાલુ રહેશે અને એક સિનિયર ફેકલ્ટી સભ્યને નિમશે. ફેલોઝ ૧‑૨ વર્ષ રાજ્ય વિભાગોમાં કામ કરશે, શિક્ષણ, આરોગ્ય, પોષણ, કૃષિ, શહેરી પ્રશાસન અને પર્યાવરણ જેવા ક્ષેત્રોમાં સુધારા માટે સંશોધન અને ભલામણો કરશે. પ્રોજેક્ટમાં PM POSHAN મધ્યાહ્ન ભોજન યોજના માટે કેન્દ્રિય રસોડાઓનું વિસ્તરણ, PMJAY‑MA આરોગ્ય વીમા દાવાઓનું અભ્યાસ અને ભવનગરમાં કચરા પુનઃપ્રક્રિયા સુધારણા સામેલ છે. AI સાધનો ડેટા વિશ્લેષણમાં મદદ કરશે, પરંતુ બધા પરિણામો મૂળ દસ્તાવેજો સામે ચકાસવામાં આવશે.",
+   "mcq": {
+    "q_en": "How many fellows and projects does the expanded Gujarat CM Fellowship have?",
+    "q_gu": "વિસ્તૃત ગુજરાત સીએમ ફેલોશિપમાં કેટલા ફેલોઝ અને પ્રોજેક્ટ છે?",
+    "o_en": [
+     "41 fellows, 20 projects",
+     "47 fellows, 45 projects",
+     "50 fellows, 30 projects",
+     "45 fellows, 47 projects"
+    ],
+    "o_gu": [
+     "૪૧ ફેલોઝ, ૨૦ પ્રોજેક્ટ",
+     "૪૭ ફેલોઝ, ૪૫ પ્રોજેક્ટ",
+     "૫૦ ફેલોઝ, ૩૦ પ્રોજેક્ટ",
+     "૪૫ ફેલોઝ, ૪૭ પ્રોજેક્ટ"
+    ],
+    "a": 1,
+    "e_en": "The announcement states 47 fellows and 45 projects.",
+    "e_gu": "જાહેરાતમાં ૪૭ ફેલોઝ અને ૪૫ પ્રોજેક્ટ જણાવવામાં આવ્યા છે."
+   },
+   "id": "ca-gujarat-expands-cm-fellowship-to-47-fellows-and-45-projects",
+   "source": "https://thenewsmill.com/2026/10/gujarat-government-expands-cm-fellowship-with-47-fellows-45-projects/",
+   "exam": {
+    "score": 6,
+    "why": "CM fellowship expansion, youth scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://thenewsmill.com/2026/10/gujarat-government-expands-cm-fellowship-with-47-fellows-45-projects/"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://urbanacres.in/gujarat-cm-fellowship-expands-putting-governance-delivery-to-the-test/"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.aninews.in/news/national/general-news/gujarat-expands-cm-fellowship-programme-increases-fellows-to-47-and-projects-to-4520261029142504"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Government launches SEED scheme for DNT communities",
+   "title_gu": "સરકારે ડીએનટી સમુદાયો માટે SEED યોજના શરૂ કરી",
+   "summary_en": "The Union Ministry of Social Justice and Empowerment started the SEED scheme on 16 Feb 2022 with ₹200 crore to empower Denotified, Nomadic and Semi‑Nomadic groups.",
+   "summary_gu": "સામાજિક ન્યાય અને સશક્તિકરણ મંત્રાલયએ 16 ફેબ્રુઆરી 2022ને ડીએનટી સમુદાયો માટે SEED યોજના શરૂ કરી, બજેટ ₹200 કરોડ.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Scheme for Economic Empowerment of DNTs (SEED)",
+     "v_gu": "SEED યોજના – ડીએનટી માટે આર્થિક સશક્તિકરણ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "16 February 2022",
+     "v_gu": "16 ફેબ્રુઆરી 2022"
+    },
+    {
+     "k_en": "Budget",
+     "k_gu": "રકમ",
+     "v_en": "₹200 crore for five years",
+     "v_gu": "૫ વર્ષ માટે ₹૨૦૦ કરોડ"
+    },
+    {
+     "k_en": "Target groups",
+     "k_gu": "લક્ષિત સમુદાયો",
+     "v_en": "Denotified, Nomadic and Semi‑Nomadic communities",
+     "v_gu": "ડિનોટિફાઇડ, નૉમેડિક અને સેમી‑નૉમેડિક સમુદાયો"
+    },
+    {
+     "k_en": "Ministry",
+     "k_gu": "મંત્રાલય",
+     "v_en": "Ministry of Social Justice and Empowerment",
+     "v_gu": "મંત્રાલય ઓફ સોશિયલ જસ્ટિસ એન્ડ એમ્પાવર્મેન્ટ"
+    }
+   ],
+   "points_en": [
+    "Provides free coaching, health insurance, livelihood and housing support.",
+    "Works through district help desks and local self‑help groups.",
+    "Monitoring includes education attendance, business activity and house completion."
+   ],
+   "points_gu": [
+    "મફત કોચિંગ, આરોગ્ય વીમા, રોજગારી અને રહેણાંક સહાય આપે છે.",
+    "જિલ્લા હેલ્પ ડેસ્ક અને સ્થાનિક સ્વયંસહાય જૂથો દ્વારા કામ કરે છે.",
+    "મોનિટરિંગમાં શિક્ષણ હાજરી, વ્યવસાયિક પ્રવૃત્તિ અને ઘર પૂર્ણતા શામેલ છે."
+   ],
+   "context_en": "The Ministry of Social Justice and Empowerment implements welfare schemes for socially disadvantaged groups and is headquartered in New Delhi.",
+   "context_gu": "મંત્રાલય ઓફ સોશિયલ જસ્ટિસ એન્ડ એમ્પાવર્મેન્ટ સામાજિક રીતે પછડાયેલા જૂથો માટે કલ્યાણ યોજનાઓ અમલમાં મૂકે છે, મુખ્યાલય ન્યૂ દિલ્હી માં છે.",
+   "remember_en": "SEED started 16 Feb 2022 with ₹200 crore for DNT empowerment.",
+   "remember_gu": "SEED 16 ફેબ્રુઆરી 2022ને ₹200 કરોડ સાથે DNT સશક્તિકરણ માટે શરૂ થયું.",
+   "why_en": "Exam may ask about scheme name, launch date, budget and target communities.",
+   "why_gu": "પરીક્ષામાં યોજના નામ, શરૂ તારીખ, બજેટ અને લક્ષિત સમુદાયો વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Union Ministry of Social Justice and Empowerment launched the Scheme for Economic Empowerment of Denotified, Nomadic and Semi‑Nomadic Communities (SEED) on 16 February 2022. It allocated ₹200 crore for a five‑year period to provide free coaching, health insurance under Ayushman Bharat, livelihood activities and housing assistance. Implementation involves district help desks, partnerships with government colleges and strengthening self‑help groups with business training. Monitoring tracks education attendance, exam results, active enterprises and house construction progress to ensure benefits reach the intended families.",
+   "details_gu": "સામાજિક ન્યાય અને સશક્તિકરણ મંત્રાલયએ 16 ફેબ્રુઆરી 2022ને ડિનોટિફાઇડ, નૉમેડિક અને સેમી‑નૉમેડિક સમુદાયો માટે આર્થિક સશક્તિકરણ યોજના (SEED) શરૂ કરી. પાંચ વર્ષ માટે ₹200 કરોડનું બજેટ નિર્ધારિત કર્યું. યોજના મફત કોચિંગ, આયુષ્માન ભારત હેઠળ આરોગ્ય વીમા, રોજગારી પ્રવૃત્તિઓ અને રહેણાંક સહાય આપે છે. અમલ માટે જિલ્લો હેલ્પ ડેસ્ક, સરકારી કોલેજો સાથે ભાગીદારી અને સ્વયંસહાય જૂથોને વ્યવસાય તાલીમ દ્વારા મજબૂત બનાવવામાં આવે છે. મોનિટરિંગમાં શિક્ષણ હાજરી, પરીક્ષા પરિણામો, સક્રિય વ્યવસાયો અને ઘર નિર્માણની પ્રગતિ શામેલ છે, જેથી લાભો યોગ્ય પરિવારો સુધી પહોંચે.",
+   "mcq": {
+    "q_en": "When was the SEED scheme for Denotified, Nomadic and Semi‑Nomadic communities launched?",
+    "q_gu": "ડિનોટિફાઇડ, નૉમેડિક અને સેમી‑નૉમેડિક સમુદાયો માટે SEED યોજના ક્યારે શરૂ થઈ?",
+    "o_en": [
+     "16 February 2022",
+     "1 January 2021",
+     "31 December 2022",
+     "15 August 2020"
+    ],
+    "o_gu": [
+     "16 ફેબ્રુઆરી 2022",
+     "1 જાન્યુઆરી 2021",
+     "31 ડિસેમ્બર 2022",
+     "15 ઑગસ્ટ 2020"
+    ],
+    "a": 0,
+    "e_en": "The scheme was launched on 16 February 2022.",
+    "e_gu": "યોજનાની શરૂઆત 16 ફેબ્રુઆરી 2022ને થઈ હતી."
+   },
+   "id": "ca-government-launches-seed-scheme-for-dnt-communities",
+   "source": "https://www.impriindia.com/insights/seedscheme2022denotifynomadicseminoma/",
+   "exam": {
+    "score": 6,
+    "why": "SEED scheme for marginalized communities"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.impriindia.com/insights/seedscheme2022denotifynomadicseminoma/"
+    }
+   ],
+   "by": "groq"
+  }
+ ]
+}
