@@ -95,6 +95,184 @@
    "by": "groq"
   },
   {
+   "category": "sports",
+   "title_en": "Manisha Bhanwala wins historic wrestling world title",
+   "title_gu": "મનિષા ભાનવાલાએ ઇતિહાસિક કૂસ્તી વિશ્વ શીર્ષક જીતી",
+   "summary_en": "Manisha Bhanwala beat USA's Abigail Nette 8-6 in Astana to become India's first female wrestling world champion.",
+   "summary_gu": "મનિષા ભાનવાલાએ અસ્ટાનામાં યુએસએની એબિગેલ નેટ્ટેને 8-6થી હરાવીને ભારતની પ્રથમ સ્ત્રી કૂસ્તી વિશ્વ ચેમ્પિયન બની.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Manisha Bhanwala",
+     "v_gu": "મનિષા ભાનવાલા"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "won gold in women's 59kg wrestling",
+     "v_gu": "સ્ત્રી 59 કિગ્રા કૂસ્તીમાં સોનુ પદક જીતી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Astana, Kazakhstan",
+     "v_gu": "અસ્ટાના, કઝાકિસ્તાન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "30 Oct 2026",
+     "v_gu": "30 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Opponent",
+     "k_gu": "વિરુદ્ધ",
+     "v_en": "Abigail Nette (USA)",
+     "v_gu": "એબિગેલ નેટ્ટે (યુ.એસ.એ.)"
+    }
+   ],
+   "points_en": [
+    "She became the first Indian woman to win a wrestling world title",
+    "Her win followed a 16‑year gap since Sushil Kumar’s 2010 world gold",
+    "Coach Virender Kumar guided her comeback in the final"
+   ],
+   "points_gu": [
+    "તેણી ભારતની પ્રથમ સ્ત્રી કૂસ્તી વિશ્વ ચેમ્પિયન बनी",
+    "સુશિલ કુમારના 2010ના ગોલ્ડ પછી 16 વર્ષમાં આ જીત",
+    "કોચ વિરેન્‍દર કુમારએ અંતિમમાં તેને પાછા લાવ્યું"
+   ],
+   "context_en": "Wrestling World Championships are organized by United World Wrestling and held annually.",
+   "context_gu": "વર્લ્ડ કૂસ્તી ચેમ્પિયનશિપ્સ યુનાઇટેડ વર્લ્ડ કૂસ્તી દ્વારા આયોજિત થાય છે અને દર વર્ષે યોજાય છે.",
+   "remember_en": "Manisha Bhanwala – first Indian woman wrestling world champion, 2026.",
+   "remember_gu": "મનિષા ભાનવાલા – 2026માં પ્રથમ ભારતીય સ્ત્રી કૂસ્તી વિશ્વ ચેમ્પિયન.",
+   "why_en": "Exam may ask name, sport, event, opponent and historic first.",
+   "why_gu": "પરીક્ષામાં નામ, કૂસ્તી, ઇવેન્ટ, વિરોધી અને ઇતિહાસિક પ્રથમ પૂછાઈ શકે.",
+   "details_en": "On 30 October 2026, Manisha Bhanwala faced USA's Abigail Nette in the women's 59kg final at the Wrestling World Championships in Astana's Barys Arena. After trailing 1-6 at halftime, she rallied with coach Virender Kumar's advice, exploiting Nette's stamina drop. Manisha scored decisive takedowns, finishing 8-6 to claim gold. This made her the first Indian woman to win a world title in wrestling, the second Indian overall after Sushil Kumar's 2010 win.",
+   "details_gu": "30 ઓક્ટોબર 2026એ, મનિષા ભાનવાલાએ અસ્ટાનાના બારીસ અરીનામાં સ્ત્રી 59 કિગ્રા અંતિમમાં યુએસએની એબિગેલ નેટ્ટેનો સામનો કર્યો. અર્ધસમયે 1-6 પાછળ હોવા છતાં, કોચ વિરેન્‍દર કુમારે સલાહ આપી, નેટ્ટેની સ્ટેમિના ઘટતી જોઈ, મનિષાએ મહત્વપૂર્ણ ટેકડાઉન કર્યા અને 8-6થી જીત મેળવી. આથી તે ભારતની પ્રથમ સ્ત્રી કૂસ્તી વિશ્વ ચેમ્પિયન બની, 2010માં સુશિલ કુમાર પછી બીજી ભારતીય બની.",
+   "mcq": {
+    "q_en": "Who did Manisha Bhanwala defeat to win the 2026 wrestling world title?",
+    "q_gu": "મનિષા ભાનવાલાએ 2026 કૂસ્તી વિશ્વ શીર્ષક જીતવા માટે કાને હરાવ્યો?",
+    "o_en": [
+     "Abigail Nette",
+     "Saori Yoshida",
+     "Helen Maroulis",
+     "Tamyra Mensah"
+    ],
+    "o_gu": [
+     "એબિગેલ નેટ્ટે",
+     "સાઓરી યોશિદા",
+     "હેલેન મારોલિસ",
+     "ટામિરા મેનસાહ"
+    ],
+    "a": 0,
+    "e_en": "Manisha beat USA's Abigail Nette 8-6 in the final.",
+    "e_gu": "મનિષાએ યુએસએની એબિગેલ નેટ્ટેને 8-6થી હરાવી."
+   },
+   "id": "ca-manisha-bhanwala-wins-historic-wrestling-world-title",
+   "source": "https://sportstar.thehindu.com/wrestling/manisha-bhanwala-first-woman-to-win-world-wrestling-championship-gold-reaction-remembers-father/article71646740.ece",
+   "exam": {
+    "score": 8,
+    "why": "First Indian woman world wrestling champion"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/wrestling/manisha-bhanwala-first-woman-to-win-world-wrestling-championship-gold-reaction-remembers-father/article71646740.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "appointments",
+   "title_en": "Air Marshal Inderpal Singh Valia appointed Vice Chief of Indian Air Force",
+   "title_gu": "एयर मार्शल इंद्रपाल सिंह वालिया ને ભારતીય વાયુસેનાના ઉપમુખિય તરીકે નિમણૂક",
+   "summary_en": "Air Marshal Inderpal Singh Valia became Vice Chief of the Indian Air Force on 1 Nov 2026, replacing Air Marshal Ashutosh Dikshit.",
+   "summary_gu": "એર માર્શલ ઇન્દ્રપાલ સિંહ વાલિયા 1 નવેમ્બર 2026 થી ભારતીય વાયુસેનાના ઉપમુખિય બન્યા, એશુતોષ દિક્ષિતનું સ્થાન લીધું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Air Marshal Inderpal Singh Valia",
+     "v_gu": "એર માર્શલ ઇન્દ્રપાલ સિંહ વાલિયા"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Vice Chief of Air Staff (VCAS)",
+     "v_gu": "ઉપમુખિય (વાઇસ ચીફ ઓફ એર સ્ટાફ)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "1 November 2026",
+     "v_gu": "1 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Previous post",
+     "k_gu": "પૂર્વ પદ",
+     "v_en": "Air Officer Commanding‑in‑Chief, Eastern Air Command",
+     "v_gu": "પૂર્વમાં પૂર્વીય વાયુ કમાન્ડના એર ઓફિસર કમાન્ડિંગ‑ઇન‑ચીફ"
+    },
+    {
+     "k_en": "Predecessor",
+     "k_gu": "પૂર્વવર્તી",
+     "v_en": "Air Marshal Ashutosh Dikshit",
+     "v_gu": "એર માર્શલ એશુતોષ દિક્ષિત"
+    }
+   ],
+   "points_en": [
+    "He has over 40 years of service.",
+    "He flew MiG‑21, MiG‑23, MiG‑27, Jaguar and Su‑30 MKI.",
+    "He holds three postgraduate degrees in defence studies."
+   ],
+   "points_gu": [
+    "તેની સેવા 40 વર્ષથી વધુ છે.",
+    "તે મિગ‑21, મિગ‑23, મિગ‑27, જયગુઆર અને સુ‑30 એમકેઆઈ ઉડાવી ચૂક્યા છે.",
+    "તે પાસે રક્ષણ અને વ્યૂહાત્મક અભ્યાસમાં ત્રણ સ્નાતકોત્તર ડિગ્રી છે."
+   ],
+   "context_en": "The Vice Chief of Air Staff is the second‑highest post in the Indian Air Force, headquartered in New Delhi.",
+   "context_gu": "ઉપમુખિય (વાઇસ ચીફ ઓફ એર સ્ટાફ) ભારતીય વાયુસેનામાં બીજા ક્રમનું પદ છે, મુખ્યાલય ન્યૂ દિલ્હી માં છે.",
+   "remember_en": "Inderpal Valia became VCAS on 1 Nov 2026.",
+   "remember_gu": "ઇન્દ્રપાલ વાલિયા 1 નવેમ્બર 2026 ને ઉપમુખિય બન્યા.",
+   "why_en": "VCAS appointments are frequent exam questions on defence hierarchy.",
+   "why_gu": "ઉપમુખિયની નિમણૂક પરીક્ષામાં રક્ષણની ક્રમબદ્ધતા માટે મહત્વની છે.",
+   "details_en": "Air Marshal Inderpal Singh Valia, AVSM and VM awardee, was appointed Vice Chief of the Indian Air Force (VCAS) effective 1 November 2026. He was previously the Air Officer Commanding‑in‑Chief of the Eastern Air Command. Valia, a National Defence Academy alumnus commissioned on 11 June 1988, has flown all versions of MiG‑21, MiG‑23, MiG‑27, Jaguar and Su‑30 MKI. His career includes command of a frontline fighter squadron, the Tactics and Air Combat Development Establishment, and the Air Force Station Bareilly. He also served as head of the Directorate of Air Staff Inspection and as defence attaché in Japan and South Korea. He replaces Air Marshal Ashutosh Dikshit, who will become the 29th Chief of Air Staff on 31 October 2026.",
+   "details_gu": "એર માર્શલ ઇન્દ્રપાલ સિંહ વાલિયા, એવીએસએમ અને વી.એમ. પુરસ્કારધારી, 1 નવેમ્બર 2026 થી ભારતીય વાયુસેનાના ઉપમુખિય (VCAS) તરીકે નિમણૂક થયા. તેઓ પૂર્વમાં પૂર્વીય વાયુ કમાન્ડના એર ઓફિસર કમાન્ડિંગ‑ઇન‑ચીફ હતા. નેશનલ ડિફેન્સ અકાદમીના પૂર્વ વિદ્યાર્થી, 11 જૂન 1988 ને કમિશન થયેલ, તેમણે મિગ‑21, મિગ‑23, મિગ‑27, જયગુઆર અને સુ‑30 એમકેઆઈનાં બધા વર્ઝન ઉડાવ્યા છે. તેમની કારકિર્દીમાં ફ્રન્ટલાઇન ફાઇટર સ્ક્વાડ્રન, ટેક્ટિક્સ એન્ડ એર કોમ્બેટ ડેવલપમેન્ટ એસ્ટેબ્લિશમેન્ટ, અને એરફોર્સ સ્ટેશન બરેલીનું કમાન્ડ શામેલ છે. તેઓ ડિરેક્ટોરેટ ઓફ એર સ્ટાફ ઇન્સ્પેક્શનના વડા અને જાપાન અને દક્ષિણ કોરિયામાં રક્ષા એટેચ તરીકે સેવા આપી ચૂક્યા છે. તેઓ એર માર્શલ એશુતોષ દિક્ષિતનું સ્થાન લે છે, જે 31 ઓક્ટોબર 2026 ને 29મા મુખ્ય અધિકારી બનશે.",
+   "mcq": {
+    "q_en": "When did Air Marshal Inderpal Singh Valia assume the role of Vice Chief of Air Staff?",
+    "q_gu": "એર માર્શલ ઇન્દ્રપાલ સિંહ વાલિયાએ ઉપમુખિયનું પદ ક્યારે સ્વીકાર્યું?",
+    "o_en": [
+     "1 Oct 2026",
+     "1 Nov 2026",
+     "31 Oct 2026",
+     "31 Dec 2026"
+    ],
+    "o_gu": [
+     "1 ઓક્ટોબર 2026",
+     "1 નવેમ્બર 2026",
+     "31 ઓક્ટોબર 2026",
+     "31 ડિસેમ્બર 2026"
+    ],
+    "a": 1,
+    "e_en": "The appointment took effect on 1 November 2026.",
+    "e_gu": "નિયુક્તિ 1 નવેમ્બર 2026 થી લાગુ પડી."
+   },
+   "id": "ca-air-marshal-inderpal-singh-valia-appointed-vice-chief-of-ind",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330632",
+   "exam": {
+    "score": 8,
+    "why": "Air Marshal appointed, senior defence post"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330632"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "international",
    "title_en": "India's External Affairs Minister attends G20 meeting in Atlanta",
    "title_gu": "ભારતના વિદેશ મંત્રી એટલાન્ટામાં જી20 બેઠકમાં હાજર",
@@ -179,6 +357,190 @@
     {
      "name": "The Hindu",
      "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "India reaches both Kabaddi finals at Commonwealth Championship",
+   "title_gu": "ભારત કમનવેલ્થ કબડી ચેમ્પિયનશિપમાં બંને ફાઇનલમાં પહોંચ્યો",
+   "summary_en": "Indian men beat Bangladesh 56-27 and women beat Sri Lanka 39-14 in Ahmedabad semifinals, moving to the finals.",
+   "summary_gu": "ભારતીય પુરુષો 56-27 અને સ્ત્રીઓ 39-14થી અમદાવાદમાં અર્ધફાઇનલ જીતી, ફાઇનલમાં પહોંચ્યા.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Men beat Bangladesh 56-27; Women beat Sri Lanka 39-14",
+     "v_gu": "પુરુષો 56-27થી બાંગ્લાદેશને હરાવ્યા; સ્ત્રીઓ 39-14થી શ્રીલંકાને હરાવ્યા"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Veer Savarkar Sports Complex, Ahmedabad",
+     "v_gu": "વીર સાવરકાર સ્પોર્ટ્સ કોમ્પ્લેક્સ, અમદાવાદ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Friday, 2026 Commonwealth Kabaddi Championship semifinals",
+     "v_gu": "શુક્રવાર, 2026 કમનવેલ્થ કબડી ચેમ્પિયનશિપ અર્ધફાઇનલ"
+    },
+    {
+     "k_en": "Who (men)",
+     "k_gu": "કોણ (પુરુષ)",
+     "v_en": "Captain Nidhi Sharma (women), Captain Surjeet Singh (men)",
+     "v_gu": "સ્ત્રી કૅપ્ટન નિધી શર્મા, પુરુષ કૅપ્ટન સુરજીત સિંહ"
+    },
+    {
+     "k_en": "How many countries",
+     "k_gu": "કેટલા દેશો",
+     "v_en": "13 participating nations",
+     "v_gu": "13 ભાગ લેનારા દેશો"
+    }
+   ],
+   "points_en": [
+    "Both teams stayed unbeaten in group stage",
+    "Women will meet Uganda in final",
+    "Men will meet Sri Lanka in final"
+   ],
+   "points_gu": [
+    "બંને ટીમો ગ્રુપ સ્ટેજમાં અપરાજિત રહી",
+    "સ્ત્રીઓનું ફાઇનલ ઉગાંડા સામે",
+    "પુરુષોનું ફાઇનલ શ્રીલંકા સામે"
+   ],
+   "context_en": "Commonwealth Kabaddi Championship is a new international tournament for kabaddi, first held in 2026.",
+   "context_gu": "કમનવેલ્થ કબડી ચેમ્પિયનશિપ કબડી માટેનું નવું આંતરરાષ્ટ્રીય ટુર્નામેન્ટ છે, 2026માં પ્રથમ વખત યોજાયું.",
+   "remember_en": "India men 56-27, women 39-14 in Ahmedabad semifinals.",
+   "remember_gu": "ભારત પુરુષો 56-27, સ્ત્રીઓ 39-14 અમદાવાદ અર્ધફાઇનલમાં.",
+   "why_en": "Shows India's dominance and upcoming finals opponents for exam questions.",
+   "why_gu": "ભારતની પ્રભુતા અને ફાઇનલમાં મુકાબલાઓ માટે પરીક્ષા પ્રશ્નો તૈયાર કરે છે.",
+   "details_en": "In the inaugural Commonwealth Kabaddi Championship, Indian men defeated Bangladesh 56-27 and women beat Sri Lanka 39-14 at the Veer Savarkar Sports Complex in Ahmedabad on Friday. Both sides entered the semifinals unbeaten. The women's raid leader Sakshi scored 11 points, while captain Nidhi Sharma added 10. The men built a 28-8 first‑half lead and finished with 37 raid points. India now faces Uganda (women) and Sri Lanka (men) in the finals.",
+   "details_gu": "પ્રથમ કમનવેલ્થ કબડી ચેમ્પિયનશિપમાં, ભારતીય પુરુષો 56-27થી બાંગ્લાદેશને અને સ્ત્રીઓ 39-14થી શ્રીલંકાને વીર સાવરકાર સ્પોર્ટ્સ કોમ્પ્લેક્સ, અમદાવાદમાં શુક્રવારે હરાવ્યા. બંને ટીમો અર્ધફાઇનલમાં અપરાજિત હતી. સ્ત્રી ટીમમાં સક્ષી 11 પોઇન્ટ્સ સાથે આગેવાન રહી, કૅપ્ટન નિધી શર્માએ 10 પોઇન્ટ્સ ઉમેર્યા. પુરુષો પ્રથમ અર્ધમાં 28-8ની આગેવાની બનાવી, કુલ 37 રેઈડ પોઇન્ટ્સ સાથે જીત્યા. હવે સ્ત્રીઓ ઉગાંડા અને પુરુષો શ્રીલંકા સામે ફાઇનલમાં રમશે.",
+   "mcq": {
+    "q_en": "Which team did the Indian men defeat in the 2026 Commonwealth Kabaddi semifinals?",
+    "q_gu": "2026 કમનવેલ્થ કબડી અર્ધફાઇનલમાં ભારતીય પુરુષો કયા ટીમને હરાવ્યા?",
+    "o_en": [
+     "Sri Lanka",
+     "Bangladesh",
+     "Kenya",
+     "Uganda"
+    ],
+    "o_gu": [
+     "શ્રીલંકા",
+     "બાંગ્લાદેશ",
+     "કેન્યા",
+     "ઉગાંડા"
+    ],
+    "a": 1,
+    "e_en": "The men beat Bangladesh 56-27.",
+    "e_gu": "પુરુષો બાંગ્લાદેશને 56-27થી હરાવ્યા."
+   },
+   "id": "ca-india-reaches-both-kabaddi-finals-at-commonwealth-championsh",
+   "source": "https://sportstar.thehindu.com/kabaddi/india-women-men-reach-commonwealth-kabaddi-championships-finals-uganda-sri-lanka/article71646681.ece",
+   "exam": {
+    "score": 7,
+    "why": "Commonwealth Kabaddi finals, major event"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/kabaddi/india-women-men-reach-commonwealth-kabaddi-championships-finals-uganda-sri-lanka/article71646681.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "P.V. Sindhu reaches Hylo Open quarterfinals",
+   "title_gu": "પી.વી. સિંધુ હાયલો ઓપન ક્વાર્ટરફાઇનલમાં પહોંચે છે",
+   "summary_en": "Second‑seed P.V. Sindhu beat France’s Rosy Oktavia Pancasari at the Hylo Open in Germany and moved into the quarterfinals.",
+   "summary_gu": "બીજા ક્રમમાં રહેલી પી.વી. સિંધુએ જર્મનીમાં હાયલો ઓપનમાં ફ્રાંસની રોઝી ઓક્ટાવિયા પાન્કાસારીને હરાવી ક્વાર્ટરફાઇનલમાં પહોંચી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "P.V. Sindhu",
+     "v_gu": "પી.વી. સિંધુ"
+    },
+    {
+     "k_en": "Opponent",
+     "k_gu": "વિરુદ્ધ",
+     "v_en": "Rosy Oktavia Pancasari",
+     "v_gu": "રોઝી ઓક્ટાવિયા પાન્કાસારી"
+    },
+    {
+     "k_en": "Tournament",
+     "k_gu": "સ્પર્ધા",
+     "v_en": "Hylo Open 2026",
+     "v_gu": "હાયલો ઓપન 2026"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "સ્થળ",
+     "v_en": "Saarbrücken, Germany",
+     "v_gu": "સાર્બ્રુકેન, જર્મની"
+    },
+    {
+     "k_en": "Score",
+     "k_gu": "સ્કોર",
+     "v_en": "21‑9, 21‑6",
+     "v_gu": "૨૧‑૯, ૨૧‑૬"
+    },
+    {
+     "k_en": "Seed",
+     "k_gu": "ક્રમ",
+     "v_en": "Second seed",
+     "v_gu": "બીજો ક્રમ"
+    }
+   ],
+   "points_en": [
+    "Match lasted under 30 minutes.",
+    "Sindhu will face Denmark’s Amalie Schulz next.",
+    "She was runner‑up at the French Open Super 750 earlier."
+   ],
+   "points_gu": [
+    "મેચ ૩૦ મિનિટથી ઓછો સમય લીધો.",
+    "સિંધી આગળ ડેનમાર્કની અમાલી શુલ્ઝને સામનો કરશે.",
+    "તે અગાઉ ફ્રેન્ચ ઓપન સુપર ૭૫૦માં રનર‑અપ હતી."
+   ],
+   "context_en": "Hylo Open is a Badminton World Federation Super 500 tournament held annually in Germany.",
+   "context_gu": "હાયલો ઓપન બેડમિન્ટન વર્લ્ડ ફેડરેશનનું સુપર ૫૦૦ ટુર્નામેન્ટ છે, જે જર્મનીમાં દર વર્ષે થાય છે.",
+   "remember_en": "Sindhu beat Pancasari 21‑9, 21‑6 at Hylo Open.",
+   "remember_gu": "સિંધી હાયલો ઓપનમાં પાન્કાસારીને ૨૧‑૯, ૨૧‑૬થી હરાવી.",
+   "why_en": "Shows Sindhu’s form before major tournaments, a common exam question.",
+   "why_gu": "મહત્વપૂર્ણ ટુર્નામેન્ટ પહેલાં સિંધુની સ્થિતિ દર્શાવે છે, જે પરીક્ષામાં પુછાય છે.",
+   "details_en": "On Thursday at the Hylo Open 2026 in Saarbrücken, Germany, second‑seed Indian shuttler P.V. Sindhu defeated France’s Rosy Oktavia Pancasari 21‑9, 21‑6 in under 30 minutes to reach the quarterfinals. Her next opponent will be Denmark’s Amalie Schulz. Sindhu entered the Super 500 event after finishing runner‑up at the French Open Super 750, where she lost to world No. 1 An Se‑young.",
+   "details_gu": "ગુરુવારે જર્મનીના સાર્બ્રુકેનમાં હાયલો ઓપન 2026માં, બીજા ક્રમમાં રહેલી ભારતીય બેડમિન્ટન ખેલાડી પી.વી. સિંધુએ ફ્રાંસની રોઝી ઓક્ટાવિયા પાન્કાસારીને ૨૧‑૯, ૨૧‑૬થી ૩૦ મિનિટથી ઓછા સમયમાં હરાવી ક્વાર્ટરફાઇનલમાં પહોંચી. તેની આગળની મેચમાં ડેનમાર્કની અમાલી શુલ્ઝ હશે. સિંધુ ફ્રેન્ચ ઓપન સુપર ૭૫૦માં રનર‑અપ રહીને આ સુપર ૫૦૦ ટુર્નામેન્ટમાં આવી હતી.",
+   "mcq": {
+    "q_en": "Who did P.V. Sindhu defeat to reach the quarterfinals of the Hylo Open 2026?",
+    "q_gu": "પી.વી. સિંધુએ હાયલો ઓપન 2026માં ક્વાર્ટરફાઇનલમાં પહોંચવા માટે કાને હરાવ્યું?",
+    "o_en": [
+     "Amalie Schulz",
+     "Rosy Oktavia Pancasari",
+     "An Se‑young",
+     "Wen Yu Zhang"
+    ],
+    "o_gu": [
+     "અમાલી શુલ્ઝ",
+     "રોઝી ઓક્ટાવિયા પાન્કાસારી",
+     "એન સેઉંગ",
+     "વેન યુ ઝાંગ"
+    ],
+    "a": 1,
+    "e_en": "Sindhu beat Rosy Oktavia Pancasari in the round of 16.",
+    "e_gu": "સિંધી રોઝી ઓક્ટાવિયા પાન્કાસારીને રાઉન્ડ ઓફ 16માં હરાવી."
+   },
+   "id": "ca-p-v-sindhu-reaches-hylo-open-quarterfinals",
+   "source": "https://sportstar.thehindu.com/badminton/hylo-open-2026-sindhu-vs-pancasari-score-highlights-badminton-ro16-result/article71641408.ece",
+   "exam": {
+    "score": 7,
+    "why": "Sindhu reaches quarters, high‑profile Indian athlete"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/badminton/hylo-open-2026-sindhu-vs-pancasari-score-highlights-badminton-ro16-result/article71641408.ece"
     }
    ],
    "by": "groq"
