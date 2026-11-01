@@ -790,6 +790,190 @@
    "date": "2026-11-01"
   },
   {
+   "category": "economy",
+   "title_en": "RBI's net short dollar forward position hits $239.2 bn in September",
+   "title_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયાનો નેટ શોર્ટ ડોલર ફોરવર્ડ પોઝિશન સપ્ટેમ્બરમાં $239.2 અબજ",
+   "summary_en": "The Reserve Bank of India’s net short position in dollar forwards rose to $239.2 bn in September, up from $200.06 bn in August.",
+   "summary_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયાનો નેટ શોર્ટ ડોલર ફોરવર્ડ પોઝિશન સપ્ટેમ્બરમાં $239.2 અબજ સુધી વધ્યો, જે ઓગસ્ટમાં $200.06 અબજ હતો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Reserve Bank of India (RBI)",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા (RBI)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "net short dollar forward position",
+     "v_gu": "નેટ શોર્ટ ડોલર ફોરવર્ડ પોઝિશન"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "$239.2 bn",
+     "v_gu": "$239.2 અબજ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "September 2023",
+     "v_gu": "સપ્ટેમ્બર 2023"
+    },
+    {
+     "k_en": "Previous amount",
+     "k_gu": "પહેલાની રકમ",
+     "v_en": "$200.06 bn (August)",
+     "v_gu": "$200.06 અબજ (ઓગસ્ટ)"
+    }
+   ],
+   "points_en": [
+    "The rise was driven by FCNR(B) swaps.",
+    "12‑month dollar‑rupee forward premium rose over 120 basis points in October."
+   ],
+   "points_gu": [
+    "વૃદ્ધિ FCNR(B) સ્વેપ્સને કારણે થઈ.",
+    "ડોલર‑રુપીયા 12‑મહિના ફોરવર્ડ પ્રીમિયમ ઓક્ટોબરમાં 120 બેઝિસ પોઇન્ટથી વધ્યો."
+   ],
+   "context_en": "The Reserve Bank of India is India's central bank, headquartered in Mumbai.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા ભારતનું કેન્દ્રિય બેંક છે, જેનું મુખ્યાલય મુંબઈમાં છે.",
+   "remember_en": "RBI's net short dollar forward hit $239.2 bn in September 2023.",
+   "remember_gu": "RBIનું નેટ શોર્ટ ડોલર ફોરવર્ડ સપ્ટેમ્બર 2023માં $239.2 અબજ હતું.",
+   "why_en": "Shows RBI's exposure to foreign exchange risk and hedging costs.",
+   "why_gu": "RBIની વિદેશી વિનિમય જોખમ અને હેજિંગ ખર્ચ દર્શાવે છે.",
+   "details_en": "In September 2023 the Reserve Bank of India’s net short position in dollar forwards rose to $239.2 bn, up from $200.06 bn in August. The increase was mainly due to FCNR(B) swaps, which are foreign currency non‑resident deposits. In October the 12‑month dollar‑rupee forward premium jumped by more than 120 basis points, raising the cost of hedging future dollar payments.",
+   "details_gu": "સપ્ટેમ્બર 2023માં રિઝર્વ બેંક ઓફ ઇન્ડિયાનો નેટ શોર્ટ ડોલર ફોરવર્ડ પોઝિશન $239.2 અબજ સુધી વધ્યો, જે ઓગસ્ટમાં $200.06 અબજ હતો. વૃદ્ધિ મુખ્યત્વે FCNR(B) સ્વેપ્સને કારણે થઈ, જે વિદેશી કરન્સી નોન‑રેસિડન્ટ ડિપોઝિટ છે. ઓક્ટોબરમાં 12‑મહિના ડોલર‑રુપીયા ફોરવર્ડ પ્રીમિયમ 120 બેઝિસ પોઇન્ટથી વધ્યો, જે ભવિષ્યના ડોલર ચુકવણીઓનું હેજિંગ ખર્ચ વધાર્યું.",
+   "mcq": {
+    "q_en": "What was the RBI's net short dollar forward position in September 2023?",
+    "q_gu": "સપ્ટેમ્બર 2023માં RBIનું નેટ શોર્ટ ડોલર ફોરવર્ડ પોઝિશન કેટલું હતું?",
+    "o_en": [
+     "$180.5 bn",
+     "$200.06 bn",
+     "$239.2 bn",
+     "$260.0 bn"
+    ],
+    "o_gu": [
+     "$180.5 અબજ",
+     "$200.06 અબજ",
+     "$239.2 અબજ",
+     "$260.0 અબજ"
+    ],
+    "a": 2,
+    "e_en": "The position rose to $239.2 bn in September.",
+    "e_gu": "પોઝિશન સપ્ટેમ્બરમાં $239.2 અબજ સુધી વધ્યો."
+   },
+   "id": "ca-rbi-s-net-short-dollar-forward-position-hits-239-2-bn-in-sep",
+   "source": "https://www.business-standard.com/economy/news/rbi-s-net-short-dollar-forward-position-hits-record-239-2-bn-in-september-126110100730_1.html",
+   "exam": {
+    "score": 7,
+    "why": "RBI record short‑dollar position"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/rbi-s-net-short-dollar-forward-position-hits-record-239-2-bn-in-september-126110100730_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-01"
+  },
+  {
+   "category": "economy",
+   "title_en": "India’s oil imports hit record 5.6 million bpd in October",
+   "title_gu": "ઓક્ટોબરમાં ભારતની તેલ આયાત રેકોર્ડ 5.6 મિલિયન બેરલ પ્રતિ દિવસ",
+   "summary_en": "India imported about 5.6 million barrels of crude per day in October, the highest ever, mainly from West Asia and Russia.",
+   "summary_gu": "ઓક્ટોબરમાં ભારતએ પ્રતિ દિવસ લગભગ 5.6 મિલિયન બેરલ કાચા તેલની આયાત કરી, જે સૌથી વધુ છે, મુખ્યત્વે પશ્ચિમ એશિયા અને રશિયાથી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "record oil imports of 5.6 million barrels per day",
+     "v_gu": "રેકોર્ડ તેલ આયાત 5.6 મિલિયન બેરલ પ્રતિ દિવસ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 2023",
+     "v_gu": "ઓક્ટોબર 2023"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "India",
+     "v_gu": "ભારત"
+    },
+    {
+     "k_en": "Source",
+     "k_gu": "સ્રોત",
+     "v_en": "Kpler energy data",
+     "v_gu": "Kpler ઊર્જા ડેટા"
+    },
+    {
+     "k_en": "West Asian supply",
+     "k_gu": "પશ્ચિમ એશિયાની સપ્લાય",
+     "v_en": "2.3 million bpd",
+     "v_gu": "2.3 મિલિયન બેરલ પ્રતિ દિવસ"
+    },
+    {
+     "k_en": "Russian supply",
+     "k_gu": "રશિયન સપ્લાય",
+     "v_en": "2.0 million bpd",
+     "v_gu": "2.0 મિલિયન બેરલ પ્રતિ દિવસ"
+    }
+   ],
+   "points_en": [
+    "India imports about 90% of its crude needs.",
+    "Higher ship‑to‑ship transfers eased Gulf flows via Strait of Hormuz.",
+    "Russian shipments may fall in Nov‑Dec due to higher freight rates."
+   ],
+   "points_gu": [
+    "ભારત તેના કાચા તેલની જરૂરિયાતનું લગભગ 90% આયાત કરે છે.",
+    "સ્ટ્રેઇટ ઓફ હોર્મુઝ દ્વારા ગલ્ફ સપ્લાયમાં વધારો થયો.",
+    "ફ્રેઇટ દર વધવાથી નવેમ્બર‑ડિસેમ્બર માં રશિયન શિપમેન્ટ ઘટી શકે."
+   ],
+   "context_en": "India relies on imports for nearly nine‑tenths of its crude oil demand; Kpler is an energy market intelligence firm.",
+   "context_gu": "ભારત તેના કાચા તેલની માંગનું લગભગ નવમાં દસ ભાગ આયાત કરે છે; Kpler ઊર્જા બજારની જાણકારી આપતી કંપની છે.",
+   "remember_en": "India’s October oil imports reached a record 5.6 m bpd.",
+   "remember_gu": "ભારતની ઓક્ટોબરની તેલ આયાત રેકોર્ડ 5.6 મિલિયન બેરલ પ્રતિ દિવસ.",
+   "why_en": "Shows how import volumes and source mix affect refinery economics.",
+   "why_gu": "રિફાઇનરી અર્થશાસ્ત્ર પર આયાતની માત્રા અને સ્ત્રોતનું પ્રભાવ દર્શાવે છે.",
+   "details_en": "In October 2023 India’s crude oil imports rose to a record about 5.6 million barrels per day, according to Kpler. West Asian crude supplied roughly 2.3 million barrels daily while Russian crude contributed about 2.0 million barrels. Ship‑to‑ship transfers through the Strait of Hormuz helped increase Gulf supplies, giving refiners more sourcing options. Analysts expect Russian shipments could ease in November‑December as Black Sea attacks raise freight costs, making those barrels less competitive.",
+   "details_gu": "2023 ના ઓક્ટોબરમાં Kpler અનુસાર ભારતની કાચા તેલની આયાત પ્રતિ દિવસ લગભગ 5.6 મિલિયન બેરલ સુધી વધીને રેકોર્ડ બની. પશ્ચિમ એશિયાથી દરરોજ આશરે 2.3 મિલિયન બેરલ અને રશિયાથી 2.0 મિલિયન બેરલ આયાત થઈ. સ્ટ્રેઇટ ઓફ હોર્મુઝ દ્વારા શિપ‑ટુ‑શિપ ટ્રાન્સફરથી ગલ્ફ સપ્લાયમાં વધારો થયો, જે રિફાઇનરોને વધુ વિકલ્પો આપ્યો. વિશ્લેષકો કહે છે કે બ્લેક સીમાં હુમલાઓથી ફ્રેઇટ ખર્ચ વધવાથી નવેમ્બર‑ડિસેમ્બર માં રશિયન શિપમેન્ટ ઘટી શકે, જે બેરલને ઓછા સ્પર્ધાત્મક બનાવશે.",
+   "mcq": {
+    "q_en": "What was India’s crude oil import level in October 2023?",
+    "q_gu": "ઓક્ટોબર 2023 માં ભારતની કાચા તેલની આયાતનું સ્તર શું હતું?",
+    "o_en": [
+     "4.5 million bpd",
+     "5.6 million bpd",
+     "6.2 million bpd",
+     "7.0 million bpd"
+    ],
+    "o_gu": [
+     "4.5 મિલિયન બેરલ પ્રતિ દિવસ",
+     "5.6 મિલિયન બેરલ પ્રતિ દિવસ",
+     "6.2 મિલિયન બેરલ પ્રતિ દિવસ",
+     "7.0 મિલિયન બેરલ પ્રતિ દિવસ"
+    ],
+    "a": 1,
+    "e_en": "The record level was about 5.6 million barrels per day.",
+    "e_gu": "રેકોર્ડ સ્તર લગભગ 5.6 મિલિયન બેરલ પ્રતિ દિવસ હતું."
+   },
+   "id": "ca-india-s-oil-imports-hit-record-5-6-million-bpd-in-october",
+   "source": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html",
+   "exam": {
+    "score": 7,
+    "why": "record oil imports, refinery activity"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/record-oil-imports-reflect-strong-refinery-runs-flexible-russian-buying-126110100118_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-01"
+  },
+  {
    "category": "gujarat",
    "title_en": "Gujarat CM Bhupendra Patel Visits US to Promote Tech Investments",
    "title_gu": "મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે ટેક્નોલોજી રોકાણ આકર્ષવા અમેરિકાનો પ્રવાસ કર્યો",
