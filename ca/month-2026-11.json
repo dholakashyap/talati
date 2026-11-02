@@ -1234,6 +1234,182 @@
    "date": "2026-11-01"
   },
   {
+   "category": "science",
+   "title_en": "ISRO restores NavIC after successful GSLV‑F18 launch",
+   "title_gu": "આઇએસઆરઓએ જીએસએલવી‑એફ18 લોન્ચથી નાવિક પુનઃસ્થાપિત કરી",
+   "summary_en": "The Indian Space Research Organisation (ISRO) launched the GSLV‑F18, which restored the NavIC navigation system.",
+   "summary_gu": "ભારતીય અવકાશ સંશોધન સંસ્થા (આઇએસઆરઓ) એ જીએસએલવી‑એફ18 લોન્ચ કરી, જેના કારણે નાવિક નેવિગેશન સિસ્ટમ પુનઃસ્થાપિત થઈ.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Indian Space Research Organisation (ISRO)",
+     "v_gu": "ભારતીય અવકાશ સંશોધન સંસ્થા (આઇએસઆરઓ)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "GSLV‑F18 launch",
+     "v_gu": "જીએસએલવી‑એફ18 લોન્ચ"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "NavIC navigation system restored",
+     "v_gu": "નાવિક નેવિગેશન સિસ્ટમ પુનઃસ્થાપિત"
+    }
+   ],
+   "points_en": [
+    "GSLV‑F18 is a Geosynchronous Satellite Launch Vehicle.",
+    "NavIC provides regional positioning for India and nearby areas.",
+    "The mission shows India's growing independent space capability."
+   ],
+   "points_gu": [
+    "જીએસએલવી‑એફ18 એક જીઓસિંક્રોનસ સેટેલાઇટ લોન્ચ વાહન છે.",
+    "નાવિક ભારત અને આજુબાજુના વિસ્તારો માટે સ્થાન નિર્ધારણ આપે છે.",
+    "મિશન ભારતની સ્વતંત્ર અવકાશ ક્ષમતા વધારવામાં મદદ કરે છે."
+   ],
+   "context_en": "ISRO is India's national space agency, headquartered in Bengaluru, and NavIC is India's regional navigation satellite system launched in 2016.",
+   "context_gu": "આઇએસઆરઓ ભારતનું રાષ્ટ્રીય અવકાશ એજન્સી છે, જેનું મુખ્યાલય બેંગલોરમાં છે, અને નાવિક 2016 માં શરૂ થયેલ પ્રદેશીય નેવિગેશન ઉપગ્રહ સિસ્ટમ છે.",
+   "remember_en": "GSLV‑F18 launch restored NavIC for India.",
+   "remember_gu": "જીએસએલવી‑એફ18 લોન્ચથી નાવિક પુનઃસ્થાપિત થયું.",
+   "why_en": "Shows India's ability to maintain its own navigation network.",
+   "why_gu": "ભારતની પોતાની નેવિગેશન નેટવર્ક જાળવવાની ક્ષમતા દર્શાવે છે.",
+   "details_en": "The Indian Space Research Organisation (ISRO) successfully launched the Geosynchronous Satellite Launch Vehicle‑F18 (GSLV‑F18). This mission placed a satellite that re‑activated the NavIC (Navigation with Indian Constellation) system, which had faced disruptions. Restoring NavIC strengthens India's independent positioning service and supports future space plans, though experts say more funding and manufacturing capacity are needed for long‑term goals.",
+   "details_gu": "ભારતીય અવકાશ સંશોધન સંસ્થા (આઇએસઆરઓ) એ સફળતાપૂર્વક જીએસએલવી‑એફ18 (Geosynchronous Satellite Launch Vehicle‑F18) લોન્ચ કર્યું. આ મિશન દ્વારા નાવિક (Navigation with Indian Constellation) સિસ્ટમને પુનઃસક્રિય કરવામાં આવ્યું, જે અગાઉ ખલેલમાં હતી. નાવિકની પુનઃસ્થાપના ભારતની સ્વતંત્ર સ્થાન નિર્ધારણ સેવા મજબૂત કરે છે અને ભવિષ્યની અવકાશ યોજનાઓને સહાય કરે છે, જોકે નિષ્ણાતો કહે છે કે લાંબા ગાળાના લક્ષ્યો માટે વધુ નાણાં અને ઉત્પાદન ક્ષમતા જરૂરી છે.",
+   "mcq": {
+    "q_en": "Which ISRO mission restored the NavIC system?",
+    "q_gu": "કયા આઇએસઆરઓ મિશનથી નાવિક સિસ્ટમ પુનઃસ્થાપિત થઈ?",
+    "o_en": [
+     "GSLV‑F15",
+     "GSLV‑F18",
+     "PSLV‑C45",
+     "Mangalyaan"
+    ],
+    "o_gu": [
+     "જીએસએલવી‑એફ15",
+     "જીએસએલવી‑એફ18",
+     "પીએસએલવી‑સી45",
+     "મંગળયાન"
+    ],
+    "a": 1,
+    "e_en": "The GSLV‑F18 launch restored NavIC.",
+    "e_gu": "જીએસએલવી‑એફ18 લોન્ચથી નાવિક પુનઃસ્થાપિત થયો."
+   },
+   "id": "ca-isro-restores-navic-after-successful-gslv-f18-launch",
+   "source": "https://www.thehindu.com/videos/why-isros-latest-success-matters-more-than-it-appears-the-hindu-editorial/article71655983.ece",
+   "exam": {
+    "score": 7,
+    "why": "ISRO NavIC/GSLV impact on navigation"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/videos/why-isros-latest-success-matters-more-than-it-appears-the-hindu-editorial/article71655983.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-02"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat installs 9.08 lakh rooftop solar systems, hits 90% target",
+   "title_gu": "ગુજરાતે 9.08 લાખ રૂફટોપ સોલાર સિસ્ટમો લગાવી, 90% લક્ષ્ય હાંસલ કર્યું",
+   "summary_en": "Gujarat installed 9.08 lakh residential rooftop solar systems with 3,408 MW capacity, reaching 90% of its 10‑lakh goal for March 2027.",
+   "summary_gu": "ગુજરાતે 9.08 લાખ રહેણાંક રૂફટોપ સોલાર સિસ્ટમો 3,408 મેગાવોટ ક્ષમતા સાથે લગાવી, 10 લાખ લક્ષ્યનું 90 % પૂર્ણ કર્યું.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "9.08 lakh rooftop solar systems installed",
+     "v_gu": "9.08 લાખ રૂફટોપ સોલાર સિસ્ટમો લગાવ્યા"
+    },
+    {
+     "k_en": "Capacity",
+     "k_gu": "ક્ષમતા",
+     "v_en": "3,408 MW total",
+     "v_gu": "3,408 મેગાવોટ કુલ"
+    },
+    {
+     "k_en": "Target",
+     "k_gu": "લક્ષ્ય",
+     "v_en": "10 lakh installations by March 2027",
+     "v_gu": "માર્ચ 2027 સુધી 10 લાખ સ્થાપન"
+    },
+    {
+     "k_en": "Share",
+     "k_gu": "ભાગ",
+     "v_en": "18.21% of India’s rooftop solar",
+     "v_gu": "ભારતનું 18.21% રૂફટોપ સોલાર"
+    },
+    {
+     "k_en": "Assistance",
+     "k_gu": "સહાય",
+     "v_en": "₹2,950 subsidy for up to 6 kW systems",
+     "v_gu": "6 kW સુધી માટે ₹2,950 સહાય"
+    }
+   ],
+   "points_en": [
+    "SC/ST households pay only 5% of cost for up to 2.18 kWp systems.",
+    "Other households contribute 10% of cost; state covers the rest.",
+    "Net‑metering lets surplus power be sold back to the grid."
+   ],
+   "points_gu": [
+    "એસસી/એસટી ઘરોએ 2.18 kWp સુધી 5% ખર્ચ ચૂકવો.",
+    "અન્ય ઘરોએ 10% ખર્ચ, બાકી રાજ્ય ભરે.",
+    "નેટ‑મીટરીંગથી વધારાનો વીજળી ગ્રિડમાં વેચી શકાય."
+   ],
+   "context_en": "PM Surya Ghar: Muft Bijli Yojana is a central scheme promoting free electricity via rooftop solar.",
+   "context_gu": "PM સુર્ય ઘર: મુફ બિજળી યોજના કેન્દ્રિય યોજના છે, રૂફટોપ સોલાર દ્વારા મુફ વીજળી પ્રોત્સાહિત કરે છે.",
+   "remember_en": "9.08 lakh systems, 3,408 MW, 90% of 10‑lakh target.",
+   "remember_gu": "9.08 લાખ સિસ્ટમો, 3,408 મેગાવોટ, 10 લાખનું 90 %.",
+   "why_en": "Shows Gujarat’s progress in renewable energy and scheme incentives.",
+   "why_gu": "ગુજરાતની નવિનીકરણ ઊર્જા પ્રગતિ અને યોજનાની પ્રોત્સાહનો દર્શાવે છે.",
+   "details_en": "Under Chief Minister Bhupendra Patel, Gujarat installed 9.08 lakh residential rooftop solar systems, giving a combined capacity of 3,408 MW. This meets 90% of the state’s goal of 10 lakh installations by March 2027. The state contributes 18.21% of India’s total rooftop solar capacity. The government offers a ₹2,950 subsidy for systems up to 6 kW, waives network‑strengthening charges and net‑metering fees, and provides extra help for SC/ST households who pay only 5% of the benchmark cost for systems up to 2.18 kWp. Other households pay 10%, with the remaining cost covered by state and central assistance. Net‑metering allows households to sell surplus electricity without banking charges.",
+   "details_gu": "મુખ्यमंत्री ભુપેન્દ્ર પટેલની આગેવાનીમાં, ગુજરાતે 9.08 લાખ રહેણાંક રૂફટોપ સોલાર સિસ્ટમો લગાવી, કુલ 3,408 મેગાવોટ ક્ષમતા મેળવી. આથી રાજ્યનું 10 લાખ સ્થાપનનું 90 % લક્ષ્ય માર્ચ 2027 સુધી પૂર્ણ થયું. રાજ્ય ભારતની કુલ રૂફટોપ સોલાર ક્ષમતા નું 18.21 % આપે છે. સરકાર 6 kW સુધીની સિસ્ટમો માટે ₹2,950 સહાય, નેટવર્ક સ્ટ્રેન્થનિંગ ચાર્જ અને નેટ‑મીટરીંગ ફી મુક્ત કરે છે, અને એસસી/એસટી ઘરોએ 2.18 kWp સુધી 5 % ખર્ચ ચૂકવવો પડે છે. અન્ય ઘરોએ 10 % ચૂકવે છે, બાકી રાજ્ય‑કેન્દ્ર સહાયથી ભરાય છે. નેટ‑મીટરીંગથી વધારાનો વીજળી વેચી શકાય છે, અને બેંકિંગ ચાર્જ નહીં.",
+   "mcq": {
+    "q_en": "How many rooftop solar systems has Gujarat installed as of November 2026?",
+    "q_gu": "નવેમ્બર 2026 સુધી ગુજરાતે કેટલા રૂફટોપ સોલાર સિસ્ટમો લગાવ્યા છે?",
+    "o_en": [
+     "8.5 lakh",
+     "9.08 lakh",
+     "10 lakh",
+     "11 lakh"
+    ],
+    "o_gu": [
+     "8.5 લાખ",
+     "9.08 લાખ",
+     "10 લાખ",
+     "11 લાખ"
+    ],
+    "a": 1,
+    "e_en": "The reports state 9.08 lakh systems installed.",
+    "e_gu": "રિપોર્ટમાં 9.08 લાખ સિસ્ટમો લગાવ્યા હોવાનું જણાવાયું છે."
+   },
+   "id": "ca-gujarat-installs-9-08-lakh-rooftop-solar-systems-hits-90-tar",
+   "source": "https://www.aninews.in/news/national/general-news/gujarat-installs-908-lakh-rooftop-solar-systems-achieves-90-of-10-lakh-target20261102162108",
+   "exam": {
+    "score": 7,
+    "why": "Gujarat rooftop solar achievement"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.aninews.in/news/national/general-news/gujarat-installs-908-lakh-rooftop-solar-systems-achieves-90-of-10-lakh-target20261102162108"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://thenewsmill.com/2026/11/gujarat-installs-9-08-lakh-rooftop-solar-systems-hits-90-target/"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://english.gujaratsamachar.com/news/gujarat/gujarat-installs-908-lakh-rooftop-solar-systems-reaches-3408-mw-capacity-84298920054"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-02"
+  },
+  {
    "category": "schemes",
    "title_en": "‘Save the Field’ campaign launched for Rabi 2026",
    "title_gu": "રબી 2026 માટે ‘ખેત બચાવો’ અભિયાન શરૂ",
@@ -1408,6 +1584,96 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://www.jagranjosh.com/news/gujarat-makes-mental-health-support-mandatory-in-schools-check-new-rules-for-classes-9-to-12-188861"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-02"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Centre notifies grievance rules for rural employment scheme",
+   "title_gu": "કેન્દ્રે ગ્રામિણ રોજગારી યોજના માટે ફરિયાદ નિયમો જાહેર કર્યા",
+   "summary_en": "The Union Ministry of Rural Development issued rules on 2 Nov 2026 for handling complaints under the Viksit Bharat‑Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025.",
+   "summary_gu": "યુનિયન ગ્રામ વિકાસ મંત્રીએ 2 નવેમ્બર 2026ને વિકસિત ભારત‑ગેરંટી રોજગાર અને આયુવિકા મિશન (ગ્રામિન) અધિનિયમ, 2025 હેઠળની ફરિયાદો માટે નિયમો જાહેર કર્યા.",
+   "facts": [
+    {
+     "k_en": "Act",
+     "k_gu": "અધિનિયમ",
+     "v_en": "Viksit Bharat‑Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025",
+     "v_gu": "વિકસિત ભારત‑ગેરંટી રોજગાર અને આયુવિકા મિશન (ગ્રામિન) અધિનિયમ, 2025"
+    },
+    {
+     "k_en": "Rules notified",
+     "k_gu": "નિયમો જાહેર",
+     "v_en": "2 Nov 2026",
+     "v_gu": "2 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Resolution time",
+     "k_gu": "નિર્ણય સમય",
+     "v_en": "15 days",
+     "v_gu": "15 દિવસ"
+    },
+    {
+     "k_en": "Enquiry time",
+     "k_gu": "તપાસ સમય",
+     "v_en": "7 working days",
+     "v_gu": "7 કાર્યદિવસ"
+    },
+    {
+     "k_en": "Mechanism levels",
+     "k_gu": "મેકેનિઝમ સ્તરો",
+     "v_en": "Gram panchayat, block, district",
+     "v_gu": "ગ્રામ પંચાયત, બ્લોક, જિલ્લો"
+    }
+   ],
+   "points_en": [
+    "Three‑tier grievance cells will be set up at local, block and district levels.",
+    "Designated officers must register every complaint and give an acknowledgement.",
+    "Unresolved complaints move to the next higher level and are tracked digitally."
+   ],
+   "points_gu": [
+    "સ્થાનિક, બ્લોક અને જિલ્લો સ્તરે ત્રણ‑સ્તરની ફરિયાદ કક્ષાઓ સ્થાપિત થશે.",
+    "નિયુક્ત અધિકારીઓ દરેક ફરિયાદ નોંધશે અને સ્વીકારપત્ર આપશે.",
+    "અનસોલ્વ્ડ ફરિયાદો ઉપરના સ્તરે જાય છે અને ડિજિટલ રીતે ટ્રૅક થાય છે."
+   ],
+   "context_en": "The VB‑GRAM G scheme is the central government's rural employment guarantee programme launched in 2025.",
+   "context_gu": "વીબી‑ગ્રામ જી યોજના 2025માં શરૂ થયેલી કેન્દ્રિય ગ્રામિણ રોજગારી ગેરંટી યોજના છે.",
+   "remember_en": "15‑day deadline for grievance resolution under VB‑GRAM G Act.",
+   "remember_gu": "વીબી‑ગ્રામ જી અધિનિયમ હેઠળ ફરિયાદ નિરાકરણ માટે 15‑દિવસની સમયમર્યાદા.",
+   "why_en": "Exam may ask about grievance mechanisms and time limits for rural schemes.",
+   "why_gu": "પરીક્ષામાં ગ્રામિણ યોજનાઓની ફરિયાદ પ્રક્રિયા અને સમયમર્યાદા વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 2 Nov 2026 the Union Ministry of Rural Development issued the Viksit Bharat‑Guarantee for Rozgar and Ajeevika Mission (Gramin) Grievance Redressal Rules, 2026. The rules require each state to set up a three‑tier system at gram panchayat, block and district levels, with a designated grievance officer at each tier. Complaints can be lodged in person, by post, phone or a digital platform and must be entered into the digital system on the day of receipt or the next working day. An enquiry must be completed within seven working days and the complaint resolved within fifteen days. Unresolved cases are escalated to the next level and monitored electronically. A district programme coordinator will oversee the process.",
+   "details_gu": "2 નવેમ્બર 2026ને યુનિયન ગ્રામ વિકાસ મંત્રીએ વિકસિત ભારત‑ગેરંટી રોજગાર અને આયુવિકા મિશન (ગ્રામિન) ફરિયાદ નિકાલ નિયમો, 2026 જાહેર કર્યા. આ નિયમો મુજબ દરેક રાજ્યએ ગ્રામ પંચાયત, બ્લોક અને જિલ્લો સ્તરે ત્રણ‑સ્તરની વ્યવસ્થા સ્થાપિત કરવી, અને દરેક સ્તરે નિર્ધારિત ફરિયાદ અધિકારી રાખવો. ફરિયાદો વ્યક્તિગત રીતે, પોસ્ટ, ફોન અથવા ડિજિટલ પ્લેટફોર્મ દ્વારા આપી શકાય અને પ્રાપ્ત થયેલી દિવસે અથવા翌 કાર્યદિવસમાં ડિજિટલ સિસ્ટમમાં દાખલ કરવી. તપાસ સાત કાર્યદિવસમાં પૂર્ણ કરવી અને ફરિયાદ પંદર દિવસમાં નિકાલ કરવી. નિકાલ ન થયેલી ફરિયાદો ઉપરના સ્તરે વધારીને ઇલેક્ટ્રોનિક રીતે મોનિટર કરવામાં આવશે. જિલ્લો કાર્યક્રમ સમન્વયક આ પ્રક્રિયાનો દેખરેખ રાખશે.",
+   "mcq": {
+    "q_en": "Under the new rules, how many working days are allotted for the enquiry of a grievance?",
+    "q_gu": "નવા નિયમો હેઠળ, ફરિયાદની તપાસ માટે કેટલા કાર્યદિવસો નક્કી કરવામાં આવ્યા છે?",
+    "o_en": [
+     "5 days",
+     "7 days",
+     "10 days",
+     "15 days"
+    ],
+    "o_gu": [
+     "5 દિવસ",
+     "7 દિવસ",
+     "10 દિવસ",
+     "15 દિવસ"
+    ],
+    "a": 1,
+    "e_en": "The rules state an enquiry must be completed within seven working days.",
+    "e_gu": "નિયમો મુજબ તપાસ સાત કાર્યદિવસમાં પૂર્ણ કરવી જરૂરી છે."
+   },
+   "id": "ca-centre-notifies-grievance-rules-for-rural-employment-scheme",
+   "source": "https://www.thehindu.com/news/national/government-notifies-grievance-redressal-rules-under-vb-g-ram-g-act-fixes-15-day-deadline/article71656383.ece",
+   "exam": {
+    "score": 6,
+    "why": "Grievance redressal rules for rural employment"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/government-notifies-grievance-redressal-rules-under-vb-g-ram-g-act-fixes-15-day-deadline/article71656383.ece"
     }
    ],
    "by": "groq",
