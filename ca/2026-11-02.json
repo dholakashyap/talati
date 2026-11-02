@@ -177,6 +177,95 @@
   },
   {
    "category": "schemes",
+   "title_en": "Survey of India maps 14,866 Gujarat villages under SVAMITVA",
+   "title_gu": "સર્વે ઓફ ઈન્ડિયાએ એસવામિત્વા હેઠળ ૧૪,૮૬૬ ગામોનું નકશો તૈયાર કર્યો",
+   "summary_en": "The Survey of India finished mapping rural habitations in 14,866 Gujarat villages for the SVAMITVA scheme.",
+   "summary_gu": "સર્વે ઓફ ઈન્ડિયાએ એસવામિત્વા યોજના હેઠળ ગુજરાતના ૧૪,૮૬૬ ગામોના ગ્રામ્ય નિવાસ સ્થળોનું નકશો પૂર્ણ કર્યું.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Mapping of 14,866 villages",
+     "v_gu": "૧૪,૮૬૬ ગામોનું નકશો"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat, Daman and Diu",
+     "v_gu": "ગુજરાત, દમન અને દીવ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Nov 2, 2023",
+     "v_gu": "૨ નવેમ્બર ૨૦૨૩"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજન",
+     "v_en": "SVAMITVA (Survey of Villages and Mapping for Tenure and Village Assets)",
+     "v_gu": "એસવામિત્વા (ગામોનું સર્વે અને જમીન અધિકારો માટે નકશો)"
+    },
+    {
+     "k_en": "Director",
+     "k_gu": "નિર્દેશક",
+     "v_en": "Siddhant Sen",
+     "v_gu": "સિદ્ધાંત સેન"
+    }
+   ],
+   "points_en": [
+    "Mapping provides a base for legal land ownership documents.",
+    "The directorate also maps 55 cities under AMRUT 2.0.",
+    "102 CORS stations give centimetre‑level positioning across the state."
+   ],
+   "points_gu": [
+    "નકશો કાનૂની જમીન માલિકી દસ્તાવેજો માટે આધાર આપે છે.",
+    "નિર્દેશાલય AMRUT 2.0 હેઠળ ૫૫ શહેરોનું નકશો પણ કરે છે.",
+    "૧૦૨ CORS સ્ટેશનો રાજ્યમાં સેન્ટીમીટર સ્તરની સ્થિતિ સેવા આપે છે."
+   ],
+   "context_en": "SVAMITVA is a central government scheme to grant legal ownership to rural households by mapping their habitations.",
+   "context_gu": "એસવામિત્વા કેન્દ્ર સરકારની યોજના છે, જે ગ્રામ્ય ઘરેલુઓને નકશાકરણ દ્વારા કાનૂની માલિકી આપે છે.",
+   "remember_en": "SVAMITVA mapping covered 14,866 Gujarat villages on Nov 2 2023.",
+   "remember_gu": "એસવામિત્વા નકશાકરણ ૨ નવેમ્બર ૨૦૨૩એ ૧૪,૮૬૬ ગુજરાત ગામોનું આવરી લીધું.",
+   "why_en": "Exam may ask about SVAMITVA coverage and Survey of India’s role.",
+   "why_gu": "પરીક્ષામાં એસવામિત્વા કવરેજ અને સર્વે ઓફ ઈન્ડિયાની ભૂમિકા પૂછાઈ શકે.",
+   "details_en": "On November 2, 2023, the Survey of India’s Gujarat, Daman and Diu Geospatial Directorate in Gandhinagar announced that it had completed mapping of rural habitation areas in 14,866 villages across Gujarat under the central SVAMITVA scheme. Director Siddhant Sen highlighted that the mapping creates a geospatial foundation for issuing legal ownership documents to rural households. The directorate also works on urban mapping for 55 cities under the AMRUT 2.0 scheme and provides real‑time positioning through 102 Continuously Operating Reference Stations, benefiting engineers, farmers and drone operators.",
+   "details_gu": "૨ નવેમ્બર ૨૦૨૩એ ગાંધીનગરમાં સ્થિત સર્વે ઓફ ઈન્ડિયાની ગુજરાત, દમન અને દીવ જિયોસ્પેશિયલ ડિરેક્ટોરેટે જાહેર કર્યું કે તેણે એસવામિત્વા કેન્દ્રિય યોજનાના અંતર્ગત ગુજરાતના ૧૪,૮૬૬ ગામોમાં ગ્રામ્ય નિવાસ સ્થળોનું નકશો પૂર્ણ કર્યું છે. નિર્દેશક સિદ્ધાંત સેનએ જણાવ્યું કે આ નકશો ગ્રામ્ય ઘરેલુઓને કાનૂની માલિકી દસ્તાવેજો આપવા માટે આધારરૂપ છે. નિર્દેશાલય AMRUT 2.0 હેઠળ ૫૫ શહેરોનું નકશો અને ૧૦૨ CORS સ્ટેશનો દ્વારા રીઅલ‑ટાઇમ પોઝિશનિંગ સેવા પણ આપે છે, જે ઇજનેરો, ખેડૂત અને ડ્રોન ઓપરેટરો માટે ઉપયોગી છે.",
+   "mcq": {
+    "q_en": "How many Gujarat villages were mapped under the SVAMITVA scheme?",
+    "q_gu": "એસવામિત્વા યોજનામાં કેટલા ગુજરાત ગામોનું નકશો તૈયાર થયું?",
+    "o_en": [
+     "12,500",
+     "14,866",
+     "16,200",
+     "18,000"
+    ],
+    "o_gu": [
+     "૧૨,૫૦૦",
+     "૧૪,૮૬૬",
+     "૧૬,૨૦૦",
+     "૧૮,૦૦૦"
+    ],
+    "a": 1,
+    "e_en": "The Survey of India completed mapping of 14,866 villages.",
+    "e_gu": "સર્વે ઓફ ઈન્ડિયાએ ૧૪,૮૬૬ ગામોનું નકશો પૂર્ણ કર્યું."
+   },
+   "id": "ca-survey-of-india-maps-14-866-gujarat-villages-under-svamitva",
+   "source": "https://www.socialnews.xyz/2026/11/02/gujarat-survey-of-india-maps-14866-villages-under-svamitva-scheme/",
+   "exam": {
+    "score": 7,
+    "why": "SVAMITVA village mapping under land rights scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.socialnews.xyz/2026/11/02/gujarat-survey-of-india-maps-14866-villages-under-svamitva-scheme/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
    "title_en": "‘Save the Field’ campaign launched for Rabi 2026",
    "title_gu": "રબી 2026 માટે ‘ખેત બચાવો’ અભિયાન શરૂ",
    "summary_en": "The nationwide ‘Save the Field’ (Kheti Bachao Abhiyan) runs from 22 Oct to 30 Nov 2026 to improve soil health and promote sustainable farming.",
@@ -438,6 +527,273 @@
     {
      "name": "The Hindu",
      "url": "https://www.thehindu.com/news/national/government-notifies-grievance-redressal-rules-under-vb-g-ram-g-act-fixes-15-day-deadline/article71656383.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "Khushbu Rajakbhai wins silver in judo at Dakar Youth Olympics",
+   "title_gu": "ખુશ્બુ રાજકભાઈએ ડકાર યુથ ઓલિમ્પિક્સમાં જુડો સિલ્વર જીતી",
+   "summary_en": "15‑year‑old Khushbu Rajakbhai earned a silver medal in the women’s 63 kg judo event at the Dakar 2026 Youth Olympic Games.",
+   "summary_gu": "૧૫ વર્ષીય ખુશ્બુ રાજકભાઈએ ડકાર 2026 યુથ ઓલિમ્પિક્સમાં સ્ત્રી ૬૩ કિગ્રા જુડો સ્પર્ધામાં સિલ્વર પદક જીતી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Khushbu Rajakbhai**",
+     "v_gu": "**ખુશ્બુ રાજકભાઈ**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Silver medal** in judo",
+     "v_gu": "**સિલ્વર પદક** જુડોમાં"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Dakar, Senegal** (Youth Olympic Games)",
+     "v_gu": "**ડકાર, સેનેગલ** (યુથ ઓલિમ્પિક્સ)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**Monday, 2026**",
+     "v_gu": "**સોમવાર, 2026**"
+    },
+    {
+     "k_en": "Category",
+     "k_gu": "શ્રેણી",
+     "v_en": "**Women’s 63 kg**",
+     "v_gu": "**સ્ત્રી ૬૩ કિગ્રા**"
+    }
+   ],
+   "points_en": [
+    "She lost to Germany’s Jolina Reinhold by ippon in 48 seconds.",
+    "Khushbu became the second Indian judoka to win a Youth Olympic medal.",
+    "India’s only other Youth Olympic judo medal is a silver by Thangjam Tababi Devi in 2018."
+   ],
+   "points_gu": [
+    "તેણી જર્મનીની જોલિના રેઈનહોલ્ડને ૪૮ સેકંડમાં ઇપોનથી હરાવી.",
+    "ખુશ્બુ ભારતની બીજી યુથ ઓલિમ્પિક જુડો પદકધારી બની.",
+    "ભારતમાં જુડો માં પહેલો પદક ૨૦૧૮ માં થાંજજમ ટાબાબી દેવીને સિલ્વર મળ્યો."
+   ],
+   "context_en": "The Youth Olympic Games are an international multi‑sport event for athletes aged 14‑18, held every four years.",
+   "context_gu": "યુથ ઓલિમ્પિક્સ ૧૪‑૧૮ વર્ષના કિશોરો માટેનું આંતરરાષ્ટ્રીય ક્રીડા સમારોહ છે, દરેક ચાર વર્ષમાં થાય છે.",
+   "remember_en": "Khushbu Rajakbhai – 15, silver, women’s 63 kg judo, Dakar 2026.",
+   "remember_gu": "ખુશ્બુ રાજકભાઈ – ૧૫, સિલ્વર, સ્ત્રી ૬૩ કિગ્રા જુડો, ડકાર 2026.",
+   "why_en": "Shows India’s growing strength in judo at youth level.",
+   "why_gu": "ભારતની યુવા સ્તરે જુડો શક્તિમાં વૃદ્ધિ દર્શાવે છે.",
+   "details_en": "At the Dakar 2026 Youth Olympic Games, 15‑year‑old Khushbu Rajakbhai from Gujarat reached the women’s 63 kg judo final. She beat Guinea’s Mamaissata Camara, Morocco’s Abir Bouazzaoui and Algeria’s Dounia Berrahoual, the last by ippon after a Hansoku‑make penalty. In the final, Germany’s Jolina Reinhold defeated her by ippon in just 48 seconds, giving Khushbu a silver medal. She is the second Indian judoka to win a Youth Olympic medal, after Thangjam Tababi Devi’s silver in 2018.",
+   "details_gu": "ડકાર 2026 યુથ ઓલિમ્પિક્સમાં ૧૫ વર્ષીય ગુજરાતની ખુશ્બુ રાજકભાઈ સ્ત્રી ૬૩ કિગ્રા જુડો અંતિમમાં પહોંચી. તેણીએ ગુઇનેની મમાઈસતા કમારા, મોરોક્કોની અબિર બૌઝાઉઈ અને અલ્જીરિયાની દુનિયા બેરાહુઅલને હરાવી, છેલ્લી સામે હાન્સોકુ‑મેક (સૌથી કડક દંડ) પછી ઇપોનથી જીત મેળવી. અંતિમમાં જર્મનીની જોલિના રેઈનહોલ્ડે ૪૮ સેકંડમાં ઇપોનથી તેને હરાવી, જેથી ખુશ્બુને સિલ્વર પદક મળ્યો. તેણી ભારતની બીજી યુથ ઓલિમ્પિક જુડો પદકધારી છે, ૨૦૧૮ માં થાંજજમ ટાબાબી દેવીની સિલ્વર પછી.",
+   "mcq": {
+    "q_en": "Which Indian judoka won a silver medal in the women’s 63 kg event at the Dakar 2026 Youth Olympic Games?",
+    "q_gu": "ડકાર 2026 યુથ ઓલિમ્પિક્સમાં સ્ત્રી ૬૩ કિગ્રા જુડો ઇવેન્ટમાં સિલ્વર પદક જીતનાર ભારતીય જુડો કોણ છે?",
+    "o_en": [
+     "Thangjam Tababi Devi",
+     "Manu Bhaker",
+     "Khushbu Rajakbhai",
+     "Jeremy Lalrinnunga"
+    ],
+    "o_gu": [
+     "થાંજજમ ટાબાબી દેવી",
+     "મનુ ભાકર",
+     "ખુશ્બુ રાજકભાઈ",
+     "જેરેમી લાલરિનુંગા"
+    ],
+    "a": 2,
+    "e_en": "Khushbu Rajakbhai won the silver medal.",
+    "e_gu": "ખુશ્બુ રાજકભાઈએ સિલ્વર પદક જીતી."
+   },
+   "id": "ca-khushbu-rajakbhai-wins-silver-in-judo-at-dakar-youth-olympic",
+   "source": "https://sportstar.thehindu.com/other-sports/dakar-2026-youth-olympics-khushbu-rajakbhai-judo-silver-medal-all-you-need-to-know-profile-bio/article71658284.ece",
+   "exam": {
+    "score": 6,
+    "why": "Youth Olympics silver for Indian judoka"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/other-sports/dakar-2026-youth-olympics-khushbu-rajakbhai-judo-silver-medal-all-you-need-to-know-profile-bio/article71658284.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "India sends 54 shooters to ISSF World Championship 2026 in Doha",
+   "title_gu": "ભારત 54 શૂટર્સ સાથે કતારમાં ISSF વર્લ્ડ ચેમ્પિયનશિપ 2026 માં જાય છે",
+   "summary_en": "India's shooting team of 54 athletes will compete in Doha from November 3. The event offers 36 Olympic quota places for LA28.",
+   "summary_gu": "ભારતની 54 શૂટર્સની ટીમ 3 નવેમ્બરથી કતારમાં ડોહામાં સ્પર્ધા કરશે. આ ઇવેન્ટમાં LA28 માટે 36 ઓલિમ્પિક ક્વોટા સ્થાન છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Manu Bhaker leads the squad",
+     "v_gu": "મનુ ભાકર ટીમનું નેતૃત્વ કરે છે"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "54 shooters representing India",
+     "v_gu": "ભારતનું 54 શૂટર્સનું પ્રતિનિધિત્વ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Doha, Qatar",
+     "v_gu": "ડોહા, કતાર"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Starts 3 November 2026",
+     "v_gu": "3 નવેમ્બર 2026 થી શરૂ"
+    },
+    {
+     "k_en": "Quota",
+     "k_gu": "ક્વોટા",
+     "v_en": "36 Olympic spots across 12 events",
+     "v_gu": "12 ઇવેન્ટમાં 36 ઓલિમ્પિક સ્થાન"
+    }
+   ],
+   "points_en": [
+    "Manu Bhaker will shoot 10m air pistol and 25m pistol.",
+    "India has 35 shooters in Olympic events, 19 in non‑Olympic events.",
+    "Live streaming is on the ISSF YouTube channel, not on Indian TV."
+   ],
+   "points_gu": [
+    "મનુ ભાકર 10મી એયર પિસ્ટોલ અને 25મી પિસ્ટોલમાં સ્પર્ધા કરશે.",
+    "ભારતમાં 35 શૂટર્સ ઓલિમ્પિક ઇવેન્ટમાં, 19 નોન‑ઓલિમ્પિકમાં.",
+    "લાઇવ સ્ટ્રીમ ISSF યૂટ્યુબ ચેનલ પર, ભારતીય ટીવી પર નહીં."
+   ],
+   "context_en": "The International Shooting Sport Federation (ISSF) organizes the World Championship, the main qualifier for the 2028 Los Angeles Olympics.",
+   "context_gu": "ઇન્ટરનેશનલ શૂટિંગ સ્પોર્ટ ફેડરેશન (ISSF) વર્લ્ડ ચેમ્પિયનશિપનું આયોજન કરે છે, જે 2028 લોસ એન્જેલેસ ઓલિમ્પિક્સ માટે મુખ્ય ક્વોલિફાયર છે.",
+   "remember_en": "India’s squad: 54 shooters, led by Manu Bhaker, in Doha from 3 Nov.",
+   "remember_gu": "ભારતની ટીમ: 54 શૂટર્સ, મનુ ભાકરનું નેતૃત્વ, 3 નવેમ્બરથી ડોહા.",
+   "why_en": "Exam may ask about team size, leader, venue, dates and Olympic quota importance.",
+   "why_gu": "પરીક્ષામાં ટીમનું કદ, નેતા, સ્થળ, તારીખ અને ક્વોટા મહત્વ વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "India will field 54 shooters at the ISSF World Championship 2026 in Doha, Qatar, beginning on 3 November. Two‑time Olympic medallist Manu Bhaker heads the squad and will compete in both the women’s 10m air pistol and 25m pistol events. Out of the 54, 35 shooters are entered in the 12 Olympic events that offer a total of 36 quota places for the Los Angeles 2028 Games. The remaining 19 athletes will compete in non‑Olympic disciplines. The championship is streamed live on the ISSF YouTube channel; no Indian television channel will broadcast it live.",
+   "details_gu": "ભારત 54 શૂટર્સ સાથે કતારના ડોહામાં 2026 ISSF વર્લ્ડ ચેમ્પિયનશિપમાં 3 નવેમ્બરથી ભાગ લેશે. બે વખત ઓલિમ્પિક મેડેલિસ્ટ મનુ ભાકર ટીમનું નેતૃત્વ કરે છે અને સ્ત્રી 10મી એયર પિસ્ટોલ અને 25મી પિસ્ટોલ બંનેમાં સ્પર્ધા કરશે. 54 માંથી 35 શૂટર્સ 12 ઓલિમ્પિક ઇવેન્ટમાં દાખલ છે, જે LA28 માટે કુલ 36 ક્વોટા સ્થાન આપે છે. બાકી 19 નોન‑ઓલિમ્પિક ઇવેન્ટમાં સ્પર્ધા કરશે. ઇવેન્ટનું લાઇવ સ્ટ્રીમ ISSF યૂટ્યુબ ચેનલ પર હશે, ભારતીય ટીવી પર નહીં.",
+   "mcq": {
+    "q_en": "How many Indian shooters are competing in Olympic events at the 2026 ISSF World Championship?",
+    "q_gu": "2026 ISSF વર્લ્ડ ચેમ્પિયનશિપમાં ઓલિમ્પિક ઇવેન્ટમાં કેટલા ભારતીય શૂટર્સ સ્પર્ધા કરે છે?",
+    "o_en": [
+     "35",
+     "54",
+     "19",
+     "12"
+    ],
+    "o_gu": [
+     "35",
+     "54",
+     "19",
+     "12"
+    ],
+    "a": 0,
+    "e_en": "The source states 35 shooters are entered in Olympic events.",
+    "e_gu": "સ્રોતમાં જણાવાયું છે કે 35 શૂટર્સ ઓલિમ્પિક ઇવેન્ટમાં દાખલ છે."
+   },
+   "id": "ca-india-sends-54-shooters-to-issf-world-championship-2026-in-d",
+   "source": "https://sportstar.thehindu.com/shooting/issf-world-championship-2026-doha-india-squad-schedule-live-streaming/article71657523.ece",
+   "exam": {
+    "score": 6,
+    "why": "ISSF World Championship squad, Olympic quota info"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/shooting/issf-world-championship-2026-doha-india-squad-schedule-live-streaming/article71657523.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "PM Sun House scheme adds 6.5 million families in 2 years",
+   "title_gu": "પી.એમ. સૂર્ય ઘર યોજના ૨ વર્ષમાં ૬.૫ મિલિયન પરિવારોને જોડે છે",
+   "summary_en": "The Prime Minister opened the India Renewable Energy Summit 2026 and highlighted rapid growth of the PM Sun House free electricity scheme.",
+   "summary_gu": "પ્રધાનમંત્રીએ ભારત નવિકરણ ઊર્જા શિખર સમ્મેલન 2026નું ઉદ્ઘાટન કર્યું અને પી.એમ. સૂર્ય ઘર મફત વીજળી યોજના ની ઝડપી વૃદ્ધિ દર્શાવી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Prime Minister Narendra Modi",
+     "v_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "PM Sun House free electricity scheme",
+     "v_gu": "પી.એમ. સૂર્ય ઘર મફત વીજળી યોજના"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Feb 2024 start; 24‑25 months later",
+     "v_gu": "ફેબ્રુઆરી 2024 શરૂ; ૨૪‑૨૫ મહિના બાદ"
+    },
+    {
+     "k_en": "How many families",
+     "k_gu": "કેટલા પરિવારો",
+     "v_en": "6.5 million families joined",
+     "v_gu": "૬.૫ મિલિયન પરિવારો જોડાયા"
+    },
+    {
+     "k_en": "Bill reduction",
+     "k_gu": "બિલમાં ઘટાડો",
+     "v_en": "~76 % electricity‑bill cut",
+     "v_gu": "લગભગ ૭૬ % વીજ બિલમાં ઘટાડો"
+    }
+   ],
+   "points_en": [
+    "6.5 million families joined in about two years",
+    "One lakh new homes added every six days",
+    "Average bill fell by 76 % and many now earn by selling surplus power"
+   ],
+   "points_gu": [
+    "લગભગ બે વર્ષમાં ૬.૫ મિલિયન પરિવારો જોડાયા",
+    "દર છ દિવસમાં એક લાખ નવા ઘર જોડાય છે",
+    "વીજ બિલમાં ૭૬ % ઘટાડો, ઘણાં ઘરોએ વધારાનો વીજ વેચીને આવક મેળવી"
+   ],
+   "context_en": "PM Sun House (PM Sury Ghar) is a central government scheme launched Feb 2024 to install rooftop solar panels on one crore homes.",
+   "context_gu": "પી.એમ. સૂર્ય ઘર કેન્દ્રિય સરકારની યોજના છે, જે ફેબ્રુઆરી 2024માં શરૂ થઈ અને એક કરોડ ઘરોએ રૂફટોપ સોલર પેનલ લગાવવાનું લક્ષ્ય ધરાવે છે.",
+   "remember_en": "6.5 million families, 76 % bill cut, 1 lakh homes every 6 days.",
+   "remember_gu": "૬.૫ મિલિયન પરિવારો, ૭૬ % બિલમાં ઘટાડો, ૬ દિવસમાં ૧ લાખ ઘર.",
+   "why_en": "Exam may ask numbers, scheme name and its impact on energy security.",
+   "why_gu": "પરીક્ષામાં આંકડા, યોજના નામ અને ઊર્જા સુરક્ષામાં તેના પ્રભાવ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "Prime Minister Narendra Modi opened the India Renewable Energy Summit and Expo 2026 in Delhi. He said the PM Sun House free electricity scheme, started in February 2024, has already linked more than 6.5 million families in 24‑25 months. About one lakh new homes join every six days. A study shows the scheme cut electricity bills by roughly 76 %, with many families now earning income by selling surplus solar power to the grid. The rapid progress demonstrates India’s push for clean energy and energy‑security amid global crises.",
+   "details_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ દિલ્હી માં ભારત નવિકરણ ઊર્જા શિખર સમ્મેલન અને એક્સપો 2026નું ઉદ્ઘાટન કર્યું. તેમણે કહ્યું કે ફેબ્રુઆરી 2024માં શરૂ થયેલી પી.એમ. સૂર્ય ઘર મફત વીજળી યોજના ૨૪‑૨૫ મહિના માં ૬.૫ મિલિયન કરતાં વધુ પરિવારોને જોડે છે. દરેક છ દિવસમાં એક લાખ નવા ઘર જોડાય છે. અભ્યાસ દર્શાવે છે કે આ યોજનાએ વીજ બિલમાં લગભગ ૭૬ % ઘટાડો કર્યો છે, અને ઘણાં પરિવારો હવે વધારાનો વીજ ગ્રિડને વેચીને આવક મેળવે છે. આ ઝડપી પ્રગતિ વૈશ્વિક સંકટો વચ્ચે ભારતની સ્વચ્છ ઊર્જા અને ઊર્જા‑સુરક્ષા માટેની પ્રતિબદ્ધતા દર્શાવે છે.",
+   "mcq": {
+    "q_en": "How many families had joined the PM Sun House scheme about two years after its launch?",
+    "q_gu": "લગભગ બે વર્ષમાં પી.એમ. સૂર્ય ઘર યોજનામાં કેટલા પરિવારો જોડાયા?",
+    "o_en": [
+     "1.5 million",
+     "3 million",
+     "6.5 million",
+     "10 million"
+    ],
+    "o_gu": [
+     "૧.૫ મિલિયન",
+     "૩ મિલિયન",
+     "૬.૫ મિલિયન",
+     "૧૦ મિલિયન"
+    ],
+    "a": 2,
+    "e_en": "The sources state over 6.5 million families joined in 24‑25 months.",
+    "e_gu": "સ્રોતો મુજબ ૨૪‑૨૫ મહિના માં ૬.૫ મિલિયનથી વધુ પરિવારો જોડાયા."
+   },
+   "id": "ca-pm-sun-house-scheme-adds-6-5-million-families-in-2-years",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331787",
+   "exam": {
+    "score": 6,
+    "why": "PM opens Renewable Energy Summit 2026"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331787"
     }
    ],
    "by": "groq"
