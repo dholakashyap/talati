@@ -2038,6 +2038,96 @@
    ],
    "by": "groq",
    "date": "2026-11-02"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat government gives over Rs 9.27 crore to Asian Games medalists",
+   "title_gu": "ગુજરાત સરકારએ એશિયન ગેમ્સ મેડલવિજેતાઓને રૂ. 9.27 કરોડથી વધુની રકમ આપી",
+   "summary_en": "Deputy Chief Minister Harsh Sanghvi handed cash cheques worth more than Rs 9.27 crore to 18 medal‑winning athletes of the Asian and Para Asian Games.",
+   "summary_gu": "નાયબ મુખ્યમંત્રીએ હરશ સંઘવી દ્વારા એશિયન અને પેરા એશિયન ગેમ્સના ૧૮ મેડલવિજેતાઓને રૂ. 9.27 કરોડથી વધુના ચેક આપ્યા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Deputy Chief Minister Harsh Sanghvi",
+     "v_gu": "નાયબ મુખ્યમંત્રીએ હરશ સંઘવી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Cash awards to Asian Games medalists",
+     "v_gu": "એશિયન ગેમ્સ મેડલવિજેતાઓને રોકડ પુરસ્કારો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2024 (report date)",
+     "v_gu": "૨૦૨૪"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "More than Rs 9.27 crore",
+     "v_gu": "રૂ. 9.27 કરોડથી વધુ"
+    },
+    {
+     "k_en": "How many",
+     "k_gu": "કેટલા",
+     "v_en": "18 athletes",
+     "v_gu": "૧૮ ખેલાડીઓ"
+    }
+   ],
+   "points_en": [
+    "Checks were handed out by the deputy chief minister.",
+    "Athletes who could not attend will receive money via Direct Benefit Transfer.",
+    "The government promises better training and facilities."
+   ],
+   "points_gu": [
+    "ચેકો નાયબ મુખ્યમંત્રીએ આપ્યા.",
+    "ગેરહાજર ખેલાડીઓને ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર દ્વારા રકમ મળશે.",
+    "રાજ્ય શ્રેષ્ઠ તાલીમ અને સુવિધાઓ આપશે."
+   ],
+   "context_en": "The Asian Games is a continental multi‑sport event held every four years; Gujarat supports its athletes with cash incentives.",
+   "context_gu": "એશિયન ગેમ્સ એ ચાર વર્ષમાં એક વખત યોજાતો ખંડિય ક્રીડા સ્પર્ધા છે; ગુજરાત તેના ખેલાડીઓને રોકડ પ્રોત્સાહન આપે છે.",
+   "remember_en": "Harsh Sanghvi gave Rs 9.27 crore to 18 medalists.",
+   "remember_gu": "હરશ સંઘવી દ્વારા ૧૮ મેડલવિજેતાઓને રૂ. 9.27 કરોડ આપવામાં આવ્યા.",
+   "why_en": "Exam may ask about cash award scheme and the official who presented it.",
+   "why_gu": "પરીક્ષામાં રોકડ પુરસ્કાર યોજના અને પ્રદાન કરનાર અધિકારી વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Gujarat government honoured athletes who won medals at the Asian Games and Para Asian Games. Deputy Chief Minister Harsh Sanghvi handed out cheques totaling more than Rs 9.27 crore to 18 medal‑winning sportspersons. Those unable to attend the ceremony will receive their incentive directly in bank accounts through Direct Benefit Transfer. Officials said the move encourages youth and strengthens the state’s sports commitment.",
+   "details_gu": "ગુજરાત સરકારએ એશિયન ગેમ્સ અને પેરા એશિયન ગેમ્સમાં મેડલ જીતનાર ખેલાડીઓને સન્માનિત કર્યા. નાયબ મુખ્યમંત્રીએ હરશ સંઘવી દ્વારા રૂ. 9.27 કરોડથી વધુના ચેક ૧૮ મેડલવિજેતાઓને આપ્યા. જે ખેલાડીઓ સમારોહમાં હાજર ન થઈ શક્યા, તેમને ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર દ્વારા સીધા બેંક ખાતામાં રકમ મળશે. અધિકારીઓએ કહ્યું કે આ પગલું યુવાનોને પ્રોત્સાહિત કરે છે અને રાજ્યની ક્રીડા પ્રતિબદ્ધતા મજબૂત કરે છે.",
+   "mcq": {
+    "q_en": "Who presented the cash awards to the Asian Games medalists in Gujarat?",
+    "q_gu": "ગુજરાતમાં એશિયન ગેમ્સ મેડલવિજેતાઓને રોકડ પુરસ્કાર કોણે આપ્યો?",
+    "o_en": [
+     "Chief Minister Bhupendra Patel",
+     "Deputy Chief Minister Harsh Sanghvi",
+     "Sports Minister Hiren Shah",
+     "Governor Acharya Devvrat"
+    ],
+    "o_gu": [
+     "મુખ્યમંત્રીએ ભુપેન્દ્ર પટેલ",
+     "નાયબ મુખ્યમંત્રીએ હરશ સંઘવી",
+     "ક્રીડા મંત્રીએ હિરેન શાહ",
+     "ગવર્નર અચર્ય દેવવ્રત"
+    ],
+    "a": 1,
+    "e_en": "The awards were handed out by Deputy Chief Minister Harsh Sanghvi.",
+    "e_gu": "રોકડ પુરસ્કારો નાયબ મુખ્યમંત્રીએ હરશ સંઘવી આપ્યા."
+   },
+   "id": "ca-gujarat-government-gives-over-rs-9-27-crore-to-asian-games-m",
+   "source": "https://www.gujaratijagran.com/gujarat/gandhinagar/gujarat-honors-asian-games-medalists-with-rupees-9-cr-cash-awards-1978572",
+   "exam": {
+    "score": 6,
+    "why": "State cash award to Asian Games medalists"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratijagran.com/gujarat/gandhinagar/gujarat-honors-asian-games-medalists-with-rupees-9-cr-cash-awards-1978572"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-02"
   }
  ]
 }
