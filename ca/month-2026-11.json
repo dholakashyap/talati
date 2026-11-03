@@ -2130,6 +2130,256 @@
    "date": "2026-11-02"
   },
   {
+   "category": "days",
+   "title_en": "Prime Minister Narendra Modi attends Rashtriya Ekta Diwas at Ekta Nagar",
+   "title_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી એક્તા નગરમાં રાષ્ટ્રીય એકતા દિવસમાં હાજર",
+   "summary_en": "Prime Minister Narendra Modi took part in the Rashtriya Ekta Diwas celebration at Ekta Nagar.",
+   "summary_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી એક્તા નગરમાં રાષ્ટ્રીય એકતા દિવસની ઉજવણીમાં ભાગ લીધો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Narendra Modi",
+     "v_gu": "નરેન્દ્ર મોદી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Participated in Grand Celebration of Rashtriya Ekta Diwas",
+     "v_gu": "રાષ્ટ્રીય એકતા દિવસની મહા ઉજવણીમાં ભાગ લીધો"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Ekta Nagar",
+     "v_gu": "એક્તા નગર"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "Rashtriya Ekta Diwas is observed annually to promote national unity.",
+   "context_gu": "રાષ્ટ્રીય એકતા દિવસ દેશની એકતા પ્રોત્સાહિત કરવા માટે દર વર્ષે ઉજવાય છે.",
+   "remember_en": "Modi attended Rashtriya Ekta Diwas at Ekta Nagar.",
+   "remember_gu": "મોદી એક્તા નગરમાં રાષ્ટ્રીય એકતા દિવસમાં હાજર હતા.",
+   "why_en": "Shows central leadership’s support for national unity celebrations.",
+   "why_gu": "કેન્દ્રિય નેતૃત્વની રાષ્ટ્રીય એકતા ઉજવણી માટેની સમર્થન દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Who attended the Rashtriya Ekta Diwas celebration at Ekta Nagar?",
+    "q_gu": "એક્તા નગરમાં રાષ્ટ્રીય એકતા દિવસની ઉજવણીમાં કોણ હાજર હતા?",
+    "o_en": [
+     "Narendra Modi",
+     "Amit Shah",
+     "Rajnath Singh",
+     "Sonia Gandhi"
+    ],
+    "o_gu": [
+     "નરેન્દ્ર મોદી",
+     "અમિત શાહ",
+     "રાજનાથ સિંહ",
+     "સોનિયા ગાંધી"
+    ],
+    "a": 0,
+    "e_en": "Narendra Modi is mentioned as the participant.",
+    "e_gu": "નરેન્દ્ર મોદી ભાગ લેનાર તરીકે ઉલ્લેખિત છે."
+   },
+   "id": "ca-prime-minister-narendra-modi-attends-rashtriya-ekta-diwas-at",
+   "source": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-rashtriya-ekta-diwas-statue-of-unity-ekta-nagar",
+   "exam": {
+    "score": 9,
+    "why": "Rashtriya Ekta Diwas celebration"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-rashtriya-ekta-diwas-statue-of-unity-ekta-nagar"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-03"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat appoints 8,169 assistant teachers, plans 10,000 more",
+   "title_gu": "ગુજરાતે ૮,૧૬૯ સહાયક શિક્ષકોની નિમણૂક, ૧૦,૦૦૦ વધુની યોજના",
+   "summary_en": "The state handed appointment letters to 8,169 Vidya Sahayaks and will recruit about 10,000 more teachers.",
+   "summary_gu": "રાજ્યએ ૮,૧૬૯ વિદ્યાસહાયકને નિમણૂક પત્રો આપ્યા અને વધુ ૧૦,૦૦૦ શિક્ષકોની ભરતી કરશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Bhupendra Patel, Chief Minister of Gujarat",
+     "v_gu": "ભુપેન્દ્ર પટેલ, ગુજરાત મુખ્યમંત્રિ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "8,169 Vidya Sahayaks appointed",
+     "v_gu": "૮,૧૬૯ વિદ્યાસહાયકની નિમણૂક"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Monday, ceremony at Trimandir, Adalaj",
+     "v_gu": "સોમવાર, ટ્રિમંદિર, આડલજમાં સમારંભ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Trimandir, Adalaj, Gujarat",
+     "v_gu": "ટ્રિમંદિર, આડલજ, ગુજરાત"
+    },
+    {
+     "k_en": "Future recruitment",
+     "k_gu": "ભવિષ્યની ભરતી",
+     "v_en": "about 10,000 teachers planned",
+     "v_gu": "લગભગ ૧૦,૦૦૦ શિક્ષકોની યોજના"
+    }
+   ],
+   "points_en": [
+    "More than 6,000 of the appointed teachers are women.",
+    "The recruitment covered around 11,000 primary‑grade posts and 987 other‑medium posts.",
+    "Education Minister Pradyuman Vaja said the process used merit and technology."
+   ],
+   "points_gu": [
+    "નિયુક્ત શિક્ષકોમાં ૬,૦૦૦થી વધુ સ્ત્રીઓ છે.",
+    "ભરતીમાં લગભગ ૧૧,૦૦૦ પ્રાથમિક વર્ગ અને ૯૮૭ અન્ય માધ્યમનાં પદો સામેલ હતા.",
+    "શિક્ષણ મંત્રી પ્રદ્યુમન વાજાએ પ્રક્રિયામાં મેરિટ અને ટેકનોલોજીનો ઉપયોગ કર્યો."
+   ],
+   "context_en": "Vidya Sahayak is the title for assistant teachers in Gujarat’s primary schools.",
+   "context_gu": "વિદ્યાસહાયક ગુજરાતની પ્રાથમિક શાળાઓમાં સહાયક શિક્ષકનું પદ છે.",
+   "remember_en": "8,169 Vidya Sahayaks appointed; 10,000 more to be hired.",
+   "remember_gu": "૮,૧૬૯ વિદ્યાસહાયકની નિમણૂક; ૧૦,૦૦૦ વધુની ભરતી.",
+   "why_en": "Shows Gujarat’s push to strengthen primary education and women’s participation.",
+   "why_gu": "ગુજરાતમાં પ્રાથમિક શિક્ષણ અને સ્ત્રી ભાગીદારીને મજબૂત 만드는 પ્રયાસ દર્શાવે છે.",
+   "details_en": "On Monday at Trimandir in Adalaj, Chief Minister Bhupendra Patel gave appointment letters to 8,169 newly selected Vidya Sahayaks. Education Minister Pradyuman Vaja said the recruitment covered about 11,000 primary‑grade vacancies and 987 posts for other mediums, using merit‑based, transparent, technology‑driven selection. More than 6,000 of the appointees are women, highlighting growing female participation. Patel announced the state will recruit roughly 10,000 additional teachers soon, aiming to improve foundational literacy and skills in Gujarat’s schools.",
+   "details_gu": "સોમવારે આડલજના ટ્રિમંદિરમાં મુખ્યમંત્રિ ભુપેન્દ્ર પટેલે ૮,૧૬૯ નવા પસંદ થયેલ વિદ્યાસહાયકને નિમણૂક પત્રો આપ્યા. શિક્ષણ મંત્રી પ્રદ્યુમન વાજાએ જણાવ્યુ કે ભરતીમાં લગભગ ૧૧,૦૦૦ પ્રાથમિક વર્ગ અને ૯૮૭ અન્ય માધ્યમનાં પદો સામેલ હતા, અને પ્રક્રિયા મેરિટ, પારદર્શિતા અને ટેકનોલોજી પર આધારિત હતી. નિમણૂકમાં ૬,૦૦૦થી વધુ સ્ત્રીઓ છે, જે સ્ત્રી ભાગીદારીમાં વૃદ્ધિ દર્શાવે છે. પટેલે જણાવ્યુ કે રાજ્ય અંદાજે ૧૦,૦૦૦ વધુ શિક્ષકોની ભરતી કરશે, જેથી ગુજરાતની શાળાઓમાં મૂળભૂત સાક્ષરતા અને કૌશલ્યો સુધરે.",
+   "mcq": {
+    "q_en": "How many Vidya Sahayaks were appointed in the recent Gujarat ceremony?",
+    "q_gu": "તાજેતરની ગુજરાતની સમારંભમાં કેટલા વિદ્યાસહાયકની નિમણૂક થઈ?",
+    "o_en": [
+     "7,500",
+     "8,169",
+     "9,200",
+     "10,000"
+    ],
+    "o_gu": [
+     "૭,૫૦૦",
+     "૮,૧૬૯",
+     "૯,૨૦૦",
+     "૧૦,૦૦૦"
+    ],
+    "a": 1,
+    "e_en": "The ceremony handed out appointment letters to 8,169 Vidya Sahayaks.",
+    "e_gu": "સમારંભમાં ૮,૧૬૯ વિદ્યાસહાયકને નિમણૂક પત્રો આપ્યા હતા."
+   },
+   "id": "ca-gujarat-appoints-8-169-assistant-teachers-plans-10-000-more",
+   "source": "https://bestcolleges.indiatoday.in/news-detail/gujarat-appoints-8169-vidya-sahayaks-plans-recruitment-of-10000-more-teachers-12363",
+   "exam": {
+    "score": 8,
+    "why": "Large teacher recruitment, exam relevance"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://bestcolleges.indiatoday.in/news-detail/gujarat-appoints-8169-vidya-sahayaks-plans-recruitment-of-10000-more-teachers-12363"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-03"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Centre may extend Agniveer service by two years",
+   "title_gu": "કેન્દ્ર એ અગ્નિવીર સેવા સમય ૨ વર્ષ વધારી શકે",
+   "summary_en": "The government is likely to announce an extension of the Agniveer scheme’s four‑year tenure by two years before 21 November 2026.",
+   "summary_gu": "કેન્દ્ર ૨૧ નવેમ્બર ૨૦૨૬ પહેલાં અગ્નિવીર યોજના ની ૪‑વર્ષની સેવા સમયગાળો ૨ વર્ષ વધારી શકે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "possible two‑year extension of Agniveer tenure",
+     "v_gu": "અગ્નિવીર સેવા સમયગાળો ૨ વર્ષ વધારવાની શક્યતા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "announcement expected before 21 November 2026",
+     "v_gu": "જાહેરાત ૨૧ નવેમ્બર ૨૦૨૬ પહેલાં અપેક્ષિત"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજના",
+     "v_en": "Agniveer Scheme launched 14 June 2022",
+     "v_gu": "અગ્નિવીર યોજના ૧૪ જૂન ૨૦૨૨ ને શરૂ"
+    },
+    {
+     "k_en": "Current tenure",
+     "k_gu": "વર્તમાન સમયગાળો",
+     "v_en": "four years for Army, Navy, Air Force",
+     "v_gu": "સેનાઓ માટે ચાર વર્ષ"
+    },
+    {
+     "k_en": "Retention rate",
+     "k_gu": "રોકાણ દર",
+     "v_en": "25% retained after four years",
+     "v_gu": "૪ વર્ષ પછી ૨૫% રાખવામાં આવે છે"
+    }
+   ],
+   "points_en": [
+    "First batch of Navy Agniveers finish on 21 November 2026.",
+    "Air Force batch finishes on 21 December 2026; Army batch on 31 December 2026.",
+    "Seva Nidhi package after four years is about Rs 11.71 lakh."
+   ],
+   "points_gu": [
+    "નૌકા અગ્નિવીરની પ્રથમ બેચ ૨૧ નવેમ્બર ૨૦૨૬ ને પૂર્ણ કરે છે.",
+    "વાયુસેનાની બેચ ૨૧ ડિસેમ્બર ૨૦૨૬ ને, સેનાની બેચ ૩૧ ડિસેમ્બર ૨૦૨૬ ને પૂર્ણ થાય છે.",
+    "ચાર વર્ષ પછી સેવા નిధિ પેકેજ લગભગ રૂ. ૧૧.૭૧ લાખ છે."
+   ],
+   "context_en": "Agniveer Scheme recruits youth for short‑term service in Indian armed forces.",
+   "context_gu": "અગ્નિવીર યોજના ભારતીય સેનાઓમાં ટૂંકા સમય માટે યુવાનોને ભરતી કરે છે.",
+   "remember_en": "Extension could create three categories of Agniveers.",
+   "remember_gu": "વધારોથી અગ્નિવીર ત્રણ વર્ગમાં વહેંચાશે.",
+   "why_en": "Exam may ask about the proposed change and its impact on recruitment.",
+   "why_gu": "પરીક્ષામાં પ્રસ્તાવિત બદલાવ અને તેના પ્રભાવ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Central government is weighing a proposal to add two years to the existing four‑year Agniveer service. Sources say an announcement could come before 21 November 2026, when the first Navy batch completes its term. The Air Force batch will finish on 21 December and the Army batch on 31 December 2026. The scheme, launched on 14 June 2022, currently retains only 25% of Agniveers after four years; the rest receive a Seva Nidhi package of about Rs 11.71 lakh and a life‑insurance cover of Rs 48 lakh. The extension, if approved, would create three groups: extended‑tenure Agniveers, newly recruited Agniveers, and permanent soldiers.",
+   "details_gu": "કેન્દ્ર સરકાર હાલની ચાર‑વર્ષની અગ્નિવીર સેવા સમયગાળામાં બે વર્ષ ઉમેરવાના પ્રસ્તાવ પર વિચાર કરે છે. સ્ત્રોતો મુજબ ૨૧ નવેમ્બર ૨૦૨૬ પહેલાં જાહેરાત થઈ શકે, જ્યારે નૌકા બેચનો સમય સમાપ્ત થાય છે. વાયુસેનાની બેચ ૨૧ ડિસેમ્બર અને સેનાની બેચ ૩૧ ડિસેમ્બર ૨૦૨૬ ને પૂર્ણ થાય છે. ૧૪ જૂન ૨૦૨૨ ને શરૂ થયેલી યોજના માં માત્ર ૨૫% અગ્નિવીર ચાર વર્ષ પછી નિયમિત સેનામાં રાખવામાં આવે છે; બાકી ૭૫% ને લગભગ રૂ. ૧૧.૭૧ લાખની સેવા નిధિ પેકેજ અને રૂ. ૪૮ લાખનું જીવન વીમો મળે છે. પ્રસ્તાવિત વધારો મંજૂર થાય તો ત્રણ જૂથો બનશે: સમય વધારેલ અગ્નિવીર, નવો ભરતી થયેલ અગ્નિવીર અને સ્થાયી સૈનિકો.",
+   "mcq": {
+    "q_en": "When is the government likely to announce the Agniveer tenure extension?",
+    "q_gu": "કેન્દ્ર અગ્નિવીર સેવા સમયગાળો વધારવાની જાહેરાત ક્યારે કરવાની શક્યતા છે?",
+    "o_en": [
+     "Before 21 November 2026",
+     "After 31 December 2026",
+     "On 14 June 2022",
+     "In January 2027"
+    ],
+    "o_gu": [
+     "૨૧ નવેમ્બર ૨૦૨૬ પહેલાં",
+     "૩૧ ડિસેમ્બર ૨૦૨૬ પછી",
+     "૧૪ જૂન ૨૦૨૨ ને",
+     "જાન્યુઆરી ૨૦૨૭ માં"
+    ],
+    "a": 0,
+    "e_en": "Sources say the announcement is expected before 21 November 2026.",
+    "e_gu": "સ્ત્રોતો મુજબ જાહેરાત ૨૧ નવેમ્બર ૨૦૨૬ પહેલાં અપેક્ષિત છે."
+   },
+   "id": "ca-centre-may-extend-agniveer-service-by-two-years",
+   "source": "https://www.news9live.com/india/centre-may-extend-agniveer-scheme-by-2-years-announcement-likely-before-november-21-report-3021370",
+   "exam": {
+    "score": 8,
+    "why": "Possible extension of Agniveer scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.news9live.com/india/centre-may-extend-agniveer-scheme-by-2-years-announcement-likely-before-november-21-report-3021370"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-03"
+  },
+  {
    "category": "sports",
    "title_en": "Prime Volleyball League Season 5 to start in Ahmedabad on Nov 30",
    "title_gu": "પ્રાઇમ વોલીબોલ લીગ સીઝન 5 અમદાવાદમાં 30 નવેમ્બરથી શરૂ",
@@ -2394,6 +2644,90 @@
     {
      "name": "Google News (ગુજરાતી)",
      "url": "https://tv9gujarati.com/gujarat/rajkot/breaking-news-aiims-rajkot-advanced-cancer-radiotherapy-facility-inaugurated-j-p-nadda-health-news-1542433.html/amp"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-03"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat Government announces Diwali bonus for Class‑4 staff",
+   "title_gu": "ગુજરાત સરકારે વર્ગ‑4 કર્મચારીઓને દિવાળી બોનસની જાહેરાત કરી",
+   "summary_en": "The Gujarat state government approved a Diwali bonus for Class‑4 employees who have completed six months of service.",
+   "summary_gu": "ગુજરાત રાજ્ય સરકારએ છ મહિના સેવા પૂર્ણ કરેલ વર્ગ‑4 કર્મચારીઓને દિવાળી બોનસ આપવાનો નિર્ણય કર્યો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat state government",
+     "v_gu": "ગુજરાત રાજ્ય સરકાર"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Diwali bonus for Class‑4 employees",
+     "v_gu": "વર્ગ‑4 કર્મચારીઓ માટે દિવાળી બોનસ"
+    },
+    {
+     "k_en": "Eligibility",
+     "k_gu": "પાત્રતા",
+     "v_en": "6 months continuous service",
+     "v_gu": "સતત 6 મહિના સેવા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Ahead of Diwali festival",
+     "v_gu": "દિવાળી તહેવાર પહેલાં"
+    }
+   ],
+   "points_en": [
+    "Bonus aims to make Diwali celebrations happier for staff.",
+    "Applies only to Class‑4 level employees.",
+    "Eligibility requires uninterrupted six‑month tenure."
+   ],
+   "points_gu": [
+    "બોનસથી કર્મચારીઓની દિવાળી ઉજવણી વધુ આનંદમય બને છે.",
+    "માત્ર વર્ગ‑4 સ્તરના કર્મચારીઓ માટે.",
+    "પાત્રતા માટે સતત છ મહિના સેવા જરૂરી."
+   ],
+   "context_en": "Class‑4 is a pay‑scale category for state government employees in Gujarat.",
+   "context_gu": "વર્ગ‑4 ગુજરાત રાજ્ય સરકારનાં કર્મચારીઓ માટેની પગાર શ્રેણી છે.",
+   "remember_en": "Gujarat govt gave Diwali bonus to Class‑4 staff with 6‑month service.",
+   "remember_gu": "ગુજરાત સરકારએ 6‑મહિના સેવા ધરાવતા વર્ગ‑4 સ્ટાફને દિવાળી બોનસ આપ્યો.",
+   "why_en": "Shows government welfare measures during festivals, a common exam topic.",
+   "why_gu": "તહેવારોમાં સરકારની કલ્યાણ નીતિઓ દર્શાવે છે, પરીક્ષાનો સામાન્ય વિષય.",
+   "details_en": "Ahead of the Diwali festival, the Gujarat state government issued an official order to grant a bonus to its Class‑4 employees. The bonus is available only to those who have completed at least six months of continuous service in government posts. The move is intended to bring extra joy to thousands of staff during the festive season and encourage enthusiastic celebration of Diwali.",
+   "details_gu": "દિવાળી તહેવાર પહેલાં, ગુજરાત રાજ્ય સરકારએ તેના વર્ગ‑4 કર્મચારીઓને બોનસ આપવાનો સત્તાવાર ઠરાવ જારી કર્યો. આ બોનસ માત્ર તે કર્મચારીઓને મળશે જેમણે સરકારની નોકરીમાં સતત છ મહિના સેવા પૂર્ણ કરી હોય. આ પગલાથી હજારો સ્ટાફને તહેવાર દરમિયાન વધારાનો આનંદ મળશે અને દિવાળી ઉત્સવને ઉત્સાહપૂર્વક ઉજવવામાં સહાય થશે.",
+   "mcq": {
+    "q_en": "Who is eligible for the Diwali bonus announced by the Gujarat government?",
+    "q_gu": "ગુજરાત સરકાર દ્વારા જાહેર કરાયેલ દિવાળી બોનસ માટે કોણ પાત્ર છે?",
+    "o_en": [
+     "All government employees",
+     "Class‑4 employees with 6 months service",
+     "Only senior officers",
+     "Private sector workers"
+    ],
+    "o_gu": [
+     "બધા સરકાર કર્મચારીઓ",
+     "સતત 6 મહિના સેવા ધરાવતા વર્ગ‑4 કર્મચારીઓ",
+     "માત્ર ઉચ્ચ અધિકારીઓ",
+     "ખાનગી ક્ષેત્રના કામદારો"
+    ],
+    "a": 1,
+    "e_en": "The bonus is for Class‑4 staff who have completed six months of continuous service.",
+    "e_gu": "બોનસ સાતત્યપૂર્ણ છ મહિના સેવા ધરાવતા વર્ગ‑4 કર્મચારીઓ માટે છે."
+   },
+   "id": "ca-gujarat-government-announces-diwali-bonus-for-class-4-staff",
+   "source": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-government-class-4-employees-diwali-bonus-resolution",
+   "exam": {
+    "score": 6,
+    "why": "Diwali bonus for govt staff"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://sandesh.com/gujarat/news/gandhinagar/gujarat-government-class-4-employees-diwali-bonus-resolution"
     }
    ],
    "by": "groq",
