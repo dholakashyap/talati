@@ -3637,6 +3637,96 @@
   },
   {
    "category": "schemes",
+   "title_en": "Gujarat reaches 90% of rooftop solar target under PM Surya Ghar",
+   "title_gu": "ગુજરાતે PM સુર્ય ઘર યોજના હેઠળ 90% રૂફટોપ સોલાર લક્ષ્ય હાંસલ કર્યું",
+   "summary_en": "Gujarat installed 9.08 lakh rooftop solar systems, covering 90% of its 2027 target, and offers subsidies to households.",
+   "summary_gu": "ગુજરાતે 9.08 લાખ રૂફટોપ સોલાર સિસ્ટમો લગાવી, 2027 સુધીના 10 લાખ લક્ષ્યનું 90% પૂર્ણ કર્યું અને ઘરેલુ ગ્રાહકોને સબસિડી આપે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "9.08 lakh rooftop solar installations",
+     "v_gu": "9.08 લાખ રૂફટોપ સોલાર સ્થાપનાઓ"
+    },
+    {
+     "k_en": "Capacity",
+     "k_gu": "ક્ષમતા",
+     "v_en": "3,408 MW",
+     "v_gu": "3,408 મેગાવોટ"
+    },
+    {
+     "k_en": "Target",
+     "k_gu": "લક્ષ્ય",
+     "v_en": "10 lakh installations by March 2027",
+     "v_gu": "માર્ચ 2027 સુધી 10 લાખ સ્થાપનાઓ"
+    },
+    {
+     "k_en": "Assistance per system",
+     "k_gu": "સહાય",
+     "v_en": "Rs 2,950 for regulatory charges",
+     "v_gu": "નિયમન ચાર્જ માટે રૂ. 2,950"
+    },
+    {
+     "k_en": "SC/ST household contribution",
+     "k_gu": "SC/ST ઘરેલુ યોગદાન",
+     "v_en": "5% of cost up to 2.18 kWp",
+     "v_gu": "2.18 કિલોવોટ સુધી 5% ખર્ચ"
+    }
+   ],
+   "points_en": [
+    "Gujarat's share is 18.21% of India's rooftop solar under the scheme.",
+    "Net metering is allowed and banking charges are waived.",
+    "Other eligible consumers pay only 10% of the cost."
+   ],
+   "points_gu": [
+    "ગુજરાતનું હિસ્સો ભારતની રૂફટોપ સોલારનું 18.21% છે.",
+    "નેટ મીટરિંગની મંજૂરી છે અને બેંકિંગ ચાર્જ માફ છે.",
+    "અન્ય યોગ્ય ગ્રાહકોને માત્ર 10% ખર્ચ ચૂકવવો પડે."
+   ],
+   "context_en": "PM Surya Ghar – Muft Bijli Yojana is a central scheme to promote residential rooftop solar across India.",
+   "context_gu": "PM સુર્ય ઘર – મુફ બિજલી યોજના ભારતમાં રહેણાંક રૂફટોપ સોલારને પ્રોત્સાહિત કરવા માટેની કેન્દ્રિય યોજના છે.",
+   "remember_en": "Gujarat installed 9.08 lakh rooftop solar systems by Nov 2023.",
+   "remember_gu": "ગુજરાતે નવેમ્બર 2023 સુધી 9.08 લાખ રૂફટોપ સોલાર સિસ્ટમો લગાવી.",
+   "why_en": "Shows Gujarat's progress and subsidy details for exam questions on renewable schemes.",
+   "why_gu": "પરીક્ષાના પ્રશ્નો માટે ગુજરાતની પ્રગતિ અને સબસિડીની જાણકારી આપે છે.",
+   "details_en": "By 3 November 2023 Gujarat had installed 9.08 lakh residential rooftop solar systems with a total capacity of 3,408 MW, reaching 90 per cent of its target of 10 lakh installations by March 2027 under the PM Surya Ghar – Muft Bijli Yojana. The state provides Rs 2,950 assistance for regulatory charges, waives network‑strengthening fees and does not require net‑metering agreements. Scheduled Caste and Scheduled Tribe households installing up to 2.18 kW pay only 5 per cent of the cost, while other eligible consumers pay 10 per cent, with the state covering the balance after central assistance.",
+   "details_gu": "3 નવેમ્બર 2023 સુધી ગુજરાતે 9.08 લાખ રહેણાંક રૂફટોપ સોલાર સિસ્ટમો 3,408 મેગાવોટ કુલ ક્ષમતા સાથે લગાવી, PM સુર્ય ઘર – મુફ બિજલી યોજનાના અંતર્ગત માર્ચ 2027 સુધીના 10 લાખ લક્ષ્યનું 90% પૂર્ણ કર્યું. રાજ્ય નિયમન ચાર્જ માટે રૂ. 2,950 સહાય આપે છે, નેટવર્ક મજબૂતી ચાર્જ માફ કરે છે અને નેટ મીટરિંગ કરારની જરૂર નથી. શેડ્યુલ્ડ કાસ્ટ અને શેડ્યુલ્ડ ટ્રાઇબ ઘરેલુ 2.18 કિલોવોટ સુધી 5% ખર્ચ આપે છે, અન્ય યોગ્ય ગ્રાહકો 10% આપે છે, બાકી ખર્ચ કેન્દ્રિય સહાય અને રાજ્યની સબસિડીથી ભરાય છે.",
+   "mcq": {
+    "q_en": "How many rooftop solar installations has Gujarat completed under the PM Surya Ghar scheme as of November 2023?",
+    "q_gu": "નવેમ્બર 2023 સુધી PM સુર્ય ઘર યોજનામાં ગુજરાતે કેટલા રૂફટોપ સોલાર સ્થાપનાઓ પૂર્ણ કરી?",
+    "o_en": [
+     "8.5 lakh",
+     "9.08 lakh",
+     "10 lakh",
+     "7.2 lakh"
+    ],
+    "o_gu": [
+     "8.5 લાખ",
+     "9.08 લાખ",
+     "10 લાખ",
+     "7.2 લાખ"
+    ],
+    "a": 1,
+    "e_en": "The source states 9.08 lakh installations.",
+    "e_gu": "સ્રોતમાં 9.08 લાખ સ્થાપનાઓ જણાવવામાં આવી છે."
+   },
+   "id": "ca-gujarat-reaches-90-of-rooftop-solar-target-under-pm-surya-gh",
+   "source": "https://knnindia.co.in/news/newsdetails/state/gujarat-achieves-90-of-pm-surya-ghar-target-with-908-lakh-rooftop-solar-installations-govt",
+   "exam": {
+    "score": 8,
+    "why": "90% rooftop solar target achieved"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://knnindia.co.in/news/newsdetails/state/gujarat-achieves-90-of-pm-surya-ghar-target-with-908-lakh-rooftop-solar-installations-govt"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-04"
+  },
+  {
+   "category": "schemes",
    "title_en": "India signs MoU to boost critical mineral ecosystem",
    "title_gu": "ભારતમાં મહત્વપૂર્ણ ખનિજ ઇકોસિસ્ટમને મજબૂત કરવા માટે સહમતિ પત્ર પર હસ્તાક્ષર",
    "summary_en": "The NITI Aayog and TEXMiN signed a joint statement of intent to strengthen India's critical mineral value chain.",
@@ -3720,6 +3810,190 @@
     {
      "name": "PIB, Government of India",
      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332374"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-04"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches livestock insurance for 1 lakh animals",
+   "title_gu": "ગુજરાતે 1 લાખ પશુઓ માટે પશુ વીમા યોજના શરૂ કરી",
+   "summary_en": "The Gujarat government approved a livestock insurance scheme covering up to 1 lakh animals, with a subsidised premium of Rs 229 per animal.",
+   "summary_gu": "ગુજરાત સરકારએ 1 લાખ પશુઓ સુધીનું પશુ વીમા યોજના મંજૂર કરી, પ્રત્યેક પશુ માટે રૂ. 229 સબસિડીવાળા પ્રીમિયમ સાથે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Livestock Insurance Scheme under National Livestock Mission",
+     "v_gu": "રાષ્ટ્રીય પશુ મિશન હેઠળનું પશુ વીમા યોજના"
+    },
+    {
+     "k_en": "Coverage",
+     "k_gu": "કવરેજ",
+     "v_en": "1 lakh animals",
+     "v_gu": "1 લાખ પશુઓ"
+    },
+    {
+     "k_en": "Premium",
+     "k_gu": "પ્રીમિયમ",
+     "v_en": "Rs 229 per animal (subsidised)",
+     "v_gu": "પ્રત્યેક પશુ માટે રૂ. 229 (સબસિડીવાળો)"
+    },
+    {
+     "k_en": "Govt share",
+     "k_gu": "સરકારનો હિસ્સો",
+     "v_en": "85% of premium, approx Rs 1,300 per animal",
+     "v_gu": "પ્રીમિયમનું 85%, અંદાજે રૂ. 1,300 પ્રતિ પશુ"
+    },
+    {
+     "k_en": "Funding",
+     "k_gu": "નાણાં",
+     "v_en": "Centre Rs 2.50 crore, State Rs 55 lakh",
+     "v_gu": "કેન્દ્ર રૂ. 2.50 કરોડ, રાજ્ય રૂ. 55 લાખ"
+    }
+   ],
+   "points_en": [
+    "Minister Jitu Vaghani announced the approval in a cabinet briefing.",
+    "87,147 applications have been received via the i‑Khedut portal.",
+    "The scheme aims to protect owners from loss due to disease or death."
+   ],
+   "points_gu": [
+    "મંત્રિ જીતું વાઘાણી કેબિનેટ બ્રીફિંગમાં મંજૂરીની જાહેરાત કરી.",
+    "i‑Khedut પોર્ટલ દ્વારા 87,147 અરજીઓ મળી છે.",
+    "યોજનાનો હેતુ માલિકોને રોગ અથવા મૃત્યુથી થતા નુકસાનથી સુરક્ષિત કરવો છે."
+   ],
+   "context_en": "The National Livestock Mission is a central government programme to improve livestock productivity and welfare.",
+   "context_gu": "રાષ્ટ્રીય પશુ મિશન કેન્દ્ર સરકારનું કાર્યક્રમ છે, જે પશુ ઉત્પાદન અને કલ્યાણમાં સુધારો લાવે છે.",
+   "remember_en": "Gujarat's livestock insurance covers 1 lakh animals with Rs 229 premium.",
+   "remember_gu": "ગુજરાતનું પશુ વીમા 1 લાખ પશુઓ માટે રૂ. 229 પ્રીમિયમ સાથે.",
+   "why_en": "Exam may ask about scheme details, funding and coverage limits.",
+   "why_gu": "પરીક્ષામાં યોજના વિગત, નાણાં અને કવરેજ મર્યાદા વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Gujarat cabinet approved a livestock insurance scheme under the National Livestock Mission, covering up to 1 lakh animals for one year. Owners pay a subsidised premium of Rs 229 per animal, while the state pays 85% of the premium, roughly Rs 1,300 per animal. The central government has sanctioned Rs 2.50 crore, and Gujarat will contribute about Rs 55 lakh. By the announcement, 87,147 applications had been submitted through the i‑Khedut portal. The scheme aims to give financial security to livestock owners against unforeseen losses.",
+   "details_gu": "ગુજરાત કેબિનેટે રાષ્ટ્રીય પશુ મિશન હેઠળનું પશુ વીમા યોજના મંજૂર કરી, જે એક વર્ષ માટે 1 લાખ પશુઓ સુધી કવર કરે છે. માલિકો પ્રત્યેક પશુ માટે રૂ. 229 સબસિડીવાળો પ્રીમિયમ ચૂકવે છે, જ્યારે રાજ્ય પ્રીમિયમનું 85%, અંદાજે રૂ. 1,300 પ્રતિ પશુ, આપે છે. કેન્દ્રએ રૂ. 2.50 કરોડ મંજૂર કર્યા છે, અને ગુજરાત લગભગ રૂ. 55 લાખ યોગદાન આપશે. જાહેરાત સમયે i‑Khedut પોર્ટલ દ્વારા 87,147 અરજીઓ મળી હતી. આ યોજના માલિકોને અણધારી નુકસાનથી નાણાકીય સુરક્ષા આપે છે.",
+   "mcq": {
+    "q_en": "How many animals can Gujarat's new livestock insurance scheme cover?",
+    "q_gu": "ગુજરાતની નવી પશુ વીમા યોજના કેટલા પશુઓને કવર કરી શકે છે?",
+    "o_en": [
+     "50,000",
+     "75,000",
+     "1 lakh",
+     "1.5 lakh"
+    ],
+    "o_gu": [
+     "50,000",
+     "75,000",
+     "1 લાખ",
+     "1.5 લાખ"
+    ],
+    "a": 2,
+    "e_en": "The scheme covers up to 1 lakh animals.",
+    "e_gu": "યોજનામાં 1 લાખ પશુઓ સુધી કવર થાય છે."
+   },
+   "id": "ca-gujarat-launches-livestock-insurance-for-1-lakh-animals",
+   "source": "https://deshgujarat.com/2026/11/04/gujarat-cabinet-approves-livestock-insurance-scheme-for-1-lakh-animals/",
+   "exam": {
+    "score": 7,
+    "why": "New livestock insurance scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://deshgujarat.com/2026/11/04/gujarat-cabinet-approves-livestock-insurance-scheme-for-1-lakh-animals/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-04"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat approves Rs 581 crore fish‑scale weir dam on Banas River",
+   "title_gu": "ગુજરાતે બાણાસ નદી પર 581 કરોડનું ફિશ‑સ્કેલ વીર ડેમ મંજૂર કર્યું",
+   "summary_en": "The state gave in‑principle approval for a Rs 581 crore stepped‑weir dam on the Banas River near Mahadeviya village. It will recharge groundwater and help 100 villages in Deesa and Kankrej.",
+   "summary_gu": "રાજ્યએ મહાદેવિયા ગામની નજીક બાણાસ નદી પર 581 કરોડનું સ્ટેપ્ડ‑વીઅર ડેમ મંજૂર કર્યું. તે ભૂગર્ભ પાણી ભરશે અને દેસા‑કંકરેજના 100 ગામોને લાભ આપશે.",
+   "facts": [
+    {
+     "k_en": "Cost",
+     "k_gu": "રકમ",
+     "v_en": "Rs 581 crore",
+     "v_gu": "₹581 કરોડ"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "જગ્યા",
+     "v_en": "Banas River near Mahadeviya village, Banaskantha district",
+     "v_gu": "બાણાસ નદી, મહાદેવિયા ગામ, બનાસકાંઠા જિલ્લો"
+    },
+    {
+     "k_en": "Beneficiary villages",
+     "k_gu": "લાભાર્થી ગામો",
+     "v_en": "100 villages (70 Deesa, 30 Kankrej)",
+     "v_gu": "૧૦૦ ગામો (દેસા ૭૦, કંકરેજ ૩૦)"
+    },
+    {
+     "k_en": "Completion target",
+     "k_gu": "સમાપ્તિ વર્ષ",
+     "v_en": "2029",
+     "v_gu": "૨૦૨૯"
+    },
+    {
+     "k_en": "Design partner",
+     "k_gu": "ડિઝાઇન ભાગીદાર",
+     "v_en": "Indian Institute of Technology Roorkee",
+     "v_gu": "ઇન્ડિયન ઇન્સ્ટિટ્યૂટ ઓફ ટેકનોલોજી રૂર્કી"
+    }
+   ],
+   "points_en": [
+    "Stepped weir will be 500 m wide with seven tiers.",
+    "A 4.8 km embankment will create a 2.72 km upstream reservoir.",
+    "Project aims to boost agriculture and tourism."
+   ],
+   "points_gu": [
+    "સ્ટેપ્ડ વીઅર ૫૦૦ મીટર પહોળો, સાત સ્તરો સાથે.",
+    "૪.૮ કિમી એમ્બંકમેન્ટ ૨.૭૨ કિમી રિઝર્વોઇર બનાવશે.",
+    "કૃષિ અને પર્યટનને પ્રોત્સાહન આપશે."
+   ],
+   "context_en": "The Gujarat Water Management Programme includes various dams and check‑dam projects to address drought in the state.",
+   "context_gu": "ગુજરાતનું પાણી વ્યવસ્થાપન કાર્યક્રમમાં દુષ્કાળ નિવારણ માટે ડેમ અને ચેક‑ડેમ પ્રોજેક્ટ્સ શામેલ છે.",
+   "remember_en": "Rs 581 crore fish‑scale weir dam approved for Banas River, 100 villages.",
+   "remember_gu": "બાણાસ નદી માટે 581 કરોડનું ફિશ‑સ્કેલ વીર ડેમ, 100 ગામો.",
+   "why_en": "Shows Gujarat's investment in water storage and rural development.",
+   "why_gu": "ગુજરાતની પાણી સંગ્રહ અને ગ્રામ વિકાસમાં રોકાણ દર્શાવે છે.",
+   "details_en": "The Gujarat government gave in‑principle approval for a Rs 581 crore fish‑scale weir dam on the Banas River near Mahadeviya village in Banaskantha district. Designed with Indian Institute of Technology Roorkee, the 500‑metre wide structure will have seven stepped tiers and a 4.8‑kilometre embankment, creating a reservoir that extends about 2.72 km upstream. It will capture surplus water from upstream Dantiwada and Sipu dams, recharge groundwater and support agriculture in the drought‑prone Deesa and Kankrej talukas. The project will directly benefit 100 villages—70 in Deesa and 30 in Kankrej—and is slated for completion by 2029, with tourism development planned for a later phase.",
+   "details_gu": "ગુજરાત સરકારએ બનાસકાંઠા જિલ્લામાં મહાદેવિયા ગામની નજીક બાણાસ નદી પર 581 કરોડનું ફિશ‑સ્કેલ વીર ડેમ માટે પ્રાથમિક મંજૂરી આપી. ઇન્ટીટી રૂર્કી સાથે ડિઝાઇન કરાયેલ આ 500 મીટર પહોળો સ્ટેપ્ડ વીઅર સાત સ્તરો અને 4.8 કિમી એમ્બંકમેન્ટ ધરાવે છે, જે 2.72 કિમી અપસ્ટ્રીમ રિઝર્વોઇર બનાવશે. આ ડેમ ઉપરના ડાંટીવાડા અને સિપુ ડેમમાંથી વધારાનો પાણી પકડશે, ભૂગર્ભ પાણી ભરશે અને દેસા‑કંકરેજ તળાકાઓમાં કૃષિ સહાય કરશે. પ્રોજેક્ટ 100 ગામો—દેસા 70 અને કંકરેજ 30—ને સીધો લાભ આપશે અને 2029 સુધી પૂર્ણ થવાનો છે, ત્યારબાદ પર્યટન વિકાસની યોજના છે.",
+   "mcq": {
+    "q_en": "What is the estimated cost of the fish‑scale weir dam approved on the Banas River?",
+    "q_gu": "બાણાસ નદી પર મંજૂર થયેલ ફિશ‑સ્કેલ વીર ડેમની અંદાજિત કિંમત કેટલી છે?",
+    "o_en": [
+     "Rs 381 crore",
+     "Rs 481 crore",
+     "Rs 581 crore",
+     "Rs 681 crore"
+    ],
+    "o_gu": [
+     "₹૩૮૧ કરોડ",
+     "₹૪૮૧ કરોડ",
+     "₹૫૮૧ કરોડ",
+     "₹૬૮૧ કરોડ"
+    ],
+    "a": 2,
+    "e_en": "The sources state the project cost is Rs 581 crore.",
+    "e_gu": "સ્રોતોમાં પ્રોજેક્ટની કિંમત 581 કરોડ રૂપિયા જણાવવામાં આવી છે."
+   },
+   "id": "ca-gujarat-approves-rs-581-crore-fish-scale-weir-dam-on-banas-r",
+   "source": "https://english.gujaratsamachar.com/news/banaskantha/gujarat-approves-rs-581-crore-fish-scale-weir-dam-on-banas-river-100-villages-to-benefit-95901155920",
+   "exam": {
+    "score": 6,
+    "why": "₹581 cr fish scale weir dam approval"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://english.gujaratsamachar.com/news/banaskantha/gujarat-approves-rs-581-crore-fish-scale-weir-dam-on-banas-river-100-villages-to-benefit-95901155920"
+    },
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.socialnews.xyz/2026/11/03/gujarat-clears-rs-581-crore-fish-scale-weir-dam-project-on-banas-river-to-benefit-100-villages/"
     }
    ],
    "by": "groq",
