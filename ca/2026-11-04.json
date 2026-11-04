@@ -884,6 +884,89 @@
     }
    ],
    "by": "groq"
+  },
+  {
+   "category": "national",
+   "title_en": "2027 Census to Redefine Urban Areas with New Criteria",
+   "title_gu": "2027ની જનગણના નવા માપદંડો સાથે શહેરોનું પુનઃનિર્ધારણ કરશે",
+   "summary_en": "The 2027 Census will classify a place as urban if it is a statutory town or meets three new criteria.",
+   "summary_gu": "2027ની જનગણના શહેર તરીકે ગણાવવા માટે સ્ટેટ્યુટરી ટાઉન અથવા ત્રણ નવા માપદંડો પૂરા કરવું પડશે.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2027 Census",
+     "v_gu": "2027ની જનગણના"
+    },
+    {
+     "k_en": "Frequency",
+     "k_gu": "આવર્તન",
+     "v_en": "first after 16 years",
+     "v_gu": "16 વર્ષ પછી પ્રથમ"
+    },
+    {
+     "k_en": "Urban criteria",
+     "k_gu": "શહેરનું માપદંડ",
+     "v_en": "population ≥5,000, density ≥400/km², 75% male non‑agri workers",
+     "v_gu": "જનસંખ્યા ≥5,000, ઘનતા ≥400 પ્રતિ કિ.મી., 75% પુરૂષ ગેર‑કૃષિ કામદારો"
+    },
+    {
+     "k_en": "Statutory town",
+     "k_gu": "સ્ટેટ્યુટરી ટાઉન",
+     "v_en": "State‑notified town",
+     "v_gu": "રાજ્ય દ્વારા સૂચિત ટાઉન"
+    }
+   ],
+   "points_en": [
+    "Urban status now depends on population, density and employment mix.",
+    "Statutory towns are automatically counted as urban.",
+    "The new definition aims to match modern economic realities."
+   ],
+   "points_gu": [
+    "શહેરની સ્થિતિ હવે જનસંખ્યા, ઘનતા અને રોજગારી પર આધારિત છે.",
+    "સ્ટેટ્યુટરી ટાઉન આપમેળે શહેર ગણાશે.",
+    "નવું નિર્ધારણ આધુનિક આર્થિક વાસ્તવિકતાઓને અનુરૂપ છે."
+   ],
+   "context_en": "The Census of India is conducted every ten years by the Office of the Registrar General and Census Commissioner.",
+   "context_gu": "ભારતનું જનગણનાપત્ર દર દસ વર્ષમાં રજિસ્ટ્રાર જનરલ અને જનગણના કમિશનર ઓફિસ દ્વારા કરવામાં આવે છે.",
+   "remember_en": "2027 Census urban criteria: 5,000 people, 400/km², 75% male non‑agri.",
+   "remember_gu": "2027ની જનગણના શહેર માપદંડ: 5,000 લોકો, 400/km², 75% પુરૂષ ગેર‑કૃષિ.",
+   "why_en": "Exam asks about new urban definition for upcoming census.",
+   "why_gu": "પરીક્ષામાં આવનારી જનગણનાના નવા શહેર નિર્ધારણ વિશે પ્રશ્નો હોય છે.",
+   "details_en": "India will conduct its next Census in 2027, the first after a 16‑year gap. A settlement will be classified as urban if the state notifies it as a statutory town or if it meets three census‑town criteria: at least 5,000 residents, a population density of at least 400 persons per square kilometre, and at least 75% of male workers engaged in non‑agricultural occupations. This change keeps the data comparable with earlier censuses while reflecting the country's shifting economic structure.",
+   "details_gu": "ભારત 2027માં આગામી જનગણના કરશે, જે 16 વર્ષ પછીનું પ્રથમ છે. કોઈ વસતીને શહેર તરીકે ગણવામાં આવશે જો રાજ્ય તેને સ્ટેટ્યુટરી ટાઉન તરીકે સૂચિત કરે અથવા તે ત્રણ જનગણના‑ટાઉન માપદંડો પૂરા કરે: ઓછામાં ઓછા 5,000 રહેવાસી, પ્રતિ ચોરસ કિલોમીટર ઓછામાં ઓછા 400 વ્યક્તિઓની ઘનતા, અને પુરૂષ કામદારોમાં ઓછામાં ઓછા 75% ગેર‑કૃષિ ક્ષેત્રમાં કામ કરે. આ બદલાવ અગાઉની જનગણનાઓ સાથે તુલનાત્મકતા જાળવે છે અને દેશની બદલાતી આર્થિક રચનાને દર્શાવે છે.",
+   "mcq": {
+    "q_en": "According to the 2027 Census, which of the following is NOT a criterion for a settlement to be classified as urban?",
+    "q_gu": "2027ની જનગણના મુજબ, કયું માપદંડ શહેર તરીકે ગણવામાં આવતું નથી?",
+    "o_en": [
+     "Population of at least 5,000",
+     "Population density of at least 400 per sq km",
+     "75% of male workers in non‑agricultural work",
+     "Presence of a university"
+    ],
+    "o_gu": [
+     "ઓછામાં ઓછા 5,000 જનસંખ્યા",
+     "પ્રતિ ચોરસ કિલોમીટર ઓછામાં ઓછા 400 ઘનતા",
+     "પુરૂષ કામદારોમાં 75% ગેર‑કૃષિ કામ",
+     "વિશ્વવિદ્યાલયની હાજરી"
+    ],
+    "a": 3,
+    "e_en": "University presence is not listed as a criterion.",
+    "e_gu": "વિશ્વવિદ્યાલયની હાજરી માપદંડમાં સમાવાયેલ નથી."
+   },
+   "id": "ca-2027-census-to-redefine-urban-areas-with-new-criteria",
+   "source": "https://www.thehindu.com/news/national/need-for-a-unified-urbanisation-plan/article71652673.ece",
+   "exam": {
+    "score": 6,
+    "why": "Urbanisation trend, exam relevance"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/need-for-a-unified-urbanisation-plan/article71652673.ece"
+    }
+   ],
+   "by": "groq"
   }
  ]
 }
