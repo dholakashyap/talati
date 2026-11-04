@@ -4428,6 +4428,96 @@
    ],
    "by": "groq",
    "date": "2026-11-04"
+  },
+  {
+   "category": "economy",
+   "title_en": "Rupee gains 1.25% since October but stays over 5% weaker",
+   "title_gu": "રુપિયે ઓક્ટોબરથી 1.25% વધારો કર્યો, પણ ડોલર સામે 5%થી વધુ નબળો",
+   "summary_en": "The Indian rupee rose 1.25% against the US dollar since October after RBI measures, yet it is still more than 5% lower than the dollar in 2026.",
+   "summary_gu": "ભારતીય રૂપિયા ઓક્ટોબરથી રિઝર્વ બેંક ઓફ ઈન્ડિયાની પગલાં બાદ ડોલર સામે 1.25% વધ્યો, પણ 2026માં હજી પણ 5%થી વધુ નબળો છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Rupee gained 1.25% against US dollar",
+     "v_gu": "રુપિયે યુ.એસ. ડોલર સામે 1.25% વધારો કર્યો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Since October 2026",
+     "v_gu": "ઓક્ટોબર 2026થી"
+    },
+    {
+     "k_en": "How much",
+     "k_gu": "કેટલું",
+     "v_en": "Still over 5% weaker",
+     "v_gu": "હજી 5%થી વધુ નબળો"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "RBI curbed speculative bets in derivatives",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયાએ ડેરિવેટિવમાં સ્પેક્યુલેટિવ બેટ્સને કંટ્રોલ કર્યા"
+    },
+    {
+     "k_en": "Date of report",
+     "k_gu": "રિપોર્ટની તારીખ",
+     "v_en": "Nov 4, 2026",
+     "v_gu": "04 નવેમ્બર, 2026"
+    }
+   ],
+   "points_en": [
+    "Rupee is among Asia's worst‑performing currencies in 2026.",
+    "The gain followed RBI's regulatory action on derivatives.",
+    "US mid‑term election results weakened the dollar briefly."
+   ],
+   "points_gu": [
+    "રુપિયો 2026માં એશિયાના સૌથી નબળા ચલણોમાંનો છે.",
+    "વૃદ્ધિ રિઝર્વ બેંક ઓફ ઈન્ડિયાની ડેરિવેટિવ નિયમન પછી આવી.",
+    "યુ.એસ. મધ્યમયુગની ચૂંટણી પરિણામો ડોલરને થોડીક નબળો બનાવ્યા."
+   ],
+   "context_en": "Reserve Bank of India (RBI) is India's central bank that regulates monetary policy and foreign exchange.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) ભારતનું કેન્દ્રિય બેંક છે, જે નાણાકીય નીતિ અને વિનિમય નિયમિત કરે છે.",
+   "remember_en": "Rupee up 1.25% since Oct, still >5% below dollar.",
+   "remember_gu": "રુપિયો ઓક્ટોબરથી 1.25% વધ્યો, પણ ડોલરથી >5% નબળો.",
+   "why_en": "Shows impact of RBI policy on currency trends for exams.",
+   "why_gu": "પરીક્ષાઓ માટે RBIની નીતિનું ચલણ પર પ્રભાવ દર્શાવે છે.",
+   "details_en": "Since October 2026, the Indian rupee has risen 1.25% against the US dollar after the Reserve Bank of India introduced measures to curb speculative bets in the derivatives market. Despite this gain, the rupee remains more than 5% weaker than the dollar, placing it among the poorest‑performing Asian currencies this year. The dollar also fell briefly after the United States mid‑term elections, helping the rupee’s short‑term rise.",
+   "details_gu": "ઓક્ટોબર 2026થી, ભારતીય રૂપિયા યુ.એસ. ડોલર સામે 1.25% વધ્યો છે, કારણ કે રિઝર્વ બેંક ઓફ ઈન્ડિયાએ ડેરિવેટિવ માર્કેટમાં સ્પેક્યુલેટિવ બેટ્સને કંટ્રોલ કરવા પગલાં લીધા. આ વૃદ્ધિ છતાં, રૂપિયા હજી ડોલરથી 5%થી વધુ નબળો છે, જે તેને આ વર્ષના એશિયાના સૌથી નબળા ચલણોમાં મૂકશે. યુ.એસ. મધ્યમયુગની ચૂંટણી પછી ડોલર થોડીક નબળો થયો, જેના કારણે રૂપિયાની ટૂંકી સમયની વૃદ્ધિમાં સહાય મળી.",
+   "mcq": {
+    "q_en": "By how much did the Indian rupee appreciate against the US dollar since October 2026?",
+    "q_gu": "ઓક્ટોબર 2026થી ભારતીય રૂપિયા યુ.એસ. ડોલર સામે કેટલા ટકા વધ્યો?",
+    "o_en": [
+     "0.5%",
+     "1.25%",
+     "3%",
+     "5%"
+    ],
+    "o_gu": [
+     "0.5%",
+     "1.25%",
+     "3%",
+     "5%"
+    ],
+    "a": 1,
+    "e_en": "The article states a 1.25% gain.",
+    "e_gu": "લેખમાં 1.25% વધારો જણાવાયો છે."
+   },
+   "id": "ca-rupee-gains-1-25-since-october-but-stays-over-5-weaker",
+   "source": "https://www.business-standard.com/economy/news/despite-gains-since-october-rupee-still-trails-its-asian-peers-in-2026-126110402135_1.html",
+   "exam": {
+    "score": 6,
+    "why": "rupee performance vs peers, useful data"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/despite-gains-since-october-rupee-still-trails-its-asian-peers-in-2026-126110402135_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-04"
   }
  ]
 }
