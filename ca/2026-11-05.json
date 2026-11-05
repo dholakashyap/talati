@@ -99,6 +99,194 @@
    "by": "groq"
   },
   {
+   "category": "science",
+   "title_en": "ISRO's NVS-03 navigation satellite declared fully healthy",
+   "title_gu": "ઇસરોનું એનવીએસ-03 નેવિગેશન સેટેલાઇટ સંપૂર્ણ સ્વસ્થ જાહેર",
+   "summary_en": "ISRO says its new navigation satellite NVS-03, launched on October 30, is fully healthy after orbit‑raising maneuvers.",
+   "summary_gu": "ઇસરો કહે છે કે 30 ઓક્ટોબરે લોન્ચ થયેલું નવું નેવિગેશન સેટેલાઇટ એનવીએસ-03 કક્ષીય manoeuvres પછી સંપૂર્ણ સ્વસ્થ છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "NVS-03 navigation satellite",
+     "v_gu": "એનવીએસ-03 નેવિગેશન સેટેલાઇટ"
+    },
+    {
+     "k_en": "When (launch)",
+     "k_gu": "ક્યારે (લૉન્ચ)",
+     "v_en": "30 October 2026",
+     "v_gu": "30 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "When (status)",
+     "k_gu": "ક્યારે (સ્થિતિ)",
+     "v_en": "5 November 2026",
+     "v_gu": "5 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Who (chairman)",
+     "k_gu": "કોણ (ચેરમેન)",
+     "v_en": "V. Narayanan",
+     "v_gu": "વી. નારાયણન"
+    },
+    {
+     "k_en": "Where (orbit)",
+     "k_gu": "ક્યાં (કક્ષા)",
+     "v_en": "Elliptical then circular orbit",
+     "v_gu": "એલિપ્ટિકલ પછી સર્ક્યુલર કક્ષા"
+    }
+   ],
+   "points_en": [
+    "The satellite’s engine fired for 6,400 seconds to circularise its orbit.",
+    "In‑orbit testing of payloads will continue.",
+    "The satellite strengthens India’s NavIC regional navigation system."
+   ],
+   "points_gu": [
+    "સેટેલાઇટનું એન્જિન 6,400 સેકન્ડ માટે ચલાવી કક્ષા સર્ક્યુલર કરી.",
+    "કક્ષીય પરીક્ષણો ચાલુ રહેશે.",
+    "સેટેલાઇટ ભારતની નાવિક ક્ષેત્રીય નેવિગેશન સિસ્ટમને મજબૂત કરે છે."
+   ],
+   "context_en": "NavIC (Navigation with Indian Constellation) is India’s regional satellite navigation system, operated by ISRO.",
+   "context_gu": "નાવિક (Navigation with Indian Constellation) ભારતનું ક્ષેત્રીય સેટેલાઇટ નેવિગેશન સિસ્ટમ છે, ઇસરો દ્વારા સંચાલિત.",
+   "remember_en": "NVS-03 launched 30 Oct 2026, declared healthy 5 Nov 2026.",
+   "remember_gu": "એનવીએસ-03 30 ઓક્ટો 2026 લોન્ચ, 5 નવેમ્બર 2026 સ્વસ્થ જાહેર.",
+   "why_en": "Exam may ask about recent ISRO satellite launches and NavIC upgrades.",
+   "why_gu": "પરીક્ષામાં તાજા ઇસરો સેટેલાઇટ લોન્ચ અને નાવિક અપગ્રેડ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "ISRO’s next‑generation navigation satellite NVS-03 was launched on 30 October 2026. Chairman V. Narayanan said on 5 November 2026, while inaugurating a Yuri Gagarin statue in Chennai, that the satellite was placed in an elliptical orbit and then circularised after a 6,400‑second engine burn. He confirmed the satellite is fully healthy and that further in‑orbit testing of its payload will be carried out. The satellite enhances the NavIC regional navigation system, providing better positioning services for Indian users.",
+   "details_gu": "ઇસરોનું નવું નેવિગેશન સેટેલાઇટ એનવીએસ-03 30 ઓક્ટોબર 2026 લોન્ચ થયું. 5 નવેમ્બર 2026, ચેન્નાઈમાં યૂરી ગાગારિનની પ્રતિમા ઉદ્ઘાટન દરમિયાન ચેરમેન વી. નારાયણને જણાવ્યું કે સેટેલાઇટને એલિપ્ટિકલ કક્ષામાં મૂકવામાં આવ્યું અને 6,400 સેકન્ડની એન્જિન બર્નથી સર્ક્યુલર કક્ષા મેળવી. તેમણે ખાતરી આપી કે સેટેલાઇટ સંપૂર્ણ સ્વસ્થ છે અને પેલોડનું કક્ષીય પરીક્ષણ ચાલુ રહેશે. આ સેટેલાઇટ નાવિક ક્ષેત્રીય નેવિગેશન સિસ્ટમને મજબૂત કરે છે, ભારતીય વપરાશકારો માટે સચોટ સ્થાન સેવાઓ આપે છે.",
+   "mcq": {
+    "q_en": "When was ISRO’s NVS-03 satellite declared fully healthy?",
+    "q_gu": "ઇસરોનું એનવીએસ-03 સેટેલાઇટ ક્યારે સંપૂર્ણ સ્વસ્થ જાહેર થયું?",
+    "o_en": [
+     "30 October 2026",
+     "5 November 2026",
+     "11 June 2026",
+     "1 December 2026"
+    ],
+    "o_gu": [
+     "30 ઓક્ટોબર 2026",
+     "5 નવેમ્બર 2026",
+     "11 જૂન 2026",
+     "1 ડિસેમ્બર 2026"
+    ],
+    "a": 1,
+    "e_en": "The chairman announced the health status on 5 November 2026.",
+    "e_gu": "ચેરમેનએ 5 નવેમ્બર 2026ને સ્વસ્થતા જાહેર કરી."
+   },
+   "id": "ca-isro-s-nvs-03-navigation-satellite-declared-fully-healthy",
+   "source": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+   "exam": {
+    "score": 8,
+    "why": "NavIC health, key space mission"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "India approves ₹2,814 crore scheme for lithium and nickel processing",
+   "title_gu": "ભારતમાં લિથિયમ‑નિકેલ પ્રોસેસિંગ માટે ૨,૮૧૪ કરોડ રૂપી યોજના મંજૂર",
+   "summary_en": "The Union Cabinet approved a five‑year capital‑subsidy scheme of ₹2,814 crore to set up four domestic lithium and nickel processing plants.",
+   "summary_gu": "કેન્દ્રિય કેબિનેટે પાંચ વર્ષ માટે ૨,૮૧૪ કરોડ રૂપિયાની મૂડી સહાય યોજના મંજૂર કરી, જે ચાર દેશી લિથિયમ‑નિકેલ પ્રોસેસિંગ પ્લાન્ટો સ્થાપિત કરશે.",
+   "facts": [
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "₹2,814 crore",
+     "v_gu": "૨,૮૧૪ કરોડ રૂપિયા"
+    },
+    {
+     "k_en": "Scheme period",
+     "k_gu": "સમયગાળો",
+     "v_en": "2026‑27 to 2030‑31",
+     "v_gu": "૨૦૨૬‑૨૭ થી ૨૦૩૦‑૩૧"
+    },
+    {
+     "k_en": "Plants",
+     "k_gu": "પ્લાન્ટો",
+     "v_en": "4 (2 lithium, 2 nickel)",
+     "v_gu": "૪ (લિથિયમ ૨, નિકેલ ૨)"
+    },
+    {
+     "k_en": "Subsidy share",
+     "k_gu": "સબસિડી ભાગ",
+     "v_en": "30% of investment",
+     "v_gu": "નિવેશનું ૩૦ %"
+    },
+    {
+     "k_en": "Cap per lithium beneficiary",
+     "k_gu": "લિથિયમ માટે મહત્તમ સહાય",
+     "v_en": "₹500 crore",
+     "v_gu": "૫૦૦ કરોડ રૂપિયા"
+    },
+    {
+     "k_en": "Cap per nickel beneficiary",
+     "k_gu": "નિકેલ માટે મહત્તમ સહાય",
+     "v_en": "₹900 crore",
+     "v_gu": "૯૦૦ કરોડ રૂપિયા"
+    }
+   ],
+   "points_en": [
+    "Minimum capacity: 30 kt lithium, 50 kt nickel per plant.",
+    "Selection through least‑cost bidding after technical qualification.",
+    "Supports electronics, batteries, defence and other sectors."
+   ],
+   "points_gu": [
+    "ન્યૂનતમ ક્ષમતા: લિથિયમ ૩૦ કટ, નિકેલ ૫૦ કટ પ્રતિ પ્લાન્ટ.",
+    "ટેકનિકલ લાયકાત પછી સૌથી ઓછા ખર્ચની બિડિંગ દ્વારા પસંદગી.",
+    "ઇલેક્ટ્રોનિક્સ, બેટરી, રક્ષા અને અન્ય ક્ષેત્રોને સહાય."
+   ],
+   "context_en": "The scheme is part of India’s National Critical Mineral Mission to reduce import dependence for battery‑grade minerals.",
+   "context_gu": "યોજનાનો હેતુ બેટરી‑ગ્રેડ ખનિજોના આયાત પર નિર્ભરતા ઘટાડવા માટે ભારતની નેશનલ ક્રિટિકલ મિનરલ મિશનનો ભાગ છે.",
+   "remember_en": "₹2,814 crore scheme, 4 plants, 30% subsidy, 2026‑31.",
+   "remember_gu": "૨,૮૧૪ કરોડ યોજના, ૪ પ્લાન્ટ, ૩૦ % સબસિડી, ૨૦૨૬‑૩૧.",
+   "why_en": "Exam may ask about the amount, plants, subsidy rate and purpose of the scheme.",
+   "why_gu": "પરીક્ષામાં રકમ, પ્લાન્ટો, સબસિડી દર અને યોજનાનો હેતુ પૂછાઈ શકે.",
+   "details_en": "On 4 November 2026 the Union Cabinet approved a capital‑expenditure support scheme of **₹2,814 crore** to establish four critical‑mineral processing plants – two for lithium and two for nickel. The government will provide a **30 % subsidy** of eligible investment, capped at **₹500 crore** per lithium beneficiary and **₹900 crore** per nickel beneficiary. Each lithium plant must process at least **30,000 tonnes** and each nickel plant at least **50,000 tonnes** per year. Companies will be chosen through a least‑cost bidding process after meeting technical qualifications. The scheme runs for five financial years (2026‑27 to 2030‑31) to boost domestic value addition and cut reliance on imported refined minerals for sectors like electronics, batteries, defence and heavy equipment.",
+   "details_gu": "4 નવેમ્બર 2026 ના રોજ કેન્દ્રિય કેબિનેટે **૨,૮૧૪ કરોડ રૂપિયા**ની મૂડી સહાય યોજના મંજૂર કરી, જે ચાર ક્રિટિકલ‑મિનરલ પ્રોસેસિંગ પ્લાન્ટો – લિથિયમ માટે બે અને નિકેલ માટે બે – સ્થાપિત કરશે. સરકાર **નિવેશનું ૩૦ %** સબસિડી આપશે, જે લિથિયમ માટે **૫૦૦ કરોડ** અને નિકેલ માટે **૯૦૦ કરોડ** સુધી મર્યાદિત રહેશે. દરેક લિથિયમ પ્લાન્ટને ઓછામાં ઓછા **૩૦,૦૦૦ ટન** અને નિકેલ પ્લાન્ટને **૫૦,૦૦૦ ટન** પ્રતિ વર્ષ પ્રોસેસ કરવાની જરૂર છે. ટેકનિકલ લાયકાત પછી સૌથી ઓછા ખર્ચની બિડિંગ દ્વારા કંપનીઓ પસંદ થશે. યોજના પાંચ નાણાકીય વર્ષો (2026‑27 થી 2030‑31) માટે ચાલશે, જેથી ઇલેક્ટ્રોનિક્સ, બેટરી, રક્ષા અને ભારે ઉપકરણો જેવા ક્ષેત્રોમાં આયાત પર નિર્ભરતા ઘટે.",
+   "mcq": {
+    "q_en": "What is the maximum capital subsidy per beneficiary for a nickel processing plant under the scheme?",
+    "q_gu": "યોજનામાં નિકેલ પ્રોસેસિંગ પ્લાન્ટ માટે પ્રતિ લાભાર્થી મહત્તમ મૂડી સબસિડી કેટલી છે?",
+    "o_en": [
+     "₹500 crore",
+     "₹700 crore",
+     "₹900 crore",
+     "₹1,000 crore"
+    ],
+    "o_gu": [
+     "૫૦૦ કરોડ રૂપિયા",
+     "૭૦૦ કરોડ રૂપિયા",
+     "૯૦૦ કરોડ રૂપિયા",
+     "૧૦૦૦ કરોડ રૂપિયા"
+    ],
+    "a": 2,
+    "e_en": "The scheme caps nickel subsidy at ₹900 crore per beneficiary.",
+    "e_gu": "યોજનામાં નિકેલ માટે પ્રતિ લાભાર્થી મહત્તમ સબસિડી ૯૦૦ કરોડ રૂપિયા છે."
+   },
+   "id": "ca-india-approves-2-814-crore-scheme-for-lithium-and-nickel-pro",
+   "source": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+   "exam": {
+    "score": 8,
+    "why": "Lithium‑nickel scheme, national priority"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
+    },
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://nationpathindia.com/economy/cabinet-approves-2814-crore-lithium-nickel-processing-scheme"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "schemes",
    "title_en": "Gujarat sets up Export Promotion Council for MSMEs",
    "title_gu": "ગુજરાતે એમએસએમઇ માટે નિકાસ પ્રમોશન કાઉન્સિલ સ્થાપી",
@@ -353,6 +541,184 @@
     {
      "name": "Business Standard (Economy)",
      "url": "https://www.business-standard.com/economy/news/assocham-seeks-customs-amnesty-scheme-to-settle-1-5-trillion-disputes-126110401473_1.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat raises Dearness Allowance by 3% ahead of Diwali",
+   "title_gu": "ગુજરાતમાં દિવાળી પહેલા ડીયર્નેસ એલાઉન્સમાં ૩% વધારો",
+   "summary_en": "Gujarat government increased DA to 63% for over 9.69 lakh employees and pensioners, effective 1 July 2026.",
+   "summary_gu": "ગુજરાત સરકારએ ૧ જુલાઈ ૨૦૨૬થી ૯.૬૯ લાખ કર્મચારીઓ અને પેન્શનધારકો માટે ડીયર્નેસ એલાઉન્સ ૬૩% કરી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "3% DA increase",
+     "v_gu": "ડીઅરનેસ એલાઉન્સમાં ૩% વધારો"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat state",
+     "v_gu": "ગુજરાત રાજ્ય"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "1 July 2026",
+     "v_gu": "૧ જુલાઈ ૨૦૨૬"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "4.62 lakh employees, 5.07 lakh pensioners",
+     "v_gu": "૪.૬૨ લાખ કર્મચારીઓ, ૫.૦૭ લાખ પેન્શનધારકો"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "₹523 crore arrears, ₹1,569 crore annual cost",
+     "v_gu": "₹૫૨૩ કૃ. બાકી, ₹૧,૫૬૯ કૃ. વાર્ષિક ખર્ચ"
+    }
+   ],
+   "points_en": [
+    "DA rises from 60% to 63%.",
+    "Arrears cover July‑October 2026 salaries.",
+    "Extra cost adds ₹1,569 crore to state budget."
+   ],
+   "points_gu": [
+    "ડીઅરનેસ એલાઉન્સ ૬૦% થી ૬૩% થાય.",
+    "બાકી રકમ જુલાઈ‑ઓક્ટોબર ૨૦૨૬ની પગાર માટે.",
+    "વધારાનો ખર્ચ રાજ્ય બજેટમાં ₹૧,૫૬૯ કૃ. ઉમેરે."
+   ],
+   "context_en": "Dearness Allowance (DA) is a cost‑of‑living component paid to government employees and pensioners.",
+   "context_gu": "ડીઅરનેસ એલાઉન્સ (DA) સરકારનાં કર્મચારીઓ અને પેન્શનધારકોને જીવન ખર્ચ માટે આપવામાં આવતો ભાગ છે.",
+   "remember_en": "Gujarat DA hike: 3% to 63% on 1 July 2026.",
+   "remember_gu": "ગુજરાત DA વધારો: ૩% થી ૬૩% ૧ જુલાઈ ૨૦૨૬એ.",
+   "why_en": "Shows state’s fiscal response before Diwali and impacts exam‑level budgeting questions.",
+   "why_gu": "દિવાળી પહેલાં રાજ્યની નાણાકીય પ્રતિસાદ અને પરીક્ષા‑સ્તરના બજેટ પ્રશ્નો માટે મહત્વપૂર્ણ.",
+   "details_en": "On 4 November 2026 Gujarat announced a 3‑percentage‑point rise in Dearness Allowance for its 4.62 lakh serving employees and 5.07 lakh pensioners, raising the rate from 60% to 63% effective 1 July 2026. The state will pay arrears for four months (July‑October) amounting to ₹523 crore along with November salaries. The revision adds an annual financial burden of ₹1,569 crore to Gujarat’s exchequer. The move aims to provide relief ahead of the Diwali festival.",
+   "details_gu": "૪ નવેમ્બર ૨૦૨૬એ ગુજરાતે ૪.૬૨ લાખ કર્મચારીઓ અને ૫.૦૭ લાખ પેન્શનધારકો માટે ડીઅરનેસ એલાઉન્સમાં ૩ ટકા વધારો જાહેર કર્યો. દર ૬૦% થી ૬૩% થઈ, ૧ જુલાઈ ૨૦૨૬થી લાગુ થશે. રાજ્ય જુલાઈ‑ઓક્ટોબર માટે ₹૫૨૩ કૃ. બાકી ચૂકવશે અને નવેમ્બર પગારમાં ઉમેરશે. આ સુધારો રાજ્યની વાર્ષિક ખર્ચમાં ₹૧,૫૬૯ કૃ. વધારો કરે છે, દિવાળી પહેલાં રાહત આપવા માટે.",
+   "mcq": {
+    "q_en": "When does Gujarat's 3% Dearness Allowance increase become effective?",
+    "q_gu": "ગુજરાતમાં ૩% ડીયર્નેસ એલાઉન્સ વધારો ક્યારે લાગુ પડે?",
+    "o_en": [
+     "1 July 2026",
+     "1 August 2026",
+     "1 September 2026",
+     "1 October 2026"
+    ],
+    "o_gu": [
+     "૧ જુલાઈ ૨૦૨૬",
+     "૧ ઑગસ્ટ ૨૦૨૬",
+     "૧ સપ્ટેમ્બર ૨૦૨૬",
+     "૧ ઑક્ટોબર ૨૦૨૬"
+    ],
+    "a": 0,
+    "e_en": "The announcement states the hike is effective from 1 July 2026.",
+    "e_gu": "જાહેરાતમાં વધારો ૧ જુલાઈ ૨૦૨૬થી લાગુ થાય છે."
+   },
+   "id": "ca-gujarat-raises-dearness-allowance-by-3-ahead-of-diwali",
+   "source": "https://www.livemint.com/money/personal-finance/state-da-hikes-nov-2026-gujarat-punjab-announce-3-increase-check-revised-dearness-allowance-rates-effective-date-11793838656899.html",
+   "exam": {
+    "score": 6,
+    "why": "3% DA hike, state finance"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.livemint.com/money/personal-finance/state-da-hikes-nov-2026-gujarat-punjab-announce-3-increase-check-revised-dearness-allowance-rates-effective-date-11793838656899.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "Gujarat crushes Kerala by innings and 64 runs in Ranji Trophy",
+   "title_gu": "ગુજરાતે રંજિ ટ્રોફીમાં કેરળને ઇનિંગ્સ અને ૬૪ રનથી હરાવ્યું",
+   "summary_en": "Gujarat beat Kerala by an innings and 64 runs at Narendra Modi Stadium. Medium‑pace bowler Arzan Nagwaswalla took four wickets.",
+   "summary_gu": "ગુજરાતે નરેન્દ્ર મોદી સ્ટેડિયમમાં કેરળને ઇનિંગ્સ અને ૬૪ રનથી હરાવ્યું. મધ્યમ ગતિના બોલર અર્જન નાગવસવાલાએ ચાર વિકેટ લીધા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Arzan Nagwaswalla",
+     "v_gu": "અર્જન નાગવસવાલા"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "four wickets for 24 runs",
+     "v_gu": "૨૪ રનમાં ચાર વિકેટ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Narendra Modi Stadium, Ahmedabad",
+     "v_gu": "નરેન્દ્ર મોદી સ્ટેડિયમ, અમદાવાદ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "5 November 2026",
+     "v_gu": "5 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Result",
+     "k_gu": "પરિણામ",
+     "v_en": "innings and 64-run win",
+     "v_gu": "ઇનિંગ્સ અને ૬૪ રનથી જીત"
+    }
+   ],
+   "points_en": [
+    "Kerala scored 191 in the second innings.",
+    "Sachin Baby top‑scored for Kerala with 52 runs.",
+    "Gujarat’s spinners helped create sharp turn on the pitch."
+   ],
+   "points_gu": [
+    "કેરળે બીજા ઇનિંગમાં ૧૯૧ રન બનાવ્યા.",
+    "સચિન બેબીએ કેરળ માટે ૫૨ રનથી ટોપ સ્કોર કર્યો.",
+    "ગુજરાતના સ્પિનર્સે પિચ પર તીખો ફેરવાણ આપ્યો."
+   ],
+   "context_en": "Ranji Trophy is India’s premier domestic first‑class cricket tournament, organized by the Board of Control for Cricket in India (BCCI).",
+   "context_gu": "રંજિ ટ્રોફી ભારતનું મુખ્ય ઘરેલું પ્રથમ‑કક્ષા ક્રિકેટ ટુર્નામેન્ટ છે, જે બોર્ડ ઓફ કન્ટ્રોલ ફોર ક્રિકેટ ઇન ઇન્ડિયા (BCCI) દ્વારા આયોજિત છે.",
+   "remember_en": "Arzan Nagwaswalla’s 4/24 led Gujarat to a massive win.",
+   "remember_gu": "અર્જન નાગવસવાલાની 4/24 ગુજરાતને મોટી જીત અપાવી.",
+   "why_en": "Shows Gujarat’s bowling strength and impact on tournament standings.",
+   "why_gu": "ગુજરાતની બોલિંગ શક્તિ અને ટુર્નામેન્ટમાં અસર દર્શાવે છે.",
+   "details_en": "On 5 November 2026, Gujarat played Kerala at the Narendra Modi Stadium in Ahmedabad in a Ranji Trophy Elite Group C match. Gujarat bowled Kerala out for 191 in the second innings, winning by an innings and 64 runs. Medium‑pace bowler Arzan Nagwaswalla was the star, taking four wickets for just 24 runs, including the final two wickets with the new ball. Kerala’s top scorer was Sachin Baby with 52 runs, while Gujarat’s spinners made the pitch difficult for batsmen.",
+   "details_gu": "5 નવેમ્બર 2026 ના રોજ, ગુજરાતે નરેન્દ્ર મોદી સ્ટેડિયમ, અમદાવાદમાં રંજિ ટ્રોફી એલાઈટ ગ્રુપ C મેચમાં કેરળ સામે રમ્યું. ગુજરાતે કેરળને બીજા ઇનિંગમાં 191 રન પર આઉટ કર્યું અને ઇનિંગ્સ અને 64 રનથી જીત મેળવી. મધ્યમ ગતિના બોલર અર્જન નાગવસવાલાએ માત્ર 24 રનમાં ચાર વિકેટ લીધા, નવું બોલ સાથે અંતિમ બે વિકેટ પણ લીધા. કેરળનું ટોપ સ્કોર સચિન બેબે 52 રન સાથે કર્યું, જ્યારે ગુજરાતના સ્પિનર્સે પિચને બેટ્સમેન માટે કઠિન બનાવી દીધો.",
+   "mcq": {
+    "q_en": "Who took four wickets for Gujarat in the match against Kerala?",
+    "q_gu": "ગુજરાત સામે કેરળની મેચમાં ચાર વિકેટ કોણે લીધા?",
+    "o_en": [
+     "Arzan Nagwaswalla",
+     "Sachin Baby",
+     "Vishnu Vinod",
+     "Varun Nayanar"
+    ],
+    "o_gu": [
+     "અર્જન નાગવસવાલા",
+     "સચિન બેબી",
+     "વિષ્ણુ વિનોદ",
+     "વરુણ નાયનર"
+    ],
+    "a": 0,
+    "e_en": "Arzan Nagwaswalla claimed four wickets for 24 runs.",
+    "e_gu": "અર્જન નાગવસવાલાએ 24 રનમાં ચાર વિકેટ લીધા."
+   },
+   "id": "ca-gujarat-crushes-kerala-by-innings-and-64-runs-in-ranji-troph",
+   "source": "https://sportstar.thehindu.com/cricket/ranji-trophy-gujarat-vs-kerala-result-score-arzan-nagwalla-wickets/article71670379.ece",
+   "exam": {
+    "score": 6,
+    "why": "Ranji Trophy win, state cricket"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/cricket/ranji-trophy-gujarat-vs-kerala-result-score-arzan-nagwalla-wickets/article71670379.ece"
     }
    ],
    "by": "groq"
