@@ -4809,6 +4809,260 @@
   },
   {
    "category": "schemes",
+   "title_en": "India launches monthly deepwater oil bidding under Samudra Manthan",
+   "title_gu": "સમુદ્ર મંથન હેઠળ મહિનો‑માસિક ડીપવોટર તેલ બિડિંગ શરૂ",
+   "summary_en": "The government opened a special licensing round for deepwater and ultra‑deepwater oil blocks, offering monthly bids and up to 50% cost support.",
+   "summary_gu": "સરકારએ ડીપવોટર અને અલ્ટ્રા‑ડીપવોટર તેલ બ્લોક માટે ખાસ લાઇસેન્સિંગ રાઉન્ડ શરૂ કરી, મહિનો‑માસિક બિડ અને 50% ખર્ચ સહાય આપી.",
+   "facts": [
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાઃ",
+     "v_en": "Samudra Manthan",
+     "v_gu": "સમુદ્ર મંથન"
+    },
+    {
+     "k_en": "Cost share",
+     "k_gu": "ખર્ચ વહેંચાણ",
+     "v_en": "up to 50% per well, max ₹675 crore",
+     "v_gu": "પ્રતિ કૂવા 50% સુધી, મહત્તમ ₹675 કૃ."
+    },
+    {
+     "k_en": "Budget",
+     "k_gu": "બજેટ",
+     "v_en": "₹84,084 crore total",
+     "v_gu": "₹84,084 કૃ. કુલ"
+    },
+    {
+     "k_en": "Bidding frequency",
+     "k_gu": "બિડિંગ આવર્તન",
+     "v_en": "21‑day window each month",
+     "v_gu": "દર મહિને 21‑દિવસની વિન્ડો"
+    },
+    {
+     "k_en": "Approval date",
+     "k_gu": "મંજૂરી તારીખ",
+     "v_en": "31 July 2026",
+     "v_gu": "31 જુલાઈ 2026"
+    }
+   ],
+   "points_en": [
+    "Monthly windows give 12 chances a year.",
+    "Support aims to cut India's oil import bill.",
+    "Scheme also funds seismic data and offshore infrastructure."
+   ],
+   "points_gu": [
+    "માસિક વિન્ડો વર્ષમાં 12 તક આપે છે.",
+    "સહાય ભારતની તેલ આયાત બિલ ઘટાડશે.",
+    "યોજનામાં સિસ્મિક ડેટા અને ઓફશોર ઈન્ફ્રાસ્ટ્રક્ચર માટે પણ નાણાં છે."
+   ],
+   "context_en": "The Directorate General of Hydrocarbons (DGH) administers offshore licensing for India.",
+   "context_gu": "ડિરેક્ટોરેટ જનરલ ઓફ હાઇડ્રોકાર્બન્સ (DGH) ભારતની ઓફશોર લાઇસેન્સિંગ સંભાળે છે.",
+   "remember_en": "Samudra Manthan offers 50% cost share, ₹675 crore cap per well.",
+   "remember_gu": "સમુદ્ર મંથન 50% ખર્ચ વહેંચાણ, પ્રતિ કૂવા ₹675 કૃ. મર્યાદા આપે છે.",
+   "why_en": "Exam may ask about scheme name, cost share, and bidding schedule.",
+   "why_gu": "પરીક્ષામાં યોજના નામ, ખર્ચ વહેંચાણ અને બિડિંગ સમયસૂચી પૂછાઈ શકે.",
+   "details_en": "Under the ₹84,084‑crore Samudra Manthan offshore exploration programme, the government introduced a Special Open Acreage Licensing Policy (OALP) for deepwater and ultra‑deepwater blocks. A 21‑day Expression of Interest window opens on the first day of each month, creating twelve bidding rounds a year. The centre will fund up to half of eligible drilling costs, but no more than ₹675 crore per well. This support aims to lower entry barriers, attract private investors and boost domestic oil and gas production, reducing import dependence.",
+   "details_gu": "₹84,084 કૃ.ની સમુદ્ર મંથન ઓફશોર શોધ યોજના હેઠળ, સરકારએ ડીપવોટર અને અલ્ટ્રા‑ડીપવોટર બ્લોક માટે ખાસ ઓપન એક્રેજ લાઇસેન્સિંગ પોલિસી (OALP) શરૂ કરી. દરેક મહિના ના પ્રથમ દિવસે 21‑દિવસની એક્સપ્રેશન ઓફ ઇન્ટરેસ્ટ (EoI) વિન્ડો ખૂલે છે, જે વર્ષમાં 12 બિડિંગ રાઉન્ડ આપે છે. કેન્દ્ર પ્રતિ કૂવા 50% સુધી, મહત્તમ ₹675 કૃ. સુધી, ડ્રિલિંગ ખર્ચમાં સહાય કરશે. આ સહાય પ્રવેશ અવરોધો ઘટાડે, ખાનગી રોકાણકારો આકર્ષે અને ઘરેલું તેલ‑ગેસ ઉત્પાદન વધારી, આયાત નિર્ભરતા ઘટાડશે.",
+   "mcq": {
+    "q_en": "What is the maximum cost the government will share per deepwater well under Samudra Manthan?",
+    "q_gu": "સમુદ્ર મંથન હેઠળ સરકાર ડીપવોટર કૂવા માટે મહત્તમ કેટલો ખર્ચ વહેંચશે?",
+    "o_en": [
+     "₹500 crore",
+     "₹675 crore",
+     "₹750 crore",
+     "₹1,000 crore"
+    ],
+    "o_gu": [
+     "₹500 કૃ.",
+     "₹675 કૃ.",
+     "₹750 કૃ.",
+     "₹1,000 કૃ."
+    ],
+    "a": 1,
+    "e_en": "The scheme caps cost sharing at ₹675 crore per well.",
+    "e_gu": "યોજનામાં પ્રતિ કૂવા ખર્ચ વહેંચાણની મર્યાદા ₹675 કૃ. છે."
+   },
+   "id": "ca-india-launches-monthly-deepwater-oil-bidding-under-samudra-m",
+   "source": "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html",
+   "exam": {
+    "score": 8,
+    "why": "Deepwater oil/gas bids, govt funding"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/india-opens-deepwater-oil-gas-bids-offers-to-fund-up-to-50-of-well-costs-126110501068_1.html"
+    },
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://m.economictimes.com/industry/energy/oil-gas/samudra-manthan-scheme-india-opens-special-deepwater-oil-gas-bidding-round-offers-to-fund-up-to-50-of-well-costs/articleshow/135568061.cms"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-05"
+  },
+  {
+   "category": "days",
+   "title_en": "Gujarat CM flags off Run for Unity in Vadodara",
+   "title_gu": "ગુજરાત મુખ્યમંત્રી વડોદરામાં રન ફોર યુનિટીનું ધ્વજ ઉઠાવ્યું",
+   "summary_en": "The Gujarat Chief Minister started and ran in the ‘Run for Unity’ event in Vadodara on National Unity Day.",
+   "summary_gu": "ગુજરાત મુખ્યમંત્રી વડોદરામાં રાષ્ટ્રીય એકતા દિવસે ‘રન ફોર યુનિટી’ કાર્યક્રમ શરૂ કરીને ભાગ લીધો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Gujarat Chief Minister**",
+     "v_gu": "**ગુજરાત મુખ્યમંત્રી**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Flagged off and joined Run for Unity**",
+     "v_gu": "**રન ફોર યુનિટીનું ધ્વજ ઉઠાવ્યું અને ભાગ લીધો**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Vadodara**",
+     "v_gu": "**વડોદરા**"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**Rashtriya Ekta Diwas (National Unity Day)**",
+     "v_gu": "**રાષ્ટ્રીય એકતા દિવસ**"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "Rashtriya Ekta Diwas is observed on 31 October to promote national unity.",
+   "context_gu": "રાષ્ટ્રીય એકતા દિવસ 31 ઓક્ટોબરે ઉજવવામાં આવે છે, જે દેશની એકતા પ્રોત્સાહિત કરે છે.",
+   "remember_en": "CM led Run for Unity on Unity Day in Vadodara.",
+   "remember_gu": "મુખ્યમંત્રી વડોદરામાં એકતા દિવસે રન ફોર યુનિટીનું નેતૃત્વ કર્યું.",
+   "why_en": "Exam may ask about events on Rashtriya Ekta Diwas.",
+   "why_gu": "પરીક્ષામાં રાષ્ટ્રીય એકતા દિવસની ઘટનાઓ પૂછાઈ શકે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "On which day did the Gujarat Chief Minister flag off the Run for Unity in Vadodara?",
+    "q_gu": "ગુજરાત મુખ્યમંત્રી વડોદરામાં રન ફોર યુનિટીનું ધ્વજ કયા દિવસે ઉઠાવ્યું?",
+    "o_en": [
+     "Independence Day",
+     "Republic Day",
+     "Rashtriya Ekta Diwas",
+     "Gandhi Jayanti"
+    ],
+    "o_gu": [
+     "સ્વતંત્રતા દિવસ",
+     "ગણતંત્ર દિવસ",
+     "રાષ્ટ્રીય એકતા દિવસ",
+     "ગાંધી જયંતી"
+    ],
+    "a": 2,
+    "e_en": "The event was on Rashtriya Ekta Diwas.",
+    "e_gu": "કાર્યક્રમ રાષ્ટ્રીય એકતા દિવસે થયો હતો."
+   },
+   "id": "ca-gujarat-cm-flags-off-run-for-unity-in-vadodara",
+   "source": "https://cmogujarat.gov.in/en/photos/gujarat-cm-flags-off-run-for-unity-vadodara-rashtriya-ekta-diwas",
+   "exam": {
+    "score": 7,
+    "why": "Rashtriya Ekta Diwas unity run"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/photos/gujarat-cm-flags-off-run-for-unity-vadodara-rashtriya-ekta-diwas"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-05"
+  },
+  {
+   "category": "defence",
+   "title_en": "INS Sahyadri reaches Japan for MALABAR 2026 exercise",
+   "title_gu": "ઇન્‍સ સાહ્યાદ્રી જાપાન પહોંચ્યો માલાબાર 2026 અભ્યાસ માટે",
+   "summary_en": "India's stealth frigate INS Sahyadri arrived at Yokosuka, Japan, to join the multinational naval drill MALABAR 2026.",
+   "summary_gu": "ભારતનું સ્ટેલ્થ ફ્રિગેટ ઇન્‍સ સાહ્યાદ્રી યોકોસુકા, જાપાનમાં પહોંચીને માલાબાર 2026 સમુદ્રી અભ્યાસમાં ભાગ લે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "INS Sahyadri, indigenous guided‑missile stealth frigate",
+     "v_gu": "ઇન્‍સ સાહ્યાદ્રી, દેશી માર્ગદર્શિત મિસાઇલ સ્ટેલ્થ ફ્રિગેટ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Yokosuka Naval Base, Japan",
+     "v_gu": "યોકોસુકા નૌસેન આધાર, જાપાન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "4 November 2026 (arrival)",
+     "v_gu": "4 નવેમ્બર 2026 (પહોંચ)"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Eastern Fleet of Indian Navy",
+     "v_gu": "ભારતીય નૌસેનાનો પૂર્વી દળ"
+    }
+   ],
+   "points_en": [
+    "The warship is part of India’s Eastern Fleet.",
+    "It will train with navies of Japan, United States and Australia.",
+    "The drill aims to boost interoperability and regional security."
+   ],
+   "points_gu": [
+    "યુદ્ધજહાજ ભારતીય નૌસેનાના પૂર્વી દળનો ભાગ છે.",
+    "તે જાપાન, યુ.એસ. અને ઓસ્ટ્રેલિયાની નૌસેનાઓ સાથે તાલીમ કરશે.",
+    "અભ્યાસ સહકાર અને પ્રદેશની સુરક્ષા મજબૂત કરે છે."
+   ],
+   "context_en": "MALABAR is a recurring multilateral naval exercise involving India, Japan, the United States and Australia, held to improve maritime cooperation in the Indo‑Pacific.",
+   "context_gu": "માલાબાર ભારત, જાપાન, યુનાઇટેડ સ્ટેટ્સ અને ઓસ્ટ્રેલિયા વચ્ચેનું નિયમિત સમુદ્રી અભ્યાસ છે, જે ઇન્ડો‑પેસિફિકમાં નૌસેનાકીય સહકાર વધારવા માટે થાય છે.",
+   "remember_en": "INS Sahyadri joined MALABAR 2026 at Yokosuka.",
+   "remember_gu": "ઇન્‍સ સાહ્યાદ્રી યોકોસુકા ખાતે માલાબાર 2026માં જોડાયો.",
+   "why_en": "Shows India’s naval partnership and MAHASAGAR vision in the Indo‑Pacific.",
+   "why_gu": "ભારતની નૌસેનાકીય ભાગીદારી અને માહાસાગર દ્રષ્ટિકોણ દર્શાવે છે.",
+   "details_en": "The Indian Navy’s indigenous guided‑missile stealth frigate INS Sahyadri, belonging to the Eastern Fleet, arrived at Yokosuka Naval Base in Japan on 4 November 2026. The ship was welcomed by the Japan Maritime Self‑Defense Force, with Vice Admiral Yagi Koji and Deputy Chief of the Indian Mission R. Madhu Sudan attending. INS Sahyadri will take part in the harbour and sea phases of MALABAR 2026, working alongside ships from Japan, the United States and Australia. The exercise aims to improve operational coordination, interoperability and professional exchange, reinforcing mutual trust and a stable Indo‑Pacific region, in line with India’s MAHASAGAR vision.",
+   "details_gu": "ભારતીય નૌસેનાનો દેશી માર્ગદર્શિત મિસાઇલ સ્ટેલ્થ ફ્રિગેટ ઇન્‍સ સાહ્યાદ્રી, પૂર્વી દળનો ભાગ, 4 નવેમ્બર 2026એ યોકોસુકા નૌસેન આધાર, જાપાનમાં પહોંચ્યો. જાપાન મેરિટાઇમ સેલ્ફ‑ડિફેન્સ ફોર્સે તેને સ્વાગત કર્યું, ઉપનૌસેનાધિકારી યાગી કોજી અને ભારતીય મિશનના ઉપમુખિયું આર.મધુ સુદાન હાજર રહ્યા. ઇન્‍સ સાહ્યાદ્રી harbour અને sea તબક્કાઓમાં માલાબાર 2026માં ભાગ લેશે, જાપાન, યુ.એસ. અને ઓસ્ટ્રેલિયાની નૌસેનાઓ સાથે. આ અભ્યાસ ઓપરેશનલ સમન્વય, ઇન્ટરઓપેરેબિલિટી અને વ્યાવસાયિક વિનિમય વધારવા, પરસ્પર વિશ્વાસ અને ઇન્ડો‑પેસિફિકમાં સ્થિરતા મજબૂત કરવા, ભારતની માહાસાગર દ્રષ્ટિ સાથે સુસંગત છે.",
+   "mcq": {
+    "q_en": "Which Indian warship arrived at Yokosuka for MALABAR 2026?",
+    "q_gu": "માલાબાર 2026 માટે યોકોસુકા પહોંચેલ ભારતીય યુદ્ધજહાજ કયું હતું?",
+    "o_en": [
+     "INS Vikramaditya",
+     "INS Sahyadri",
+     "INS Kolkata",
+     "INS Shivalik"
+    ],
+    "o_gu": [
+     "ઇન્‍સ વિક્રમાદિત્ય",
+     "ઇન્‍સ સાહ્યાદ્રી",
+     "ઇન્‍સ કોલકાતા",
+     "ઇન્‍સ શિવાલિક"
+    ],
+    "a": 1,
+    "e_en": "The article states INS Sahyadri arrived at Yokosuka.",
+    "e_gu": "લેખમાં ઇન્‍સ સાહ્યાદ્રી યોકોસુકા પહોંચ્યો જણાવાયું છે."
+   },
+   "id": "ca-ins-sahyadri-reaches-japan-for-malabar-2026-exercise",
+   "source": "https://www.thehindu.com/news/national/ins-sahyadri-reaches-japan-for-multilateral-naval-exercise-malabar-2026/article71670198.ece",
+   "exam": {
+    "score": 7,
+    "why": "MALABAR 2026 naval exercise participation"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/ins-sahyadri-reaches-japan-for-multilateral-naval-exercise-malabar-2026/article71670198.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-05"
+  },
+  {
+   "category": "schemes",
    "title_en": "Gujarat sets up Export Promotion Council for MSMEs",
    "title_gu": "ગુજરાતે એમએસએમઇ માટે નિકાસ પ્રમોશન કાઉન્સિલ સ્થાપી",
    "summary_en": "The Gujarat government approved a state‑owned Gujarat Export Promotion Council to help small firms export.",
@@ -5244,6 +5498,90 @@
     {
      "name": "Sportstar",
      "url": "https://sportstar.thehindu.com/cricket/ranji-trophy-gujarat-vs-kerala-result-score-arzan-nagwalla-wickets/article71670379.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-05"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat government declares Diwali holiday on 9 November 2026",
+   "title_gu": "ગુજરાત સરકારએ 9 નવેમ્બર 2026ને દિવાળી રજા જાહેર કરી",
+   "summary_en": "All state offices will be closed on Monday, 9 November 2026 for Diwali. Work resumes on 28 November 2026.",
+   "summary_gu": "સોમવાર 9 નવેમ્બર 2026ને તમામ રાજ્ય કચેરીઓ બંધ રહેશે. કામ 28 નવેમ્બર 2026થી શરૂ થશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Diwali holiday for state employees",
+     "v_gu": "રાજ્ય કર્મચારીઓ માટે દિવાળી રજા"
+    },
+    {
+     "k_en": "When (holiday)",
+     "k_gu": "ક્યારે (રજા)",
+     "v_en": "9 November 2026 (Monday)",
+     "v_gu": "9 નવેમ્બર 2026 (સોમવાર)"
+    },
+    {
+     "k_en": "When (work resumes)",
+     "k_gu": "ક્યારે (કાર્ય પુનઃ શરૂ)",
+     "v_en": "28 November 2026 (fourth Saturday)",
+     "v_gu": "28 નવેમ્બર 2026 (ચોથો શનિવાર)"
+    },
+    {
+     "k_en": "Authority",
+     "k_gu": "પ્રાધિકરણ",
+     "v_en": "Governor's order, issued by Additional Secretary Jwalant Trivedi",
+     "v_gu": "રાજ્યપાલનું હુકમ, અધિક સચિવ જ્વલંત ત્રિવેદી દ્વારા"
+    }
+   ],
+   "points_en": [
+    "The holiday lets employees celebrate Diwali with families in their hometowns.",
+    "It replaces a previously planned working day on 9 Nov.",
+    "The next working day is the fourth Saturday of November."
+   ],
+   "points_gu": [
+    "રજાથી કર્મચારીઓ પરિવાર સાથે દિવાળી ઉજવી શકે છે.",
+    "9 નવેમ્બરનો કામનો દિવસ રદ થયો છે.",
+    "કાર્ય 28 નવેમ્બર, ચોથો શનિવાર,થી શરૂ થશે."
+   ],
+   "context_en": "Diwali is a major Hindu festival; Gujarat state offices follow the Governor's orders for holidays.",
+   "context_gu": "દિવાળી હિંદુ ધર્મનું મુખ્ય તહેવાર છે; ગુજરાતની કચેરીઓ રાજ્યપાલના હુકમો મુજબ રજા લે છે.",
+   "remember_en": "Diwali holiday: 9 Nov 2026, work resumes 28 Nov 2026.",
+   "remember_gu": "દિવાળી રજા: 9 નવેમ્બર 2026, કામ પુનઃ શરૂ 28 નવેમ્બર 2026.",
+   "why_en": "Exam may ask date of Diwali holiday and the resumption date.",
+   "why_gu": "પરીક્ષામાં દિવાળી રજાની તારીખ અને કામ પુનઃ શરૂ થવાની તારીખ પૂછાઈ શકે.",
+   "details_en": "The Gujarat government announced that all state offices will be closed on Monday, 9 November 2026, allowing employees to celebrate Diwali with their families in their hometowns. The decision was issued by the Governor’s order and announced by Additional Secretary (Protocol) Jwalant Trivedi of the General Administration Department. Work will resume on 28 November 2026, the fourth Saturday of the month. The holiday is not under the 1881 Vacancies Act.",
+   "details_gu": "ગુજરાત સરકારએ જાહેર કર્યું કે 9 નવેમ્બર 2026 (સોમવાર)ના રોજ તમામ રાજ્ય કચેરીઓ બંધ રહેશે, જેથી કર્મચારીઓ પોતાના પરિવાર સાથે વતનમાં દિવાળી ઉજવી શકે. આ નિર્ણય રાજ્યપાલના હુકમથી અને સામાન્ય વહીવટ વિભાગના અધિક સચિવ (પ્રોટોકોલ) જ્વલંત ત્રિવેદી દ્વારા જાહેર થયો. કામ 28 નવેમ્બર 2026, ચોથો શનિવાર,થી ફરી શરૂ થશે. આ રજા 1881ની વટાઉખત અધિનિયમ હેઠળ નથી.",
+   "mcq": {
+    "q_en": "On which date will Gujarat state offices reopen after the Diwali holiday in 2026?",
+    "q_gu": "દિવાળી રજાના પછી ગુજરાત રાજ્ય કચેરીઓ કયા દિવસે ફરી ખૂલે છે?",
+    "o_en": [
+     "9 November 2026",
+     "15 November 2026",
+     "22 November 2026",
+     "28 November 2026"
+    ],
+    "o_gu": [
+     "9 નવેમ્બર 2026",
+     "15 નવેમ્બર 2026",
+     "22 નવેમ્બર 2026",
+     "28 નવેમ્બર 2026"
+    ],
+    "a": 3,
+    "e_en": "Work resumes on 28 November 2026, the fourth Saturday.",
+    "e_gu": "કાર્ય 28 નવેમ્બર 2026, ચોથો શનિવાર,થી પુનઃ શરૂ થાય છે."
+   },
+   "id": "ca-gujarat-government-declares-diwali-holiday-on-9-november-202",
+   "source": "https://www.gujaratijagran.com/gujarat/gandhinagar/gujarat-diwali-holiday-2026-govt-employees-get-extra-day-off-1978785",
+   "exam": {
+    "score": 6,
+    "why": "Nov 9 Diwali holiday affects govt offices"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratijagran.com/gujarat/gandhinagar/gujarat-diwali-holiday-2026-govt-employees-get-extra-day-off-1978785"
     }
    ],
    "by": "groq",
