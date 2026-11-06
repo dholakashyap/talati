@@ -878,6 +878,95 @@
     }
    ],
    "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "Indian skeet shooters miss Olympic quota at Doha World Championships",
+   "title_gu": "દોહા વિશ્વ ચેમ્પિયનશિપમાં ભારતીય સ્કીટ શૂટર્સ ઓલિમ્પિક ક્વોટા ચૂકી ગયા",
+   "summary_en": "India’s men’s and women’s skeet teams failed to reach finals and did not earn quota places for the 2028 Los Angeles Olympics at the ISSF World Championships in Doha.",
+   "summary_gu": "દોહામાં આયોજિત ISSF વિશ્વ ચેમ્પિયનશિપમાં ભારતીય સ્કીટ શૂટર્સ ફાઇનલમાં પહોંચ્યા ન હતા અને 2028 લોસ એન્જેલિસ ઓલિમ્પિક માટે ક્વોટા મેળવી શક્યા ન હતા.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "ISSF World Championships 2026",
+     "v_gu": "ISSF વિશ્વ ચેમ્પિયનશિપ 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Doha, Qatar",
+     "v_gu": "દોહા, કતાર"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Friday, 2026",
+     "v_gu": "શુક્રવાર, 2026"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Ganemat Sekhon (women’s skeet)",
+     "v_gu": "ગનેમત સેખોન (મહિલા સ્કીટ)"
+    },
+    {
+     "k_en": "Score",
+     "k_gu": "સ્કોર",
+     "v_en": "118/125 (13th place)",
+     "v_gu": "118/125 (13મો સ્થાન)"
+    }
+   ],
+   "points_en": [
+    "Ganemat Sekhon was the top Indian woman, finishing 13th with 118 hits.",
+    "Men’s top shooter Bhavtegh Singh Gill placed 24th with 119 hits.",
+    "India’s men’s team ranked sixth with 356 points."
+   ],
+   "points_gu": [
+    "ગનેમત સેખોન 118 હિટ્સ સાથે 13મો સ્થાન મેળવી, ભારતીય સ્ત્રી શ્રેષ્ઠ રહી.",
+    "પુરુષોમાં ભવતેઘ સિંહ ગિલ 119 હિટ્સ સાથે 24મો સ્થાન મેળવ્યો.",
+    "ભારતીય પુરુષ ટીમ 356 પોઇન્ટ્સ સાથે છઠ્ઠી ક્રમમાં આવી."
+   ],
+   "context_en": "The International Shooting Sport Federation (ISSF) organizes the World Championships, a key event for Olympic quota allocation.",
+   "context_gu": "ઇન્ટરનેશનલ શૂટિંગ સ્પોર્ટ્સ ફેડરેશન (ISSF) વિશ્વ ચેમ્પિયનશિપનું આયોજન કરે છે, જે ઓલિમ્પિક ક્વોટા માટે મહત્વપૂર્ણ છે.",
+   "remember_en": "India missed Olympic quota in skeet at Doha 2026.",
+   "remember_gu": "દોહા 2026માં સ્કીટમાં ભારતને ઓલિમ્પિક ક્વોટા મળ્યો નહીં.",
+   "why_en": "Quota spots determine Olympic participation; missing them affects team size.",
+   "why_gu": "ક્વોટા સ્થળો ઓલિમ્પિકમાં ભાગ લેવા નક્કી કરે છે, તેથી ચૂકી જવાથી ટીમનું કદ ઘટે છે.",
+   "details_en": "At the ISSF World Championships in Doha, Indian skeet shooters did not qualify for the individual medal rounds. Ganemat Sekhon was the highest‑placed Indian woman, finishing 13th with 118 hits. In the men’s event, Bhavtegh Singh Gill ranked 24th with 119 hits and Anantjeet Singh Naruka was 25th, also with 119 hits. The three men’s shooters together scored 356 points, placing India sixth in the team standings. Their aggregate scores were insufficient to earn any quota places for the 2028 Los Angeles Olympics.",
+   "details_gu": "દોહામાં આયોજિત ISSF વિશ્વ ચેમ્પિયનશિપમાં ભારતીય સ્કીટ શૂટર્સ વ્યક્તિગત મેડલ રાઉન્ડમાં પહોંચ્યા ન હતા. ગનેમત સેખોન 118 હિટ્સ સાથે 13મો સ્થાન મેળવી, ભારતીય સ્ત્રી શ્રેષ્ઠ રહી. પુરુષોમાં ભવતેઘ સિંહ ગિલ 119 હિટ્સ સાથે 24મો અને અનંતજીત સિંહ નરુકા 119 હિટ્સ સાથે 25મો સ્થાન મેળવ્યો. ત્રણેય પુરુષોનું કુલ 356 પોઇન્ટ્સ હતું, જેના કારણે ભારત ટીમમાં છઠ્ઠા ક્રમમાં આવ્યું. આ સ્કોરો 2028 લોસ એન્જેલિસ ઓલિમ્પિક માટે ક્વોટા મેળવવા પૂરતા ન હતા.",
+   "mcq": {
+    "q_en": "Which Indian shooter achieved the highest individual placement in women’s skeet at the 2026 Doha ISSF World Championships?",
+    "q_gu": "દોહા 2026 ISSF વિશ્વ ચેમ્પિયનશિપમાં સ્ત્રી સ્કીટમાં ભારતીય શૂટરનું શ્રેષ્ઠ સ્થાન કોણે મેળવ્યું?",
+    "o_en": [
+     "Ganemat Sekhon",
+     "Bhavtegh Singh Gill",
+     "Anantjeet Singh Naruka",
+     "Mairaj Ahmad Khan"
+    ],
+    "o_gu": [
+     "ગનેમત સેખોન",
+     "ભવતેઘ સિંહ ગિલ",
+     "અનંતજીત સિંહ નરુકા",
+     "મૈરજ અહમદ ખાન"
+    ],
+    "a": 0,
+    "e_en": "Ganemat Sekhon finished 13th, the best among Indian women.",
+    "e_gu": "ગનેમત સેખોન 13મો સ્થાન મેળવી, ભારતીય સ્ત્રીઓમાં શ્રેષ્ઠ રહી."
+   },
+   "id": "ca-indian-skeet-shooters-miss-olympic-quota-at-doha-world-champ",
+   "source": "https://sportstar.thehindu.com/shooting/issf-world-championships-2026-indian-skeet-shooters-miss-final-olympic-quota/article71675426.ece",
+   "exam": {
+    "score": 6,
+    "why": "ISSF quota places, potential exam sports question"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/shooting/issf-world-championships-2026-indian-skeet-shooters-miss-final-olympic-quota/article71675426.ece"
+    }
+   ],
+   "by": "groq"
   }
  ]
 }
