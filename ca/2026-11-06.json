@@ -2,6 +2,170 @@
  "date": "2026-11-06",
  "items": [
   {
+   "category": "days",
+   "title_en": "Gujarat CM reviews Janjatiya Gaurav Divas 2026 plans",
+   "title_gu": "ગુજરાત મુખ્યમંત્રી જંજાતીય ગૌરવ દિવસ 2026 યોજનાઓની સમીક્ષા કરે છે",
+   "summary_en": "The Gujarat chief minister examined the 2026 Janjatiya Gaurav Divas plans in Gandhinagar.",
+   "summary_gu": "ગુજરાત મુખ્યમંત્રી ગાંધીનગરમાં 2026 જંજાતીય ગૌરવ દિવસની યોજનાઓની સમીક્ષા કરે છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat chief minister",
+     "v_gu": "ગુજરાત મુખ્યમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "reviewed Janjatiya Gaurav Divas 2026 plans",
+     "v_gu": "જંજાતીય ગૌરવ દિવસ 2026 યોજનાઓની સમીક્ષા કરી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gandhinagar",
+     "v_gu": "ગાંધીનગર"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2026",
+     "v_gu": "2026"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "",
+   "context_gu": "",
+   "remember_en": "CM reviewed Janjatiya Gaurav Divas 2026 plans in Gandhinagar.",
+   "remember_gu": "મુખ્યમંત્રી ગાંધીનગરમાં 2026 જંજાતીય ગૌરવ દિવસની યોજનાઓની સમીક્ષા કરે છે.",
+   "why_en": "Shows government focus on tribal welfare for upcoming celebrations.",
+   "why_gu": "આગામી ઉજવણી માટે ટ્રાઇબલ કલ્યાણ પર સરકારનું ધ્યાન દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "Where did the Gujarat chief minister review the Janjatiya Gaurav Divas 2026 plans?",
+    "q_gu": "ગુજરાત મુખ્યમંત્રી એ જંજાતીય ગૌરવ દિવસ 2026 યોજનાઓ ક્યાં સમીક્ષા કરી?",
+    "o_en": [
+     "Ahmedabad",
+     "Surat",
+     "Gandhinagar",
+     "Vadodara"
+    ],
+    "o_gu": [
+     "અમદાવાદ",
+     "સુરત",
+     "ગાંધીનગર",
+     "વડોદરા"
+    ],
+    "a": 2,
+    "e_en": "The review took place in Gandhinagar.",
+    "e_gu": "સમિક્ષા ગાંધીનગરમાં થઈ."
+   },
+   "id": "ca-gujarat-cm-reviews-janjatiya-gaurav-divas-2026-plans",
+   "source": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-reviews-janjatiya-gaurav-divas-2026-preparations-gandhinagar",
+   "exam": {
+    "score": 7,
+    "why": "Janjatiya Gaurav Divas theme may appear"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://cmogujarat.gov.in/en/latest-news/gujarat-cm-reviews-janjatiya-gaurav-divas-2026-preparations-gandhinagar"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Bharat SemiTech proposes ₹1,000 cr semiconductor plant in Sanand",
+   "title_gu": "ભારત સેમીટેકે સાનંદમાં ₹1,000 કરોડ સેમિકંડક્ટર પ્લાન્ટની પ્રસ્તાવના કરી",
+   "summary_en": "Gujarat’s delegation secured a proposal from Bharat SemiTech to set up a ₹1,000 crore semiconductor equipment unit in Sanand.",
+   "summary_gu": "ગુજરાતની ટીમે ભારત સેમીટેકની પ્રસ્તાવિત સાનંદમાં ₹1,000 કરોડની સેમિકંડક્ટર ઉપકરણ યુનિટ મેળવેલી.",
+   "facts": [
+    {
+     "k_en": "Company",
+     "k_gu": "કંપની",
+     "v_en": "Bharat SemiTech",
+     "v_gu": "ભારત સેમીટેક"
+    },
+    {
+     "k_en": "Investment amount",
+     "k_gu": "રકમ",
+     "v_en": "₹1,000 crore",
+     "v_gu": "₹1,000 કરોડ"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "જગ્યા",
+     "v_en": "Sanand, Gujarat",
+     "v_gu": "સાનંદ, ગુજરાત"
+    },
+    {
+     "k_en": "Minister leading delegation",
+     "k_gu": "મંત્રાલય",
+     "v_en": "Arjun Modhwadia, Science and Technology",
+     "v_gu": "અર્જુન મોડવાડિયા, વિજ્ઞાન અને ટેકનોલોજી"
+    },
+    {
+     "k_en": "Outreach dates",
+     "k_gu": "ક્યારે",
+     "v_en": "Oct 19‑26, 2023",
+     "v_gu": "ઓક્ટોબર 19‑26, 2023"
+    }
+   ],
+   "points_en": [
+    "The proposal is part of Gujarat’s push for a semiconductor ecosystem.",
+    "It was highlighted during the Singapore leg of the delegation’s outreach.",
+    "The investment aligns with preparations for Vibrant Gujarat Global Summit 2027."
+   ],
+   "points_gu": [
+    "પ્રસ્તાવ ગુજરાતની સેમિકંડક્ટર ઇકોસિસ્ટમની કોશિશનો ભાગ છે.",
+    "સિંગાપુર મુલાકાત દરમિયાન આ પ્રસ્તાવને ભાર આપવામાં આવ્યો.",
+    "આ રોકાણ 2027ની જીવંત ગુજરાત ગ્લોબલ સમિટની તૈયારી સાથે જોડાયેલ છે."
+   ],
+   "context_en": "Vibrant Gujarat Global Summit is a biennial trade fair held in Gandhinagar to attract investment.",
+   "context_gu": "જીવંત ગુજરાત ગ્લોબલ સમિટ ગાંધીનગરમાં યોજાતી દ્વિવાર્ષિક વેપાર મેળો છે, જે રોકાણ આકર્ષે છે.",
+   "remember_en": "Bharat SemiTech – ₹1,000 cr – Sanand – Oct 19‑26 2023.",
+   "remember_gu": "ભારત સેમીટેક – ₹1,000 ક્રો – સાનંદ – 19‑26 ઓક્ટો 2023.",
+   "why_en": "Shows Gujarat’s focus on high‑tech manufacturing and foreign investment.",
+   "why_gu": "ગુજરાતની હાઈ‑ટેક ઉત્પાદન અને વિદેશી રોકાણ પર ધ્યાન દર્શાવે છે.",
+   "details_en": "During an eight‑day outreach (Oct 19‑26, 2023), Gujarat’s Forests and Environment, Climate Change, Science and Technology Minister Arjun Modhwadia led a delegation to Singapore and South Korea. In Singapore, the team met industry bodies and toured semiconductor facilities. One outcome was Bharat SemiTech’s proposal to set up a semiconductor equipment manufacturing unit in Sanand with an estimated investment of ₹1,000 crore. The proposal is a key highlight as Gujarat prepares for the 11th Vibrant Gujarat Global Summit scheduled for Jan 10‑12, 2027 in Gandhinagar, aiming to build a semiconductor ecosystem in the state.",
+   "details_gu": "ઓક્ટોબર 19‑26, 2023 દરમિયાન, ગુજરાતના જંગલ અને પર્યાવરણ, હવામાન પરિવર્તન, વિજ્ઞાન અને ટેકનોલોજી મંત્રી અર્જુન મોડવાડિયાની આગેવાનીમાં 8‑દિવસની આઉટરીચ યોજાઈ. સિંગાપુર અને દક્ષિણ કોરિયામાં કંપનીઓ સાથે મુલાકાતો અને સેમિકંડક્ટર સુવિધાઓની મુલાકાતો કરવામાં આવી. સિંગાપુરમાં ભારત સેમીટેકે સાનંદમાં સેમિકંડક્ટર ઉપકરણ ઉત્પાદન યુનિટ સ્થાપિત કરવાની પ્રસ્તાવ રજૂ કરી, જેનું મૂલ્ય અંદાજે ₹1,000 કરોડ છે. આ પ્રસ્તાવ 11મો જીવંત ગુજરાત ગ્લોબલ સમિટ (10‑12 જાન્યુઆરી 2027, ગાંધીનગર) માટેની તૈયારીઓમાં મુખ્ય છે, જે રાજ્યમાં સેમિકંડક્ટર ઇકોસિસ્ટમ બનાવવા માટે છે.",
+   "mcq": {
+    "q_en": "Which company proposed a ₹1,000 crore semiconductor equipment plant in Sanand?",
+    "q_gu": "સાનંદમાં ₹1,000 કરોડ સેમિકંડક્ટર ઉપકરણ પ્લાન્ટની પ્રસ્તાવના કઈ કંપનીએ કરી?",
+    "o_en": [
+     "Bharat SemiTech",
+     "Micron Semiconductor",
+     "Hanwha Ocean",
+     "Redwood Interior"
+    ],
+    "o_gu": [
+     "ભારત સેમીટેક",
+     "માઇક્રોન સેમિકંડક્ટર",
+     "હાન્વા ઓશન",
+     "રેડવુડ ઇન્ટિરિયર"
+    ],
+    "a": 0,
+    "e_en": "The proposal came from Bharat SemiTech.",
+    "e_gu": "પ્રસ્તાવ ભારત સેમીટેક દ્વારા કરવામાં આવ્યો."
+   },
+   "id": "ca-bharat-semitech-proposes-1-000-cr-semiconductor-plant-in-san",
+   "source": "https://www.tradingview.com/news/moodys:7b6b0387ac0fe:0-bharat-semitech-eyes-1-000-cr-semiconductor-equipment-facility-in-gujarat/",
+   "exam": {
+    "score": 7,
+    "why": "₹1,000 cr semiconductor plant in Gujarat"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.tradingview.com/news/moodys:7b6b0387ac0fe:0-bharat-semitech-eyes-1-000-cr-semiconductor-equipment-facility-in-gujarat/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "economy",
    "title_en": "India's finished steel consumption nears 100 million tonnes",
    "title_gu": "ભારતમાં તૈયાર સ્ટીલનું ઉપભોગ ૧૦૦ મિલિયન ટન નજીક",
@@ -175,6 +339,178 @@
     {
      "name": "Google News (ગુજરાતી)",
      "url": "https://gujarati.connectgujarat.com/a-major-relief-for-those-traveling-from-surat-to-their-hometowns-the-government-has-launched-a-special-s-t-bus-service/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "India doubles rice sales target under OMSS (D) for 2026‑27",
+   "title_gu": "2026‑27 માટે OMSS (D) હેઠળ ચોખા વેચાણ લક્ષ્ય દ્વિગુણ થયું",
+   "summary_en": "The government raised the Open Market Sale Scheme (Domestic) rice target from 25 LMT to 50 LMT for FY 2026‑27 and sold 25 LMT by 31 Oct 2026.",
+   "summary_gu": "સરકારએ 2026‑27 માટે ઓપન માર્કેટ સેલ સ્કીમ (ડોમેસ્ટિક) હેઠળ ચોખાનો લક્ષ્ય 25 લાખ મેટ્રિક ટનથી 50 લાખ મેટ્રિક ટનમાં વધારી, 31 ઓક્ટોબર 2026 સુધી 25 લાખ મેટ્રિક ટન વેચી દીધા.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Rice sales target under OMSS (D) doubled",
+     "v_gu": "OMSS (D) હેઠળ ચોખા વેચાણ લક્ષ્ય દ્વિગુણ થયું"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "FY 2026‑27 (target), 31 Oct 2026 (sale)",
+     "v_gu": "વિત્તીય વર્ષ 2026‑27 (લક્ષ્ય), 31 ઓક્ટોબર 2026 (વેચાણ)"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "Target 50 LMT, sold 25 LMT",
+     "v_gu": "લક્ષ્ય 50 લાખ મેટ્રિક ટન, વેચાણ 25 લાખ મેટ્રિક ટન"
+    },
+    {
+     "k_en": "Ministry",
+     "k_gu": "મંત્રાલય",
+     "v_en": "Ministry of Consumer Affairs, Food and Public Distribution",
+     "v_gu": "ઉપભોક્તા કાર્ય, ખાદ્ય અને જાહેર વિતરણ મંત્રાલય"
+    }
+   ],
+   "points_en": [
+    "Target increase aims to boost market supply.",
+    "Half of the new target already sold via e‑auction.",
+    "Stocks must be declared weekly on the Food Stock portal."
+   ],
+   "points_gu": [
+    "લક્ષ્ય વધારો બજારમાં પુરવઠો વધારવા માટે.",
+    "નવા લક્ષ્યનું અડધું પહેલેથી ઇ‑નિલામી દ્વારા વેચાયું.",
+    "સ્ટોકની જાણકારી સાપ્તાહિક ફૂડ સ્ટોક પોર્ટલ પર આપવી જરૂરી."
+   ],
+   "context_en": "Open Market Sale Scheme (Domestic) lets the government sell food grains to private buyers through electronic auctions.",
+   "context_gu": "ઓપન માર્કેટ સેલ સ્કીમ (ડોમેસ્ટિક) સરકારને ખાનગી ખરીદદારોને ઇલેક્ટ્રોનિક નિલામી દ્વારા અનાજ વેચવાની મંજૂરી આપે છે.",
+   "remember_en": "Target 50 LMT, 25 LMT already sold by 31 Oct 2026.",
+   "remember_gu": "લક્ષ્ય 50 લાખ મેટ્રિક ટન, 31 ઓક્ટોબર 2026 સુધી 25 લાખ મેટ્રિક ટન વેચાયા.",
+   "why_en": "Shows government steps to ensure rice availability and price stability.",
+   "why_gu": "ચોખાની ઉપલબ્ધતા અને કિંમતોની સ્થિરતા માટે સરકારની પગલાં દર્શાવે છે.",
+   "details_en": "The Ministry of Consumer Affairs, Food and Public Distribution announced on 6 Nov 2026 that the Open Market Sale Scheme (Domestic) rice target for FY 2026‑27 is increased from 25 LMT to 50 LMT. By 31 Oct 2026, 25 LMT had already been sold through e‑auctions, up from 11 LMT in the previous year. All entities holding rice or paddy stocks must update their holdings every Friday on the Food Stock portal, with penalties for non‑compliance. The move aims to boost supply, curb hoarding and keep retail prices stable, especially in southern states.",
+   "details_gu": "ઉપભોક્તા કાર્ય, ખાદ્ય અને જાહેર વિતરણ મંત્રાલયએ 6 નવેમ્બર 2026ને જાહેર કર્યું કે 2026‑27 માટે ઓપન માર્કેટ સેલ સ્કીમ (ડોમેસ્ટિક) હેઠળ ચોખાનો લક્ષ્ય 25 લાખ મેટ્રિક ટનથી 50 લાખ મેટ્રિક ટનમાં વધારવામાં આવ્યો છે. 31 ઓક્ટોબર 2026 સુધી ઇ‑નિલામી દ્વારા 25 લાખ મેટ્રિક ટન વેચાઈ ચૂક્યા છે, જે અગાઉના વર્ષમાં 11 લાખ મેટ્રિક ટન હતું. ચોખા અને ધાન સ્ટોક ધરાવતી તમામ એકમો દરેક શુક્રવારે ફૂડ સ્ટોક પોર્ટલ પર સ્ટોક અપડેટ કરશે, નોન‑કોમ્પ્લાયન્સ માટે દંડ રહેશે. આ પગલું પુરવઠો વધારવા, જમાખોરી રોકવા અને ખાસ કરીને દક્ષિણ રાજ્યોમાં રિટેલ કિંમતો સ્થિર રાખવા માટે છે.",
+   "mcq": {
+    "q_en": "What is the new rice sales target under OMSS (D) for FY 2026‑27?",
+    "q_gu": "2026‑27 માટે OMSS (D) હેઠળ ચોખા વેચાણનું નવું લક્ષ્ય શું છે?",
+    "o_en": [
+     "25 LMT",
+     "30 LMT",
+     "50 LMT",
+     "75 LMT"
+    ],
+    "o_gu": [
+     "25 લાખ મેટ્રિક ટન",
+     "30 લાખ મેટ્રિક ટન",
+     "50 લાખ મેટ્રિક ટન",
+     "75 લાખ મેટ્રિક ટન"
+    ],
+    "a": 2,
+    "e_en": "The target was doubled to 50 LMT.",
+    "e_gu": "લક્ષ્યને દ્વિગુણ કરીને 50 લાખ મેટ્રિક ટન કરવામાં આવ્યું હતું."
+   },
+   "id": "ca-india-doubles-rice-sales-target-under-omss-d-for-2026-27",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333687",
+   "exam": {
+    "score": 6,
+    "why": "State rice sale target under OMSS"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333687"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "defence",
+   "title_en": "India‑US Tiger Triumph 2026 exercise concludes in Visakhapatnam",
+   "title_gu": "ભારત‑અમેરિકા ટાઈગર ટ્રાયમ્ફ 2026 અભ્યાસ વિસાખાપત્તનમમાં સમાપ્ત",
+   "summary_en": "The fifth India‑US humanitarian‑disaster drill, Tiger Triumph 2026, ended on 5 Nov in Visakhapatnam after a week of staff and tabletop exercises.",
+   "summary_gu": "પાંચમો ભારત‑અમેરિકા માનવીય‑આપત્તિ અભ્યાસ ટાઈગર ટ્રાયમ્ફ 2026 5 નવેમ્બર વિસાખાપત્તનમમાં એક સપ્તાહની સ્ટાફ અને ટેબલટોપ કસરતો બાદ સમાપ્ત થયો.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Tiger Triumph 2026 humanitarian‑disaster exercise",
+     "v_gu": "ટાઈગર ટ્રાયમ્ફ 2026 માનવીય‑આપત્તિ અભ્યાસ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "31 Oct–5 Nov 2026",
+     "v_gu": "31 ઓક્ટોબર‑5 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Visakhapatnam, Andhra Pradesh",
+     "v_gu": "વિસાખાપત્તનમ, આંધ્ર પ્રદેશ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Indian and US armed forces",
+     "v_gu": "ભારતીય અને અમેરિકન સશસ્ત્ર દળો"
+    },
+    {
+     "k_en": "Key officers",
+     "k_gu": "મુખ્ય અધિકારીઓ",
+     "v_en": "Rear Admiral Vishal Bishnoi and Rear Admiral Joaquin J. Martinez de Pinillos",
+     "v_gu": "રિયર એડમિરલ વિશાલ બિશ્નોઈ અને રિયર એડમિરલ જોઆક્વિન જે. માર્ટિનેઝ ડી પિનિલોસ"
+    }
+   ],
+   "points_en": [
+    "The drill focused on joint amphibious operations and cyber‑medical response.",
+    "It tested scenario‑based emergency response plans.",
+    "It reinforced India‑US interoperability in the Indo‑Pacific."
+   ],
+   "points_gu": [
+    "અભ્યાસમાં સંયુક્ત અંબીફિબિયસ ઓપરેશન્સ અને સાઇબર‑મેડિકલ પ્રતિસાદ પર ભાર મૂક્યો હતો.",
+    "તે પરિસ્થિતિ‑આધારિત આપત્તિ પ્રતિસાદ યોજનાઓનું પરીક્ષણ કર્યું.",
+    "તે હિંદ‑પ્રશાંતમાં ભારત‑અમેરિકા આંતરક્રિયાશીલતા મજબૂત કરી."
+   ],
+   "context_en": "Tiger Triumph is a bilateral humanitarian assistance and disaster relief (HADR) exercise first held in 2019 between India and the United States.",
+   "context_gu": "ટાઈગર ટ્રાયમ્ફ 2019માં શરૂ થયેલ ભારત‑અમેરિકા માનવીય સહાયતા અને આપત્તિ રાહત (HADR) દ્વિપક્ષીય અભ્યાસ છે.",
+   "remember_en": "Tiger Triumph 2026 ended in Visakhapatnam on 5 Nov after a week of joint drills.",
+   "remember_gu": "ટાઈગર ટ્રાયમ્ફ 2026 5 નવેમ્બરે વિસાખાપત્તનમમાં એક સપ્તાહની સંયુક્ત કસરતો બાદ સમાપ્ત થયો.",
+   "why_en": "Exam asks about India‑US defence cooperation and HADR exercises.",
+   "why_gu": "પરીક્ષામાં ભારત‑અમેરિકા રક્ષા સહકાર અને HADR અભ્યાસો વિશે પ્રશ્નો આવે છે.",
+   "details_en": "From 31 Oct to 5 Nov 2026, India and the United States conducted their fifth Tiger Triumph humanitarian‑disaster drill in Visakhapatnam. The event included staff‑level planning, scenario‑based tabletop discussions, and covered cyber and medical response topics. Senior officers Rear Admiral Vishal Bishnoi of the Indian Eastern Fleet and Rear Admiral Joaquin J. Martinez de Pinillos of the US Pacific Fleet attended the closing ceremony. The exercise aims to improve joint HADR planning, boost inter‑operability, and reaffirm both nations' commitment to peace and stability in the Indo‑Pacific.",
+   "details_gu": "31 ઓક્ટોબરથી 5 નવેમ્બર 2026 સુધી, ભારત અને અમેરિકા વિસાખાપત્તનમમાં પાંચમો ટાઈગર ટ્રાયમ્ફ માનવીય‑આપત્તિ અભ્યાસ કર્યો. તેમાં સ્ટાફ‑સ્તરની યોજના, પરિસ્થિતિ‑આધારિત ટેબલટોપ ચર્ચા, સાઇબર અને મેડિકલ પ્રતિસાદ જેવા વિષયો સામેલ હતા. સમાપન સમારંભમાં ભારતીય પૂર્વી બેઝના રિયર એડમિરલ વિશાલ બિશ્નોઈ અને અમેરિકન પેસિફિક બેઝના રિયર એડમિરલ જોઆક્વિન જે. માર્ટિનેઝ ડી પિનિલોસ હાજર રહ્યા. આ અભ્યાસ સંયુક્ત HADR યોજના સુધારવા, આંતરક્રિયાશીલતા વધારવા અને હિંદ‑પ્રશાંતમાં શાંતિ‑સુરક્ષા માટેની પ્રતિબદ્ધતા પુનઃમજબૂત કરે છે.",
+   "mcq": {
+    "q_en": "When did the fifth Tiger Triumph exercise conclude?",
+    "q_gu": "પાંચમો ટાઈગર ટ્રાયમ્ફ અભ્યાસ ક્યારે સમાપ્ત થયો?",
+    "o_en": [
+     "31 Oct 2026",
+     "1 Nov 2026",
+     "5 Nov 2026",
+     "10 Nov 2026"
+    ],
+    "o_gu": [
+     "31 ઓક્ટોબર 2026",
+     "1 નવેમ્બર 2026",
+     "5 નવેમ્બર 2026",
+     "10 નવેમ્બર 2026"
+    ],
+    "a": 2,
+    "e_en": "The closing ceremony was on 5 Nov 2026.",
+    "e_gu": "સમાપન સમારંભ 5 નવેમ્બર 2026ને થયો હતો."
+   },
+   "id": "ca-india-us-tiger-triumph-2026-exercise-concludes-in-visakhapat",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333636",
+   "exam": {
+    "score": 6,
+    "why": "India‑US humanitarian exercise"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333636"
     }
    ],
    "by": "groq"
