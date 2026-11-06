@@ -514,6 +514,184 @@
     }
    ],
    "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "India's inward FDI to ODI ratio falls to 4.2 times in FY26",
+   "title_gu": "ફાય ૨૬માં ભારતનું ઇનવર્ડી એફડીઆઈ‑ઓડીઆઇ અનુપાત ૪.૨ ગણા ઘટ્યું",
+   "summary_en": "The Reserve Bank of India reports the inward foreign direct investment to overseas direct investment ratio dropped to 4.2 times in FY26, down from 5.5 times. The United States is now the top source of India's outstanding FDI.",
+   "summary_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયાએ જણાવ્યુ કે ફાય ૨૬માં ઇનવર્ડી એફડીઆઈ‑ઓડીઆઇ અનુપાત ૫.૫ ગણા થી ૪.૨ ગણા ઘટ્યો. યુનાઇટેડ સ્ટેટ્સ હવે ભારતનાં બાકી રહેલા એફડીઆઈનું સૌથી મોટું સ્ત્રોત છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Inward FDI to ODI ratio 4.2 times",
+     "v_gu": "ઇનવર્ડી એફડીઆઈ‑ઓડીઆઇ અનુપાત ૪.૨ ગણા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "FY26 (2025‑26)",
+     "v_gu": "ફાય ૨૬ (૨૦૨૫‑૨૬)"
+    },
+    {
+     "k_en": "Previous ratio",
+     "k_gu": "પહેલાનો અનુપાત",
+     "v_en": "5.5 times in FY25",
+     "v_gu": "ફાય ૨૫માં ૫.૫ ગણા"
+    },
+    {
+     "k_en": "Largest source",
+     "k_gu": "સૌથી મોટો સ્ત્રોત",
+     "v_en": "United States",
+     "v_gu": "યુનાઇટેડ સ્ટેટ્સ"
+    },
+    {
+     "k_en": "Agency",
+     "k_gu": "એજન્સી",
+     "v_en": "Reserve Bank of India",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા"
+    }
+   ],
+   "points_en": [
+    "Ratio fell because overseas investments grew faster.",
+    "US overtook other countries as top FDI source.",
+    "Narrowing gap shows India’s outward investment rising."
+   ],
+   "points_gu": [
+    "ઓવરસીઝ રોકાણો ઝડપી વધવાને કારણે અનુપાત ઘટ્યો.",
+    "યુ.એસ.એ અન્ય દેશો ઉપર એફડીઆઈમાં ટોચનું સ્થાન મેળવ્યું.",
+    "ગેપ ઘટવાથી ભારતનું બહારનું રોકાણ વધતું દર્શાવે છે."
+   ],
+   "context_en": "Reserve Bank of India publishes an annual census of foreign direct investment and overseas direct investment.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા વિદેશી સીધી રોકાણ અને ઓવરસીઝ સીધી રોકાણની વાર્ષિક ગણતરી પ્રકાશિત કરે છે.",
+   "remember_en": "FY26 inward FDI‑ODI ratio = 4.2, US top source.",
+   "remember_gu": "ફાય ૨૬ ઇનવર્ડી એફડીઆઈ‑ઓડીઆઇ અનુપાત = ૪.૨, યુ.એસ. ટોચનું સ્ત્રોત.",
+   "why_en": "Exam may ask about FDI trends and leading source countries.",
+   "why_gu": "પરીક્ષામાં એફડીઆઈની પ્રવૃત્તિ અને મુખ્ય સ્ત્રોત દેશો વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "The Reserve Bank of India’s annual census shows that in the financial year 2025‑26 the ratio of India’s outstanding inward foreign direct investment to its overseas direct investment narrowed to 4.2 times, down from 5.5 times in the previous year. The United States emerged as the largest source of India’s outstanding foreign direct investment, indicating a shift in investment patterns. The narrowing gap reflects faster growth of India’s overseas investments compared with inbound flows.",
+   "details_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયાની વાર્ષિક ગણતરી મુજબ ૨૦૨૫‑૨૬ નાણાકીય વર્ષમાં ભારતનાં બાકી રહેલા ઇનવર્ડી વિદેશી સીધી રોકાણ અને ઓવરસીઝ સીધી રોકાણનું અનુપાત ૫.૫ ગણા થી ૪.૨ ગણા ઘટી ગયું. યુનાઇટેડ સ્ટેટ્સ હવે ભારતનાં બાકી રહેલા એફડીઆઈનું સૌથી મોટું સ્ત્રોત બન્યું, જે રોકાણની પદ્ધતિમાં બદલાવ દર્શાવે છે. ગેપનું ઘટવું ભારતનાં ઓવરસીઝ રોકાણોનું ઝડપી વૃદ્ધિ દર્શાવે છે.",
+   "mcq": {
+    "q_en": "What was the inward FDI to ODI ratio in FY26 according to RBI?",
+    "q_gu": "RBI મુજબ ફાય ૨૬માં ઇનવર્ડી એફડીઆઈ‑ઓડીઆઇ અનુપાત કેટલો હતો?",
+    "o_en": [
+     "3.8 times",
+     "4.2 times",
+     "5.5 times",
+     "6.0 times"
+    ],
+    "o_gu": [
+     "૩.૮ ગણા",
+     "૪.૨ ગણા",
+     "૫.૫ ગણા",
+     "૬.૦ ગણા"
+    ],
+    "a": 1,
+    "e_en": "RBI reported the ratio fell to 4.2 times in FY26.",
+    "e_gu": "RBI એ જણાવ્યુ કે ફાય ૨૬માં અનુપાત ૪.૨ ગણા ઘટ્યો."
+   },
+   "id": "ca-india-s-inward-fdi-to-odi-ratio-falls-to-4-2-times-in-fy26",
+   "source": "https://www.business-standard.com/economy/news/inward-fdi-to-odi-ratio-narrows-to-4-2-times-in-fy26-from-5-5-times-rbi-126110601554_1.html",
+   "exam": {
+    "score": 6,
+    "why": "RBI FDI ratio, key economic indicator"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/inward-fdi-to-odi-ratio-narrows-to-4-2-times-in-fy26-from-5-5-times-rbi-126110601554_1.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "Indian athletes win multiple golds at 2026 Asian Para Games",
+   "title_gu": "ભારતીય ખેલાડીઓએ 2026 એશિયન પારા ગેમ્સમાં અનેક સોનાના પદક જીતી",
+   "summary_en": "Three Indian para athletes secured double gold medals in athletics and shooting at the Asian Para Games in Aichi‑Nagoya.",
+   "summary_gu": "ત્રણ ભારતીય પારા ખેલાડીઓએ એશિયન પારા ગેમ્સ, આયાચી‑નાગોયા માં એથ્લેટિક્સ અને શૂટિંગમાં દ્વિ સોનાના પદક જીતી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Nishad Kumar, Mona Agarwal, Dilip Mahadu Gavit",
+     "v_gu": "નિશાદ કુમાર, મોના અગર્વાલ, દિલીપ મહાદુ ગવીત"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "won gold medals in long jump, high jump, shooting, 100m and 400m",
+     "v_gu": "લૉંગ જમ્પ, હાઇ જમ્પ, શૂટિંગ, 100મી અને 400મીમાં સોનાના પદક જીતા"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Aichi‑Nagoya, Japan",
+     "v_gu": "આઇચી‑નાગોયા, જાપાન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 2026",
+     "v_gu": "ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Record",
+     "k_gu": "રેકોર્ડ",
+     "v_en": "Mona set world record 357.5 in 50m rifle 3P",
+     "v_gu": "મોના 50મી રાઇફલ 3P માં 357.5 નો વિશ્વ રેકોર્ડ બનાવ્યો"
+    }
+   ],
+   "points_en": [
+    "Nishad Kumar won long jump (7.11 m) and high jump (2.04 m) on consecutive days.",
+    "Mona Agarwal set a new Games record 250.0 in 10 m air rifle standing.",
+    "Dilip Gavit clinched 100 m (10.69 s) and 400 m (48.27 s) titles."
+   ],
+   "points_gu": [
+    "નિશાદ કુમારે સતત બે દિવસમાં લૉંગ જમ્પ (7.11 મી) અને હાઇ જમ્પ (2.04 મી) જીતી.",
+    "મોનાએ 10 મી એર રાઇફલ સ્ટેન્ડિંગમાં 250.0 નો નવો ગેમ્સ રેકોર્ડ બનાવ્યો.",
+    "દિલીપ ગવીતે 100 મી (10.69 સે) અને 400 મી (48.27 સે)માં સોનાના પદક જીતા."
+   ],
+   "context_en": "The Asian Para Games are a multi‑sport event for athletes with disabilities, held every four years; the 2026 edition was in Aichi‑Nagoya, Japan.",
+   "context_gu": "એશિયન પારા ગેમ્સ વિકલાંગ ખેલાડીઓ માટેની ચાર વર્ષમાં એક વાર યોજાતી ક્રીડા સ્પર્ધા છે; 2026નું આવૃત્તિ આયાચી‑નાગોયા, જાપાનમાં થયું.",
+   "remember_en": "Nishad Kumar – double gold in long jump and high jump.",
+   "remember_gu": "નિશાદ કુમાર – લૉંગ જમ્પ અને હાઇ જમ્પમાં દ્વિ સોનાનો પદક.",
+   "why_en": "Shows India's growing strength in para‑sports, a frequent exam topic.",
+   "why_gu": "ભારતમાં પારા ક્રીડાઓની શક્તિ વધતી જાય છે, જે પરીક્ષામાં વારંવાર આવે છે.",
+   "details_en": "At the 2026 Asian Para Games in Aichi‑Nagoya, Nishad Kumar of Himachal Pradesh won gold in the men's long jump (7.11 m) and, a day later, in the high jump (2.04 m), setting a new Asian record. Shooter Mona Agarwal from Rajasthan set a Games record of 250.0 in the women's 10 m air rifle standing and a world record of 357.5 in the 50 m rifle three‑position event. Sprinter Dilip Mahadu Gavit of Maharashtra claimed gold in the men's 100 m (10.69 s) and 400 m (48.27 s) T47 races, completing a rare double for India.",
+   "details_gu": "આયાચી‑નાગોયા માં યોજાયેલ 2026 એશિયન પારા ગેમ્સમાં હિમાચલ પ્રદેશના નિશાદ કુમારે પુરૂષ લૉંગ જમ્પ (7.11 મી) અને એક દિવસ બાદ હાઇ જમ્પ (2.04 મી)માં સોનાનો પદક જીતી, એશિયન નવો રેકોર્ડ સ્થાપિત કર્યો. રાજસ્થાનની શૂટર મોના અગર્વાલે સ્ત્રી 10 મી એર રાઇફલ સ્ટેન્ડિંગમાં 250.0 નો ગેમ્સ રેકોર્ડ અને 50 મી રાઇફલ ત્રણ‑પોઝિશનમાં 357.5 નો વિશ્વ રેકોર્ડ બનાવ્યો. મહારાષ્ટ્રના દિલીપ મહાદુ ગવીતે પુરૂષ 100 મી (10.69 સે) અને 400 મી (48.27 સે) T47 દોડમાં સોનાના પદક જીતી, ભારત માટે દુર્લભ ડબલ પૂર્ણ કર્યો.",
+   "mcq": {
+    "q_en": "Which Indian athlete set a world record in the women's 50 m rifle three‑position at the 2026 Asian Para Games?",
+    "q_gu": "2026 એશિયન પારા ગેમ્સમાં સ્ત્રી 50 મી રાઇફલ ત્રણ‑પોઝિશનમાં વિશ્વ રેકોર્ડ કયા ભારતીય ખેલાડીએ બનાવ્યો?",
+    "o_en": [
+     "Nishad Kumar",
+     "Mona Agarwal",
+     "Dilip Mahadu Gavit",
+     "Avani Lekhara"
+    ],
+    "o_gu": [
+     "નિશાદ કુમાર",
+     "મોના અગર્વાલ",
+     "દિલીપ મહાદુ ગવીત",
+     "અવની લેખરા"
+    ],
+    "a": 1,
+    "e_en": "Mona Agarwal set a world record of 357.5 in that event.",
+    "e_gu": "મોના અગર્વાલે આ ઇવેન્ટમાં 357.5 નો વિશ્વ રેકોર્ડ બનાવ્યો."
+   },
+   "id": "ca-indian-athletes-win-multiple-golds-at-2026-asian-para-games",
+   "source": "https://sportstar.thehindu.com/other-sports/asian-para-games-indian-gold-medallists-sheeta-devi-sumit-antil/article71673618.ece",
+   "exam": {
+    "score": 6,
+    "why": "Asian Para Games gold tally, major achievement"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/other-sports/asian-para-games-indian-gold-medallists-sheeta-devi-sumit-antil/article71673618.ece"
+    }
+   ],
+   "by": "groq"
   }
  ]
 }
