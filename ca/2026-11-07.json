@@ -92,6 +92,95 @@
   },
   {
    "category": "schemes",
+   "title_en": "Gujarat High Court clears legal hurdle for BharatNet project",
+   "title_gu": "ગુજરાત હાઇ કોર્ટે ભારતનેટ પ્રોજેક્ટ માટે કાનૂની અવરોધ દૂર કર્યો",
+   "summary_en": "The Gujarat High Court dismissed a petition against the BharatNet tender condition, allowing the fibre‑optic rollout to continue.",
+   "summary_gu": "ગુજરાત હાઇ કોર્ટે ભારતનેટની ટેન્ડર શરત સામેની અરજી નકારી, ફાઇબર‑ઓપ્ટિક નેટવર્કની કામગીરી ચાલુ રાખી.",
+   "facts": [
+    {
+     "k_en": "Court",
+     "k_gu": "કોર્ટ",
+     "v_en": "Gujarat High Court",
+     "v_gu": "ગુજરાત હાઇ કોર્ટ"
+    },
+    {
+     "k_en": "Judges",
+     "k_gu": "ન્યાયાધીશો",
+     "v_en": "Chief Justice Manas Ranjan Pathak, Justice Nikhil S. Kariel",
+     "v_gu": "મુખ્ય ન્યાયાધીશ મનસ રંજન પાઠક, ન્યાયાધીશ નીખિલ એસ. કરિયેલ"
+    },
+    {
+     "k_en": "Petitioner",
+     "k_gu": "અરજદાર",
+     "v_en": "GTPL Hathway Ltd",
+     "v_gu": "GTPL હથવે લિમિટેડ"
+    },
+    {
+     "k_en": "Implementer",
+     "k_gu": "કાર્યાન્વયનકાર",
+     "v_en": "Gujarat Fibre Grid Network Ltd",
+     "v_gu": "ગુજરાત ફાઇબર ગ્રિડ નેટવર્ક લિમિટેડ"
+    },
+    {
+     "k_en": "Project value",
+     "k_gu": "પ્રોજેક્ટ મૂલ્ય",
+     "v_en": "over ₹5,000 crore",
+     "v_gu": "₹5,000 કરોડથી વધુ"
+    }
+   ],
+   "points_en": [
+    "The court rejected GTPL's challenge to the independence clause.",
+    "The clause ensures the network operator is not a competing ISP.",
+    "BharatNet aims to lay over 30,000 km of new fibre in Gujarat."
+   ],
+   "points_gu": [
+    "કોર્ટએ GTPLની સ્વતંત્રતા કલમ સંબંધિત પડકારને નકારી.",
+    "આ કલમ નેટવર્ક ઓપરેટર સ્પર્ધાત્મક ISP ન બને તે સુનિશ્ચિત કરે છે.",
+    "ભારતનેટ ગુજરાતમાં 30,000 કિ.મી.થી વધુ નવો ફાઇબર લગાડશે."
+   ],
+   "context_en": "BharatNet is a national Bharat Sanchar Nigam Ltd (BSNL) programme to provide high‑speed broadband to rural India.",
+   "context_gu": "ભારતનેટ ભારતનું બીએસએનએલ (ભારત સંચાર નેગમ લિમિટેડ) દ્વારા ગ્રામિણ વિસ્તારોમાં હાઇ‑સ્પીડ બ્રોડબેન્ડ પહોંચાડવાનો કાર્યક્રમ છે.",
+   "remember_en": "Gujarat High Court cleared BharatNet tender condition on 7 Nov 2026.",
+   "remember_gu": "ગુજરાત હાઇ કોર્ટે 7 નવેમ્બર 2026ને ભારતનેટની ટેન્ડર શરત સાફ કરી.",
+   "why_en": "Exam may ask about the court’s decision, project value and implementing agency.",
+   "why_gu": "પરીક્ષામાં કોર્ટનું નિર્ણય, પ્રોજેક્ટનું મૂલ્ય અને અમલકારની માહિતી પુછી શકાય.",
+   "details_en": "On 7 November 2026, a division bench of the Gujarat High Court, led by Chief Justice Manas Ranjan Pathak and Justice Nikhil S. Kariel, dismissed a petition filed by GTPL Hathway Ltd. The petition challenged a tender condition that the operator of the common public network must stay independent of private internet and telecom firms. The court upheld the condition, stating it is part of the national BharatNet framework prepared by Bharat Sanchar Nigam Ltd. This decision removes a legal obstacle, allowing Gujarat Fibre Grid Network Ltd to continue the revised BharatNet rollout, which involves laying more than 30,000 km of new optical fibre and integrating it with existing infrastructure.",
+   "details_gu": "7 નવેમ્બર 2026એ, મુખ્ય ન્યાયાધીશ મનસ રંજન પાઠક અને ન્યાયાધીશ નીખિલ એસ. કરિયેલની આગેવાનીમાં ગુજરાત હાઇ કોર્ટની ડિવિઝન બેંચે GTPL હથવે લિમિટેડ દ્વારા દાખલ કરેલી અરજી નકારી. આ અરજી નેટવર્ક ઓપરેટર ખાનગી ઇન્ટરનેટ અને ટેલિકોમ કંપનીઓથી સ્વતંત્ર રહેવા માટેની ટેન્ડર શરતને પડકારતી હતી. કોર્ટએ આ શરતને રાષ્ટ્રીય ભારતનેટ ફ્રેમવર્કનો ભાગ તરીકે માન્યતા આપી. આ નિર્ણય કાનૂની અવરોધ દૂર કરે છે, જેથી ગુજરાત ફાઇબર ગ્રિડ નેટવર્ક લિમિટેડ સુધારેલ ભારતનેટ પ્રોજેક્ટને આગળ વધારી શકે, જેમાં 30,000 કિ.મી.થી વધુ નવો ઓપ્ટિકલ ફાઇબર બिछાડવો અને હાલની ઇન્ફ્રાસ્ટ્રક્ચર સાથે જોડવું સામેલ છે.",
+   "mcq": {
+    "q_en": "Which court dismissed the petition against the BharatNet tender condition in Gujarat?",
+    "q_gu": "ગુજરાતમાં ભારતનેટની ટેન્ડર શરત સામેની અરજી કયા કોર્ટે નકારી?",
+    "o_en": [
+     "Supreme Court of India",
+     "Gujarat High Court",
+     "Bombay High Court",
+     "Delhi High Court"
+    ],
+    "o_gu": [
+     "ભારતનું સુપ્રીમ કોર્ટ",
+     "ગુજરાત હાઇ કોર્ટ",
+     "બોમ્બે હાઇ કોર્ટ",
+     "દિલ્લી હાઇ કોર્ટ"
+    ],
+    "a": 1,
+    "e_en": "The Gujarat High Court dismissed the petition.",
+    "e_gu": "ગુજરાત હાઇ કોર્ટએ અરજી નકારી."
+   },
+   "id": "ca-gujarat-high-court-clears-legal-hurdle-for-bharatnet-project",
+   "source": "https://urbanacres.in/gujarat-high-court-clears-%E2%82%B95000-crore-bharatnet-project/",
+   "exam": {
+    "score": 8,
+    "why": "₹5,000‑cr BharatNet clearance, national infrastructure"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://urbanacres.in/gujarat-high-court-clears-%E2%82%B95000-crore-bharatnet-project/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
    "title_en": "Gujarat Urban Greening Policy targets 20% more green cover",
    "title_gu": "ગુજરાતનું શહેરી હરિયાળી નીતિ 20% હરિયાળો વધારો લક્ષ્ય",
    "summary_en": "From November 2026, all 169 Gujarat cities must raise green cover by at least 20% in ten years, with funding tied to performance.",
@@ -175,6 +264,184 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://urbanacres.in/gujarat-urban-greening-policy-makes-green-cover-a-city-kpi/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat plans to recruit 2.1 lakh staff by 2033",
+   "title_gu": "ગુજરાતે 2033 સુધી 2.1 લાખ કર્મચારીઓની ભરતીની યોજના ઘોષિત કરી",
+   "summary_en": "Deputy Chief Minister Harsh Sanghavi announced a direct recruitment drive for over 2.1 lakh posts from 2024 to 2033.",
+   "summary_gu": "ઉપમુખ्यमंत्री હર્ષ સંગવીએ 2024‑2033 દરમિયાન 2.1 લાખથી વધુ સીધી ભરતીની યોજના જાહેર કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Harsh Sanghavi, Deputy Chief Minister",
+     "v_gu": "હર્ષ સંગવી, ઉપમુખમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Recruitment of 2.10 lakh Class 1‑3 posts",
+     "v_gu": "2.10 લાખ ક્લાસ 1‑3 પદોની ભરતી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Announcement on 7 November 2026",
+     "v_gu": "7 નવેમ્બર 2026ને જાહેરાત"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gandhinagar, Gujarat Secretariat",
+     "v_gu": "ગાંધીનગર, ગુજરાત સેક્રેટેરિયેટ"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "2.10 lakh posts",
+     "v_gu": "2.10 લાખ પદો"
+    }
+   ],
+   "points_en": [
+    "113 Deputy Section Officers received appointment letters.",
+    "64 Section Officers were promoted at the same event.",
+    "87 Class 3 candidates and 26 persons with disabilities were also appointed."
+   ],
+   "points_gu": [
+    "113 ડેપ્યુટી સેકશન ઓફિસરોને નિમણૂક પત્રો મળ્યા.",
+    "64 સેકશન ઓફિસરોને પ્રમોશન મળ્યું.",
+    "87 ક્લાસ 3 ઉમેદવારો અને 26 વિકલાંગ ઉમેદવારોને પણ નિમણૂક મળી."
+   ],
+   "context_en": "The Gujarat government conducts direct recruitment for Class 1, 2 and 3 posts to staff its administration.",
+   "context_gu": "ગુજરાત સરકાર તેના પ્રશાસન માટે ક્લાસ 1, 2 અને 3 પદો માટે સીધી ભરતી કરે છે.",
+   "remember_en": "Harsh Sanghavi announced 2.1 lakh posts recruitment (2024‑2033).",
+   "remember_gu": "હર્ષ સંગવીએ 2024‑2033 માટે 2.1 લાખ પદોની ભરતીની જાહેરાત કરી.",
+   "why_en": "Shows Gujarat’s large‑scale staffing plan and merit‑based hiring.",
+   "why_gu": "ગુજરાતની વિશાળ સ્ટાફિંગ યોજના અને મેરિટ આધારિત ભરતી દર્શાવે છે.",
+   "details_en": "At an appointment‑letter distribution ceremony in Gandhinagar, Deputy Chief Minister Harsh Sanghavi said Gujarat will directly recruit more than 2.10 lakh Class 1, Class 2 and Class 3 posts between 2024 and 2033. The event handed out letters to 113 Deputy Section Officers, promoted 64 Section Officers, and appointed 87 Class 3 candidates plus 26 persons with disabilities. The government highlighted that 1,79,424 posts were filled from 2014 to 2023, achieving 92.95% of its earlier recruitment target. The plan aims to strengthen administration across departments and improve service delivery to citizens.",
+   "details_gu": "ગાંધીનગરમાં નિમણૂક પત્રો વિતરણ સમારંભમાં ઉપમુખમંત્રી હર્ષ સંગવીએ કહ્યું કે ગુજરાત 2024‑2033 દરમિયાન 2.10 લાખથી વધુ ક્લાસ 1, 2 અને 3 પદો સીધી રીતે ભરતી કરશે. સમારંભમાં 113 ડેપ્યુટી સેકશન ઓફિસરોને પત્રો મળ્યા, 64 સેકશન ઓફિસરોને પ્રમોશન મળ્યું, અને 87 ક્લાસ 3 ઉમેદવારો તથા 26 વિકલાંગ ઉમેદવારોને પણ નિમણૂક મળી. સરકારએ 2014‑2023 દરમિયાન 1,79,424 પદો ભરવામાં આવ્યા અને 92.95% લક્ષ્ય પૂર્ણ થયું એ દર્શાવ્યું. આ યોજના વિવિધ વિભાગોમાં પ્રશાસન મજબૂત કરવા અને નાગરિક સેવા સુધારવા માટે છે.",
+   "mcq": {
+    "q_en": "How many posts does Gujarat plan to recruit directly between 2024 and 2033?",
+    "q_gu": "ગુજરાત 2024‑2033 દરમિયાન કેટલા સીધા પદો ભરતી કરવાની યોજના ધરાવે છે?",
+    "o_en": [
+     "1.5 lakh",
+     "2.10 lakh",
+     "2.5 lakh",
+     "3.0 lakh"
+    ],
+    "o_gu": [
+     "1.5 લાખ",
+     "2.10 લાખ",
+     "2.5 લાખ",
+     "3.0 લાખ"
+    ],
+    "a": 1,
+    "e_en": "The plan targets more than 2.10 lakh posts.",
+    "e_gu": "યોજનામાં 2.10 લાખથી વધુ પદોનું લક્ષ્ય છે."
+   },
+   "id": "ca-gujarat-plans-to-recruit-2-1-lakh-staff-by-2033",
+   "source": "https://urbanacres.in/gujarat-government-recruitment-plan-targets-2-1-lakh-posts-by-2033/",
+   "exam": {
+    "score": 6,
+    "why": "large recruitment drive for villages"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://urbanacres.in/gujarat-government-recruitment-plan-targets-2-1-lakh-posts-by-2033/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Startup India portal linked with I‑STEM database",
+   "title_gu": "સ્ટાર્ટઅપ ઈન્ડિયા પોર્ટલને I‑STEM ડેટાબેઝ સાથે જોડાયું",
+   "summary_en": "On 6 Nov 2026 the Office of the Principal Scientific Adviser started API integration between Startup India and I‑STEM portals, helping recognised startups find research facilities.",
+   "summary_gu": "6 નવેમ્બર 2026એ પ્રધાન વૈજ્ઞાનિક સલાહકાર કચેરીએ સ્ટાર્ટઅપ ઈન્ડિયા અને I‑STEM પોર્ટલ વચ્ચે API એકીકરણ શરૂ કર્યું, જેથી માન્યતા પ્રાપ્ત સ્ટાર્ટઅપ્સને વૈજ્ઞાનિક સુવિધાઓ શોધવામાં સહાય મળે.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "6 November 2026",
+     "v_gu": "6 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Office of the Principal Scientific Adviser, Prof. Ajay Kumar Sood",
+     "v_gu": "પ્રધાન વૈજ્ઞાનિક સલાહકાર કચેરી, પ્રો. અજય કુમાર સૂદ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "API integration of Startup India and I‑STEM portals",
+     "v_gu": "સ્ટાર્ટઅપ ઈન્ડિયા અને I‑STEM પોર્ટલનું API એકીકરણ"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "to link startups with national research infrastructure",
+     "v_gu": "સ્ટાર્ટઅપ્સને રાષ્ટ્રીય સંશોધન માળખા સાથે જોડવા માટે"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Ministry of Commerce and Industry, Department for Promotion of Industry and Internal Trade",
+     "v_gu": "વાણિજ્ય અને ઉદ્યોગ મંત્રાલય, ઉદ્યોગ અને આંતરિક વેપાર પ્રોત્સાહન વિભાગ"
+    }
+   ],
+   "points_en": [
+    "Integration lets recognised startups search for labs and equipment.",
+    "Future step will add Single Sign‑On for direct access.",
+    "I‑STEM lists 31,540 instruments in 4,044 institutions (as of 6 Nov 2026)."
+   ],
+   "points_gu": [
+    "એકીકરણથી માન્યતા પ્રાપ્ત સ્ટાર્ટઅપ્સને લેબ અને ઉપકરણો શોધી શકાશે.",
+    "આગામી પગલામાં સીધા ઍક્સેસ માટે સિંગલ સાઇન‑ઓન ઉમેરાશે.",
+    "I‑STEMમાં 4,044 સંસ્થાઓમાં 31,540 ઉપકરણો નોંધાયેલા છે (6 નવેમ્બર 2026 સુધી)."
+   ],
+   "context_en": "The Principal Scientific Adviser advises the Government of India on science policy; the Startup India portal supports new businesses; I‑STEM maps Indian science, technology and engineering facilities.",
+   "context_gu": "પ્રધાન વૈજ્ઞાનિક સલાહકાર ભારત સરકારને વૈજ્ઞાનિક નીતિમાં સલાહ આપે છે; સ્ટાર્ટઅપ ઈન્ડિયા પોર્ટલ નવા વ્યવસાયોનું સમર્થન કરે છે; I‑STEM ભારતીય વૈજ્ઞાનિક, ટેકનોલોજી અને એન્જિનિયરિંગ સુવિધાઓનું નકશો છે.",
+   "remember_en": "API link between Startup India and I‑STEM started 6 Nov 2026.",
+   "remember_gu": "સ્ટાર્ટઅપ ઈન્ડિયા અને I‑STEMનું API લિંક 6 નવેમ્બર 2026એ શરૂ થયું.",
+   "why_en": "Shows how government connects startups with research resources for exams.",
+   "why_gu": "પરીક્ષાઓ માટે સરકાર સ્ટાર્ટઅપ્સને સંશોધન સ્રોતો સાથે કેવી રીતે જોડે છે તે દર્શાવે છે.",
+   "details_en": "On 6 Nov 2026 the Office of the Principal Scientific Adviser, led by Prof. Ajay Kumar Sood, launched an API integration between the Startup India portal and the Indian Science, Technology and Engineering Facilities Map (I‑STEM). The Ministry of Commerce and Industry’s Department for Promotion of Industry and Internal Trade helped. The link helps startups recognised by DPIIT to locate scientific labs, testing and prototyping facilities listed on I‑STEM, reducing R&D costs and avoiding duplicate equipment. A future phase will add Single Sign‑On, allowing direct portal access. I‑STEM currently lists 31,540 instruments across 4,044 institutions.",
+   "details_gu": "6 નવેમ્બર 2026એ પ્રધાન વૈજ્ઞાનિક સલાહકાર કચેરી, પ્રો. અજય કુમાર સૂદની આગેવાનીમાં, સ્ટાર્ટઅપ ઈન્ડિયા પોર્ટલ અને ઇન્ડિયન સાયન્સ, ટેકનોલોજી એન્ડ એન્જિનિયરિંગ ફેસિલિટીઝ મેપ (I‑STEM) વચ્ચે API એકીકરણ શરૂ કર્યું. વાણિજ્ય અને ઉદ્યોગ મંત્રાલયના ઉદ્યોગ અને આંતરિક વેપાર પ્રોત્સાહન વિભાગની સહાયથી આ કાર્ય થયું. આ લિંક DPIIT દ્વારા માન્યતા પ્રાપ્ત સ્ટાર્ટઅપ્સને I‑STEMમાં નોંધાયેલ વૈજ્ઞાનિક લેબ, પરીક્ષણ અને પ્રોટોટાઇપિંગ સુવિધાઓ શોધવામાં મદદ કરે છે, જેના કારણે આરએન્ડડી ખર્ચ ઘટે છે અને ઉપકરણોનું પુનરાવર્તન ટળે છે. આગળના તબક્કામાં સિંગલ સાઇન‑ઓન ઉમેરાશે, જેથી સ્ટાર્ટઅપ્સ સીધા પોર્ટલ દ્વારા સુવિધાઓ ઍક્સેસ કરી શકશે. I‑STEMમાં 4,044 સંસ્થાઓમાં 31,540 ઉપકરણો નોંધાયેલા છે.",
+   "mcq": {
+    "q_en": "What was the main purpose of linking Startup India with I‑STEM on 6 Nov 2026?",
+    "q_gu": "6 નવેમ્બર 2026એ સ્ટાર્ટઅપ ઈન્ડિયાને I‑STEM સાથે જોડવાનો મુખ્ય હેતુ શું હતો?",
+    "o_en": [
+     "To increase foreign investment",
+     "To help startups find research facilities",
+     "To launch a new startup fund",
+     "To replace the Startup India portal"
+    ],
+    "o_gu": [
+     "વિદેશી રોકાણ વધારવા માટે",
+     "સ્ટાર્ટઅપ્સને સંશોધન સુવિધાઓ શોધવામાં મદદ કરવા માટે",
+     "નવો સ્ટાર્ટઅપ ફંડ શરૂ કરવા માટે",
+     "સ્ટાર્ટઅપ ઈન્ડિયા પોર્ટલને બદલી આપવા માટે"
+    ],
+    "a": 1,
+    "e_en": "The integration aims to connect startups with national research infrastructure.",
+    "e_gu": "એકીકરણનો હેતુ સ્ટાર્ટઅપ્સને રાષ્ટ્રીય સંશોધન માળખા સાથે જોડવાનો છે."
+   },
+   "id": "ca-startup-india-portal-linked-with-i-stem-database",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333761",
+   "exam": {
+    "score": 6,
+    "why": "Startup‑India API integration, tech initiative"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333761"
     }
    ],
    "by": "groq"
