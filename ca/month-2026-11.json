@@ -8102,6 +8102,76 @@
    ],
    "by": "groq",
    "date": "2026-11-08"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches animal insurance for just 229 rupees",
+   "title_gu": "ગુજરાતમાં માત્ર ૨૨૯ રૂપિયે પશુ વીમો શરૂ",
+   "summary_en": "The Gujarat government offers animal insurance at a cost of 229 rupees per animal.",
+   "summary_gu": "ગુજરાત સરકાર ૨૨૯ રૂપિયે પશુ વીમો પ્રદાન કરે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Animal insurance scheme",
+     "v_gu": "પશુ વીમા યોજના"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "229 rupees per animal",
+     "v_gu": "પ્રતિ પશુ ૨૨૯ રૂપિયા"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat, India",
+     "v_gu": "ગુજરાત, ભારત"
+    }
+   ],
+   "points_en": [],
+   "points_gu": [],
+   "context_en": "The Gujarat government runs various welfare schemes for farmers and livestock owners.",
+   "context_gu": "ગુજરાત સરકાર ખેડૂતો અને પશુપાલકો માટે વિવિધ કલ્યાણ યોજનાઓ ચલાવે છે.",
+   "remember_en": "Animal insurance costs only 229 rupees in Gujarat.",
+   "remember_gu": "ગુજરાતમાં પશુ વીમો માત્ર ૨૨૯ રૂપિયા.",
+   "why_en": "Shows low-cost support for livestock owners in exams.",
+   "why_gu": "પશુપાલકો માટે નીચા ખર્ચની સહાય દર્શાવે છે.",
+   "details_en": "",
+   "details_gu": "",
+   "mcq": {
+    "q_en": "How much does the Gujarat animal insurance cost per animal?",
+    "q_gu": "ગુજરાતમાં પશુ વીમો પ્રતિ પશુ કેટલા રૂપિયાનો છે?",
+    "o_en": [
+     "199 rupees",
+     "229 rupees",
+     "259 rupees",
+     "299 rupees"
+    ],
+    "o_gu": [
+     "૧૯૯ રૂપિયા",
+     "૨૨૯ રૂપિયા",
+     "૨૫૯ રૂપિયા",
+     "૨૯૯ રૂપિયા"
+    ],
+    "a": 1,
+    "e_en": "The scheme charges 229 rupees per animal.",
+    "e_gu": "યોજનાનો ખર્ચ ૨૨૯ રૂપિયા પ્રતિ પશુ છે."
+   },
+   "id": "ca-gujarat-launches-animal-insurance-for-just-229-rupees",
+   "source": "https://www.facebook.com/BBCnewsGujarati/videos/%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0%AA%BE%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%82-%E0%AA%AE%E0%AA%BE%E0%AA%A4%E0%AB%8D%E0%AA%B0-229-%E0%AA%B0%E0%AB%82%E0%AA%AA%E0%AA%BF%E0%AA%AF%E0%AA%BE%E0%AA%AE%E0%AA%BE%E0%AA%82-%E0%AA%9C-%E0%AA%AA%E0%AA%B6%E0%AB%81%E0%AA%A8%E0%AB%8B-%E0%AA%B5%E0%AB%80%E0%AA%AE%E0%AB%8B-%E0%AA%95%E0%AB%87%E0%AA%B5%E0%AB%80-%E0%AA%B0%E0%AB%80%E0%AA%A4%E0%AB%87-%E0%AA%AE%E0%AB%87%E0%AA%B3%E0%AA%B5%E0%AB%80-%E0%AA%B6%E0%AA%95%E0%AA%BE%E0%AA%AF-gujarat-cowinsur/2330622027724838/",
+   "exam": {
+    "score": 6,
+    "why": "Cow insurance scheme at Rs 229, state scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.facebook.com/BBCnewsGujarati/videos/%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0%AA%BE%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%82-%E0%AA%AE%E0%AA%BE%E0%AA%A4%E0%AB%8D%E0%AA%B0-229-%E0%AA%B0%E0%AB%82%E0%AA%AA%E0%AA%BF%E0%AA%AF%E0%AA%BE%E0%AA%AE%E0%AA%BE%E0%AA%82-%E0%AA%9C-%E0%AA%AA%E0%AA%B6%E0%AB%81%E0%AA%A8%E0%AB%8B-%E0%AA%B5%E0%AB%80%E0%AA%AE%E0%AB%8B-%E0%AA%95%E0%AB%87%E0%AA%B5%E0%AB%80-%E0%AA%B0%E0%AB%80%E0%AA%A4%E0%AB%87-%E0%AA%AE%E0%AB%87%E0%AA%B3%E0%AA%B5%E0%AB%80-%E0%AA%B6%E0%AA%95%E0%AA%BE%E0%AA%AF-gujarat-cowinsur/2330622027724838/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-08"
   }
  ]
 }
