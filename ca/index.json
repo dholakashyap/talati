@@ -1,7 +1,11 @@
 {
- "updated": "2026-11-07T20:25",
+ "updated": "2026-11-08T06:58",
  "source": "Official releases (PIB) and news reports; summaries written for exam revision",
  "days": [
+  {
+   "date": "2026-11-08",
+   "n": 3
+  },
   {
    "date": "2026-11-07",
    "n": 13
@@ -98,7 +102,7 @@
  "months": [
   {
    "month": "2026-11",
-   "n": 88
+   "n": 91
   },
   {
    "month": "2026-10",

@@ -7838,6 +7838,270 @@
    ],
    "by": "groq",
    "date": "2026-11-07"
+  },
+  {
+   "category": "awards",
+   "title_en": "Bharat Ratna L.K. Advani turns 100 on 8 Nov 2026",
+   "title_gu": "ભારત રત્ન એલ.કે. અદ્વાની 8 નવેમ્બર 2026એ 100 વર્ષના થયા",
+   "summary_en": "Prime Minister Narendra Modi wished Bharat Ratna L.K. Advani on his 100th birthday on 8 Nov 2026.",
+   "summary_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી 8 નવેમ્બર 2026એ ભારત રત્ન એલ.કે. અદ્વાનીના 100મા જન્મદિવસની શુભેચ્છા આપી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Lal Krishna Advani",
+     "v_gu": "લાલ કૃષ્ણ અદ્વાની"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Former Deputy Prime Minister",
+     "v_gu": "પૂર્વ ઉપપ્રધાનમંત્રી"
+    },
+    {
+     "k_en": "Award",
+     "k_gu": "પદક",
+     "v_en": "Bharat Ratna (India's highest civilian honour)",
+     "v_gu": "ભારત રત્ન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "8 November 2026",
+     "v_gu": "8 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Who congratulated",
+     "k_gu": "કોણે અભિનંદન આપ્યું",
+     "v_en": "Prime Minister Narendra Modi",
+     "v_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી"
+    }
+   ],
+   "points_en": [
+    "Advani turned 100 years old.",
+    "He received the Bharat Ratna honour.",
+    "Modi praised his contributions in a written article."
+   ],
+   "points_gu": [
+    "અદ્વાની 100 વર્ષના થયા.",
+    "તેઓને ભારત રત્ન પુરસ્કાર મળ્યો.",
+    "મોદીએ તેમની યોગદાનોની લેખમાં પ્રશંસા કરી."
+   ],
+   "context_en": "Bharat Ratna is India’s highest civilian award, instituted in 1954.",
+   "context_gu": "ભારત રત્ન ભારતનું સર્વોચ્ચ નાગરિક પુરસ્કાર છે, 1954માં સ્થાપિત.",
+   "remember_en": "L.K. Advani’s 100th birthday was on 8 Nov 2026.",
+   "remember_gu": "એલ.કે. અદ્વાનીનો 100મો જન્મદિવસ 8 નવેમ્બર 2026ે હતો.",
+   "why_en": "Exam may ask about Bharat Ratna recipients and notable birthdays.",
+   "why_gu": "પરીક્ષામાં ભારત રત્ન પ્રાપ્તકર્તાઓ અને મહત્વપૂર્ણ જન્મદિવસો પૂછાઈ શકે.",
+   "details_en": "On 8 November 2026, Bharat Ratna laureate Lal Krishna Advani entered his hundredth year. Prime Minister Narendra Modi sent his congratulations, noting Advani’s lifelong service to the nation. Modi highlighted Advani’s role in rebuilding after Partition, strengthening the Jana Sangh, helping form the Bharatiya Janata Party, defending democracy during the Emergency, leading the Somnath‑Ayodhya Rath Yatra, and serving in government. He also praised Advani’s love for reading, culture, cinema and his writings.",
+   "details_gu": "8 નવેમ્બર 2026એ, ભારત રત્ન પ્રાપ્તકર્તા લાલ કૃષ્ણ અદ્વાની પોતાના 100મા વર્ષમાં પ્રવેશ્યા. પ્રધાનમંત્રી નરેન્દ્ર મોદીએ તેમની દેશસેવામાંની જીવનભરની યોગદાનોની પ્રશંસા કરી અને અભિનંદન પાઠવ્યું. મોદીએ અદ્વાનીનું.partition પછીનું પુનર્નિર્માણ, જનસંઘને મજબૂત કરવું, ભારતીય જનતા પાર્ટીનું નિર્માણ, આપત્તિકાળમાં લોકશાહીનું રક્ષણ, સોમનાથ‑અયોધ્યા રથ યાત્રા અને સરકારમાં સેવા જેવા કાર્યો ઉલ્લેખ્યા. તેમણે અદ્વાનીની વાંચન પ્રીતિ, સંસ્કૃતિ, સિનેમા અને લેખન માટેની પ્રશંસા પણ કરી.",
+   "mcq": {
+    "q_en": "When did Bharat Ratna L.K. Advani turn 100 years old?",
+    "q_gu": "એલ.કે. અદ્વાનીનું 100મો જન્મદિવસ ક્યારે હતું?",
+    "o_en": [
+     "8 Oct 2026",
+     "8 Nov 2026",
+     "15 Nov 2026",
+     "1 Dec 2026"
+    ],
+    "o_gu": [
+     "8 ઓક્ટોબર 2026",
+     "8 નવેમ્બર 2026",
+     "15 નવેમ્બર 2026",
+     "1 ડિસેમ્બર 2026"
+    ],
+    "a": 1,
+    "e_en": "The sources state his 100th birthday was on 8 November 2026.",
+    "e_gu": "સ્રોતોમાં જણાવાયું છે કે તેનો 100મો જન્મદિવસ 8 નવેમ્બર 2026 હતો."
+   },
+   "id": "ca-bharat-ratna-l-k-advani-turns-100-on-8-nov-2026",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087",
+   "exam": {
+    "score": 8,
+    "why": "Bharat Ratna felicitation, high‑value award"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-08"
+  },
+  {
+   "category": "defence",
+   "title_en": "Defense Minister reviews Trishakti Core readiness at Sukna",
+   "title_gu": "રક્ષા મંત્રીનું સુકનામાં ત્રિશક્તિ કોરની તૈયારીઓનું સમીક્ષણ",
+   "summary_en": "On 7 Nov 2026, Defense Minister Rajnath Singh inspected the Trishakti Core near the Line of Actual Control at Sukna, West Bengal, and praised infrastructure work and new equipment.",
+   "summary_gu": "7 નવેમ્બર 2026ને, રક્ષા મંત્રી રાજનાથ સિંહે પશ્ચિમ બંગાળના સુકનામાં લાઇન ઓફ એક્ચુઅલ કંટ્રોલની નજીક ત્રિશક્તિ કોરની તપાસ કરી અને ઢાંચાકીય કામ અને નવા ઉપકરણોની પ્રશંસા કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Rajnath Singh",
+     "v_gu": "રાજનાથ સિંહ"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Defense Minister of India",
+     "v_gu": "ભારતના રક્ષા મંત્રી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "7 November 2026",
+     "v_gu": "7 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Sukna, West Bengal",
+     "v_gu": "સુકના, પશ્ચિમ બંગાળ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Review of infrastructure near Line of Actual Control and deployment of advanced military equipment",
+     "v_gu": "લાઇન ઓફ એક્ચુઅલ કંટ્રોલની નજીક ઢાંચાકીય કામ અને અદ્યતન સૈન્ય ઉપકરણોની તૈનાતીનું સમીક્ષણ"
+    }
+   ],
+   "points_en": [
+    "Infrastructure projects include roads, tunnels and border facilities.",
+    "Modern equipment such as drones and cyber‑defence systems are being deployed.",
+    "The core supports supply of weapons, food and medical kits to forward troops."
+   ],
+   "points_gu": [
+    "ઢાંચાકીય પ્રોજેક્ટમાં રસ્તા, ગુફાઓ અને સીમા સુવિધાઓ શામેલ છે.",
+    "ડ્રોન અને સાયબર-ડિફેન્સ સિસ્ટમ જેવા અદ્યતન ઉપકરણો તૈનાત કરવામાં આવ્યા છે.",
+    "કોર સીમા આગળના સૈનિકો માટે હથિયારો, ખોરાક અને તબીબી સામગ્રીની સપ્લાય કરે છે."
+   ],
+   "context_en": "Trishakti Core is a forward logistics hub for the Indian Army in the eastern sector, located near the Line of Actual Control with China.",
+   "context_gu": "ત્રિશક્તિ કોર ભારતની પૂર્વીય સીમા પર, ચીન સાથેની લાઇન ઓફ એક્ચુઅલ કંટ્રોલની નજીક, સૈન્ય માટેનું લોજિસ્ટિક્સ હબ છે.",
+   "remember_en": "Rajnath Singh inspected Trishakti Core on 7 Nov 2026 at Sukna.",
+   "remember_gu": "રાજનાથ સિંહે 7 નવેમ્બર 2026ને સુકનામાં ત્રિશક્તિ કોરની તપાસ કરી.",
+   "why_en": "Exam may ask about defence infrastructure and key officials in border areas.",
+   "why_gu": "પરીક્ષામાં સીમા ક્ષેત્રની રક્ષા ઢાંચા અને મુખ્ય અધિકારીઓ વિશે પ્રશ્નો આવી શકે છે.",
+   "details_en": "On 7 November 2026, Defense Minister Rajnath Singh visited Sukna in West Bengal to review the operational readiness of the Trishakti Core, a logistics hub close to the Line of Actual Control. He was briefed on the development of roads, tunnels and other border infrastructure, and on the deployment of advanced equipment such as drones, cyber‑defence systems and anti‑drone technologies. Senior army officers, including General Dhiraj Seth and Lieutenant General V.M.B. Krishnan, were present. Singh praised the core’s role in supplying weapons, food, medical kits and other essentials to troops stationed at forward posts, and highlighted the government’s commitment to strengthen supply chains for border forces.",
+   "details_gu": "7 નવેમ્બર 2026ને, રક્ષા મંત્રી રાજનાથ સિંહે પશ્ચિમ બંગાળના સુકનામાં ત્રિશક્તિ કોરની કામગીરીની તૈયારીઓની તપાસ કરી. તેમને રસ્તા, ગુફાઓ અને અન્ય સીમા ઢાંચા વિકાસ અને ડ્રોન, સાયબર-ડિફેન્સ અને એન્ટી-ડ્રોન સિસ્ટમ જેવા અદ્યતન ઉપકરણોની તૈનાતી વિશે જાણકારી આપવામાં આવી. જનરલ ધીરજ સેથ અને લેફ્ટિનન્ટ જનરલ વી.એમ.બી. કૃષ્ણન જેવા ઉચ્ચ અધિકારીઓ હાજર હતા. સિંહે કોરની હથિયારો, ખોરાક, તબીબી કિટો અને અન્ય આવશ્યક સામગ્રીની સપ્લાયમાં મહત્વની ભૂમિકા માટે પ્રશંસા કરી અને સીમા સૈનિકો માટે સપ્લાય ચેઇન મજબૂત بنانےની સરકારની પ્રતિબદ્ધતા પર ભાર મૂક્યો.",
+   "mcq": {
+    "q_en": "Which Indian minister inspected the Trishakti Core at Sukna on 7 Nov 2026?",
+    "q_gu": "7 નવેમ્બર 2026ને સુકનામાં ત્રિશક્તિ કોરની તપાસ કયા ભારતીય મંત્રીએ કરી?",
+    "o_en": [
+     "Home Minister",
+     "Defense Minister",
+     "Finance Minister",
+     "External Affairs Minister"
+    ],
+    "o_gu": [
+     "ગૃહ મંત્રી",
+     "રક્ષા મંત્રી",
+     "વિત્ત મંત્રી",
+     "વિદેશ મંત્રી"
+    ],
+    "a": 1,
+    "e_en": "Rajnath Singh, the Defense Minister, conducted the inspection.",
+    "e_gu": "રાજનાથ સિંહ, રક્ષા મંત્રી, એ તપાસ કરી."
+   },
+   "id": "ca-defense-minister-reviews-trishakti-core-readiness-at-sukna",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334080",
+   "exam": {
+    "score": 6,
+    "why": "Tri‑Shakti core visit, infrastructure near LAC"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334080"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-08"
+  },
+  {
+   "category": "defence",
+   "title_en": "Defence Minister urges high readiness at Bagdogra Air Force Station",
+   "title_gu": "રક્ષા મંત્રી બાગડોગરા એરફોર્સ સ્ટેશનમાં ઉચ્ચ તૈયારીઓની માંગ કરે છે",
+   "summary_en": "On the eve of Diwali, Defence Minister Rajnath Singh told Air Force personnel at Bagdogra to keep operational readiness at the highest level and focus on cyber security and reliable information.",
+   "summary_gu": "દીપાવલીની પૂર્વસંધીમાં, રક્ષા મંત્રી રાજનાથ સિંહે બાગડોગરા એરફોર્સ સ્ટેશનમાં કર્મચારીઓને ઉચ્ચ કામગીરીની તૈયારીઓ અને સાયબર સુરક્ષા, વિશ્વસનીય માહિતી પર ધ્યાન આપવાનું કહ્યું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Rajnath Singh, Defence Minister of India",
+     "v_gu": "રાજનાથ સિંહ, ભારતના રક્ષા મંત્રી"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Bagdogra Air Force Station, West Bengal",
+     "v_gu": "બાગડોગરા એરફોર્સ સ્ટેશન, પશ્ચિમ બંગાળ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "7 November 2026 (Diwali eve)",
+     "v_gu": "7 નવેમ્બર 2026 (દીપાવલી પૂર્વસંધી)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Call for continuous monitoring, cyber security, information integrity",
+     "v_gu": "સતત નિરીક્ષણ, સાયબર સુરક્ષા, માહિતીની અખંડિતતા માટે આહ્વાન"
+    }
+   ],
+   "points_en": [
+    "Readiness must match emerging asymmetric and cyber threats.",
+    "Air warriors at Bagdogra protect India's eastern region.",
+    "Second Tour of Duty for Agniveer soldiers was approved."
+   ],
+   "points_gu": [
+    "તૈયારીને ઉદ્ભવતા અસમમિત અને સાયબર ખતરા સાથે મેળવો.",
+    "બાગડોગરાના વાયુ યોદ્ધાઓ ભારતના પૂર્વીય ક્ષેત્રની સુરક્ષા કરે છે.",
+    "અગ્નિવીરો માટે 'સેકન્ડ ટૂર ઓફ ડ્યુટી' મંજૂર થયું."
+   ],
+   "context_en": "The Ministry of Defence oversees the Indian Armed Forces; Bagdogra is a key air base in the eastern sector.",
+   "context_gu": "મંત્રાલય ઓફ ડિફેન્સ ભારતીય સશસ્ત્ર દળોનું નિરીક્ષણ કરે છે; બાગડોગરા પૂર્વીય ક્ષેત્રનું મહત્વપૂર્ણ એરબેઝ છે.",
+   "remember_en": "Bagdogra base, Rajnath Singh, Diwali 2026, high readiness.",
+   "remember_gu": "બાગડોગરા, રાજનાથ સિંહ, દીપાવલી 2026, ઉચ્ચ તૈયારીઓ.",
+   "why_en": "Exam may ask about defence readiness directives and strategic locations.",
+   "why_gu": "પરીક્ષામાં રક્ષા તૈયારીઓની નિર્દેશો અને વ્યૂહાત્મક સ્થળો વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 7 November 2026, Defence Minister Rajnath Singh visited Bagdogra Air Force Station in West Bengal on Diwali eve. He urged the air force personnel to maintain the highest level of operational readiness to face emerging threats such as asymmetric warfare, cyber attacks and misinformation. He highlighted the strategic importance of Bagdogra for protecting India's eastern region and praised the soldiers' discipline and community engagement. He also mentioned the government's approval of the Second Tour of Duty scheme for Agniveer volunteers, offering them a chance to join the regular forces after two years of service.",
+   "details_gu": "7 નવેમ્બર 2026 ના દીપાવલી પૂર્વસંધી, રક્ષા મંત્રી રાજનાથ સિંહે પશ્ચિમ બંગાળના બાગડોગરા એરફોર્સ સ્ટેશનની મુલાકાત લીધી. તેમણે વાયુસેનાના કર્મચારીઓને ઉદ્ભવતા અસમમિત યુદ્ધ, સાયબર હુમલા અને ખોટી માહિતી જેવા ખતરાઓનો સામનો કરવા માટે ઉચ્ચતમ કામગીરીની તૈયારીઓ જાળવવા આહ્વાન કર્યું. તેમણે બાગડોગરા પૂર્વીય પ્રદેશની સુરક્ષા માટેની વ્યૂહાત્મક મહત્વતા પર ભાર મૂક્યો અને સૈનિકોની શિસ્ત અને સમુદાય જોડાણની પ્રશંસા કરી. તેમણે અગ્નિવીરો માટે 'સેકન્ડ ટૂર ઓફ ડ્યુટી' યોજના મંજૂર થયાની પણ જાણ કરી, જે બે વર્ષની સેવા પછી તેમને નિયમિત સૈનિક તરીકે જોડાવાનો મોકો આપે છે.",
+   "mcq": {
+    "q_en": "Which Indian defence official urged high operational readiness at Bagdogra on Diwali eve 2026?",
+    "q_gu": "કયા ભારતીય રક્ષા અધિકારીએ 2026 ની દીપાવલી પૂર્વસંધી બાગડોગરા ખાતે ઉચ્ચ કામગીરીની તૈયારીઓની માંગ કરી?",
+    "o_en": [
+     "Chief of Army Staff",
+     "Defence Minister Rajnath Singh",
+     "Air Chief Marshal Ashutosh Dikshit",
+     "Minister of Home Affairs"
+    ],
+    "o_gu": [
+     "આર્મી સ્ટાફ ચીફ",
+     "રક્ષા મંત્રી રાજનાથ સિંહ",
+     "એર ચીફ માર્શલ આશુતોષ દીક્ષિત",
+     "ગૃહ મંત્રી"
+    ],
+    "a": 1,
+    "e_en": "The statement was made by Defence Minister Rajnath Singh.",
+    "e_gu": "વક્તવ્ય રક્ષા મંત્રી રાજનાથ સિંહ દ્વારા આપવામાં આવ્યું હતું."
+   },
+   "id": "ca-defence-minister-urges-high-readiness-at-bagdogra-air-force-",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333947",
+   "exam": {
+    "score": 6,
+    "why": "Defence readiness statement, strategic"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333947"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-08"
   }
  ]
 }
