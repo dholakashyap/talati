@@ -8172,6 +8172,186 @@
    ],
    "by": "groq",
    "date": "2026-11-08"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat launches \"Wahli Daughter\" scheme offering ₹1.1 lakh support",
+   "title_gu": "ગુજરાતમાં \"વ્હાલી દીકરી\" યોજના, ૧.૧ લાખ સહાય",
+   "summary_en": "The Gujarat government introduced the Wahli Daughter scheme to give up to ₹1,10,000 to families when a daughter is born, payable in three installments.",
+   "summary_gu": "ગુજરાત સરકારએ વ્હાલી દીકરી યોજના શરૂ કરી, દીકરીના જન્મ પર પરિવારને ત્રણ હપ્તામાં કુલ ૧,૧૦,૦૦૦ રૂપિયા સહાય આપે છે.",
+   "facts": [
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાનું નામ",
+     "v_en": "Wahli Daughter scheme",
+     "v_gu": "વ્હાલી દીકરી યોજના"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "₹1,10,000 total",
+     "v_gu": "₹૧,૧૦,૦૦૦ કુલ"
+    },
+    {
+     "k_en": "Installments",
+     "k_gu": "હપ્તાઓ",
+     "v_en": "Three installments",
+     "v_gu": "ત્રણ હપ્તા"
+    },
+    {
+     "k_en": "Eligibility income",
+     "k_gu": "આવક મર્યાદા",
+     "v_en": "Family income below ₹2,00,000",
+     "v_gu": "પરિવારની આવક ₹૨,૦૦,૦૦૦થી ઓછું"
+    },
+    {
+     "k_en": "Application deadline",
+     "k_gu": "અરજી સમયમર્યાદા",
+     "v_en": "Within one year of daughter's birth",
+     "v_gu": "દીકરીના જન્મ પછી એક વર્ષમાં"
+    }
+   ],
+   "points_en": [
+    "Support covers education and marriage expenses.",
+    "Money is transferred directly to the beneficiary's bank account.",
+    "Documents proving birth and income are required."
+   ],
+   "points_gu": [
+    "સહાયમાં શિક્ષણ અને લગ્ન ખર્ચ સામેલ છે.",
+    "રકમ સીધી લાભાર્થીના બેંક ખાતામાં જમા થાય છે.",
+    "જન્મ અને આવકના પુરાવા જરૂરી છે."
+   ],
+   "context_en": "The scheme is part of Gujarat's efforts to improve the girl child’s birth‑rate, education and financial security.",
+   "context_gu": "યોજનાનો હેતુ ગૂજરાતમાં દીકરીઓની જન્મદર, શિક્ષણ અને આર્થિક સુરક્ષા વધારવાનો છે.",
+   "remember_en": "Wahli Daughter scheme – ₹1.1 lakh, three installments, income <₹2 lakh.",
+   "remember_gu": "વ્હાલી દીકરી યોજના – ₹૧.૧ લાખ, ત્રણ હપ્તા, આવક <₹૨ લાખ.",
+   "why_en": "Exam may ask about scheme name, amount, eligibility and payment method.",
+   "why_gu": "પરીક્ષામાં યોજનાનું નામ, રકમ, આવક મર્યાદા અને ચુકવણી પદ્ધતિ પૂછાઈ શકે.",
+   "details_en": "The Gujarat government launched the Wahli Daughter scheme in 2026 to encourage families to have and educate daughters. When a daughter is born, the state provides up to ₹1,10,000, paid in three installments directly into the beneficiary’s bank account. To qualify, the family’s total annual income must be below ₹2,00,000 and the application must be submitted within one year of the birth, with proper birth and income documents. The assistance aims to cover education costs and reduce financial burden at marriage.",
+   "details_gu": "ગૂજરાત સરકારએ ૨૦૨૬માં વ્હાલી દીકરી યોજના શરૂ કરી, દીકરીના જન્મ પર પરિવારને કુલ ૧,૧૦,૦૦૦ રૂપિયા ત્રણ હપ્તામાં સીધી બેંકમાં જમા કરે છે. પાત્રતા માટે પરિવારની વાર્ષિક આવક ₹૨,૦૦,૦૦૦થી ઓછી હોવી જોઈએ અને જન્મ પછી એક વર્ષમાં અરજી કરવી પડે, સાથે જન્મ અને આવકના પુરાવા. સહાય શિક્ષણ ખર્ચ અને લગ્નના આર્થિક ભારને ઘટાડવા માટે છે.",
+   "mcq": {
+    "q_en": "What is the maximum financial assistance provided under Gujarat’s Wahli Daughter scheme?",
+    "q_gu": "ગૂજરાતની વ્હાલી દીકરી યોજનામાં મહત્તમ સહાય કેટલી છે?",
+    "o_en": [
+     "₹50,000",
+     "₹1,10,000",
+     "₹2,00,000",
+     "₹5,00,000"
+    ],
+    "o_gu": [
+     "₹૫૦,૦૦૦",
+     "₹૧,૧૦,૦૦૦",
+     "₹૨,૦૦,૦૦૦",
+     "₹૫,૦૦,૦૦૦"
+    ],
+    "a": 1,
+    "e_en": "The scheme offers up to ₹1,10,000.",
+    "e_gu": "યોજનામાં મહત્તમ સહાય ₹૧,૧૦,૦૦૦ છે."
+   },
+   "id": "ca-gujarat-launches-wahli-daughter-scheme-offering-1-1-lakh-sup",
+   "source": "https://www.etvbharat.com/gu/state/vhali-dikri-yojana-gujarat-2026-application-form-eligibility-documents-and-benefits-gjs26110803065",
+   "exam": {
+    "score": 8,
+    "why": "Gujarat daughter scheme, major welfare"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.etvbharat.com/gu/state/vhali-dikri-yojana-gujarat-2026-application-form-eligibility-documents-and-benefits-gjs26110803065"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-09"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Parliament passes MSME Development Amendment Bill",
+   "title_gu": "સંસદે MSME વિકાસ સુધારા બિલ પસાર કર્યું",
+   "summary_en": "The Parliament approved the Micro, Small and Medium Enterprises Development (Amendment) Bill in August 2026 to help MSMEs grow.",
+   "summary_gu": "સંસદે ઑગસ્ટ 2026માં માઈક્રો, સ્મોલ અને મિડિયમ એન્ટરપ્રાઇઝિસ ડેવલપમેન્ટ (સુધારા) બિલ પાસ કર્યું, જે MSME ને વિકાસમાં સહાય કરે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026",
+     "v_gu": "માઇક્રો, સ્મોલ અને મિડિયમ એન્ટરપ્રાઇઝિસ ડેવલપમેન્ટ (સુધારા) બિલ, 2026"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "August 2026",
+     "v_gu": "ઑગસ્ટ 2026"
+    },
+    {
+     "k_en": "Purpose",
+     "k_gu": "હેતુ",
+     "v_en": "Ease payment, speed dispute resolution, simplify compliance for MSMEs",
+     "v_gu": "MSME માટે ચુકવણી સરળ, વિવાદ નિરાકરણ ઝડપી, પાલન સરળ"
+    },
+    {
+     "k_en": "Key change",
+     "k_gu": "મુખ્ય ફેરફાર",
+     "v_en": "All CPSEs must pay MSME invoices via TReDS platform",
+     "v_gu": "બધા કેન્દ્રિય જાહેર ક્ષેત્ર એન્ટરપ્રાઇઝો TReDS દ્વારા MSME બિલ ચૂકવશે"
+    },
+    {
+     "k_en": "Platform",
+     "k_gu": "પ્લેટફોર્મ",
+     "v_en": "National digital platform for MSME registration",
+     "v_gu": "MSME નોંધણી માટે રાષ્ટ્રીય ડિજિટલ પ્લેટફોર્મ"
+    }
+   ],
+   "points_en": [
+    "Bill updates the 2006 MSMED Act.",
+    "Filing of memorandum becomes free and voluntary.",
+    "States can set up MSE Facilitation Councils for faster dispute settlement."
+   ],
+   "points_gu": [
+    "બિલ 2006ની MSMED અધિનિયમને અપડેટ કરે છે.",
+    "મેમોરેન્ડમ ફાઇલિંગ મફત અને સ્વૈચ્છિક બને છે.",
+    "રાજ્યો MSE સુવિધા પરિષદો સ્થાપી શકે છે."
+   ],
+   "context_en": "The Micro, Small and Medium Enterprises Development Act was originally notified in 2006 to support small businesses.",
+   "context_gu": "માઇક્રો, સ્મોલ અને મિડિયમ એન્ટરપ્રાઇઝિસ ડેવલપમેન્ટ અધિનિયમ 2006માં જાહેર કરવામાં આવ્યો હતો.",
+   "remember_en": "August 2026 – MSME Amendment Bill passed.",
+   "remember_gu": "ઑગસ્ટ 2026 – MSME સુધારા બિલ પસાર.",
+   "why_en": "Exam may ask about new MSME law and payment reforms.",
+   "why_gu": "પરીક્ષામાં નવા MSME કાયદા અને ચુકવણી સુધારા વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "In August 2026, Parliament approved the Micro, Small and Medium Enterprises Development (Amendment) Bill, updating the 2006 Act. The amendment aims to reduce payment delays by obligating all Central Public Sector Enterprises to settle invoices through the Trade Receivables Discounting System (TReDS) platform. It also makes filing a memorandum free and voluntary for all MSMEs and creates a national digital registration platform. States may set up one or more Micro and Small Enterprises Facilitation Councils to speed up dispute mediation and arbitration, with courts empowered to ensure partial payments during pending cases.",
+   "details_gu": "ઑગસ્ટ 2026માં, સંસદે માઈક્રો, સ્મોલ અને મિડિયમ એન્ટરપ્રાઇઝિસ ડેવલપમેન્ટ (સુધારા) બિલ પાસ કર્યું, જે 2006ની અધિનિયમને અપડેટ કરે છે. આ સુધારો ચુકવણીમાં વિલંબ ઘટાડવા માટે બધા કેન્દ્રિય જાહેર ક્ષેત્ર એન્ટરપ્રાઇઝોને ટ્રેડ રિસીવેબલ્સ ડિસ્કાઉન્ટિંગ સિસ્ટમ (TReDS) પ્લેટફોર્મ દ્વારા બિલ ચૂકવવા માટે બાધ્ય કરે છે. તે તમામ MSME માટે મેમોરેન્ડમ ફાઇલિંગ મફત અને સ્વૈચ્છિક બનાવે છે અને રાષ્ટ્રીય ડિજિટલ નોંધણી પ્લેટફોર્મ સ્થાપિત કરે છે. રાજ્યો MSE સુવિધા પરિષદો સ્થાપી શકે છે, જે વિવાદોનું મધ્યસ્થી અને આર્બિટ્રેશન ઝડપી કરે છે, અને કોર્ટો બાકી કેસોમાં ભાગિક ચુકવણી સુનિશ્ચિત કરે છે.",
+   "mcq": {
+    "q_en": "Which platform must all Central Public Sector Enterprises use to pay MSME invoices under the 2026 amendment?",
+    "q_gu": "2026 સુધારા હેઠળ તમામ કેન્દ્રિય જાહેર ક્ષેત્ર એન્ટરપ્રાઇઝો MSME બિલ ચૂકવવા માટે કયા પ્લેટફોર્મનો ઉપયોગ કરે છે?",
+    "o_en": [
+     "NEFT",
+     "RTGS",
+     "TReDS",
+     "UPI"
+    ],
+    "o_gu": [
+     "NEFT",
+     "RTGS",
+     "TReDS",
+     "UPI"
+    ],
+    "a": 2,
+    "e_en": "The Bill mandates payment through the Trade Receivables Discounting System (TReDS).",
+    "e_gu": "બિલમાં ટ્રેડ રિસીવેબલ્સ ડિસ્કાઉન્ટિંગ સિસ્ટમ (TReDS) દ્વારા ચુકવણી કરવી ફરજિયાત છે."
+   },
+   "id": "ca-parliament-passes-msme-development-amendment-bill",
+   "source": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150826&reg=48&lang=2",
+   "exam": {
+    "score": 6,
+    "why": "MSME amendment bill, economic significance"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150826&reg=48&lang=2"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-09"
   }
  ]
 }
