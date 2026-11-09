@@ -8626,6 +8626,280 @@
    ],
    "by": "groq",
    "date": "2026-11-09"
+  },
+  {
+   "category": "schemes",
+   "title_en": "TRAI releases 2026 Telecom Interconnection Port Fee Rules",
+   "title_gu": "ટીઆરએઆઈએ 2026 ટેલિકોમ ઇન્ટરકનેક્શન પોર્ટ ફી નિયમો બહાર પાડ્યા",
+   "summary_en": "The Telecom Regulatory Authority of India issued the 2026 amendment to port‑fee rules, effective from 1 January 2027.",
+   "summary_gu": "ભારતીય ટેલિકોમ નિયમનકારી પ્રાધિકરણ (TRAI)એ 2026નું પોર્ટ ફી નિયમન સુધારણું બહાર પાડ્યું, જે 1 જાન્યુઆરી 2027થી લાગુ પડશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Telecom Regulatory Authority of India (TRAI)",
+     "v_gu": "ટેલિકોમ નિયમનકારી પ્રાધિકરણ (TRAI)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Telecom Interconnection (Port Fee) (Third Amendment) Regulations 2026",
+     "v_gu": "ટેલિકોમ ઇન્ટરકનેક્શન (પોર્ટ ફી) (ત્રીજું સુધારણું) નિયમો 2026"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Effective 1 January 2027",
+     "v_gu": "લાગુ 1 જાન્યુઆરી 2027"
+    },
+    {
+     "k_en": "Maximum fee per 1 Gbps",
+     "k_gu": "રકમ",
+     "v_en": "₹5.6 lakh per year",
+     "v_gu": "₹5.6 લાખ પ્રતિ વર્ષ"
+    },
+    {
+     "k_en": "Maximum fee per 10 Gbps",
+     "k_gu": "રકમ",
+     "v_en": "₹42.3 lakh per year",
+     "v_gu": "₹42.3 લાખ પ્રતિ વર્ષ"
+    }
+   ],
+   "points_en": [
+    "IP ports now recognised alongside legacy E1 ports.",
+    "Fees apply uniformly to fixed, mobile, national and international services.",
+    "Violations may attract up to ₹15 lakh penalty per service area."
+   ],
+   "points_gu": [
+    "IP પોર્ટને જૂના E1 પોર્ટ સાથે માન્યતા મળી.",
+    "ફી બધા ફિક્સ્ડ, મોબાઇલ, રાષ્ટ્રીય અને આંતરરાષ્ટ્રીય સેવાઓ પર સમાન છે.",
+    "ઉલ્લંઘન પર પ્રતિ સેવા ક્ષેત્ર ₹15 લાખ સુધી દંડ."
+   ],
+   "context_en": "TRAI is the statutory body that regulates India's telecom sector; its headquarters are in New Delhi.",
+   "context_gu": "TRAI ભારતની ટેલિકોમ ક્ષેત્રને નિયમિત કરતું કાયદેસર સંસ્થા છે; તેનું મુખ્યાલય ન્યુ દિલ્હી માં છે.",
+   "remember_en": "TRAI's 2026 port‑fee amendment starts on 1 Jan 2027.",
+   "remember_gu": "TRAIનું 2026 પોર્ટ‑ફી સુધારણું 1 જાન્યુઆરી 2027થી શરૂ.",
+   "why_en": "Exam may ask about new fee limits and effective date for telecom interconnection.",
+   "why_gu": "પરીક્ષામાં નવા ફી મર્યાદા અને ઇન્ટરકનેક્શનની અસરકારક તારીખ વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "On 9 November 2026, the Telecom Regulatory Authority of India (TRAI) issued the Telecom Interconnection (Port Fee) (Third Amendment) Regulations 2026. The rules introduce IP‑based ports alongside the older E1 ports and set a maximum annual fee of ₹5.6 lakh for each 1 Gbps IP port and ₹42.3 lakh for each 10 Gbps port. Fees are to be applied uniformly across fixed‑line, mobile, national long‑distance and international long‑distance services. The amendment also provides a step‑wise financial penalty of up to ₹15 lakh per service area for non‑compliance. These regulations become effective on 1 January 2027.",
+   "details_gu": "9 નવેમ્બર 2026ને, ભારતીય ટેલિકોમ નિયમનકારી પ્રાધિકરણ (TRAI)એ ટેલિકોમ ઇન્ટરકનેક્શન (પોર્ટ ફી) (ત્રીજું સુધારણું) નિયમો 2026 બહાર પાડ્યા. નવા નિયમો IP‑આધારિત પોર્ટને જૂના E1 પોર્ટ સાથે માન્યતા આપે છે અને 1 Gbps IP પોર્ટ માટે પ્રતિ વર્ષ ₹5.6 લાખ અને 10 Gbps પોર્ટ માટે ₹42.3 લાખની મહત્તમ ફી નક્કી કરે છે. ફી બધા ફિક્સ્ડ‑લાઇન, મોબાઇલ, રાષ્ટ્રીય અને આંતરરાષ્ટ્રીય લાંબા અંતરના સેવાઓ પર સમાન રીતે લાગુ થશે. ઉલ્લંઘન માટે પ્રતિ સેવા ક્ષેત્ર સુધીમાં ₹15 લાખ સુધીનું પગલું‑પગલું દંડ પણ નક્કી કરવામાં આવ્યું છે. આ નિયમો 1 જાન્યુઆરી 2027થી અસરકારક રહેશે.",
+   "mcq": {
+    "q_en": "When will the Telecom Interconnection (Port Fee) (Third Amendment) Regulations 2026 become effective?",
+    "q_gu": "ટેલિકોમ ઇન્ટરકનેક્શન (પોર્ટ ફી) (ત્રીજું સુધારણું) નિયમો 2026 ક્યારે અસરકારક થશે?",
+    "o_en": [
+     "1 January 2026",
+     "1 January 2027",
+     "1 July 2026",
+     "1 July 2027"
+    ],
+    "o_gu": [
+     "1 જાન્યુઆરી 2026",
+     "1 જાન્યુઆરી 2027",
+     "1 જુલાઈ 2026",
+     "1 જુલાઈ 2027"
+    ],
+    "a": 1,
+    "e_en": "The rules are stated to be effective from 1 January 2027.",
+    "e_gu": "નિયમો 1 જાન્યુઆરી 2027થી લાગુ થશે."
+   },
+   "id": "ca-trai-releases-2026-telecom-interconnection-port-fee-rules",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405",
+   "exam": {
+    "score": 6,
+    "why": "New TRAI interconnection fee rules"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-09"
+  },
+  {
+   "category": "international",
+   "title_en": "India offers to mediate food corridors before Abu Dhabi talks",
+   "title_gu": "અબુ ધાબી ચર્ચા પહેલા ભારતએ ખાદ્ય માર્ગો માટે મધ્યસ્થતા ઓફર કરી",
+   "summary_en": "Prime Minister Narendra Modi told Ukrainian President Volodymyr Zelenskyy India will help mediate food corridors. External Affairs Minister S. Jaishankar also spoke with Russian Foreign Minister Sergey Lavrov.",
+   "summary_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી દ્વારા યુક્રેનના રાષ્ટ્રપતિ વોલોડિમિર ઝેલેન્સ્કી ને કહ્યું કે ભારત ખાદ્ય માર્ગો માટે મધ્યસ્થતા કરશે. વિદેશ મંત્રી એસ. જયશંકર પણ રશિયાના વિદેશ મંત્રી સર્ગેઈ લાવ્રોવ સાથે વાત કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Narendra Modi** (Prime Minister)",
+     "v_gu": "**નરેન્દ્ર મોદી** (પ્રધાનમંત્રી)"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Volodymyr Zelenskyy** (Ukrainian President)",
+     "v_gu": "**વોલોડિમિર ઝેલેન્સ્કી** (યુક્રેનના રાષ્ટ્રપતિ)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "India ready to mediate **food corridors**",
+     "v_gu": "ભારત ખાદ્ય માર્ગો માટે મધ્યસ્થતા કરવા તૈયાર"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Call made ahead of **Abu Dhabi peace talks** on Tuesday",
+     "v_gu": "મંગળવારે અબુ ધાબી શાંતિ ચર્ચા પહેલા ફોન"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**S. Jaishankar** (External Affairs Minister) spoke to **Sergey Lavrov** (Russian Foreign Minister)",
+     "v_gu": "**એસ. જયશંકર** (વિદેશ મંત્રી) એ **સર્ગેઈ લાવ્રોવ** (રશિયાના વિદેશ મંત્રી) સાથે વાત કરી"
+    }
+   ],
+   "points_en": [
+    "Modi said India will help end the war through dialogue.",
+    "Zelenskyy welcomed India's offer for grain‑export corridors.",
+    "Jaishankar discussed safety of sea mariners and energy shipments."
+   ],
+   "points_gu": [
+    "મોદી કહે છે કે ભારત સંવાદ દ્વારા યુદ્ધ સમાપ્ત કરવામાં મદદ કરશે.",
+    "ઝેલેન્સ્કીએ અનાજ નિકાસ માર્ગો માટે ભારતની ઓફરનું સ્વાગત કર્યું.",
+    "જયશંકરે સમુદ્રી નાવિકો અને ઊર્જા પરિવહનની સુરક્ષા પર ચર્ચા કરી."
+   ],
+   "context_en": "The Ministry of External Affairs handles India's foreign relations; Abu Dhabi is hosting a Ukraine‑Russia peace conference in 2024.",
+   "context_gu": "વિદેશ મંત્રાલય ભારતની વિદેશ નીતિ સંભાળે છે; અબુ ધાબી 2024 માં યુક્રેન‑રશિયા શાંતિ સમ્મેલનનું આયોજન કરે છે.",
+   "remember_en": "India offered to mediate food corridors before Abu Dhabi talks.",
+   "remember_gu": "અબુ ધાબી ચર્ચા પહેલા ભારતએ ખાદ્ય માર્ગો માટે મધ્યસ્થતા ઓફર કરી.",
+   "why_en": "Exam may ask India's diplomatic role and key officials involved.",
+   "why_gu": "પરીક્ષામાં ભારતની કૂટનીતિક ભૂમિકા અને મુખ્ય અધિકારીઓ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "Prime Minister Narendra Modi called Ukrainian President Volodymyr Zelenskyy and said India is ready to help all initiatives that could end the five‑year Russia‑Ukraine war. He highlighted India's human‑centric approach and willingness to mediate **food corridors** that would allow grain and energy exports through the Black Sea. Shortly after, External Affairs Minister S. Jaishankar spoke with Russian Foreign Minister Sergey Lavrov, focusing on the Ukraine conflict, safe passage for sea mariners and energy shipments, and India's four‑point proposal for a grain export agreement. The calls came just before the Ukraine‑Russia peace talks scheduled to start in Abu Dhabi on Tuesday.",
+   "details_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ યુક્રેનના રાષ્ટ્રપતિ વોલોડિમિર ઝેલેન્સ્કી ને ફોન કરીને કહ્યું કે ભારત પાંચ વર્ષથી ચાલી રહેલા રશિયા‑યુક્રેન યુદ્ધને સમાપ્ત કરવા માટેની તમામ પહેલોમાં મદદ કરવા તૈયાર છે. તેમણે ભારતની માનવ‑કેન્દ્રિત નીતિ અને કાળા સમુદ્ર દ્વારા અનાજ અને ઊર્જા નિકાસ માટે **ખાદ્ય માર્ગો** માટે મધ્યસ્થતા કરવાની ઇચ્છા દર્શાવી. થોડા સમય બાદ વિદેશ મંત્રી એસ. જયશંકરે રશિયાના વિદેશ મંત્રી સર્ગેઈ લાવ્રોવ સાથે વાત કરી, જેમાં યુક્રેન સંઘર્ષ, સમુદ્રી નાવિકો અને ઊર્જા પરિવહનની સુરક્ષા, અને અનાજ નિકાસ માટે ભારતની ચાર‑બિંદુ પ્રસ્તાવના ચર્ચા થઈ. આ ફોન અબુ ધાબીમાં મંગળવારે શરૂ થનારી યુક્રેન‑રશિયા શાંતિ ચર્ચા પહેલા કરવામાં આવ્યા.",
+   "mcq": {
+    "q_en": "Which Indian minister spoke to Russia’s foreign minister about the Ukraine conflict?",
+    "q_gu": "યુક્રેન સંઘર્ષ વિશે રશિયાના વિદેશ મંત્રીએ કયા ભારતીય મંત્રીએ વાત કરી?",
+    "o_en": [
+     "Narendra Modi",
+     "S. Jaishankar",
+     "Rajnath Singh",
+     "Amit Shah"
+    ],
+    "o_gu": [
+     "નરેન્દ્ર મોદી",
+     "એસ. જયશંકર",
+     "રાજનાથ સિંહ",
+     "અમિત શાહ"
+    ],
+    "a": 1,
+    "e_en": "External Affairs Minister S. Jaishankar spoke with Sergey Lavrov.",
+    "e_gu": "વિદેશ મંત્રી એસ. જયશંકરે સર્ગેઈ લાવ્રોવ સાથે વાત કરી."
+   },
+   "id": "ca-india-offers-to-mediate-food-corridors-before-abu-dhabi-talk",
+   "source": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece",
+   "exam": {
+    "score": 6,
+    "why": "Modi‑Zelenskyy, Jaishankar‑Lavrov talks"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+    },
+    {
+     "name": "The Hindu (World)",
+     "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-09"
+  },
+  {
+   "category": "awards",
+   "title_en": "President Murmu presents Swachh Survey 2025-26 awards",
+   "title_gu": "રાષ્ટ્રપતિ મુર્મુ સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો આપે છે",
+   "summary_en": "On 11 November 2026, President Droupadi Murmu handed out the Swachh Survey 2025-26 awards in New Delhi.",
+   "summary_gu": "11 નવેમ્બર 2026 ના રોજ, રાષ્ટ્રપતિ દ્રૌપદી મુર્મુ ન્યૂ દિલ્હી માં સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો આપ્યા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "President Droupadi Murmu",
+     "v_gu": "રાષ્ટ્રપતિ દ્રૌપદી મુર્મુ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "11 November 2026",
+     "v_gu": "11 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Science Building, New Delhi",
+     "v_gu": "સાઇન્સ બિલ્ડિંગ, ન્યૂ દિલ્હી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Swachh Survey 2025-26 awards",
+     "v_gu": "સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો"
+    },
+    {
+     "k_en": "Ministry",
+     "k_gu": "મંત્રાલય",
+     "v_en": "Ministry of Housing and Urban Affairs",
+     "v_gu": "મિનિસ્ટ્રી ઓફ હાઉસિંગ એન્ડ અર્બન અફેર્સ"
+    }
+   ],
+   "points_en": [
+    "The awards honor the cleanest cities under Swachh Bharat Mission‑Urban.",
+    "The 10th edition added focus on riverbanks, beaches and school hygiene.",
+    "Over 4,700 cities were evaluated using 43 indicators."
+   ],
+   "points_gu": [
+    "પુરસ્કારો સ્વચ્છ ભારત મિશન‑અર્બન હેઠળ સૌથી સ્વચ્છ શહેરોને સન્માન આપે છે.",
+    "10મો આવૃત્તિ નદી કિનારા, બીચ અને શાળા સ્વચ્છતા પર ખાસ ધ્યાન આપે છે.",
+    "43 સૂચકો દ્વારા 4,700 થી વધુ શહેરોનું મૂલ્યાંકન કરવામાં આવ્યું."
+   ],
+   "context_en": "Swachh Survey is the flagship assessment of the Swachh Bharat Mission‑Urban, started in 2016.",
+   "context_gu": "સ્વચ્છ સર્વે સ્વચ્છ ભારત મિશન‑અર્બનનું મુખ્ય મૂલ્યાંકન છે, 2016 માં શરૂ થયું.",
+   "remember_en": "President Murmu gave Swachh Survey 2025-26 awards on 11 Nov 2026.",
+   "remember_gu": "રાષ્ટ્રપતિ મુર્મુ 11 નવેમ્બર 2026 ના રોજ સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો આપ્યા.",
+   "why_en": "Exam may ask about award ceremony details and the Swachh Survey scope.",
+   "why_gu": "પરીક્ષામાં પુરસ્કાર સમારોહ અને સ્વચ્છ સર્વેની વ્યાપ્તિ વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "President Droupadi Murmu presented the Swachh Survey 2025-26 awards on 11 November 2026 at the Science Building in New Delhi. The ceremony was organized by the Ministry of Housing and Urban Affairs under its Urban Development Division. The awards recognize cities that excelled in the Swachh Bharat Mission‑Urban, including those performing well in the new \"Clean City Pair\" initiative launched in September 2025. The 10th edition of the survey expanded its coverage to over 4,751 cities, using 43 indicators across ten assessment areas such as waste segregation, solid waste management, and citizen participation. More than 3,000 trained assessors carried out ground‑level evaluations with GPS‑based real‑time monitoring, ensuring a digital and transparent process.",
+   "details_gu": "રાષ્ટ્રપતિ દ્રૌપદી મુર્મુ 11 નવેમ્બર 2026 ના રોજ ન્યૂ દિલ્હી ના સાઈન્સ બિલ્ડિંગમાં સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો આપ્યા. આ સમારોહ મિનિસ્ટ્રી ઓફ હાઉસિંગ એન્ડ અર્બન અફેર્સની અર્બન ડેવલપમેન્ટ ડિવિઝન દ્વારા આયોજિત થયો. પુરસ્કારો સ્વચ્છ ભારત મિશન‑અર્બન માં શ્રેષ્ઠ પ્રદર્શન કરનાર શહેરોને આપવામાં આવ્યા, જેમાં સપ્ટેમ્બર 2025 માં શરૂ થયેલી \"સ્વચ્છ શહેર જોડા\" પહેલમાં ઉત્તમતા દર્શાવનાર શહેરો પણ સામેલ હતા. સર્વેના 10મા આવૃત્તિમાં 4,751 થી વધુ શહેરોનું મૂલ્યાંકન કરવામાં આવ્યું, 43 સૂચકો અને દસ મૂલ્યાંકન ક્ષેત્રો જેમ કે કચરા અલગ કરવું, ઘન કચરા વ્યવસ્થાપન અને નાગરિક ભાગીદારીનો ઉપયોગ થયો. 3,000 થી વધુ પ્રશિક્ષિત મૂલ્યાંકનકારોએ GPS આધારિત રિયલ‑ટાઇમ મોનિટરિંગ સાથે જમીન સ્તરની તપાસ કરી, પ્રક્રિયા સંપૂર્ણ ડિજિટલ અને પારદર્શક રહી.",
+   "mcq": {
+    "q_en": "Who presented the Swachh Survey 2025-26 awards?",
+    "q_gu": "સ્વચ્છ સર્વે 2025-26 ના પુરસ્કારો કોણે આપ્યા?",
+    "o_en": [
+     "Prime Minister Narendra Modi",
+     "President Droupadi Murmu",
+     "Minister Manohar Lal",
+     "Chief Minister of Gujarat"
+    ],
+    "o_gu": [
+     "પ્રધાનમંત્રી નરેન્દ્ર મોદી",
+     "રાષ્ટ્રપતિ દ્રૌપદી મુર્મુ",
+     "મંત્રિ મનોહર લાલ",
+     "ગુજરાતના મુખ્યમંત્રી"
+    ],
+    "a": 1,
+    "e_en": "President Droupadi Murmu presented the awards on 11 November 2026.",
+    "e_gu": "રાષ્ટ્રપતિ દ્રૌપદી મુર્મુએ 11 નવેમ્બર 2026 ના રોજ પુરસ્કારો આપ્યા."
+   },
+   "id": "ca-president-murmu-presents-swachh-survey-2025-26-awards",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334339",
+   "exam": {
+    "score": 6,
+    "why": "President presents Swachh Survey award"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334339"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-09"
   }
  ]
 }
