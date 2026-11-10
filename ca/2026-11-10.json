@@ -1,0 +1,94 @@
+{
+ "date": "2026-11-10",
+ "items": [
+  {
+   "category": "schemes",
+   "title_en": "Gujarat withholds over ₹1 crore in girls' education grants",
+   "title_gu": "ગુજરાતમાં છોકરીઓની શિક્ષણ ગ્રાન્ટમાં 1 કરોડથી વધુ રોકાઈ",
+   "summary_en": "The state government stopped payments of more than ₹1 crore to 36 schools because they had pending audit recoveries of ₹3 lakh or more.",
+   "summary_gu": "રાજ્ય સરકારએ 36 શાળાઓને ₹3 લાખથી વધુ બાકી ઓડિટ રિકવરી હોવાથી 1 કરોડથી વધુ ગ્રાન્ટ રોકી દીધી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Girls’ education grant scheme",
+     "v_gu": "છોકરીઓની શિક્ષણ ગ્રાન્ટ યોજના"
+    },
+    {
+     "k_en": "Amount withheld",
+     "k_gu": "રોકાયેલ રકમ",
+     "v_en": "over ₹1 crore",
+     "v_gu": "1 કરોડથી વધુ"
+    },
+    {
+     "k_en": "Schools affected",
+     "k_gu": "પ્રભાવિત શાળાઓ",
+     "v_en": "36 schools in Ahmedabad",
+     "v_gu": "અમદાવાદની 36 શાળાઓ"
+    },
+    {
+     "k_en": "Pending recovery threshold",
+     "k_gu": "બાકી રિકવરી મર્યાદા",
+     "v_en": "₹3 lakh or more",
+     "v_gu": "₹3 લાખ અથવા વધુ"
+    },
+    {
+     "k_en": "Financial year approved",
+     "k_gu": "મંજૂર નાણાકીય વર્ષ",
+     "v_en": "2025‑26",
+     "v_gu": "2025‑26"
+    }
+   ],
+   "points_en": [
+    "Only schools that completed departmental audits received funds.",
+    "Total grant approved for the scheme was ₹2,36,11,480.",
+    "The scheme started in the 2017‑18 financial year."
+   ],
+   "points_gu": [
+    "માત્ર ઓડિટ પૂર્ણ કરેલી શાળાઓને જ ફંડ મળ્યો.",
+    "યોજનાની કુલ મંજૂર રકમ ₹2,36,11,480 હતી.",
+    "યોજનાની શરૂઆત 2017‑18 નાણાકીય વર્ષમાં થઈ."
+   ],
+   "context_en": "The Girls’ Education Grant is a Gujarat state scheme that funds fee‑option secondary schools to provide free education to girls in classes 9‑12.",
+   "context_gu": "છોકરીઓની શિક્ષણ ગ્રાન્ટ ગુજરાત રાજ્યની યોજના છે, જે ફી‑ઓપ્શન માધ્યમિક શાળાઓને કક્ષા 9‑12માં છોકરીઓને મુક્ત શિક્ષણ માટે નાણાં આપે છે.",
+   "remember_en": "Withheld grants: 36 schools, ₹3 lakh+ pending, over ₹1 crore total.",
+   "remember_gu": "રોકાયેલ ગ્રાન્ટ: 36 શાળાઓ, ₹3 લાખ+ બાકી, કુલ 1 કરોડથી વધુ.",
+   "why_en": "Exam may ask about grant amount, schools excluded, and audit condition.",
+   "why_gu": "પરીક્ષામાં ગ્રાન્ટ રકમ, બહાર રાખેલી શાળાઓ અને ઓડિટ શરત વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Gujarat government ordered that payments under the Girls’ Education Grant for the 2025‑26 year be suspended for 36 secondary and higher secondary schools in Ahmedabad. These schools had not completed departmental accounting audits or had audit recoveries of ₹3 lakh or more. While the total grant approved for fee‑option schools was ₹2,36,11,480, only schools that cleared audits received their share, amounting to ₹1,36,47,080. The remaining ₹1,18,87,080, meant for schools providing free education to girls, stayed withheld until the pending recoveries are settled.",
+   "details_gu": "ગુજરાત સરકારએ 2025‑26 નાણાકીય વર્ષ માટે અમદાવાદની 36 માધ્યમિક અને ઉચ્ચ માધ્યમિક શાળાઓ માટે છોકરીઓની શિક્ષણ ગ્રાન્ટની ચુકવણી રોકી. આ શાળાઓએ વિભાગીય હિસાબી ઓડિટ પૂર્ણ ન કરી અથવા ઓડિટ રિકવરીમાં ₹3 લાખથી વધુ બાકી હતી. કુલ મંજૂર ગ્રાન્ટ ₹2,36,11,480 હતી, પરંતુ ઓડિટ પૂર્ણ કરેલી શાળાઓને જ ₹1,36,47,080 મળ્યો. બાકી રહેલી ₹1,18,87,080, જે છોકરીઓને મુક્ત શિક્ષણ માટે હતી, બાકી રિકવરી નિકાલ સુધી રોકાઈ રહી.",
+   "mcq": {
+    "q_en": "How many schools had their Girls’ Education Grant payments withheld in Ahmedabad?",
+    "q_gu": "અમદાવાદમાં કેટલાં શાળાઓની છોકરીઓની શિક્ષણ ગ્રાન્ટની ચુકવણી રોકાઈ?",
+    "o_en": [
+     "24",
+     "36",
+     "48",
+     "60"
+    ],
+    "o_gu": [
+     "૨૪",
+     "૩૬",
+     "૪૮",
+     "૬૦"
+    ],
+    "a": 1,
+    "e_en": "The order affected 36 schools.",
+    "e_gu": "આદેશમાં 36 શાળાઓને અસર થઈ."
+   },
+   "id": "ca-gujarat-withholds-over-1-crore-in-girls-education-grants",
+   "source": "https://english.gujaratsamachar.com/news/ahmedabad/ahmedabad-girls-education-grant-worth-over-indian-rupee1-crore-withheld-for-36-schools-over-pending-audit-recoveries-30070486855",
+   "exam": {
+    "score": 6,
+    "why": "Large girls' education grant"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://english.gujaratsamachar.com/news/ahmedabad/ahmedabad-girls-education-grant-worth-over-indian-rupee1-crore-withheld-for-36-schools-over-pending-audit-recoveries-30070486855"
+    }
+   ],
+   "by": "groq"
+  }
+ ]
+}
