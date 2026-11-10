@@ -3,6 +3,188 @@
  "items": [
   {
    "category": "schemes",
+   "title_en": "India approves $1.5 bn energy storage scheme",
+   "title_gu": "ભારતમાં $1.5 અબનો ઊર્જા સંગ્રહ યોજના મંજૂર",
+   "summary_en": "The government approved a Rs 14,500 crore scheme to build 92 GWh grid‑scale storage by 2031, seeking $10 bn investment.",
+   "summary_gu": "સરકારે 92 GWh ગ્રિડ‑સ્કેલ સ્ટોરેજ માટે રૂ. 14,500 કરોરની યોજના મંજૂર કરી, $10 અબનું રોકાણ લક્ષ્ય.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Rs 14,500 crore** ($1.5 bn) energy storage scheme",
+     "v_gu": "**રૂ. 14,500 કરોર** ઊર્જા સંગ્રહ યોજના"
+    },
+    {
+     "k_en": "Capacity",
+     "k_gu": "ક્ષમતા",
+     "v_en": "**92 GWh** total storage",
+     "v_gu": "**92 GWh** કુલ સ્ટોરેજ"
+    },
+    {
+     "k_en": "Period",
+     "k_gu": "સમયગાળો",
+     "v_en": "2026‑27 to 2030‑31",
+     "v_gu": "2026‑27 થી 2030‑31"
+    },
+    {
+     "k_en": "Investment target",
+     "k_gu": "રોકાણ લક્ષ્ય",
+     "v_en": "around **$10 bn**",
+     "v_gu": "લગભગ **$10 અબ**"
+    },
+    {
+     "k_en": "Components",
+     "k_gu": "ઘટકો",
+     "v_en": "**60 GWh** pumped hydro, **30 GWh** battery, **2 GWh** emerging tech",
+     "v_gu": "**60 GWh** પમ્પ્ડ હાઇડ્રો, **30 GWh** બેટરી, **2 GWh** નવી ટેકનોલોજી"
+    }
+   ],
+   "points_en": [
+    "The scheme aims to improve power reliability.",
+    "It supports domestic battery manufacturing (40% local content).",
+    "It helps meet India’s target of 500 GW renewable capacity by 2030."
+   ],
+   "points_gu": [
+    "યોજનાથી વીજ વિશ્વસનીયતા વધશે.",
+    "બેટરીમાં 40% સ્થાનિક સામગ્રીની આવશ્યકતા છે.",
+    "2030 સુધી 500 GW નવનવીની લક્ષ્યમાં મદદ કરશે."
+   ],
+   "context_en": "The scheme is part of India’s push for 500 GW non‑fossil power by 2030 and net‑zero by 2070.",
+   "context_gu": "યોજનાનો હેતુ 2030 સુધી 500 GW અણફોસિલ વીજ અને 2070 સુધી નેટ‑ઝીરો હાંસલ કરવો છે.",
+   "remember_en": "Rs 14,500 crore scheme for 92 GWh storage, $10 bn investment.",
+   "remember_gu": "રૂ. 14,500 કરોરની 92 GWh સ્ટોરેજ યોજના, $10 અબ રોકાણ.",
+   "why_en": "Exam may ask scheme amount, capacity, and investment target.",
+   "why_gu": "પરીક્ષામાં યોજના રકમ, ક્ષમતા અને રોકાણ લક્ષ્ય પૂછાઈ શકે.",
+   "details_en": "The cabinet, led by Prime Minister Narendra Modi, approved a Rs 14,500 crore (about $1.5 bn) energy storage scheme. It will develop 92 GWh of grid‑scale storage between fiscal 2026‑27 and 2030‑31, split into 60 GWh pumped hydro, 30 GWh battery and 2 GWh emerging technologies. The government expects the projects to attract roughly $10 bn of private investment. Battery projects must contain at least 40% domestic content, boosting local manufacturing. The scheme supports India’s goal of 500 GW renewable capacity by 2030 and strengthens energy security.",
+   "details_gu": "મંત્રાલય, પ્રધાનમંત્રી નરેન્દ્ર મોદીની આગેવાનીમાં, રૂ. 14,500 કરોર (લગભગ $1.5 અબ) ઊર્જા સંગ્રહ યોજના મંજૂર કરી. 2026‑27 થી 2030‑31 સુધી 92 GWh ગ્રિડ‑સ્કેલ સ્ટોરેજ બનાવશે, જેમાં 60 GWh પમ્પ્ડ હાઇડ્રો, 30 GWh બેટરી અને 2 GWh નવી ટેકનોલોજી સામેલ છે. સરકાર આશા કરે છે કે પ્રોજેક્ટ્સમાં લગભગ $10 અબ ખાનગી રોકાણ આવશે. બેટરી પ્રોજેક્ટમાં ઓછામાં ઓછા 40% સ્થાનિક સામગ્રી હોવી જોઈએ, જે સ્થાનિક ઉત્પાદનને પ્રોત્સાહન આપે છે. આ યોજના 2030 સુધી 500 GW નવનવીની લક્ષ્ય અને ઊર્જા સુરક્ષા મજબૂત કરે છે.",
+   "mcq": {
+    "q_en": "What is the total grid‑scale storage capacity targeted by India’s new scheme?",
+    "q_gu": "ભારતની નવી યોજના દ્વારા લક્ષિત કુલ ગ્રિડ‑સ્કેલ સ્ટોરેજ ક્ષમતા કેટલી છે?",
+    "o_en": [
+     "60 GWh",
+     "92 GWh",
+     "120 GWh",
+     "150 GWh"
+    ],
+    "o_gu": [
+     "60 GWh",
+     "92 GWh",
+     "120 GWh",
+     "150 GWh"
+    ],
+    "a": 1,
+    "e_en": "The scheme targets **92 GWh** of storage.",
+    "e_gu": "યોજનાનો લક્ષ્ય **92 GWh** સ્ટોરેજ છે."
+   },
+   "id": "ca-india-approves-1-5-bn-energy-storage-scheme",
+   "source": "https://www.sarkaritel.com/india-energy-storage-scheme-10-billion-investment/",
+   "exam": {
+    "score": 8,
+    "why": "National Energy Storage Scheme, major investment"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.sarkaritel.com/india-energy-storage-scheme-10-billion-investment/"
+    },
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.socialnews.xyz/2026/11/09/indias-energy-storage-scheme-aims-to-attract-10-billion-investment-report/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Home Minister Amit Shah launches Rs 1,400 cr Ahmedabad projects",
+   "title_gu": "મંત્રાલય Amit Shahએ અમદાવાદમાં 1,400 કરોડનું પ્રોજેક્ટ લોન્ચ કર્યું",
+   "summary_en": "Amit Shah inaugurated development works worth about Rs 1,400 crore in Ahmedabad on 9 Nov 2026.",
+   "summary_gu": "9 નવેમ્બર 2026એ Amit Shahએ અમદાવાદમાં લગભગ 1,400 કરોડનું વિકાસ કામ શરૂ કર્યું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Amit Shah** (Union Home Minister)",
+     "v_gu": "**Amit Shah** (કેન્દ્રિય ઘર મંત્રી)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**9 Nov 2026**",
+     "v_gu": "**9 નવેમ્બર 2026**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Ahmedabad, Gujarat**",
+     "v_gu": "**આહમદાબાદ, ગુજરાત**"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "**Rs 1,400 crore** total; **Rs 1,024 crore** by AMC, **Rs 400 crore** by Roads & Buildings Dept",
+     "v_gu": "**રુ. 1,400 કરોડ** કુલ; **રુ. 1,024 કરોડ** AMC દ્વારા, **રુ. 400 કરોડ** રોડ્સ એન્ડ બિલ્ડિંગ્સ વિભાગ દ્વારા"
+    },
+    {
+     "k_en": "Target",
+     "k_gu": "લક્ષ્ય",
+     "v_en": "**Drug‑Free Gujarat by 31 Dec 2028**",
+     "v_gu": "**ડ્રગ‑ફ્રી ગુજરાત 31 ડિસેમ્બર 2028 સુધી**"
+    }
+   ],
+   "points_en": [
+    "Projects include a pump house in Bopal‑Ghuma and a 4 km ISKCON overbridge.",
+    "Smart schools were inaugurated and slum‑rehabilitation scheme continues.",
+    "Development works in Gandhinagar Lok Sabha seat total Rs 25,000 crore in 7 years."
+   ],
+   "points_gu": [
+    "પ્રોજેક્ટમાં બોપલ‑ઘૂમામાં પંપ હાઉસ અને 4 કિ.મી. ISKCON ઓવરબ્રિજ સામેલ છે.",
+    "સ્માર્ટ સ્કૂલ્સનું ઉદ્ઘાટન અને કાટમાળ નિવાસી યોજના ચાલુ છે.",
+    "ગાંધીનગર લોકસભા ક્ષેત્રમાં 7 વર્ષમાં કુલ રૂ. 25,000 કરોડનું વિકાસ કામ."
+   ],
+   "context_en": "Ahmedabad Municipal Corporation (AMC) manages city services; Roads and Buildings Department handles state infrastructure.",
+   "context_gu": "Ahmedabad Municipal Corporation (AMC) શહેરની સેવાઓ સંભાળે છે; રોડ્સ એન્ડ બિલ્ડિંગ્સ વિભાગ રાજ્યની ઢાંચાકીય કામો કરે છે.",
+   "remember_en": "Amit Shah inaugurated Rs 1,400 crore projects in Ahmedabad on 9 Nov 2026.",
+   "remember_gu": "Amit Shahએ 9 નવેમ્બર 2026એ અમદાવાદમાં 1,400 કરોડનું પ્રોજેક્ટ લોન્ચ કર્યું.",
+   "why_en": "Exam may ask about the amount, date, and drug‑free target for Gujarat.",
+   "why_gu": "પરીક્ષામાં રકમ, તારીખ અને ગુજરાત માટે ડ્રગ‑ફ્રી લક્ષ્ય વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "On 9 Nov 2026 Union Home Minister Amit Shah opened several development works in Ahmedabad worth about Rs 1,400 crore. The Ahmedabad Municipal Corporation is handling projects worth roughly Rs 1,024 crore, while the Gujarat Roads and Buildings Department and the Government of India are responsible for about Rs 400 crore. Key items include a pump house for rain‑water drainage in the Bopal‑Ghuma area and the start of a four‑kilometre ISKCON overbridge that will cut travel time between Sarkhej and Gandhinagar. Shah also highlighted the conversion of primary schools into smart schools and the ongoing slum‑rehabilitation scheme that will eventually serve over 55,000 residents. He urged citizens to help make Gujarat drug‑free by 31 Dec 2028.",
+   "details_gu": "9 નવેમ્બર 2026એ યુનિયન ઘર મંત્રી Amit Shahએ અમદાવાદમાં લગભગ રૂ. 1,400 કરોડનું વિકાસ કામ શરૂ કર્યું. Ahmedabad Municipal Corporation લગભગ રૂ. 1,024 કરોડનું પ્રોજેક્ટ સંભાળી રહી છે, જ્યારે ગુજરાત રોડ્સ એન્ડ બિલ્ડિંગ્સ વિભાગ અને ભારત સરકાર રૂ. 400 કરોડનું કામ કરે છે. મુખ્ય પ્રોજેક્ટમાં બોપલ‑ઘૂમામાં વરસાદી પાણીની નિકાસ માટે પંપ હાઉસ અને સર્કેજથી ગાંધીનગર સુધી 4 કિ.મી. ISKCON ઓવરબ્રિજનો સમાવેશ થાય છે, જે મુસાફરી સમય ઘટાડશે. Shahએ પ્રાથમિક શાળાઓને સ્માર્ટ સ્કૂલમાં રૂપાંતરિત કરવાનું અને 55,000 કરતાં વધુ લોકો માટે કાટમાળ નિવાસી યોજના ચાલુ રાખવાનું પણ જણાવ્યું. તેમણે 31 ડિસેમ્બર 2028 સુધી ગુજરાતને ડ્રગ‑ફ્રી 만드는 માટે જનતા ને આહ્વાન કર્યું.",
+   "mcq": {
+    "q_en": "What is the total value of development works inaugurated by Amit Shah in Ahmedabad on 9 Nov 2026?",
+    "q_gu": "9 નવેમ્બર 2026એ Amit Shahએ અમદાવાદમાં શરૂ કરેલા વિકાસ કામોની કુલ કિંમત કેટલી હતી?",
+    "o_en": [
+     "Rs 1,024 crore",
+     "Rs 400 crore",
+     "Rs 1,400 crore",
+     "Rs 25,000 crore"
+    ],
+    "o_gu": [
+     "રૂ. 1,024 કરોડ",
+     "રૂ. 400 કરોડ",
+     "રૂ. 1,400 કરોડ",
+     "રૂ. 25,000 કરોડ"
+    ],
+    "a": 2,
+    "e_en": "The projects total about Rs 1,400 crore.",
+    "e_gu": "પ્રોજેક્ટની કુલ કિંમત લગભગ રૂ. 1,400 કરોડ છે."
+   },
+   "id": "ca-home-minister-amit-shah-launches-rs-1-400-cr-ahmedabad-proje",
+   "source": "https://udaipurtimes.com/press-release/home-minister-inaugurates-development-works/cid19511583.htm",
+   "exam": {
+    "score": 7,
+    "why": "Rs 1,400 Cr development works inauguration"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://udaipurtimes.com/press-release/home-minister-inaugurates-development-works/cid19511583.htm"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
    "title_en": "Gujarat withholds over ₹1 crore in girls' education grants",
    "title_gu": "ગુજરાતમાં છોકરીઓની શિક્ષણ ગ્રાન્ટમાં 1 કરોડથી વધુ રોકાઈ",
    "summary_en": "The state government stopped payments of more than ₹1 crore to 36 schools because they had pending audit recoveries of ₹3 lakh or more.",
@@ -86,6 +268,95 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://english.gujaratsamachar.com/news/ahmedabad/ahmedabad-girls-education-grant-worth-over-indian-rupee1-crore-withheld-for-36-schools-over-pending-audit-recoveries-30070486855"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "economy",
+   "title_en": "Labour Force Survey shows higher participation in July‑Sept 2026",
+   "title_gu": "જુલાઈ‑સપ્ટેમ્બર 2026માં શ્રમબળ સર્વેમાં ભાગીદારીમાં વધારો",
+   "summary_en": "The Periodic Labour Force Survey (PLFS) for July‑September 2026 reports higher labour participation and lower rural unemployment.",
+   "summary_gu": "જુલાઈ‑સપ્ટેમ્બર 2026નું આવધીય શ્રમબળ સર્વે (પી.એલ.એફ.એસ.) ભાગીદારીમાં વધારો અને ગ્રામિણ બેરોજગારીમાં ઘટાડો દર્શાવે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Periodic Labour Force Survey (PLFS) quarterly bulletin",
+     "v_gu": "આવધીય શ્રમબળ સર્વે (પી.એલ.એફ.એસ.) ત્રિમાસિક બુલેટિન"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "July‑September 2026",
+     "v_gu": "જુલાઈ‑સપ્ટેમ્બર 2026"
+    },
+    {
+     "k_en": "Women participation",
+     "k_gu": "મહિલાઓની ભાગીદારી",
+     "v_en": "34.7 % (up from 33.2 %)",
+     "v_gu": "૩૪.૭ % (પહેલાં ૩૩.૨ %)"
+    },
+    {
+     "k_en": "Rural LFPR",
+     "k_gu": "ગ્રામિણ શ્રમબળ ભાગીદારી દર",
+     "v_en": "58.1 % (up 0.9 pts)",
+     "v_gu": "૫૮.૧ % (૦.૯ પોઇન્ટ વધારો)"
+    },
+    {
+     "k_en": "Rural unemployment rate",
+     "k_gu": "ગ્રામિણ બેરોજગારી દર",
+     "v_en": "4.3 % (steady)",
+     "v_gu": "૪.૩ % (સ્થિર)"
+    }
+   ],
+   "points_en": [
+    "Male urban participation rose slightly to 77.3 %.",
+    "Overall LFPR reached 55.5 % in the quarter.",
+    "Rural casual labour share fell to 21.7 %."
+   ],
+   "points_gu": [
+    "પુરુષોનું શહેરી ભાગીદારી 77.3 % સુધી થોડું વધ્યું.",
+    "સમગ્ર શ્રમબળ ભાગીદારી દર 55.5 % રહ્યો.",
+    "ગ્રામિણ અસ્થાયી શ્રમકાર્યોનું પ્રમાણ 21.7 % સુધી ઘટ્યું."
+   ],
+   "context_en": "The Ministry of Statistics and Programme Implementation (MoSPI) conducts PLFS to estimate employment indicators for India.",
+   "context_gu": "સાંખ્યિકી અને કાર્યક્રમ કાર્યાન્વયન મંત્રાલય (MoSPI) ભારત માટે રોજગારી સૂચકોનું અંદાજ મેળવવા માટે પી.એલ.એફ.એસ. કરે છે.",
+   "remember_en": "Women participation rose to 34.7 % in July‑Sept 2026.",
+   "remember_gu": "મહિલાઓની ભાગીદારી જુલાઈ‑સપ્ટેમ્બર 2026માં ૩૪.૭ % થઈ.",
+   "why_en": "Exam asks recent labour trends and key percentages.",
+   "why_gu": "પરીક્ષામાં તાજા શ્રમ ટ્રેન્ડ અને મુખ્ય ટકા પૂછાય છે.",
+   "details_en": "The PLFS quarterly bulletin for July‑September 2026, released by the Ministry of Statistics and Programme Implementation, shows that women's labour force participation increased to 34.7 % from 33.2 % in the previous quarter. Male urban participation rose slightly to 77.3 %. Overall labour force participation rate (LFPR) reached 55.5 %, up 0.4 percentage points from the same quarter in 2025. Rural LFPR improved to 58.1 %, while rural unemployment remained steady at 4.3 %. The share of casual labour in rural areas fell to 21.7 %, indicating a shift towards regular employment.",
+   "details_gu": "સાંખ્યિકી અને કાર્યક્રમ કાર્યાન્વયન મંત્રાલય દ્વારા જુલાઈ‑સપ્ટેમ્બર 2026નું પી.એલ.એફ.એસ. ત્રિમાસિક બુલેટિન દર્શાવે છે કે મહિલાઓની શ્રમબળ ભાગીદારી 33.2 %થી વધીને 34.7 % થઈ. પુરુષોનું શહેરી ભાગીદારી થોડું વધીને 77.3 % થયું. કુલ શ્રમબળ ભાગીદારી દર (LFPR) 55.5 % સુધી પહોંચ્યો, જે 2025ની સમાન તિમાહીમાં 0.4 પોઇન્ટ વધ્યો. ગ્રામિણ LFPR 58.1 % સુધી સુધર્યો, જ્યારે ગ્રામિણ બેરોજગારી 4.3 % પર સ્થિર રહી. ગ્રામિણ ક્ષેત્રમાં અસ્થાયી શ્રમકાર્યોનું પ્રમાણ 21.7 % સુધી ઘટ્યું, જે નિયમિત રોજગારી તરફનું પરિવર્તન દર્શાવે છે.",
+   "mcq": {
+    "q_en": "What was the women's labour force participation rate in the July‑September 2026 PLFS bulletin?",
+    "q_gu": "જુલાઈ‑સપ્ટેમ્બર 2026 પી.એલ.એફ.એસ. બુલેટિનમાં મહિલાઓની શ્રમબળ ભાગીદારી દર શું હતો?",
+    "o_en": [
+     "33.2 %",
+     "34.7 %",
+     "55.5 %",
+     "58.1 %"
+    ],
+    "o_gu": [
+     "૩૩.૨ %",
+     "૩૪.૭ %",
+     "૫૫.૫ %",
+     "૫૮.૧ %"
+    ],
+    "a": 1,
+    "e_en": "The bulletin reports women's participation rose to 34.7 %.",
+    "e_gu": "બુલેટિનમાં મહિલાઓની ભાગીદારી ૩૪.૭ % સુધી વધેલી છે."
+   },
+   "id": "ca-labour-force-survey-shows-higher-participation-in-july-sept-",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749",
+   "exam": {
+    "score": 6,
+    "why": "Quarterly labour force survey data"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749"
     }
    ],
    "by": "groq"
