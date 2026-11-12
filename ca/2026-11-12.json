@@ -2,6 +2,277 @@
  "date": "2026-11-12",
  "items": [
   {
+   "category": "science",
+   "title_en": "ISRO completes static test of PSLV third stage",
+   "title_gu": "ઇસરોએ પી.એસ.એલ.વી. ત્રીજા સ્ટેજનું સ્ટેટિક ટેસ્ટ પૂર્ણ કર્યું",
+   "summary_en": "The Indian Space Research Organisation successfully tested the PSLV third stage on 12 November 2026 at Sriharikota.",
+   "summary_gu": "ભારતીય અવકાશ સંશોધન સંગઠન (ઇસરો)એ 12 નવેમ્બર 2026ને શ્રીહરિકોટા ખાતે પી.એસ.એલ.વી. ત્રીજા સ્ટેજનું સ્ટેટિક ટેસ્ટ સફળતાપૂર્વક પૂર્ણ કર્યું.",
+   "facts": [
+    {
+     "k_en": "Agency",
+     "k_gu": "સંગઠન",
+     "v_en": "Indian Space Research Organisation (ISRO)",
+     "v_gu": "ભારતીય અવકાશ સંશોધન સંગઠન (ઇસરો)"
+    },
+    {
+     "k_en": "Test",
+     "k_gu": "ટેસ્ટ",
+     "v_en": "Ground static test of PSLV third stage",
+     "v_gu": "પી.એસ.એલ.વી. ત્રીજા સ્ટેજનું ગ્રાઉન્ડ સ્ટેટિક ટેસ્ટ"
+    },
+    {
+     "k_en": "Date",
+     "k_gu": "તારીખ",
+     "v_en": "12 November 2026",
+     "v_gu": "12 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "સ્થળ",
+     "v_en": "Static Test Facility, Satish Dhawan Space Centre, Sriharikota",
+     "v_gu": "સ્ટેટિક ટેસ્ટ ફેસિલિટી, સતીશ ધવન સ્પેસ સેન્ટર, શ્રીહરિકોટા"
+    },
+    {
+     "k_en": "Improvements",
+     "k_gu": "સુધારા",
+     "v_en": "Stronger nozzle, better material checks, redundant sealing",
+     "v_gu": "મજબૂત નોઝલ, સુધારેલ કાચા માલની તપાસ, સીલિંગમાં redundancy"
+    }
+   ],
+   "points_en": [
+    "Anomalies in earlier PSLV missions prompted redesign.",
+    "Design margins and quality checks were tightened.",
+    "Further tests are planned before the next launch."
+   ],
+   "points_gu": [
+    "પહેલાંની PSLV મિશનોમાં ખામીઓને કારણે પુનઃડિઝાઇન કરવામાં આવી.",
+    "ડિઝાઇન માર્જિન અને ગુણવત્તા તપાસને કડક બનાવવામાં આવી.",
+    "આગામી લોન્ચ પહેલાં વધુ ટેસ્ટો યોજાશે."
+   ],
+   "context_en": "ISRO is India's national space agency, headquartered in Bengaluru; PSLV is its workhorse launch vehicle.",
+   "context_gu": "ઇસરો ભારતનું રાષ્ટ્રીય અવકાશ સંગઠન છે, મુખ્યાલય બેંગલોરમાં; PSLV તેનો મુખ્ય લોન્ચર છે.",
+   "remember_en": "ISRO tested PSLV third stage on 12 Nov 2026 at Sriharikota.",
+   "remember_gu": "ઇસરોએ 12 નવેમ્બર 2026ને શ્રીહરિકોટા ખાતે PSLV ત્રીજો સ્ટેજ ટેસ્ટ કર્યો.",
+   "why_en": "Shows ISRO's steps to fix PSLV issues before upcoming missions.",
+   "why_gu": "આગામી મિશનો પહેલાં PSLVની ખામીઓ સુધારવાના ઇસરોના પગલાં દર્શાવે છે.",
+   "details_en": "On 12 November 2026, ISRO carried out a ground static test of the Polar Satellite Launch Vehicle (PSLV) third stage at the Static Test Facility in Satish Dhawan Space Centre, Sriharikota. The test followed anomalies in the third stage during the PSLV‑C61/EOS‑09 and PSLV‑C62/EOS‑N1 missions. ISRO revised the stage design, strengthening the nozzle, tightening raw material acceptance, updating assembly procedures, and adding redundancy to sealing systems. Mechanical interfaces were reinforced and non‑destructive tests were applied throughout integration and transport. The new version of the solid motor stage performed successfully, and ISRO plans further tests before the next launch.",
+   "details_gu": "12 નવેમ્બર 2026એ, ઇસરોએ સતીશ ધવન સ્પેસ સેન્ટર, શ્રીહરિકોટા ખાતે સ્ટેટિક ટેસ્ટ ફેસિલિટીમાં પી.એસ.એલ.વી. (પોલર સેટેલાઇટ લોન્ચ વ્હીકલ) ત્રીજા સ્ટેજનું ગ્રાઉન્ડ સ્ટેટિક ટેસ્ટ કર્યું. આ ટેસ્ટ PSLV‑C61/EOS‑09 અને PSLV‑C62/EOS‑N1 મિશનોમાં ત્રીજા સ્ટેજની ખામીઓ પછી કરવામાં આવ્યો. ઇસરોએ સ્ટેજની ડિઝાઇનમાં સુધારો કર્યો, નોઝલને મજબૂત બનાવ્યો, કાચા માલની સ્વીકૃતિ કડક કરી, એસેમ્બલી પ્રક્રિયાઓ અપડેટ કરી અને સીલિંગ સિસ્ટમમાં redundancy ઉમેર્યો. મિકેનિકલ ઇન્ટરફેસને મજબૂત બનાવવામાં આવ્યા અને ઇન્ટિગ્રેશન અને પરિવહન દરમિયાન નોન‑ડિસ્ટ્રક્ટિવ ટેસ્ટો લાગુ કરવામાં આવ્યા. નવા સોલિડ મોટર સ્ટેજે સફળતા દર્શાવી, અને ઇસરો આગામી લોન્ચ પહેલાં વધુ ટેસ્ટો કરવાની યોજના ધરાવે છે.",
+   "mcq": {
+    "q_en": "When did ISRO conduct the ground static test of the PSLV third stage?",
+    "q_gu": "ઇસરોએ પી.એસ.એલ.વી. ત્રીજા સ્ટેજનું સ્ટેટિક ટેસ્ટ ક્યારે કર્યું?",
+    "o_en": [
+     "10 November 2026",
+     "12 November 2026",
+     "15 November 2026",
+     "20 November 2026"
+    ],
+    "o_gu": [
+     "10 નવેમ્બર 2026",
+     "12 નવેમ્બર 2026",
+     "15 નવેમ્બર 2026",
+     "20 નવેમ્બર 2026"
+    ],
+    "a": 1,
+    "e_en": "The test was carried out on 12 November 2026.",
+    "e_gu": "ટેસ્ટ 12 નવેમ્બર 2026એ કરવામાં આવ્યો હતો."
+   },
+   "id": "ca-isro-completes-static-test-of-pslv-third-stage",
+   "source": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+   "exam": {
+    "score": 9,
+    "why": "ISRO PSLV static test, high relevance"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece"
+    },
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "22 firms bid for 10 GWh battery prize under PLI scheme",
+   "title_gu": "২২ કંપનીઓએ PLI યોજના હેઠળ ૧૦ GWh બેટરી ઇનામ માટે બિડ લગાવી",
+   "summary_en": "Twenty‑two companies submitted bids to win a 10 GWh battery manufacturing prize under the Production‑Linked Incentive scheme.",
+   "summary_gu": "૨૨ કંપનીઓએ પ્રોડક્શન‑લિંક્ડ ઇન્સેન્ટિવ યોજનામાં ૧૦ GWh બેટરી ઇનામ માટે બિડ લગાવી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "10 GWh battery prize",
+     "v_gu": "૧૦ GWh બેટરી ઇનામ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "22 firms",
+     "v_gu": "૨૨ કંપનીઓ"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાનું નામ",
+     "v_en": "Production‑Linked Incentive (PLI) scheme",
+     "v_gu": "પ્રોડક્શન‑લિંક્ડ ઇન્સેન્ટિવ (PLI) યોજના"
+    },
+    {
+     "k_en": "Target capacity",
+     "k_gu": "લક્ષ્ય ક્ષમતા",
+     "v_en": "50 GWh",
+     "v_gu": "૫૦ GWh"
+    },
+    {
+     "k_en": "Awarded capacity",
+     "k_gu": "મંજૂર ક્ષમતા",
+     "v_en": "40 GWh",
+     "v_gu": "૪૦ GWh"
+    }
+   ],
+   "points_en": [
+    "Bids aim to set up giga‑scale battery plants in India.",
+    "The Ministry of Heavy Industries runs the two‑stage bidding.",
+    "The scheme seeks to boost domestic battery making and attract foreign investment."
+   ],
+   "points_gu": [
+    "બિડો ભારતમાં ગિગા‑સ્કેલ બેટરી પ્લાન્ટ સ્થાપિત કરવા માટે છે.",
+    "મિનિસ્ટ્રી ઓફ હેવી ઇન્ડસ્ટ્રીઝ બે‑સ્ટેજ બિડિંગ ચલાવે છે.",
+    "યોજનાનો હેતુ ઘરેલું બેટરી ઉત્પાદન અને વિદેશી રોકાણ આકર્ષવાનો છે."
+   ],
+   "context_en": "The Production‑Linked Incentive scheme rewards manufacturers for achieving specified output levels.",
+   "context_gu": "પ્રોડક્શન‑લિંક્ડ ઇન્સેન્ટિવ યોજના નિર્ધારિત ઉત્પાદન સ્તર માટે ઉત્પાદકોને ઇનામ આપે છે.",
+   "remember_en": "22 firms compete for a 10 GWh battery prize under PLI.",
+   "remember_gu": "૨૨ કંપનીઓ PLI હેઠળ ૧૦ GWh બેટરી ઇનામ માટે સ્પર્ધા કરે છે.",
+   "why_en": "Shows India's push for large‑scale battery capacity and foreign investment.",
+   "why_gu": "ભારતની મોટા‑પાયે બેટરી ક્ષમતા અને વિદેશી રોકાણ માટેની કોશિશ દર્શાવે છે.",
+   "details_en": "The Centre's Production‑Linked Incentive scheme for advanced chemistry cell manufacturing received bids from 22 companies. These firms aim to set up giga‑scale battery factories to win a 10 GWh prize. The scheme targets a total of 50 GWh capacity, of which 40 GWh has already been awarded in earlier rounds. The Ministry of Heavy Industries oversees a transparent two‑stage bidding process to strengthen domestic battery production and draw international investors.",
+   "details_gu": "કેન્દ્રની પ્રોડક્શન‑લિંક્ડ ઇન્સેન્ટિવ યોજના અદ્યતન કેમિસ્ટ્રી સેલ ઉત્પાદન માટે ૨૨ કંપનીઓની બિડ્સ પ્રાપ્ત કરી. આ કંપનીઓ ૧૦ GWh ઇનામ જીતવા માટે ગિગા‑સ્કેલ બેટરી ફેક્ટરીઓ સ્થાપિત કરવા ઇચ્છે છે. યોજનાનો કુલ લક્ષ્ય ૫૦ GWh છે, જેમાંથી ૪૦ GWh પહેલાના રાઉન્ડમાં મંજૂર થઈ ચૂક્યું છે. મિનિસ્ટ્રી ઓફ હેવી ઇન્ડસ્ટ્રીઝ પારદર્શક બે‑સ્ટેજ બિડિંગ પ્રક્રિયા ચલાવે છે, જેથી ઘરેલું બેટરી ઉત્પાદન મજબૂત બને અને આંતરરાષ્ટ્રીય રોકાણકારો આકર્ષાય.",
+   "mcq": {
+    "q_en": "How many companies submitted bids for the 10 GWh battery prize under the PLI scheme?",
+    "q_gu": "PLI યોજનામાં ૧૦ GWh બેટરી ઇનામ માટે કેટલાં કંપનીઓએ બિડ લગાવી?",
+    "o_en": [
+     "15",
+     "22",
+     "30",
+     "40"
+    ],
+    "o_gu": [
+     "૧૫",
+     "૨૨",
+     "૩૦",
+     "૪૦"
+    ],
+    "a": 1,
+    "e_en": "The article states 22 firms submitted bids.",
+    "e_gu": "લેખમાં જણાવાયું છે કે ૨૨ કંપનીઓએ બિડ લગાવી."
+   },
+   "id": "ca-22-firms-bid-for-10-gwh-battery-prize-under-pli-scheme",
+   "source": "https://m.economictimes.com/industry/energy/power/22-firms-chase-10-gwh-battery-prize-under-pli-scheme/articleshow/135770560.cms",
+   "exam": {
+    "score": 8,
+    "why": "PLI battery scheme, major policy"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://m.economictimes.com/industry/energy/power/22-firms-chase-10-gwh-battery-prize-under-pli-scheme/articleshow/135770560.cms"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "sports",
+   "title_en": "Gunjan wins India's first Youth Olympics women’s boxing gold",
+   "title_gu": "ગુંજને યૂથ ઓલિમ્પિક્સમાં સ્ત્રી બોક્સિંગનું સ્વર્ણપદ જીતી લીધું",
+   "summary_en": "Gunjan of Haryana beat Algeria’s Bouthaina Bensalah 5‑0 to claim India’s first women’s boxing gold at the 2026 Youth Olympics in Dakar.",
+   "summary_gu": "હરિયાણાની ગુંજનએ અલ્જેરિયાની બૌથૈના બેનસલાહને 5‑0થી હરાવીને દાકારમાં યોજાયેલ 2026 યૂથ ઓલિમ્પિક્સમાં ભારતનું પ્રથમ સ્ત્રી બોક્સિંગ સ્વર્ણપદ જીતી લીધું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gunjan (Haryana)",
+     "v_gu": "ગુંજન (હરિયાણા)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Women’s 48kg boxing gold",
+     "v_gu": "સ્ત્રી 48 કિગ્રા બોક્સિંગ સ્વર્ણપદ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Dakar, Senegal",
+     "v_gu": "દાકાર, સેનેગલ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2026 Youth Olympics, Thursday",
+     "v_gu": "2026 યૂથ ઓલિમ્પિક્સ, ગુરુવાર"
+    },
+    {
+     "k_en": "Opponent",
+     "k_gu": "વિરોધી",
+     "v_en": "Bouthaina Bensalah (Algeria)",
+     "v_gu": "બૌથૈના બેનસલાહ (અલ્જેરિયા)"
+    }
+   ],
+   "points_en": [
+    "She won the final 5‑0.",
+    "Quarter‑final win was also 5‑0 over Mexico.",
+    "She is the second Indian Youth Olympic boxing gold medallist."
+   ],
+   "points_gu": [
+    "તેણે અંતિમ મુકાબલામાં 5‑0થી જીતી.",
+    "ક્વાર્ટરફાઇનલમાં મેક્સિકો સામે 5‑0થી જીતી.",
+    "તે ભારતની બીજી યૂથ ઓલિમ્પિક બોક્સિંગ સ્વર્ણપદધારી છે."
+   ],
+   "context_en": "The Youth Olympic Games are an international multi‑sport event for athletes aged 14‑18, held every four years.",
+   "context_gu": "યૂથ ઓલિમ્પિક ગેમ્સ 14‑18 વર્ષના કિશોરો માટેનું આંતરરાષ્ટ્રીય ક્રીડા સમારોહ છે, જે દરેક ચાર વર્ષમાં થાય છે.",
+   "remember_en": "Gunjan – Haryana – 48 kg gold – Dakar 2026.",
+   "remember_gu": "ગુંજન – હરિયાણા – 48 કિગ્રા સ્વર્ણપદ – દાકાર 2026.",
+   "why_en": "First Indian women’s boxing gold at Youth Olympics, shows rising talent.",
+   "why_gu": "યૂથ ઓલિમ્પિક્સમાં ભારતનું પ્રથમ સ્ત્રી બોક્સિંગ સ્વર્ણપદ, ઉદયમાન પ્રતિભા દર્શાવે છે.",
+   "details_en": "At the 2026 Youth Olympic Games in Dakar, Senegal, Gunjan from Haryana won the women’s 48 kg boxing final, defeating Algeria’s Bouthaina Bensalah 5‑0. Earlier she beat Mexico’s Atena Sofia Juarez Calero 5‑0 in the quarter‑final and Great Britain’s Lily Bassett 4‑1 in the semi‑final. This victory makes her the first Indian woman to win a Youth Olympic boxing gold and the second Indian boxer overall after Lairenlakpam Ambekar Meetei’s men’s 50 kg gold.",
+   "details_gu": "દાકાર, સેનેગલમાં યોજાયેલ 2026 યૂથ ઓલિમ્પિક્સમાં હરિયાણાની ગુંજનએ સ્ત્રી 48 કિગ્રા બોક્સિંગ અંતિમમાં અલ્જેરિયાની બૌથૈના બેનસલાહને 5‑0થી હરાવીને સ્વર્ણપદ જીતી. ક્વાર્ટરફાઇનલમાં મેક્સિકોની એટેના સોફિયા જુઆરેઝ કાલેરો સામે 5‑0 અને સેમિફાઇનલમાં બ્રિટનની લિલી બાસેટને 4‑1થી હરાવી. આથી ગુંજન ભારતની પ્રથમ સ્ત્રી યૂથ ઓલિમ્પિક બોક્સિંગ સ્વર્ણપદધારી અને કુલ બીજી બોક્સિંગ સ્વર્ણપદધારી બની, પહેલા લૈરેનલકપમ એમ્બેકર મીટેઈએ પુરૂષ 50 કિગ્રા સ્વર્ણપદ જીતી હતી.",
+   "mcq": {
+    "q_en": "Who did Gunjan defeat to win the women’s 48 kg boxing gold at the 2026 Youth Olympics?",
+    "q_gu": "ગુંજનએ 2026 યૂથ ઓલિમ્પિક્સમાં સ્ત્રી 48 કિગ્રા બોક્સિંગ સ્વર્ણપદ માટે કયા વિરોધીને હરાવ્યો?",
+    "o_en": [
+     "Bouthaina Bensalah (Algeria)",
+     "Lily Bassett (Great Britain)",
+     "Atena Sofia Juarez Calero (Mexico)",
+     "Kristian Jubani (Ireland)"
+    ],
+    "o_gu": [
+     "બૌથૈના બેનસલાહ (અલ્જેરિયા)",
+     "લિલી બાસેટ (ગ્રેટ બ્રિટન)",
+     "એટેના સોફિયા જુઆરેઝ કાલેરો (મેક્સિકો)",
+     "ક્રિસ્ટિયન જુબાની (આયર્લેન્ડ)"
+    ],
+    "a": 0,
+    "e_en": "Gunjan beat Algeria’s Bouthaina Bensalah 5‑0 in the final.",
+    "e_gu": "ગુંજનએ અંતિમમાં અલ્જેરિયાની બૌથૈના બેનસલાહને 5‑0થી હરાવી."
+   },
+   "id": "ca-gunjan-wins-india-s-first-youth-olympics-women-s-boxing-gold",
+   "source": "https://sportstar.thehindu.com/boxing/gunjan-wins-india-historic-first-women-boxing-gold-youth-olympics-2026-dakar/article71695245.ece",
+   "exam": {
+    "score": 8,
+    "why": "Youth Olympics boxing gold"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/boxing/gunjan-wins-india-historic-first-women-boxing-gold-youth-olympics-2026-dakar/article71695245.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "economy",
    "title_en": "Retail inflation hits 6.1% in October 2026",
    "title_gu": "ઓક્ટોબર 2026માં રિટેલ મહંગાઈ 6.1% સુધી પહોંચી",
@@ -264,6 +535,89 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://propnewstime.com/latestnewsstories/NDAxNDQ=/gujarat-urban-greening-policy-2026-sets-20--green-cover-growth-target-for-169-cities-over-10-years"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat topped economic ranking, central government pressured report",
+   "title_gu": "ગુજરાતે અર્થવ્યવસ્થા રેન્કિંગમાં ટોચ, કેન્દ્રિય સરકારે રિપોર્ટ પર દબાણ",
+   "summary_en": "Gujarat secured the top spot in an economic performance ranking. The central government then asked researchers to get approval before publishing the report.",
+   "summary_gu": "ગુજરાતે અર્થવ્યવસ્થા પ્રદર્શન રેન્કિંગમાં પ્રથમ સ્થાન મેળવ્યું. ત્યારબાદ કેન્દ્રિય સરકારએ રિપોર્ટ પ્રકાશિત કરવા પહેલાં મંજૂરી લેવાની માંગ કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Gujarat state",
+     "v_gu": "ગુજરાત રાજ્ય"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "topped economic performance ranking",
+     "v_gu": "અર્થવ્યવસ્થા પ્રદર્શન રેન્કિંગમાં ટોચ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "during Narendra Modi's chief ministership",
+     "v_gu": "નરેન્દ્ર મોદીના મુખ્યમંત્રિત્વ દરમિયાન"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "researchers asked for Delhi approval",
+     "v_gu": "શોધકર્તાઓને દિલ્હી મંજૂરી લેવાની વિનંતી"
+    }
+   ],
+   "points_en": [
+    "The ranking was prepared by an organisation named after a former prime minister.",
+    "Modi raised the issue at the Kisan Tak Bharat Agriculture Conference 2026.",
+    "The incident shows tension between state and centre over data publication."
+   ],
+   "points_gu": [
+    "રૅન્કિંગ પૂર્વ પ્રધાનમંત્રીએ નામ ધરાવતી સંસ્થા દ્વારા તૈયાર કરવામાં આવી.",
+    "મોદીએ કિસાન તાક ભારત કૃષિ કોન્ફરન્સ 2026માં આ મુદ્દો ઉઠાવ્યો.",
+    "રાજ્ય અને કેન્દ્ર વચ્ચે ડેટા પ્રકાશન સંબંધિત તણાવ દર્શાવે છે."
+   ],
+   "context_en": "Economic performance rankings compare Indian states on growth, investment and employment indicators.",
+   "context_gu": "અર્થવ્યવસ્થા પ્રદર્શન રેન્કિંગો ભારતીય રાજ્યોને વૃદ્ધિ, રોકાણ અને રોજગારી સૂચકો પર તુલના કરે છે.",
+   "remember_en": "Gujarat topped the ranking; Delhi forced approval before publishing.",
+   "remember_gu": "ગુજરાતે રેન્કિંગમાં ટોચ; દિલ્હી મંજૂરી લેવાની માંગ કરી.",
+   "why_en": "Exam may ask about state‑centre conflicts and ranking significance.",
+   "why_gu": "પરીક્ષામાં રાજ્ય‑કેન્દ્ર તણાવ અને રેન્કિંગનું મહત્વ પૂછાઈ શકે.",
+   "details_en": "Gujarat achieved the highest position in an economic performance ranking that was compiled by a research body named after a former prime minister. Prime Minister Narendra Modi said that the central government at the time instructed the researchers not to publish the report without its approval, indicating pressure from Delhi. He recalled this episode at the Kisan Tak Bharat Agriculture Conference 2026 in New Delhi, using it to highlight past interference in state achievements.",
+   "details_gu": "ગુજરાતે પૂર્વ પ્રધાનમંત્રીએ નામ ધરાવતી સંસ્થા દ્વારા તૈયાર કરાયેલ અર્થવ્યવસ્થા પ્રદર્શન રેન્કિંગમાં સર્વોચ્ચ સ્થાન મેળવ્યું. નરેન્દ્ર મોદી જણાવ્યા મુજબ, તે સમયની કેન્દ્ર સરકારએ શોધકર્તાઓને રિપોર્ટ પ્રકાશિત કરવા પહેલાં મંજૂરી લેવાની સૂચના આપી, જે દિલ્હીનું દબાણ દર્શાવે છે. તેમણે આ ઘટના કિસાન તાક ભારત કૃષિ કોન્ફરન્સ 2026માં ન્યૂ દિલ્હી ખાતે ઉલ્લેખી, રાજ્યની સિદ્ધિઓમાં હસ્તક્ષેપને દર્શાવ્યું.",
+   "mcq": {
+    "q_en": "Which state topped the economic performance ranking that Delhi later asked researchers to get approval for?",
+    "q_gu": "કઈ રાજ્યએ તે અર્થવ્યવસ્થા પ્રદર્શન રેન્કિંગમાં ટોચ મેળવ્યો, જેના માટે દિલ્હી દ્વારા મંજૂરી લેવાની વિનંતી કરવામાં આવી?",
+    "o_en": [
+     "Maharashtra",
+     "Gujarat",
+     "Karnataka",
+     "Tamil Nadu"
+    ],
+    "o_gu": [
+     "મહારાષ્ટ્ર",
+     "ગુજરાત",
+     "કારણાટક",
+     "તામિલ નાડુ"
+    ],
+    "a": 1,
+    "e_en": "Gujarat was the state that topped the ranking.",
+    "e_gu": "ગુજરાત એ રાજ્ય હતું જેણે રેન્કિંગમાં ટોચ મેળવી."
+   },
+   "id": "ca-gujarat-topped-economic-ranking-central-government-pressured",
+   "source": "https://www.indiatoday.in/india/story/pm-modi-recalls-gujarats-top-economic-ranking-says-delhi-pressured-researchers-over-report-3037872-2026-11-13",
+   "exam": {
+    "score": 7,
+    "why": "Gujarat ranking could appear in GK"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.indiatoday.in/india/story/pm-modi-recalls-gujarats-top-economic-ranking-says-delhi-pressured-researchers-over-report-3037872-2026-11-13"
     }
    ],
    "by": "groq"
