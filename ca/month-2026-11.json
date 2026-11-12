@@ -10514,6 +10514,280 @@
    ],
    "by": "groq",
    "date": "2026-11-11"
+  },
+  {
+   "category": "economy",
+   "title_en": "Retail inflation hits 6.1% in October 2026",
+   "title_gu": "ઓક્ટોબર 2026માં રિટેલ મહંગાઈ 6.1% સુધી પહોંચી",
+   "summary_en": "Retail inflation rose to 6.1% in October 2026, crossing the Reserve Bank of India's upper limit for the first time in two years.",
+   "summary_gu": "ઓક્ટોબર 2026માં રિટેલ મહંગાઈ 6.1% સુધી વધી, RBIની ઉપરની મર્યાદા બે વર્ષમાં પહેલી વાર પાર કરી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Retail inflation 6.1%",
+     "v_gu": "રિટેલ મહંગાઈ 6.1%"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 2026",
+     "v_gu": "ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "India",
+     "v_gu": "ભારત"
+    },
+    {
+     "k_en": "Target",
+     "k_gu": "લક્ષ્ય",
+     "v_en": "RBI 4% ±2%",
+     "v_gu": "RBI 4% ±2%"
+    },
+    {
+     "k_en": "Previous high",
+     "k_gu": "પહેલાનો ઉચ્ચ",
+     "v_en": "6.2% Oct 2024",
+     "v_gu": "6.2% ઓક્ટોબર 2024"
+    }
+   ],
+   "points_en": [
+    "Food and beverages inflation hit 8.5% – series high.",
+    "Transport inflation rose to 5.8% – series high.",
+    "Restaurant and accommodation services inflation reached 10.1% – first double‑digit."
+   ],
+   "points_gu": [
+    "ખોરાક અને પીણાંની મહંગાઈ 8.5% સુધી – શ્રેણીનું ઉચ્ચતમ.",
+    "પરિવહન મહંગાઈ 5.8% સુધી – શ્રેણીનું ઉચ્ચતમ.",
+    "રેસ્ટોરન્ટ અને રહેઠાણ સેવાઓની મહંગાઈ 10.1% – પ્રથમ દ્વિઅંક."
+   ],
+   "context_en": "The Reserve Bank of India (RBI) sets a 4% inflation target with a 2% tolerance band.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) 4% મહંગાઈ લક્ષ્ય 2% સહનશીલતા સાથે નક્કી કરે છે.",
+   "remember_en": "Retail inflation 6.1% in Oct 2026 crossed RBI’s upper band.",
+   "remember_gu": "ઓક્ટોબર 2026માં રિટેલ મહંગાઈ 6.1% RBIની ઉપરની મર્યાદા પાર કરી.",
+   "why_en": "Shows pressure on prices and likely further RBI rate hikes.",
+   "why_gu": "મૂલ્યોમાં દબાણ અને RBIની વધુ વ્યાજદર વધારાની શક્યતા દર્શાવે છે.",
+   "details_en": "In October 2026, India's retail inflation rose to 6.1%, exceeding the Reserve Bank of India's (RBI) upper tolerance of 6%. The increase was driven mainly by food and fuel price rises, with food and beverages inflation hitting a series high of 8.5% and transport inflation reaching 5.8%. Restaurant and accommodation services inflation jumped to 10.1%, the first double‑digit reading in the new CPI series. Economists say the higher inflation makes it harder for the Monetary Policy Committee to keep rates unchanged, increasing the chance of another 25‑basis‑point hike.",
+   "details_gu": "ઓક્ટોબર 2026માં, ભારતની રિટેલ મહંગાઈ 6.1% સુધી વધી, જે રિઝર્વ બેંક ઓફ ઈન્ડિયાની (RBI) ઉપરની સહનશીલતા 6%ને પાર કરે છે. આ વધારો મુખ્યત્વે ખોરાક અને ઇંધણની કિંમતોમાં વૃદ્ધિથી થયો, જેમાં ખોરાક અને પીણાંની મહંગાઈ 8.5% સુધી પહોંચી અને પરિવહન મહંગાઈ 5.8% સુધી પહોંચી. રેસ્ટોરન્ટ અને રહેઠાણ સેવાઓની મહંગાઈ 10.1% સુધી વધીને નવી CPI શ્રેણીમાં પ્રથમ દ્વિઅંક વાંચન બની. અર્થશાસ્ત્રીઓ કહે છે કે ઊંચી મહંગાઈ મોનિટરી પોલિસી કમિટી માટે દરો અચળ રાખવું મુશ્કેલ બનાવે છે, જેથી વધુ 25 બેઝિસ પોઇન્ટ વધારાની શક્યતા વધે છે.",
+   "mcq": {
+    "q_en": "What was the retail inflation rate in India in October 2026?",
+    "q_gu": "ઓક્ટોબર 2026માં ભારતની રિટેલ મહંગાઈનું દર શું હતું?",
+    "o_en": [
+     "5.5%",
+     "6.1%",
+     "6.5%",
+     "7.0%"
+    ],
+    "o_gu": [
+     "5.5%",
+     "6.1%",
+     "6.5%",
+     "7.0%"
+    ],
+    "a": 1,
+    "e_en": "Retail inflation was reported at 6.1% in October 2026.",
+    "e_gu": "ઓક્ટોબર 2026માં રિટેલ મહંગાઈ 6.1% હતી."
+   },
+   "id": "ca-retail-inflation-hits-6-1-in-october-2026",
+   "source": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
+   "exam": {
+    "score": 7,
+    "why": "inflation breach may appear in GK"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (Economy)",
+     "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-12"
+  },
+  {
+   "category": "economy",
+   "title_en": "Banks raise fixed deposit rates after RBI's October repo hike",
+   "title_gu": "RBI ના ઓક્ટોબર રેપો હાઇક પછી બેંકોમાં ફિક્સ્ડ ડિપોઝિટ દરો વધ્યા",
+   "summary_en": "Major banks lifted fixed‑deposit rates on some tenures after the Reserve Bank of India raised the repo rate by 25 basis points in October. Lending rates have also started to rise.",
+   "summary_gu": "મુખ્ય બેંકોમાં RBI દ્વારા ઓક્ટોબરમાં 25 બેઝિસ પોઇન્ટ રેપો દર વધાર્યા પછી કેટલીક મુદતનાં ફિક્સ્ડ ડિપોઝિટ દરો વધ્યા. લોનનાં દરો પણ ધીમે ધીમે વધવા લાગ્યા.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Reserve Bank of India",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "25‑basis‑point repo rate hike",
+     "v_gu": "25 બેઝિસ પોઇન્ટ રેપો દર વધારો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "October 2023",
+     "v_gu": "ઓક્ટોબર 2023"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Fixed deposit rates increased",
+     "v_gu": "ફિક્સ્ડ ડિપોઝિટ દરો વધ્યા"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Lending rates inch up",
+     "v_gu": "લોનનાં દરો ધીમે વધ્યા"
+    }
+   ],
+   "points_en": [
+    "Banks raised rates on select tenures only.",
+    "MCLR (Marginal Cost of Funds based Lending Rate) also rose.",
+    "Higher deposit rates aim to attract more savings."
+   ],
+   "points_gu": [
+    "બેંકોમાં પસંદગીની મુદતો માટે જ દરો વધ્યા.",
+    "MCLR (માર્જિનલ કૉસ્ટ ઓફ ફંડ્સ આધારિત લેણી દર) પણ વધ્યો.",
+    "વધુ ડિપોઝિટ દરો બચત આકર્ષવા માટે."
+   ],
+   "context_en": "The Reserve Bank of India is India's central bank; repo rate is its key policy rate.",
+   "context_gu": "રિઝર્વ બેંક ઓફ ઈન્ડિયા ભારતનું કેન્દ્રિય બેંક છે; રેપો દર તેની મુખ્ય નીતિ દર છે.",
+   "remember_en": "RBI Oct 2023 repo hike = 25 bps, banks raise FD rates.",
+   "remember_gu": "RBI ઓક્ટોબર 2023 રેપો હાઇક = 25 બેઝિસ પોઇન્ટ, બેંકો FD દરો વધાર્યા.",
+   "why_en": "Exam may ask about impact of RBI policy on bank deposit and lending rates.",
+   "why_gu": "પરીક્ષામાં RBI નીતિનો બેંક ડિપોઝિટ અને લોન દરો પર પડતો પ્રભાવ પૂછાઈ શકે.",
+   "details_en": "In October 2023 the Reserve Bank of India increased its repo rate by 25 basis points. Following this, major lenders such as State Bank of India and private banks lifted fixed‑deposit rates on selected tenures to stay competitive. At the same time, the Marginal Cost of Funds based Lending Rate (MCLR) showed a modest rise, indicating that borrowing costs for customers are beginning to climb. These moves reflect banks' response to higher policy rates and aim to balance deposit inflows with loan pricing.",
+   "details_gu": "ઓક્ટોબર 2023 માં રિઝર્વ બેંક ઓફ ઈન્ડિયાએ રેપો દરમાં 25 બેઝિસ પોઇન્ટ વધારો કર્યો. ત્યારબાદ સ્ટેટ બેંક ઓફ ઈન્ડિયા અને ખાનગી બેંકો જેવા મુખ્ય બેંકોમાં પસંદગીની મુદતો માટે ફિક્સ્ડ ડિપોઝિટ દરો વધાર્યા, જેથી સ્પર્ધાત્મકતા જળવાઈ રહે. સાથે સાથે MCLR (માર્જિનલ કૉસ્ટ ઓફ ફંડ્સ આધારિત લેણી દર)માં પણ નાનો વધારો જોવા મળ્યો, જે ગ્રાહકો માટે લોન ખર્ચમાં ધીમો વધારો દર્શાવે છે. આ પગલાં RBI ની નીતિમાં થયેલા બદલાવને પ્રતિસાદ રૂપે લેવાયા છે, જેથી ડિપોઝિટ આવક અને લોનની કિંમતોનું સંતુલન જળવાઈ રહે.",
+   "mcq": {
+    "q_en": "What was the size of the RBI repo rate increase in October 2023?",
+    "q_gu": "ઓક્ટોબર 2023 માં RBI ના રેપો દરમાં કેટલો વધારો થયો?",
+    "o_en": [
+     "10 basis points",
+     "15 basis points",
+     "25 basis points",
+     "50 basis points"
+    ],
+    "o_gu": [
+     "10 બેઝિસ પોઇન્ટ",
+     "15 બેઝિસ પોઇન્ટ",
+     "25 બેઝિસ પોઇન્ટ",
+     "50 બેઝિસ પોઇન્ટ"
+    ],
+    "a": 2,
+    "e_en": "The RBI raised the repo rate by 25 basis points.",
+    "e_gu": "RBI એ રેપો દરમાં 25 બેઝિસ પોઇન્ટ વધારો કર્યો."
+   },
+   "id": "ca-banks-raise-fixed-deposit-rates-after-rbi-s-october-repo-hik",
+   "source": "https://www.business-standard.com/industry/banking/banks-raise-deposit-rates-after-rbi-s-oct-repo-hike-lending-rates-inch-up-126111201311_1.html",
+   "exam": {
+    "score": 7,
+    "why": "banks raise rates after RBI repo hike"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/industry/banking/banks-raise-deposit-rates-after-rbi-s-oct-repo-hike-lending-rates-inch-up-126111201311_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-12"
+  },
+  {
+   "category": "sports",
+   "title_en": "Vivaan Kapoor wins silver and Olympic quota at World Shooting Championships",
+   "title_gu": "વિવાન કપૂરએ વિશ્વ શૂટિંગ ચેમ્પિયનશિપમાં ચાંદીનું પદક અને ઓલિમ્પિક ક્વોટા જીતી",
+   "summary_en": "Vivaan Kapoor secured silver in the men's trap at the ISSF World Championships in Doha and earned a quota place for Los Angeles 2028.",
+   "summary_gu": "વિવાન કપૂરે દુહામાં આયોજિત ISSF વિશ્વ શૂટિંગ ચેમ્પિયનશિપમાં પુરૂષ ટ્રેપમાં ચાંદીનું પદક જીતી અને લોસ એન્જેલસ 2028 ઓલિમ્પિક માટે ક્વોટા મેળવ્યો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Vivaan Kapoor",
+     "v_gu": "વિવાન કપૂર"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Silver medal in men's trap",
+     "v_gu": "પુરૂષ ટ્રેપમાં ચાંદીનું પદક"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Doha, Qatar",
+     "v_gu": "દુહા, કતાર"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Thursday, 2026",
+     "v_gu": "ગુરુવાર, 2026"
+    },
+    {
+     "k_en": "Quota",
+     "k_gu": "ક્વોટા",
+     "v_en": "Los Angeles 2028 Olympics",
+     "v_gu": "લોસ એન્જેલસ 2028 ઓલિમ્પિક"
+    }
+   ],
+   "points_en": [
+    "He scored 29 out of 30 in the final.",
+    "He lost the gold shoot‑off to Abdulrahman Alfaihan of Kuwait.",
+    "India's fourth men’s trap medal at World Championships."
+   ],
+   "points_gu": [
+    "તે અંતિમમાં 30 માંથી 29 હિટ કર્યા.",
+    "તે કુવૈતના અબ્દુલરહમન અલ્ફૈહાન સામે ગોલ્ડ શૂટ‑ઓફમાં હારી ગયો.",
+    "વિશ્વ ચેમ્પિયનશિપમાં ભારતનું ચોથી પુરૂષ ટ્રેપ પદક."
+   ],
+   "context_en": "The International Shooting Sport Federation (ISSF) organizes the World Championships; the event was held at Lusail Shooting Complex, Doha.",
+   "context_gu": "ઇન્ટરનેશનલ શૂટિંગ સ્પોર્ટ્સ ફેડરેશન (ISSF) વિશ્વ ચેમ્પિયનશિપનું આયોજન કરે છે; આ ઇવેન્ટ લુસૈલ શૂટિંગ કોમ્પ્લેક્સ, દુહામાં યોજાઈ.",
+   "remember_en": "Vivaan Kapoor – silver, Doha, 2026, LA 2028 quota.",
+   "remember_gu": "વિવાન કપૂર – ચાંદી, દુહા, 2026, LA 2028 ક્વોટા.",
+   "why_en": "Shows India's rising strength in trap shooting and secures an Olympic spot.",
+   "why_gu": "ભારતની ટ્રેપ શૂટિંગની શક્તિ દર્શાવે છે અને ઓલિમ્પિક સીટ સુરક્ષિત કરે છે.",
+   "details_en": "At the 2026 ISSF World Championships in Doha, 24‑year‑old Vivaan Kapoor hit 29 of 30 targets in the men's trap final, earning silver after a shoot‑off loss to Kuwait's Abdulrahman Alfaihan. His performance secured a quota place for India at the Los Angeles 2028 Olympic Games. This marks India's fourth men’s trap medal at a World Championship, highlighting the country's growing presence in the sport.",
+   "details_gu": "2026 ISSF વિશ્વ ચેમ્પિયનશિપમાં દુહામાં 24 વર્ષીય વિવાન કપૂરે પુરૂષ ટ્રેપ અંતિમમાં 30 માંથી 29 હિટ કરીને કુવૈતના અબ્દુલરહમન અલ્ફૈહાન સામે શૂટ‑ઓફમાં હારીને ચાંદીનું પદક જીતી. આ સફળતા દ્વારા તેણે લોસ એન્જેલસ 2028 ઓલિમ્પિક માટે ભારતનું ક્વોટા મેળવ્યું. આ ભારતનું પુરૂષ ટ્રેપમાં ચોથી વિશ્વ ચેમ્પિયનશિપ પદક છે, જે રમતમાં દેશની વધતી શક્તિ દર્શાવે છે.",
+   "mcq": {
+    "q_en": "Which Indian shooter won silver and secured a Los Angeles 2028 Olympic quota at the 2026 World Championships?",
+    "q_gu": "કયા ભારતીય શૂટરે 2026 વિશ્વ ચેમ્પિયનશિપમાં ચાંદીનું પદક જીતી અને લોસ એન્જેલસ 2028 ઓલિમ્પિક ક્વોટા મેળવ્યો?",
+    "o_en": [
+     "Udaivir Singh Jaijee",
+     "Vivaan Kapoor",
+     "Manavjeet Singh Sandhu",
+     "Karni Singh"
+    ],
+    "o_gu": [
+     "ઉદૈવિર સિંહ જૈજી",
+     "વિવાન કપૂર",
+     "મનવજીત સિંહ સાનધુ",
+     "કાર્ની સિંહ"
+    ],
+    "a": 1,
+    "e_en": "Vivaan Kapoor won silver and the quota.",
+    "e_gu": "વિવાન કપૂરે ચાંદીનું પદક અને ક્વોટા મેળવ્યો."
+   },
+   "id": "ca-vivaan-kapoor-wins-silver-and-olympic-quota-at-world-shootin",
+   "source": "https://sportstar.thehindu.com/shooting/vivaan-kapoor-silver-shooting-world-championships-la2028-olympics-quota/article71693781.ece",
+   "exam": {
+    "score": 6,
+    "why": "Olympic quota achievement"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/shooting/vivaan-kapoor-silver-shooting-world-championships-la2028-olympics-quota/article71693781.ece"
+    },
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/shooting/issf-world-championship-2026-shooting-live-score-mens-trap-final-updates-highlights-commentary-vivaan-udaivir/article71693519.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-12"
   }
  ]
 }
