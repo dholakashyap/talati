@@ -445,6 +445,95 @@
    "by": "groq"
   },
   {
+   "category": "schemes",
+   "title_en": "Gujarat to give financial aid and subsidies to MSMEs under 2026 policy",
+   "title_gu": "વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026 હેઠળ MSME ને નાણાકીય સહાય અને સબસિડી",
+   "summary_en": "The Gujarat government will provide attractive financial assistance and subsidies to develop the MSME sector under the Developed Gujarat Industrial Policy 2026.",
+   "summary_gu": "ગુજરાત સરકાર વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026 હેઠળ MSME ક્ષેત્રના વિકાસ માટે નાણાકીય સહાય અને સબસિડી આપશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "financial assistance and subsidies",
+     "v_gu": "નાણાકીય સહાય અને સબસિડી"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Government of Gujarat",
+     "v_gu": "ગુજરાત સરકાર"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat state",
+     "v_gu": "ગુજરાત રાજ્ય"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "2026 (policy year)",
+     "v_gu": "2026 (નીતિ વર્ષ)"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Developed Gujarat Industrial Policy 2026",
+     "v_gu": "વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026"
+    }
+   ],
+   "points_en": [
+    "Aid aims to boost MSME growth and employment.",
+    "Subsidies will lower cost of technology adoption.",
+    "Policy targets small and medium enterprises across Gujarat."
+   ],
+   "points_gu": [
+    "સહાય MSME વૃદ્ધિ અને રોજગારી વધારશે.",
+    "સબસિડી ટેકનોલોજી અપનાવાની કિંમત ઘટાડીશે.",
+    "નિતિ સમગ્ર ગુજરાતમાં નાના‑મધ્યમ ઉદ્યોગો માટે છે."
+   ],
+   "context_en": "The Gujarat Industrial Policy outlines measures to promote industry and investment in the state.",
+   "context_gu": "ગુજરાત ઔદ્યોગિક નીતિ રાજ્યમાં ઉદ્યોગ અને રોકાણને પ્રોત્સાહિત કરવા માટેની યોજનાઓ દર્શાવે છે.",
+   "remember_en": "Gujarat 2026 policy gives MSMEs financial aid and subsidies.",
+   "remember_gu": "ગુજરાત 2026 નીતિ MSME ને નાણાકીય સહાય અને સબસિડી આપે છે.",
+   "why_en": "Exam may ask about new support schemes for MSMEs in Gujarat.",
+   "why_gu": "પરીક્ષામાં Gujarat માં MSME માટે的新 સહાય યોજનાઓ પૂછાઈ શકે છે.",
+   "details_en": "On 13 November 2026, Morbi Update reported that the Gujarat government, under the Developed Gujarat Industrial Policy 2026, will provide attractive financial assistance and subsidies to the MSME sector. The aim is to develop small and medium enterprises, improve their competitiveness, and create more jobs. No specific amounts or eligibility criteria were given in the report.",
+   "details_gu": "13 નવેમ્બર 2026 ના રોજ મોરબી અપડેટે જાણ કરી કે વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026 હેઠળ ગુજરાત સરકાર MSME ક્ષેત્રને આકર્ષક નાણાકીય સહાય અને સબસિડી આપશે. આથી નાના‑મધ્યમ ઉદ્યોગોનું વિકાસ, સ્પર્ધાત્મકતા વધશે અને રોજગારી સર્જાશે. રિપોર્ટમાં કોઈ ખાસ રકમ અથવા માપદંડો જણાવવામાં આવ્યા નથી.",
+   "mcq": {
+    "q_en": "Under which policy will Gujarat provide financial assistance to MSMEs in 2026?",
+    "q_gu": "2026 માં Gujarat કઈ નીતિ હેઠળ MSME ને નાણાકીય સહાય આપશે?",
+    "o_en": [
+     "Gujarat Rural Development Policy",
+     "Developed Gujarat Industrial Policy 2026",
+     "National MSME Scheme",
+     "Gujarat Tourism Policy"
+    ],
+    "o_gu": [
+     "ગુજરાત ગ્રામ વિકાસ નીતિ",
+     "વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026",
+     "રાષ્ટ્રીય MSME યોજના",
+     "ગુજરાત પ્રવાસન નીતિ"
+    ],
+    "a": 1,
+    "e_en": "The report states the aid is under the Developed Gujarat Industrial Policy 2026.",
+    "e_gu": "રિપોર્ટમાં જણાવાયું છે કે સહાય વિકસિત ગુજરાત ઔદ્યોગિક નીતિ‑2026 હેઠળ છે."
+   },
+   "id": "ca-gujarat-to-give-financial-aid-and-subsidies-to-msmes-under-2",
+   "source": "https://morbiupdate.com/2026/11/13/under-the-developed-gujarat-industrial-policy-2026-the-government-will-provide-attractive-financial-assistance-and-subsidies-for-the-development-of-the-msme-sector",
+   "exam": {
+    "score": 7,
+    "why": "Gujarat industrial policy MSME incentives"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://morbiupdate.com/2026/11/13/under-the-developed-gujarat-industrial-policy-2026-the-government-will-provide-attractive-financial-assistance-and-subsidies-for-the-development-of-the-msme-sector"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "national",
    "title_en": "India cuts TB deaths by 38% and reaches 94% cure rate",
    "title_gu": "ભારતમાં ટીબી મૃત્યુમાં ૩૮% ઘટાડો, ૯૪% ઉપચાર સફળતા",
