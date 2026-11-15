@@ -91,6 +91,95 @@
    "by": "groq"
   },
   {
+   "category": "economy",
+   "title_en": "India to get preferential US market access for its goods",
+   "title_gu": "ભારતને અમેરિકાના બજારમાં પ્રાથમિક ઍક્સેસ મળશે",
+   "summary_en": "Union Commerce and Industry Minister Piyush Goyal said India and the US have agreed that Indian products will enjoy lower US duties than many rivals.",
+   "summary_gu": "યુનિયન વેપાર અને ઉદ્યોગ મંત્રી પિયુષ ગોયલએ કહ્યું કે ભારત અને અમેરિકા વચ્ચે ભારતીય માલ માટે ઓછા શુલ્કોનું સમજૂતી થઈ છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Piyush Goyal",
+     "v_gu": "પિયુષ ગોયલ"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Union Commerce and Industry Minister",
+     "v_gu": "યુનિયન વેપાર અને ઉદ્યોગ મંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Preferential market access for Indian goods in the US",
+     "v_gu": "ભારતીય માલ માટે અમેરિકામાં પ્રાથમિક બજાર ઍક્સેસ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "15 November 2026",
+     "v_gu": "15 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "United States",
+     "v_gu": "અમેરિકા"
+    }
+   ],
+   "points_en": [
+    "The agreement is part of the first phase of a bilateral trade deal.",
+    "It was first framed in February 2026.",
+    "The US will give Indian goods lower duties than many competitor countries."
+   ],
+   "points_gu": [
+    "આ કરાર દ્વિપક્ષીય વેપાર કરારના પ્રથમ તબક્કાનો ભાગ છે.",
+    "આનું પ્રાથમિક માળખું ફેબ્રુઆરી 2026માં તૈયાર થયું હતું.",
+    "અમેરિકા ભારતીય માલ પર ઘણા સ્પર્ધકો કરતાં ઓછા શુલ્ક લાદશે."
+   ],
+   "context_en": "The Union Commerce and Industry Ministry handles trade policy; the bilateral trade agreement aims to boost India‑US commerce.",
+   "context_gu": "યુનિયન વેપાર અને ઉદ્યોગ મંત્રાલય વેપાર નીતિનું સંચાલન કરે છે; દ્વિપક્ષીય વેપાર કરાર ભારત‑અમેરિકા વેપારને વધારવાનો હેતુ ધરાવે છે.",
+   "remember_en": "Piyush Goyal announced preferential US access on 15 Nov 2026.",
+   "remember_gu": "પિયુષ ગોયલએ 15 નવેમ્બર 2026ને પ્રાથમિક US ઍક્સેસની જાહેરાત કરી.",
+   "why_en": "Exam may ask about trade benefits and the minister responsible.",
+   "why_gu": "પરીક્ષામાં વેપાર લાભો અને જવાબદાર મંત્રી વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 15 November 2026 Union Commerce and Industry Minister Piyush Goyal said India and the United States have agreed that Indian goods will receive preferential market access in the US, meaning lower duties than many competing nations. The agreement follows a framework finalized in February 2026 for the first phase of a bilateral trade agreement. The US is using new tariff mechanisms after court changes, aiming to conclude the first tranche by the end of the current financial year.",
+   "details_gu": "15 નવેમ્બર 2026એ યુનિયન વેપાર અને ઉદ્યોગ મંત્રી પિયુષ ગોયલએ કહ્યું કે ભારત અને અમેરિકા વચ્ચે ભારતીય માલ માટે પ્રાથમિક બજાર ઍક્સેસની સમજૂતી થઈ છે, એટલે કે ઘણા સ્પર્ધકો કરતાં ઓછા શુલ્ક. આ સમજૂતી ફેબ્રુઆરી 2026માં તૈયાર થયેલ દ્વિપક્ષીય વેપાર કરારના પ્રથમ તબક્કા પછી છે. અદાલતી ફેરફારો પછી યુ.એસ. નવા શુલ્ક માળખાનો ઉપયોગ કરે છે અને આ વર્ષના અંત સુધી પ્રથમ ટ્રાંચ પૂર્ણ કરવાનો પ્રયાસ કરે છે.",
+   "mcq": {
+    "q_en": "Who announced that Indian goods will get preferential market access in the United States?",
+    "q_gu": "કેવી વ્યક્તિએ કહ્યું કે ભારતીય માલને અમેરિકામાં પ્રાથમિક બજાર ઍક્સેસ મળશે?",
+    "o_en": [
+     "Narendra Modi",
+     "Piyush Goyal",
+     "Amit Shah",
+     "Rajnath Singh"
+    ],
+    "o_gu": [
+     "નરેન્દ્ર મોદી",
+     "પિયુષ ગોયલ",
+     "અમિત શાહ",
+     "રાજનાથ સિંહ"
+    ],
+    "a": 1,
+    "e_en": "Union Commerce and Industry Minister Piyush Goyal made the statement.",
+    "e_gu": "યુનિયન વેપાર અને ઉદ્યોગ મંત્રી પિયુષ ગોયલએ આ નિવેદન આપ્યું."
+   },
+   "id": "ca-india-to-get-preferential-us-market-access-for-its-goods",
+   "source": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece",
+   "exam": {
+    "score": 7,
+    "why": "India‑US preferential market access agreement"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/india-us-agreed-on-preferential-market-access-for-indian-goods-in-america-goyal/article71705526.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "international",
    "title_en": "India's Trade Minister Piyush Goyal visits Cairo to boost ties",
    "title_gu": "ભારતના વેપાર મંત્રી પિયુષ ગોયલ કાહિરા મુલાકાતે સંબંધો મજબૂત કરે",
@@ -353,6 +442,95 @@
     {
      "name": "PIB, Government of India",
      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336552"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "days",
+   "title_en": "Prime Minister Modi marks 151st Birsa Munda birth anniversary",
+   "title_gu": "પ્રધાનમંત્રી મોદીએ બિરસા મુન્દાનો 151મો જન્મદિવસ ઉજવ્યો",
+   "summary_en": "Modi, via video link, observed Janjatiya Gaurav Diwas on 15 Nov 2026, highlighting tribal development projects.",
+   "summary_gu": "મોદી, વિડિયો કૉન્ફરન્સ દ્વારા, 15 નવેમ્બર 2026 ના જનજાતિ ગૌરવ દિવસમાં tribal વિકાસ પ્રોજેક્ટ્સની જાણ કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Prime Minister Narendra Modi",
+     "v_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "15 November 2026",
+     "v_gu": "15 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "151st birth anniversary of Birsa Munda",
+     "v_gu": "બિરસા મુન્દાનો 151મો જન્મદિવસ"
+    },
+    {
+     "k_en": "Projects",
+     "k_gu": "પ્રોજેક્ટ્સ",
+     "v_en": ">170 tribal projects inaugurated, foundations for >70 projects worth ₹30,000 crore",
+     "v_gu": "170થી વધુ tribal પ્રોજેક્ટ્સનું ઉદ્ઘાટન, 70થી વધુ પ્રોજેક્ટ્સની પાયા, કુલ મૂલ્ય ₹30,000 કરોડ"
+    },
+    {
+     "k_en": "Scheme Funding",
+     "k_gu": "યોજનાનો નાણાં",
+     "v_en": ">₹1 lakh crore allocated for PM‑JANMAN and Dharti Aaba Janjatiya Gram Utkarsh Abhiyan",
+     "v_gu": "PM‑JANMAN અને ધરતી આબા જનજાતિ ગ્રામ ઉત્કર્ષ અભિયાન માટે ₹1 લાખ કરોડથી વધુ ફાળવવામાં આવ્યા"
+    }
+   ],
+   "points_en": [
+    "Modi addressed the programme from New Delhi.",
+    "He said tribal families now have electricity in 18,000 villages.",
+    "More than 1.75 lakh Ayushman Arogya Mandirs serve remote tribal areas."
+   ],
+   "points_gu": [
+    "મોદી ન્યૂ દિલ્હીથી કાર્યક્રમમાં ભાગ લીધો.",
+    "ત્રાજી પરિવારોએ 18,000 ગામોમાં વીજળી મેળવી.",
+    "1.75 લાખથી વધુ આયુષ્માન આરોગ્ય મંડિર દૂરના tribal વિસ્તારોમાં સેવા આપે છે."
+   ],
+   "context_en": "Janjatiya Gaurav Diwas is observed annually since 2021 to honour tribal heroes like Birsa Munda.",
+   "context_gu": "જન્મજાતિ ગૌરવ દિવસ 2021થી દર વર્ષે બિરસા મુન્દા જેવા tribal નાયકોને સન્માન આપવા માટે ઉજવાય છે.",
+   "remember_en": "151st birth anniversary of Birsa Munda, 15 Nov 2026.",
+   "remember_gu": "બિરસા મુન્દાનો 151મો જન્મદિવસ, 15 નવેમ્બર 2026.",
+   "why_en": "Exam may ask dates, person, and tribal development schemes linked to the day.",
+   "why_gu": "પરીક્ષામાં તારીખ, વ્યક્તિ અને tribal વિકાસ યોજનાઓ સંબંધિત પ્રશ્નો આવી શકે છે.",
+   "details_en": "On 15 Nov 2026, Prime Minister Narendra Modi joined a video‑conference from New Delhi to celebrate Janjatiya Gaurav Diwas, marking the 151st birth anniversary of tribal freedom fighter Birsa Munda. He highlighted that the central government has allocated over ₹1 lakh crore for the PM‑JANMAN scheme and the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan to boost tribal development. On the day, more than 170 tribal projects were inaugurated and foundations laid for over 70 projects worth about ₹30,000 crore, covering schools, health centres and market hubs. Modi also noted that electricity now reaches 18,000 previously unelectrified villages and that 1.75 lakh Ayushman Arogya Mandirs provide health services in remote tribal areas.",
+   "details_gu": "15 નવેમ્બર 2026 ના રોજ, પ્રધાનમંત્રી નરેન્દ્ર મોદી ન્યૂ દિલ્હીથી વિડિયો કૉન્ફરન્સ દ્વારા જનજાતિ ગૌરવ દિવસમાં ભાગ લીધો, જે tribal સ્વતંત્રતા નાયક બિરસા મુન્દાના 151મા જન્મદિવસને દર્શાવે છે. તેમણે જણાવ્યું કે કેન્દ્રિય સરકારએ PM‑JANMAN યોજના અને ધરતી આબા જનજાતિ ગ્રામ ઉત્કર્ષ અભિયાન માટે ₹1 લાખ કરોડથી વધુ ફાળવ્યા છે, tribal વિકાસને તેજ કરવા માટે. આ દિવસે 170થી વધુ tribal પ્રોજેક્ટ્સનું ઉદ્ઘાટન થયું અને 70થી વધુ પ્રોજેક્ટ્સની પાયા મૂકી, કુલ મૂલ્ય લગભગ ₹30,000 કરોડ, જેમાં શાળા, આરોગ્ય કેન્દ્ર અને માર્કેટ હબ સામેલ છે. મોદીએ જણાવ્યું કે 18,000 ગામોમાં વીજળી પહોંચે છે અને 1.75 લાખ આયુષ્માન આરોગ્ય મંડિર દૂરના tribal વિસ્તારોમાં આરોગ્ય સેવા આપે છે.",
+   "mcq": {
+    "q_en": "Which tribal leader's 151st birth anniversary was observed on 15 Nov 2026?",
+    "q_gu": "કયા tribal નાયકનો 151મો જન્મદિવસ 15 નવેમ્બર 2026 ના રોજ ઉજવાયો?",
+    "o_en": [
+     "Birsa Munda",
+     "Rani Gaidinliu",
+     "Alluri Sitarama Raju",
+     "Sidho-Kanho"
+    ],
+    "o_gu": [
+     "બિરસા મુન્દા",
+     "રાણી ગૈદિનલિયુ",
+     "અલુરી સિતારામ રાજુ",
+     "સિધો-ખાનો"
+    ],
+    "a": 0,
+    "e_en": "The programme marked the 151st birth anniversary of Birsa Munda.",
+    "e_gu": "કાર્યક્રમમાં બિરસા મુન્દાનો 151મો જન્મદિવસ ઉજવાયો હતો."
+   },
+   "id": "ca-prime-minister-modi-marks-151st-birsa-munda-birth-anniversar",
+   "source": "https://www.thehindu.com/news/national/tribals-suffered-most-due-to-maoist-violence-even-denied-right-to-vote-pm-modi-birsa-munda-birth-anniversary/article71704678.ece",
+   "exam": {
+    "score": 6,
+    "why": "World Bank poverty‑escape figures cited by PM"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/tribals-suffered-most-due-to-maoist-violence-even-denied-right-to-vote-pm-modi-birsa-munda-birth-anniversary/article71704678.ece"
     }
    ],
    "by": "groq"
