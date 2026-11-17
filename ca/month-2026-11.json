@@ -15296,6 +15296,186 @@
    "date": "2026-11-16"
   },
   {
+   "category": "schemes",
+   "title_en": "Gujarat drafts AI‑based cyber defence policy",
+   "title_gu": "ગુજરાતે એ.આઈ. આધારિત સાયબર સુરક્ષા નીતિ તૈયાર કરી",
+   "summary_en": "The Gujarat government is drafting a cybersecurity policy that will use AI and 24‑hour monitoring to protect digital services.",
+   "summary_gu": "ગુજરાત સરકાર એ.આઈ. અને 24‑કલાક મોનિટરિંગથી ડિજિટલ સેવાઓની સુરક્ષા માટે નીતિ તૈયાર કરી રહી છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Department of Science and Technology, Gujarat",
+     "v_gu": "ગુજરાતનું વિજ્ઞાન અને ટેકનોલોજી વિભાગ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Cyber Security Incident Response Team‑Gujarat (CSIRT‑G)",
+     "v_gu": "સાઇબર સુરક્ષા ઘટના પ્રતિસાદ ટીમ‑ગુજરાત (CSIRT‑G)"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Gujarat Security Operations Centre (GSOC)",
+     "v_gu": "ગુજરાત સિક્યુરિટી ઓપરેશન્સ સેન્ટર (GSOC)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Draft to be announced in coming weeks",
+     "v_gu": "મસલાઓમાં આવનારા અઠવાડિયામાં જાહેર થશે"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Chief Information Security Officer (CISO) in each department",
+     "v_gu": "દરેક વિભાગમાં ચીફ ઇન્ફોર્મેશન સિક્યુરિટી ઓફિસર (CISO)"
+    }
+   ],
+   "points_en": [
+    "AI will help spot cyber attacks early.",
+    "GSOC will monitor threats 24 × 7.",
+    "CSIRT‑G will handle incidents across the state."
+   ],
+   "points_gu": [
+    "એ.આઈ. સાયબર હુમલાઓને વહેલાં શોધશે.",
+    "GSOC 24 × 7 ધમકીઓનું નિરીક્ષણ કરશે.",
+    "CSIRT‑G રાજ્યભરના ઘટનાઓનું નિરાકરણ કરશે."
+   ],
+   "context_en": "The Directorate of ICT and e‑Governance runs a Security Operations Centre since May 2022.",
+   "context_gu": "ડિરેક્ટોરેટ ઓફ ICT અને ઇ‑ગવર્નન્સ મે 2022 થી સિક્યુરિટી ઓપરેશન્સ સેન્ટર ચલાવે છે.",
+   "remember_en": "Gujarat plans AI‑driven cyber defence with CSIRT‑G and GSOC.",
+   "remember_gu": "ગુજરાત એ.આઈ. આધારિત સાયબર સુરક્ષા CSIRT‑G અને GSOC સાથે તૈયાર કરે છે.",
+   "why_en": "Exam may ask about new cyber‑security structures and AI use in Gujarat.",
+   "why_gu": "પરીક્ષામાં ગુજરાતની નવી સાયબર સુરક્ષા રચનાઓ અને એ.આઈ. ઉપયોગ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "Gujarat's Department of Science and Technology is drafting a comprehensive cybersecurity policy. The draft proposes a Cyber Security Incident Response Team‑Gujarat (CSIRT‑G) to handle incidents and a Gujarat Security Operations Centre (GSOC) for round‑the‑clock monitoring. Artificial intelligence will be used to detect potential attacks, and each government department will appoint a Chief Information Security Officer. The policy also aims to boost local cybersecurity research and support startups under the state's IT/ITeS policy. The draft is expected to be announced in the next few weeks.",
+   "details_gu": "ગુજરાતનું વિજ્ઞાન અને ટેકનોલોજી વિભાગ વ્યાપક સાયબર સુરક્ષા નીતિ તૈયાર કરી રહ્યું છે. નીતિમાં સાયબર સુરક્ષા ઘટના પ્રતિસાદ ટીમ‑ગુજરાત (CSIRT‑G) અને 24 કલાક મોનિટરિંગ માટે ગુજરાત સિક્યુરિટી ઓપરેશન્સ સેન્ટર (GSOC)ની સ્થાપના છે. એ.આઈ. દ્વારા હુમલાઓની ઓળખ થશે, અને દરેક વિભાગમાં ચીફ ઇન્ફોર્મેશન સિક્યુરિટી ઓફિસર (CISO) નિમવામાં આવશે. નીતિ સ્થાનિક સાયબર સુરક્ષા સંશોધન અને સ્ટાર્ટ‑અપને રાજ્યની IT/ITeS નીતિ હેઠળ સહાય આપશે. ડ્રાફ્ટ આવનારા અઠવાડિયામાં જાહેર થશે.",
+   "mcq": {
+    "q_en": "Which new body will monitor cyber threats in Gujarat 24 × 7?",
+    "q_gu": "ગુજરાતમાં 24 × 7 સાયબર ધમકીઓનું નિરીક્ષણ કયું નવું સંસ્થા કરશે?",
+    "o_en": [
+     "Cyber Security Incident Response Team‑Gujarat",
+     "Gujarat Security Operations Centre",
+     "National Critical Information Infrastructure Protection Centre",
+     "Indian Computer Emergency Response Team"
+    ],
+    "o_gu": [
+     "સાઇબર સુરક્ષા ઘટના પ્રતિસાદ ટીમ‑ગુજરાત",
+     "ગુજરાત સિક્યુરિટી ઓપરેશન્સ સેન્ટર",
+     "રાષ્ટ્રીય મહત્વપૂર્ણ માહિતી ઇન્ફ્રાસ્ટ્રક્ચર સુરક્ષા કેન્દ્ર",
+     "ભારતીય કમ્પ્યુટર ઇમર્જન્સી પ્રતિસાદ ટીમ"
+    ],
+    "a": 1,
+    "e_en": "GSOC is the 24 × 7 monitoring centre.",
+    "e_gu": "GSOC 24 × 7 મોનિટરિંગ કેન્દ્ર છે."
+   },
+   "id": "ca-gujarat-drafts-ai-based-cyber-defence-policy",
+   "source": "https://indianmasterminds.com/news/gujarat-cybersecurity-policy-ai-powered-cyber-defence-250886/",
+   "exam": {
+    "score": 7,
+    "why": "New AI cyber‑defence framework, national policy"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://indianmasterminds.com/news/gujarat-cybersecurity-policy-ai-powered-cyber-defence-250886/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-17"
+  },
+  {
+   "category": "defence",
+   "title_en": "IG Defence signs MoU for 200‑acre missile complex in Andhra Pradesh",
+   "title_gu": "IG Defence એ આંધ્ર પ્રદેશમાં 200 એકર મિસાઇલ કોમ્પ્લેક્સ માટે MoU પર હસ્તાક્ષર કર્યા",
+   "summary_en": "IG Defence and the Andhra Pradesh government agreed to build a 200‑acre missile development and manufacturing hub in Nellore.",
+   "summary_gu": "IG Defence અને આંધ્ર પ્રદેશ સરકાર નેલ્લોરમાં 200 એકર મિસાઇલ વિકાસ અને ઉત્પાદન કેન્દ્ર બનાવવા માટે સહમતી વ્યક્ત કરી.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "IG Defence",
+     "v_gu": "IG Defence"
+    },
+    {
+     "k_en": "Partner",
+     "k_gu": "સાથી",
+     "v_en": "Government of Andhra Pradesh",
+     "v_gu": "આંધ્ર પ્રદેશ સરકાર"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Nellore, Andhra Pradesh",
+     "v_gu": "નેલ્લોર, આંધ્ર પ્રદેશ"
+    },
+    {
+     "k_en": "Area",
+     "k_gu": "વિસ્તાર",
+     "v_en": "200 acres",
+     "v_gu": "200 એકર"
+    },
+    {
+     "k_en": "Initiatives",
+     "k_gu": "પ્રયત્નો",
+     "v_en": "JWALA and GRID Forge",
+     "v_gu": "JWALA અને GRID Forge"
+    }
+   ],
+   "points_en": [
+    "The hub will focus on indigenous missile and micro‑missile tech.",
+    "JWALA targets precision strike and counter‑UAS roles.",
+    "GRID Forge will digitise manufacturing processes."
+   ],
+   "points_gu": [
+    "કેન્દ્ર સ્થાનિક મિસાઇલ અને માઇક્રો‑મિસાઇલ ટેકનોલોજી પર ધ્યાન આપશે.",
+    "JWALA પ્રિસિઝન સ્ટ્રાઇક અને કાઉન્ટર‑UAS માટે છે.",
+    "GRID Forge ઉત્પાદન પ્રક્રિયાઓને ડિજિટલ કરશે."
+   ],
+   "context_en": "IG Defence is an Indian defence technology firm; Andhra Pradesh’s capital is Amaravati.",
+   "context_gu": "IG Defence ભારતીય રક્ષા ટેકનોલોજી કંપની છે; આંધ્ર પ્રદેશની રાજધાની અમરાવતી છે.",
+   "remember_en": "IG Defence‑Nellore missile complex MoU, 200 acres.",
+   "remember_gu": "IG Defence‑નેલ્લોર મિસાઇલ કોમ્પ્લેક્સ MoU, 200 એકર.",
+   "why_en": "Shows India’s push for self‑reliant defence production.",
+   "why_gu": "ભારતની સ્વનિર્ભર રક્ષા ઉત્પાદનની દિશા દર્શાવે છે.",
+   "details_en": "IG Defence signed a Memorandum of Understanding with the Government of Andhra Pradesh to set up a 200‑acre next‑generation missile development and manufacturing complex in Nellore. The facility will work on indigenous missile systems, micro‑missile technologies, propulsion and precision‑strike capabilities, aiming to strengthen India’s domestic defence industrial base. Two key programmes, JWALA – an indigenous micro‑missile for precision engagement and counter‑UAS – and GRID Forge – a software‑defined manufacturing ecosystem – will be central to the project.",
+   "details_gu": "IG Defence એ આંધ્ર પ્રદેશ સરકાર સાથે નેલ્લોરમાં 200 એકરનું અગ્રગણ્ય મિસાઇલ વિકાસ અને ઉત્પાદન કોમ્પ્લેક્સ બનાવવા માટે MoU પર હસ્તાક્ષર કર્યા. આ કેન્દ્ર સ્થાનિક મિસાઇલ સિસ્ટમ, માઇક્રો‑મિસાઇલ ટેક, પ્રોપલ્શન અને પ્રિસિઝન‑સ્ટ્રાઇક ક્ષમતા પર કામ કરશે, જેથી ભારતની રક્ષા ઉદ્યોગની ક્ષમતા મજબૂત થશે. મુખ્ય બે પ્રોગ્રામ, JWALA – પ્રિસિઝન એંગેજમેન્ટ અને કાઉન્ટર‑UAS માટેનું સ્થાનિક માઇક્રો‑મિસાઇલ, અને GRID Forge – સોફ્ટવેર‑ડિફાઇન્ડ ઉત્પાદન ઇકોસિસ્ટમ, પ્રોજેક્ટનું કેન્દ્ર હશે.",
+   "mcq": {
+    "q_en": "What is the size of the missile complex that IG Defence will develop in Nellore?",
+    "q_gu": "IG Defence નેલ્લોરમાં જે મિસાઇલ કોમ્પ્લેક્સ બનાવશે, તેનો કદ કેટલો છે?",
+    "o_en": [
+     "100 acres",
+     "150 acres",
+     "200 acres",
+     "250 acres"
+    ],
+    "o_gu": [
+     "100 એકર",
+     "150 એકર",
+     "200 એકર",
+     "250 એકર"
+    ],
+    "a": 2,
+    "e_en": "The MoU states the complex will cover 200 acres.",
+    "e_gu": "MoU મુજબ કોમ્પ્લેક્સ 200 એકરનું હશે."
+   },
+   "id": "ca-ig-defence-signs-mou-for-200-acre-missile-complex-in-andhra-",
+   "source": "https://defensemirror.com/news/42367/India_s_IG_Defence_Signs_MoU_for_200_Acre_Missile_Development_Complex_in_Andhra_Pradesh",
+   "exam": {
+    "score": 7,
+    "why": "Missile complex MoU, major defence project"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://defensemirror.com/news/42367/India_s_IG_Defence_Signs_MoU_for_200_Acre_Missile_Development_Complex_in_Andhra_Pradesh"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-17"
+  },
+  {
    "category": "science",
    "title_en": "Bengaluru Tech Summit 2026 launches AI Kavach cybersecurity lab",
    "title_gu": "બેંગલુરુ ટેક સમિટ ૨૦૨૬માં એ.આઈ. કવચ સાયબરસિક્યુરિટી લેબ શરૂ",
@@ -15380,6 +15560,196 @@
     {
      "name": "The Hindu",
      "url": "https://www.thehindu.com/news/national/karnataka/29th-edition-of-bengaluru-tech-summit-to-kick-off-today/article71709164.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-17"
+  },
+  {
+   "category": "international",
+   "title_en": "Modi urges cooperation at 23rd ASEAN‑India Summit",
+   "title_gu": "મોદી 23મા ASEAN‑India સમિટમાં સહકારની માંગ કરે છે",
+   "summary_en": "Prime Minister Narendra Modi spoke at the 23rd ASEAN‑India Summit in Manila on 17 Nov 2026, urging cooperation over competition.",
+   "summary_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી 17 નવેમ્બર 2026ને મનિલામાં યોજાયેલ 23મા ASEAN‑India સમિટમાં સહકારની જરૂરિયાત પર ભાર મૂક્યો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Narendra Modi**",
+     "v_gu": "**નરેન્દ્ર મોદી**"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Prime Minister of India",
+     "v_gu": "ભારતના પ્રધાનમંત્રી"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Addressed the 23rd ASEAN‑India Summit",
+     "v_gu": "23મા ASEAN‑India સમિટમાં ભાષણ આપ્યું"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Manila, Philippines",
+     "v_gu": "મનિલા, ફિલિપાઇન્સ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "17 Nov 2026",
+     "v_gu": "17 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Navigating Our Future, Together",
+     "v_gu": "Navigating Our Future, Together"
+    }
+   ],
+   "points_en": [
+    "Modi said cooperation, not competition, should shape the future.",
+    "He highlighted the theme ‘Navigating Our Future, Together’.",
+    "India‑ASEAN together account for about a quarter of world population."
+   ],
+   "points_gu": [
+    "મોદી કહે છે કે ભવિષ્ય સહકારથી નિર્ધારિત થવું જોઈએ, સ્પર્ધાથી નહીં.",
+    "તેમણે ‘Navigating Our Future, Together’ થીમ પર ભાર મૂક્યો.",
+    "ભારત‑ASEAN વિશ્વની જનસંખ્યા નો લગભગ ચોથો ભાગ છે."
+   ],
+   "context_en": "ASEAN is a regional bloc of 11 Southeast Asian nations founded in 1967; India is a dialogue partner.",
+   "context_gu": "ASEAN 1967માં સ્થાપિત 11 દક્ષિણપૂર્વ એશિયાઈ દેશોનું પ્રાદેશિક સંગઠન છે; ભારત તેનો સંવાદી ભાગીદાર છે.",
+   "remember_en": "Modi, 23rd ASEAN‑India Summit, Manila, 17 Nov 2026.",
+   "remember_gu": "મોદી, 23મા ASEAN‑India સમિટ, મનિલા, 17 નવેમ્બર 2026.",
+   "why_en": "Exam may ask about India's foreign‑policy stance and ASEAN partnership details.",
+   "why_gu": "પરીક્ષામાં ભારતની વિદેશ નીતિ અને ASEAN ભાગીદારી સંબંધિત પ્રશ્નો આવી શકે છે.",
+   "details_en": "On 17 Nov 2026, Prime Minister **Narendra Modi** addressed the 23rd ASEAN‑India Summit in Manila, Philippines. He said the world needs peace, stability and predictability and urged that cooperation, not competition, shape the future. The summit’s theme was “Navigating Our Future, Together”. Modi stressed India’s steady commitment to ASEAN’s unity and centrality, noting that India and ASEAN together represent nearly a quarter of the global population. He linked the ASEAN Community Vision 2045 and India’s Developed India 2047 goals as shared aspirations and said the meeting would lift the Comprehensive Strategic Partnership to new heights, contributing to a secure, inclusive Indo‑Pacific.",
+   "details_gu": "17 નવેમ્બર 2026ને પ્રધાનમંત્રી **નરેન્દ્ર મોદી** મનિલા, ફિલિપાઇન્સમાં 23મા ASEAN‑India સમિટમાં ભાષણ આપ્યું. તેમણે કહ્યું કે વિશ્વને શાંતિ, સ્થિરતા અને પૂર્વાનુમાનની જરૂર છે અને ભવિષ્યને સહકાર, સ્પર્ધા નહીં, દ્વારા નિર્ધારિત કરવું જોઈએ. સમિટનું થીમ “Navigating Our Future, Together” હતું. મોદીએ ભારતની ASEANની એકતા અને કેન્દ્રિતતા પ્રત્યેની સ્થિર પ્રતિબદ્ધતા દર્શાવી, અને જણાવ્યું કે ભારત અને ASEAN મળીને વિશ્વની જનસંખ્યા નો લગભગ ચોથો ભાગ છે. તેમણે ASEAN Community Vision 2045 અને Developed India 2047 ને શેર કરેલી આશાઓ તરીકે જોડ્યા અને આ બેઠકથી Comprehensive Strategic Partnership ને નવી ઊંચાઈઓ સુધી લઈ જાશે, સુરક્ષિત અને સમાવેશી ઇન્ડો‑પેસિફિક માટે યોગદાન આપશે.",
+   "mcq": {
+    "q_en": "Where did Prime Minister Narendra Modi address the 23rd ASEAN‑India Summit?",
+    "q_gu": "પ્રધાનમંત્રી નરેન્દ્ર મોદી 23મા ASEAN‑India સમિટમાં ક્યાં ભાષણ આપ્યું?",
+    "o_en": [
+     "Bangkok, Thailand",
+     "Jakarta, Indonesia",
+     "Manila, Philippines",
+     "Singapore"
+    ],
+    "o_gu": [
+     "બેંગકોક, થાઈલેન્ડ",
+     "જકાર્તા, ઈન્ડોનેશિયા",
+     "મનિલા, ફિલિપાઇન્સ",
+     "સિંગાપુર"
+    ],
+    "a": 2,
+    "e_en": "The summit was held in Manila, Philippines.",
+    "e_gu": "સમિટ મનિલા, ફિલિપાઇન્સમાં યોજાઈ હતી."
+   },
+   "id": "ca-modi-urges-cooperation-at-23rd-asean-india-summit",
+   "source": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece",
+   "exam": {
+    "score": 6,
+    "why": "Modi at ASEAN summit, foreign policy"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
+    },
+    {
+     "name": "The Hindu (World)",
+     "url": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-17"
+  },
+  {
+   "category": "schemes",
+   "title_en": "India's solar capacity reaches 175 GW by October 2026",
+   "title_gu": "ભારતની સોલર ક્ષમતા ઓક્ટોબર 2026 સુધી 175 ગીગાવોટ સુધી પહોંચી",
+   "summary_en": "Solar installed capacity grew from 2.82 GW in 2014 to about 175 GW by 31 Oct 2026, driven by policies and projects.",
+   "summary_gu": "સોલર સ્થાપિત ક્ષમતા 2014માં 2.82 ગિગાવોટથી 31 ઓક્ટોબર 2026 સુધી લગભગ 175 ગિગાવોટ સુધી વધી, નીતિઓ અને પ્રોજેક્ટ્સથી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Solar installed capacity 175 GW",
+     "v_gu": "સોલર સ્થાપિત ક્ષમતા 175 ગિગાવોટ"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "31 Oct 2026",
+     "v_gu": "31 ઓક્ટોબર 2026"
+    },
+    {
+     "k_en": "Start",
+     "k_gu": "શરૂઆત",
+     "v_en": "2.82 GW in 2014",
+     "v_gu": "2014માં 2.82 ગિગાવોટ"
+    },
+    {
+     "k_en": "Theme",
+     "k_gu": "થીમ",
+     "v_en": "Invest, Innovate, Inspire",
+     "v_gu": "નિવેશ, નવોચાર, પ્રેરણા"
+    },
+    {
+     "k_en": "Event",
+     "k_gu": "કાર્યક્રમ",
+     "v_en": "India Renewable Energy Summit 2026",
+     "v_gu": "ભારત રિન્યુએબલ એનર્જી સમિટ 2026"
+    }
+   ],
+   "points_en": [
+    "Capacity grew about 62‑times in a decade.",
+    "Solar now holds the largest share of renewable capacity.",
+    "The summit was held in New Delhi from 2‑5 Nov 2026."
+   ],
+   "points_gu": [
+    "ક્ષમતા દાયકામાં લગભગ 62 ગણા વધી.",
+    "સોલર હવે નવિનીકરણીય ક્ષમતા માં સૌથી મોટો હિસ્સો.",
+    "સમિટ 2‑5 નવેમ્બર 2026 સુધી ન્યૂ દિલ્હી માં યોજાઈ."
+   ],
+   "context_en": "National Solar Mission (2010) and Solar Park Scheme support India's solar growth; headquarters of Ministry of New and Renewable Energy is in New Delhi.",
+   "context_gu": "નેશનલ સોલર મિશન (2010) અને સોલર પાર્ક યોજના ભારતની સોલર વૃદ્ધિનું સમર્થન કરે છે; ન્યૂ દિલ્હી માં ન્યુ અને રિન્યુએબલ એનર્જી મંત્રાલયનું મુખ્યાલય છે.",
+   "remember_en": "Solar capacity 175 GW by 31 Oct 2026.",
+   "remember_gu": "સોલર ક્ષમતા 31 ઓક્ટોબર 2026 સુધી 175 ગિગાવોટ.",
+   "why_en": "Shows India's rapid renewable energy expansion for exam questions.",
+   "why_gu": "પરીક્ષાના પ્રશ્નો માટે ભારતની ઝડપી નવિનીકરણીય ઊર્જા વૃદ્ધિ દર્શાવે છે.",
+   "details_en": "India's solar installed capacity rose from 2.82 GW in 2014 to about 175 GW by 31 Oct 2026, an increase of roughly 62 times. The growth was driven by strong policy support such as the National Solar Mission, Solar Park Scheme, Green Energy Corridor and competitive bidding. Large solar parks, rooftop systems and solar‑powered agricultural pumps expanded across states like Rajasthan, Gujarat and Karnataka. The progress was highlighted at the India Renewable Energy Summit and Expo 2026 held in New Delhi from 2 to 5 November, under the theme \"Invest, Innovate, Inspire\" with participation from over 130 countries.",
+   "details_gu": "ભારતની સોલર સ્થાપિત ક્ષમતા 2014માં 2.82 ગિગાવોટથી 31 ઓક્ટોબર 2026 સુધી લગભગ 175 ગિગાવોટ સુધી વધી, જે લગભગ 62 ગણા વધારો છે. નેશનલ સોલર મિશન, સોલર પાર્ક યોજના, ગ્રીન એનર્જી કોરિડોર અને સ્પર્ધાત્મક બિડિંગ જેવી નીતિઓએ આ વૃદ્ધિને પ્રોત્સાહિત કરી. રાજસ્થાન, ગુજરાત, કર્નાટક જેવા રાજ્યોમાં મોટા સોલર પાર્ક, રૂફટોપ સિસ્ટમ અને સોલર પંપોનો વિસ્તરણ થયો. આ પ્રગતિને 2‑5 નવેમ્બર 2026 સુધી ન્યૂ દિલ્હી માં યોજાયેલ ભારત રિન્યુએબલ એનર્જી સમિટ અને એક્સ્પો 2026 માં \"નિવેશ, નવોચાર, પ્રેરણા\" થીમ હેઠળ દર્શાવવામાં આવી, જેમાં 130 થી વધુ દેશો ભાગ લીધો.",
+   "mcq": {
+    "q_en": "What was India's solar installed capacity on 31 Oct 2026?",
+    "q_gu": "31 ઓક્ટોબર 2026 સુધી ભારતની સોલર સ્થાપિત ક્ષમતા કેટલી હતી?",
+    "o_en": [
+     "2.82 GW",
+     "31 GW",
+     "175 GW",
+     "500 GW"
+    ],
+    "o_gu": [
+     "2.82 ગિગાવોટ",
+     "31 ગિગાવોટ",
+     "175 ગિગાવોટ",
+     "500 ગિગાવોટ"
+    ],
+    "a": 2,
+    "e_en": "The capacity reached about 175 GW by that date.",
+    "e_gu": "તે તારીખ સુધી ક્ષમતા લગભગ 175 ગિગાવોટ સુધી પહોંચી."
+   },
+   "id": "ca-india-s-solar-capacity-reaches-175-gw-by-october-2026",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253",
+   "exam": {
+    "score": 6,
+    "why": "New era for solar sector, energy focus"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253"
     }
    ],
    "by": "groq",
