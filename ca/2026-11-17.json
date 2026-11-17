@@ -447,6 +447,81 @@
    "by": "groq"
   },
   {
+   "category": "economy",
+   "title_en": "States' combined fiscal deficit expected at 2.9% of GDP in FY27",
+   "title_gu": "રાજ્યોનું સંયુક્ત નાણાકીય ખાધ FY27માં 2.9% જીડીપી રહેશે",
+   "summary_en": "The combined fiscal deficit of Indian states is projected to narrow to 2.9% of GDP in financial year 2027, with nine states still above the 3% ceiling.",
+   "summary_gu": "ભારતીય રાજ્યોનું સંયુક્ત નાણાકીય ખાધ FY27માં 2.9% જીડીપી સુધી ઘટશે, નવ રાજ્યો 3% મર્યાદા ઉપર રહેશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Combined fiscal deficit 2.9% of GDP",
+     "v_gu": "સંયુક્ત નાણાકીય ખાધ 2.9% જીડીપી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Financial Year 2027 (FY27)",
+     "v_gu": "વિત્તીય વર્ષ 2027 (FY27)"
+    },
+    {
+     "k_en": "Number of states exceeding limit",
+     "k_gu": "રાજ્યોની સંખ્યા",
+     "v_en": "Nine states above 3% limit",
+     "v_gu": "નવ રાજ્યો 3% મર્યાદા ઉપર"
+    }
+   ],
+   "points_en": [
+    "Fiscal pressure is rising due to higher expenditure and welfare commitments.",
+    "The 3% deficit ceiling is a central government guideline for states."
+   ],
+   "points_gu": [
+    "વધુ ખર્ચ અને કલ્યાણ પ્રતિબદ્ધતાઓને કારણે નાણાકીય દબાણ વધે છે.",
+    "3% ખાધ મર્યાદા કેન્દ્ર સરકારની રાજ્યો માટેની માર્ગદર્શિકા છે."
+   ],
+   "context_en": "Fiscal deficit measures the gap between a government's total expenditure and its total revenue.",
+   "context_gu": "નાણાકીય ખાધ એ સરકારના કુલ ખર્ચ અને કુલ આવક વચ્ચેનો તફાવત દર્શાવે છે.",
+   "remember_en": "FY27 states' deficit = 2.9% of GDP, nine states >3%.",
+   "remember_gu": "FY27માં રાજ્યોનું ખાધ = 2.9% જીડીપી, નવ રાજ્યો >3%.",
+   "why_en": "Exam may ask about fiscal health and compliance with the 3% rule.",
+   "why_gu": "પરીક્ષામાં નાણાકીય સ્વાસ્થ્ય અને 3% નિયમનું પાલન પૂછાઈ શકે.",
+   "details_en": "PRS Legislative Research reports that Indian states' combined fiscal deficit is expected to narrow to 2.9% of gross domestic product in the financial year 2027. Despite the overall improvement, nine states are projected to exceed the central government's 3% fiscal deficit ceiling, reflecting ongoing revenue pressures and rising cash transfers for welfare schemes.",
+   "details_gu": "PRS Legislative Research અનુસાર, ભારતીય રાજ્યોનું સંયુક્ત નાણાકીય ખાધ 2027ની વિત્તીય વર્ષમાં કુલ ઘરેલું ઉત્પાદનનું 2.9% સુધી ઘટશે. કુલ સુધારો હોવા છતાં, નવ રાજ્યો 3% ખાધ મર્યાદા ઉપર રહેશે, જે આવક દબાણ અને કલ્યાણ યોજનાઓ માટે વધતા નગદ ટ્રાન્સફર દર્શાવે છે.",
+   "mcq": {
+    "q_en": "What is the projected combined fiscal deficit of Indian states for FY27?",
+    "q_gu": "FY27 માટે ભારતીય રાજ્યોનું સંયુક્ત નાણાકીય ખાધ કેટલું છે?",
+    "o_en": [
+     "2.5% of GDP",
+     "2.9% of GDP",
+     "3.2% of GDP",
+     "3.5% of GDP"
+    ],
+    "o_gu": [
+     "જીડીપીનું 2.5%",
+     "જીડીપીનું 2.9%",
+     "જીડીપીનું 3.2%",
+     "જીડીપીનું 3.5%"
+    ],
+    "a": 1,
+    "e_en": "The reports state the deficit will be 2.9% of GDP.",
+    "e_gu": "રિપોર્ટમાં ખાધ 2.9% જીડીપી હશે એવું જણાવાયું છે."
+   },
+   "id": "ca-states-combined-fiscal-deficit-expected-at-2-9-of-gdp-in-fy2",
+   "source": "https://www.business-standard.com/economy/news/states-fiscal-deficit-seen-easing-to-2-9-of-gdp-in-fy27-nine-breach-cap-126111701105_1.html",
+   "exam": {
+    "score": 7,
+    "why": "States fiscal deficit projection"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/states-fiscal-deficit-seen-easing-to-2-9-of-gdp-in-fy27-nine-breach-cap-126111701105_1.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "science",
    "title_en": "Bengaluru Tech Summit 2026 launches AI Kavach cybersecurity lab",
    "title_gu": "બેંગલુરુ ટેક સમિટ ૨૦૨૬માં એ.આઈ. કવચ સાયબરસિક્યુરિટી લેબ શરૂ",
@@ -800,6 +875,95 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmNhZWhxeG92b1JhY2ZsRFh0MDRGdG1zbVUxSU9lTFloQS01V0FSRlI4MkpvOUpTTDhlUXlGbkVzQ3NRRktCeGhOdG0wUHVaT0N6d19VYldjWWdVZHNqZUhfNkwxajJzN0FjODZ3MVRHcjFrUTU5cDBSUEhpNW84VEZWZF9YWEZlYzhBUkFGajN5Q2ZWeVdVYmxST0FFLUlMeVMtMU0yOFdHTmRaUnc?oc=5"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "international",
+   "title_en": "Quad leaders launch maritime and AI initiatives in Manila",
+   "title_gu": "મેનિલામાં ક્વાડ નેતાઓએ સમુદ્રી અને એ.આઈ. પહેલો શરૂ કરી",
+   "summary_en": "On 17 Nov 2026, Quad leaders met in Manila and announced new maritime surveillance, cable and cyber projects, plus an AI Accelerator.",
+   "summary_gu": "१७ નવેમ્બર ૨૦૨૬ને મેનિલામાં ક્વાડ નેતાઓ મળ્યા અને નવા સમુદ્રી નિરીક્ષણ, કેબલ અને સાયબર પ્રોજેક્ટો તેમજ એ.આઈ. એક્સેલરેટર જાહેર કર્યા.",
+   "facts": [
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "17 November 2026",
+     "v_gu": "૧૭ નવેમ્બર ૨૦૨૬"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Manila, Philippines",
+     "v_gu": "મેનિલા, ફિલિપાઇન્સ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Narendra Modi, Donald Trump, Anthony Albanese, Sanae Takaichi",
+     "v_gu": "નરેન્દ્ર મોદી, ડોનાલ્ડ ટ્રમ્પ, એન્થોની અલ્બાનીઝ, સાનાએ ટાકાઇચી"
+    },
+    {
+     "k_en": "Initiative",
+     "k_gu": "પહેલો",
+     "v_en": "Indo‑Pacific Maritime Surveillance Collaboration",
+     "v_gu": "ઇન્ડો‑પેસિફિક સમુદ્રી નિરીક્ષણ સહકાર"
+    },
+    {
+     "k_en": "Future Exercise",
+     "k_gu": "ભવિષ્યનું વ્યાયામ",
+     "v_en": "2027 P‑8 and P‑3C patrol aircraft joint drill",
+     "v_gu": "૨૦૨૭માં P‑8 અને P‑3C પૅટ્રોલ વિમાનોનું સંયુક્ત વ્યાયામ"
+    }
+   ],
+   "points_en": [
+    "Leaders agreed on maritime surveillance, cable connectivity and cyber security.",
+    "They pledged to oppose destabilising unilateral actions.",
+    "An AI Accelerator was affirmed to support trusted AI across the Indo‑Pacific."
+   ],
+   "points_gu": [
+    "નેતાઓએ સમુદ્રી નિરીક્ષણ, કેબલ કનેક્ટિવિટી અને સાયબર સુરક્ષા પર સહમતી વ્યક્ત કરી.",
+    "તેમણે અસ્થિર એકપક્ષીય પગલાઓને વિરોધ કરવાનો વચન આપ્યો.",
+    "ઇન્ડો‑પેસિફિકમાં વિશ્વસનીય AI માટે AI એક્સેલરેટરનું સમર્થન જાહેર કર્યું."
+   ],
+   "context_en": "The Quad (United States, Japan, Australia, India) meets regularly to coordinate Indo‑Pacific security and technology policies.",
+   "context_gu": "ક્વાડ (યુ.એસ., જાપાન, ઑસ્ટ્રેલિયા, ભારત) ઇન્ડો‑પેસિફિક સુરક્ષા અને ટેકનોલોજી નીતિઓને સમન્વયિત કરવા નિયમિત રીતે મળે છે.",
+   "remember_en": "Quad summit in Manila, 17 Nov 2026, launched maritime and AI projects.",
+   "remember_gu": "મેનિલામાં ક્વાડ સમિટ, ૧૭ નવેમ્બર ૨૦૨૬, સમુદ્રી અને AI પ્રોજેક્ટો શરૂ કર્યા.",
+   "why_en": "Exam may ask about new Quad initiatives and participating leaders.",
+   "why_gu": "પરીક્ષામાં નવા ક્વાડ ઉપક્રમો અને ભાગ લેનાર નેતાઓ વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "On 17 Nov 2026, Prime Minister Narendra Modi met U.S. President Donald Trump, Australian Prime Minister Anthony Albanese and Japanese Prime Minister Sanae Takaichi in Manila during the Quad Leaders Summit. The four leaders announced a maritime surveillance exercise, a cable connectivity framework and cyber security collaboration to strengthen Indo‑Pacific cooperation. They also launched the Indo‑Pacific Maritime Surveillance Collaboration and said that in 2027 their P‑8 and P‑3C patrol aircraft will conduct a joint exercise for the first time. A joint statement affirmed the AI Accelerator, aimed at funding trusted AI deployment across the region, and reiterated opposition to destabilising unilateral actions.",
+   "details_gu": "૧૭ નવેમ્બર ૨૦૨૬ને પ્રધાનમંત્રી નરેન્દ્ર મોદી, યુ.એસ. પ્રમુખ ડોનાલ્ડ ટ્રમ્પ, ઓસ્ટ્રેલિયન પ્રધાનમંત્રી એન્થોની અલ્બાનીઝ અને જાપાનના પ્રધાનમંત્રી સાનાએ ટાકાઇચી મેનિલામાં ક્વાડ નેતાઓની બેઠકમાં મળ્યા. ચારેય નેતાઓએ સમુદ્રી નિરીક્ષણ વ્યાયામ, કેબલ કનેક્ટિવિટી ફ્રેમવર્ક અને સાયબર સુરક્ષા સહકારની જાહેરાત કરી, જેથી ઇન્ડો‑પેસિફિક સહકાર મજબૂત થાય. તેમણે ઇન્ડો‑પેસિફિક સમુદ્રી નિરીક્ષણ સહકાર શરૂ કર્યો અને ૨૦૨૭માં P‑8 અને P‑3C પૅટ્રોલ વિમાનોનું સંયુક્ત વ્યાયામ થશે એવું જણાવ્યું. સહયોગી નિવેદનમાં AI એક્સેલરેટરનું સમર્થન પણ પુષ્ટિ થયું, જે પ્રદેશમાં વિશ્વસનીય AI પ્રયોગને નાણાં પૂરું પાડશે, અને અસ્થિર એકપક્ષીય પગલાઓને વિરોધ કરવાની પુષ્ટિ કરી.",
+   "mcq": {
+    "q_en": "Which new initiative was announced by the Quad at the Manila summit on 17 Nov 2026?",
+    "q_gu": "૧૭ નવેમ્બર ૨૦૨૬ના મેનિલા ક્વાડ સમિટમાં કયો નવો ઉપક્રમ જાહેર થયો?",
+    "o_en": [
+     "AI Accelerator",
+     "Space Exploration Programme",
+     "South Asian Trade Pact",
+     "European Union Partnership"
+    ],
+    "o_gu": [
+     "AI એક્સેલરેટર",
+     "અંતરિક્ષ અન્વેષણ કાર્યક્રમ",
+     "દક્ષિણ એશિયાનો વેપાર કરાર",
+     "યુરોપિયન યુનિયન ભાગીદારી"
+    ],
+    "a": 0,
+    "e_en": "The Quad affirmed the AI Accelerator to support trusted AI across the Indo‑Pacific.",
+    "e_gu": "ક્વાડએ ઇન્ડો‑પેસિફિકમાં વિશ્વસનીય AIને સમર્થન આપવા AI એક્સેલરેટરની પુષ્ટિ કરી."
+   },
+   "id": "ca-quad-leaders-launch-maritime-and-ai-initiatives-in-manila",
+   "source": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+   "exam": {
+    "score": 6,
+    "why": "Quad summit update, possible exam question"
+   },
+   "sources": [
+    {
+     "name": "The Hindu (World)",
+     "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece"
     }
    ],
    "by": "groq"
