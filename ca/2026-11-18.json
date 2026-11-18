@@ -271,6 +271,99 @@
    "by": "groq"
   },
   {
+   "category": "economy",
+   "title_en": "RBI repo rate likely to reach 6.25% by mid‑2027",
+   "title_gu": "આરબીઆઈનું રેપો દર 2027 મધ્ય સુધી 6.25% સુધી પહોંચશે",
+   "summary_en": "Goldman Sachs expects the Reserve Bank of India to raise the repo rate by 75 basis points to 6.25% by mid‑2027.",
+   "summary_gu": "ગોલ્ડમેન સૅક્સની આગાહી મુજબ, ભારતીય રિઝર્વ બેંકનું રેપો દર 75 બેઝિસ પોઇન્ટ વધીને 2027 મધ્ય સુધી 6.25% થશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Goldman Sachs**",
+     "v_gu": "**ગોલ્ડમેન સૅક્સ**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Repo rate rise 75 bps**",
+     "v_gu": "**રેપો દરમાં 75 બેઝિસ પોઇન્ટ વધારો**"
+    },
+    {
+     "k_en": "Target rate",
+     "k_gu": "લક્ષ્ય દર",
+     "v_en": "**6.25 %**",
+     "v_gu": "**6.25 %**"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**mid‑2027**",
+     "v_gu": "**2027 મધ્ય સુધી**"
+    },
+    {
+     "k_en": "Inflation forecast",
+     "k_gu": "મોંઘવારી આગાહી",
+     "v_en": "**5.7 %**",
+     "v_gu": "**5.7 %**"
+    },
+    {
+     "k_en": "Growth forecast",
+     "k_gu": "વૃદ્ધિ આગાહી",
+     "v_en": "**7.2 % in CY27**",
+     "v_gu": "**સીએવાય 27 માં 7.2 %**"
+    }
+   ],
+   "points_en": [
+    "Higher food and crude oil prices push inflation up.",
+    "Slower growth reduces pressure on monetary policy."
+   ],
+   "points_gu": [
+    "ખાદ્ય અને ક્રુડ તેલની કિંમતો વધવાથી મોંઘવારી વધી.",
+    "વૃદ્ધિ ધીમા થવાથી નાણાકીય નીતિ પર દબાણ ઘટે."
+   ],
+   "context_en": "The Reserve Bank of India (RBI) sets the repo rate, the key policy rate for banks.",
+   "context_gu": "ભારતીય રિઝર્વ બેંક (આરબીઆઈ) રેપો દર નક્કી કરે છે, જે બેંકો માટે મુખ્ય નીતિ દર છે.",
+   "remember_en": "RBI repo rate to 6.25% by mid‑2027, per Goldman Sachs.",
+   "remember_gu": "ગોલ્ડમેન સૅક્સ મુજબ, આરબીઆઈનું રેપો દર 2027 મધ્ય સુધી 6.25% થશે.",
+   "why_en": "Exam may ask future rate expectations and their impact on inflation and growth.",
+   "why_gu": "પરીક્ષામાં ભવિષ્યના દરની અપેક્ષા અને તેનો મોંઘવારી‑વૃદ્ધિ પર પ્રભાવ પૂછાઈ શકે.",
+   "details_en": "Goldman Sachs projects that the Reserve Bank of India will increase the repo rate by 75 basis points, taking it to 6.25% by mid‑2027. The bank cites rising inflation, driven by higher food and crude oil prices, and a moderation in economic growth to about 7.2% in calendar year 2027. These factors together push the central bank to tighten monetary policy.",
+   "details_gu": "ગોલ્ડમેન સૅક્સની આગાહી મુજબ, ભારતીય રિઝર્વ બેંક રેપો દરમાં 75 બેઝિસ પોઇન્ટ વધારો કરીને 2027 મધ્ય સુધી 6.25% કરશે. ખાદ્ય અને ક્રુડ તેલની કિંમતો વધવાથી મોંઘવારી વધે છે, અને 2027 કૅલેન્ડર વર્ષમાં આર્થિક વૃદ્ધિ 7.2% સુધી ધીમા થાય છે. આ બંને કારણો નાણાકીય નીતિ કડક બનાવવા માટે RBIને પ્રેરિત કરે છે.",
+   "mcq": {
+    "q_en": "According to Goldman Sachs, what will be the RBI repo rate by mid‑2027?",
+    "q_gu": "ગોલ્ડમેન સૅક્સની આગાહીને અનુસાર, 2027 મધ્ય સુધી આરબીઆઈનું રેપો દર કેટલું હશે?",
+    "o_en": [
+     "5.75 %",
+     "6.00 %",
+     "6.25 %",
+     "6.50 %"
+    ],
+    "o_gu": [
+     "5.75 %",
+     "6.00 %",
+     "6.25 %",
+     "6.50 %"
+    ],
+    "a": 2,
+    "e_en": "Goldman Sachs expects the rate to rise to 6.25%.",
+    "e_gu": "ગોલ્ડમેન સૅક્સની અપેક્ષા મુજબ દર 6.25% સુધી વધશે."
+   },
+   "id": "ca-rbi-repo-rate-likely-to-reach-6-25-by-mid-2027",
+   "source": "https://www.business-standard.com/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html",
+   "exam": {
+    "score": 7,
+    "why": "RBI repo hike forecast impacts finance"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "international",
    "title_en": "Commerce Minister Piyush Goyal to visit Italy on Nov 17-18, 2026",
    "title_gu": "વાણિજ્ય મંત્રી પિયુષ ગોયલ 17-18 નવેમ્બર 2026એ ઇટાલીનું મુલાકાત કરશે",
@@ -794,6 +887,95 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://www.thehawk.in/news/states-and-uts/gujarat/adani-cement-deploys-heavy-duty-electric-trucks-at-gujarats-sanghi-plant"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "India maps 652 Community Seed Banks and releases new manual",
+   "title_gu": "ભારતમાં ૬૫૨ સમુદાય બીજ બેન્કનું નકશો અને નવો માર્ગદર્શિકા",
+   "summary_en": "Diversifarm-India mapped 652 community seed banks and issued a capacity‑building manual. The work was presented at a national conference in New Delhi on 17‑18 November 2026.",
+   "summary_gu": "ડાઇવર્સિફાર્મ‑ઇન્ડિયાએ ૬૫૨ સમુદાય બીજ બેન્કનું નકશો તૈયાર કર્યું અને ક્ષમતા‑નિર્માણ માર્ગદર્શિકા જારી કરી. આ成果 ૧૭‑૧૮ નવેમ્બર ૨૦૨૬ને ન્યૂ દિલ્હી માં યોજાયેલી રાષ્ટ્રીય સમ્મેલનમાં રજૂ કરવામાં આવ્યા.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Mapping of 652 community seed banks",
+     "v_gu": "૬૫૨ સમુદાય બીજ બેન્કનું નકશો"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Release of a capacity‑building manual",
+     "v_gu": "ક્ષમતા‑નિર્માણ માર્ગદર્શિકા જારી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "17‑18 November 2026",
+     "v_gu": "૧૭‑૧૮ નવેમ્બર ૨૦૨૬"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "National conference at NASC, New Delhi",
+     "v_gu": "NASc, ન્યૂ દિલ્હી માં રાષ્ટ્રીય સમ્મેલન"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Diversifarm‑India project",
+     "v_gu": "ડાઇવર્સિફાર્મ‑ઇન્ડિયા પ્રોજેક્ટ"
+    }
+   ],
+   "points_en": [
+    "The atlas includes GIS‑based profiles of each bank.",
+    "A policy brief outlines six types of seed banks.",
+    "The manual guides establishment and sustainability of banks."
+   ],
+   "points_gu": [
+    "એટલસમાં દરેક બેન્કનું GIS પ્રોફાઇલ છે.",
+    "પોલિસી બ્રીફમાં છ પ્રકારની બીજ બેન્કો દર્શાવેલી છે.",
+    "માર્ગદર્શિકા સ્થાપન અને ટકાઉપણું માટે માર્ગ બતાવે છે."
+   ],
+   "context_en": "Community Seed Banks (CSBs) are farmer‑run institutions that conserve and distribute local seed varieties.",
+   "context_gu": "સમુદાય બીજ બેન્કો (CSB) ખેડૂતો દ્વારા ચલાવાતા સંસ્થાઓ છે, જે સ્થાનિક બીજની સંરક્ષા અને વિતરણ કરે છે.",
+   "remember_en": "652 CSBs mapped; manual released at Nov 17‑18 2026 Delhi conference.",
+   "remember_gu": "૬૫૨ CSB નકશો; માર્ગદર્શિકા ૧૭‑૧૮ નવેમ્બર 2026 ન્યૂ દિલ્હી સમ્મેલનમાં રજૂ.",
+   "why_en": "Exam may ask about CSB mapping, manual, and the national conference details.",
+   "why_gu": "પરીક્ષામાં CSB નકશો, માર્ગદર્શિકા અને રાષ્ટ્રીય સમ્મેલન વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "Diversifarm‑India surveyed community seed banks across India and completed GIS‑based mapping of 652 farmer‑led institutions. The findings, along with a policy brief describing six bank types, a roadmap for Odisha, and a new capacity‑building manual, were shared at a two‑day national conference on the advancement of CSBs held at the National Agricultural Science Centre (NASC) in New Delhi on 17 and 18 November 2026. The manual, launched by Dr. Trilochan Mahapatra, chair of the Plant Varieties and Farmers' Rights Authority (PPVRA), aims to help set up and sustain CSBs nationwide.",
+   "details_gu": "ડાઇવર્સિફાર્મ‑ઇન્ડિયાએ સમગ્ર ભારતમાં સમુદાય બીજ બેન્કોનું સર્વેક્ષણ કર્યું અને ૬૫૨ ખેડૂત‑મુખ્ય સંસ્થાઓનું GIS‑આધારિત નકશો પૂર્ણ કર્યું. આ પરિણામો, છ પ્રકારની બેન્કોનું પોલિસી બ્રીફ, ઓડિશા માટેનું રોડમૅપ અને નવો ક્ષમતા‑નિર્માણ માર્ગદર્શિકા સાથે, ૧૭‑૧૮ નવેમ્બર ૨૦૨૬ને ન્યૂ દિલ્હી ના નેશનલ એગ્રીકલ્ચરલ સાયન્સ સેન્ટર (NASC) માં યોજાયેલ બે દિવસની રાષ્ટ્રીય સમ્મેલનમાં રજૂ કરવામાં આવ્યા. PPVRA ના અધ્યક્ષ ડૉ. ત્રિલોચન મહાપાત્રા દ્વારા રજૂ કરાયેલ આ માર્ગદર્શિકા, સમગ્ર દેશમાં CSB સ્થાપન અને ટકાઉપણું માટે મદદરૂપ થશે.",
+   "mcq": {
+    "q_en": "How many community seed banks were mapped in the Diversifarm‑India survey?",
+    "q_gu": "ડાઇવર્સિફાર્મ‑ઇન્ડિયા સર્વેમાં કેટલા સમુદાય બીજ બેન્કોનું નકશો તૈયાર થયું?",
+    "o_en": [
+     "500",
+     "652",
+     "800",
+     "1,000"
+    ],
+    "o_gu": [
+     "૫૦૦",
+     "૬૫૨",
+     "૮૦૦",
+     "૧૦૦૦"
+    ],
+    "a": 1,
+    "e_en": "The survey mapped 652 banks.",
+    "e_gu": "સર્વેમાં ૬૫૨ બેન્કોનું નકશો તૈયાર થયું."
+   },
+   "id": "ca-india-maps-652-community-seed-banks-and-releases-new-manual",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172",
+   "exam": {
+    "score": 6,
+    "why": "Seed bank mapping, agriculture scheme"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172"
     }
    ],
    "by": "groq"
