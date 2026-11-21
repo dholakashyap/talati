@@ -19514,6 +19514,96 @@
    ],
    "by": "groq",
    "date": "2026-11-20"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat schools to get monthly inspections with 78‑point checklist",
+   "title_gu": "ગુજરાતી શાળાઓમાં 78‑બિંદુ ચેકલિસ્ટ સાથે માસિક નિરીક્ષણ",
+   "summary_en": "The Gujarat education department will inspect government schools every month using a new 78‑point checklist to verify data entered on the UDISE+ portal.",
+   "summary_gu": "ગુજરાત શિક્ષણ વિભાગ સરકારની શાળાઓનું માસિક નિરીક્ષણ 78‑બિંદુ ચેકલિસ્ટથી કરશે, જેથી UDISE+ પોર્ટલમાં દાખલ થયેલ ડેટા ચકાસી શકાય.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Monthly inspections with 78‑point checklist",
+     "v_gu": "78‑બિંદુ ચેકલિસ્ટ સાથે માસિક નિરીક્ષણ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "State Project Director Nagarajan M.",
+     "v_gu": "સ્ટેટ પ્રોજેક્ટ ડિરેક્ટર નગરજણ એમ."
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Started September 2026",
+     "v_gu": "સપ્ટેમ્બર 2026 માં શરૂ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Government primary and secondary schools in Gujarat",
+     "v_gu": "ગુજરાતની સરકારી પ્રાથમિક અને માધ્યમિક શાળાઓ"
+    },
+    {
+     "k_en": "Why",
+     "k_gu": "શા માટે",
+     "v_en": "To cross‑check UDISE+ data and correct errors",
+     "v_gu": "UDISE+ ડેટા ક્રોસ‑ચેક કરીને ભૂલો સુધારવા"
+    }
+   ],
+   "points_en": [
+    "Cluster and block resource coordinators will fill the checklist.",
+    "Two data sources – portal entries and field reports – will be compared.",
+    "The move aims to improve school infrastructure monitoring."
+   ],
+   "points_gu": [
+    "ક્લસ્ટર અને બ્લોક રિસોર્સ કોઓર્ડિનેટર્સ ચેકલિસ્ટ ભરે છે.",
+    "પોર્ટલ એન્ટ્રી અને ક્ષેત્ર રિપોર્ટ બે ડેટા સ્ત્રોતો સરખાવશે.",
+    "શાળાની ઢાંચો નિરીક્ષણ સુધારવા માટે આ પગલું."
+   ],
+   "context_en": "UDISE+ is the Central government's unified school data portal launched in 2019.",
+   "context_gu": "UDI​SE+ કેન્દ્ર સરકારનું એકીકૃત શાળા ડેટા પોર્ટલ છે, 2019 માં શરૂ થયું.",
+   "remember_en": "Monthly 78‑point checks start September 2026 in Gujarat schools.",
+   "remember_gu": "સપ્ટેમ્બર 2026 થી ગુજરાતની શાળાઓમાં 78‑બિંદુ માસિક ચેક શરૂ.",
+   "why_en": "Exam may ask about new inspection system and its purpose.",
+   "why_gu": "પરીક્ષામાં નવા નિરીક્ષણ પ્રણાલી અને હેતુ વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "In September 2026 Gujarat's education department introduced a 78‑point checklist for government primary and secondary schools. Cluster and block resource coordinators will visit each school once a month, fill the form and compare the findings with data schools entered on the Central government's UDISE+ portal. State Project Director Nagarajan M. said the dual‑source approach will help spot wrong entries and take corrective action, improving infrastructure monitoring such as toilets and maintenance.",
+   "details_gu": "સપ્ટેમ્બર 2026 માં ગુજરાતના શિક્ષણ વિભાગે સરકારની પ્રાથમિક અને માધ્યમિક શાળાઓ માટે 78‑બિંદુ ચેકલિસ્ટ રજૂ કર્યો. ક્લસ્ટર અને બ્લોક રિસોર્સ કોઓર્ડિનેટર્સ દરેક શાળાનું માસિક નિરીક્ષણ કરશે, ફોર્મ ભરીને કેન્દ્ર સરકારના UDISE+ પોર્ટલમાં દાખલ થયેલ ડેટા સાથે સરખાવશે. સ્ટેટ પ્રોજેક્ટ ડિરેક્ટર નગરજણ એમ. કહે છે કે આ દ્વિ‑સ્રોત પદ્ધતિ ખોટી એન્ટ્રી શોધી સુધારવામાં મદદ કરશે, જેમ કે શૌચાલય અને જાળવણી જેવી ઢાંચો નિરીક્ષણમાં સુધારો લાવશે.",
+   "mcq": {
+    "q_en": "When did Gujarat start monthly school inspections using a 78‑point checklist?",
+    "q_gu": "ગુજરાતે 78‑બિંદુ ચેકલિસ્ટ સાથે માસિક શાળા નિરીક્ષણ ક્યારે શરૂ કર્યું?",
+    "o_en": [
+     "January 2026",
+     "June 2026",
+     "September 2026",
+     "December 2026"
+    ],
+    "o_gu": [
+     "જાન્યુઆરી 2026",
+     "જૂન 2026",
+     "સપ્ટેમ્બર 2026",
+     "ડિસેમ્બર 2026"
+    ],
+    "a": 2,
+    "e_en": "The inspections began in September 2026.",
+    "e_gu": "નિરીક્ષણો સપ્ટેમ્બર 2026 માં શરૂ થયા."
+   },
+   "id": "ca-gujarat-schools-to-get-monthly-inspections-with-78-point-che",
+   "source": "https://news.careers360.com/gujarat-government-schools-to-undergo-monthly-inspections-under-new-78-point-checklist",
+   "exam": {
+    "score": 7,
+    "why": "78‑point school inspection checklist"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://news.careers360.com/gujarat-government-schools-to-undergo-monthly-inspections-under-new-78-point-checklist"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-21"
   }
  ]
 }
