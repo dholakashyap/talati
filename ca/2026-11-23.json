@@ -269,6 +269,176 @@
    "by": "groq"
   },
   {
+   "category": "schemes",
+   "title_en": "Bank of Baroda Leads PM SVANidhi Disbursements, Wins 2026 Award",
+   "title_gu": "બેંક ઓફ બરોડાએ पीएम સ્વાનિધી લોનમાં અગ્રતા, 2026નું એવોર્ડ જીતી લીધું",
+   "summary_en": "Bank of Baroda gave the most loans under the Prime Minister Svani​dh​i Scheme and received the Svanidhi Samman Award for 2026.",
+   "summary_gu": "બેંક ઓફ બરોડાએ પ્રધાનમંત્રી સ્વાનિધી યોજના હેઠળ સૌથી વધુ લોન આપી અને 2026નું સ્વાનિધી સમ્માન એવોર્ડ જીતી લીધું.",
+   "facts": [
+    {
+     "k_en": "Bank",
+     "k_gu": "બેંક",
+     "v_en": "Bank of Baroda",
+     "v_gu": "બેંક ઓફ બરોડા"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજન​ા",
+     "v_en": "Prime Minister Svani​dh​i Scheme",
+     "v_gu": "પ્રધાનમંત્રી સ્વાનિધી યોજના"
+    },
+    {
+     "k_en": "Award",
+     "k_gu": "એવોર્ડ",
+     "v_en": "Svanidhi Samman Award 2026",
+     "v_gu": "સ્વાનિધી સમ્માન એવોર્ડ 2026"
+    },
+    {
+     "k_en": "Achievement",
+     "k_gu": "સાધન​ો",
+     "v_en": "Top loan disbursement",
+     "v_gu": "લોન વિતરણમાં અગ્રતા"
+    }
+   ],
+   "points_en": [
+    "Bank of Baroda led in loan amount under the scheme.",
+    "The award recognises outstanding performance in the scheme."
+   ],
+   "points_gu": [
+    "બેંક ઓફ બરોડાએ યોજનામાં લોન રકમમાં અગ્રતા મેળવી.",
+    "એવોર્ડ યોજનામાં શ્રેષ્ઠ પ્રદર્શન માટે આપવામાં આવે છે."
+   ],
+   "context_en": "PM Svani​dh​i Scheme supports micro‑entrepreneurs with collateral‑free loans; launched in 2015 by the Ministry of Finance.",
+   "context_gu": "પ્રધાનમંત્રી સ્વાનિધી યોજના નાણાકીય મંત્રાલય દ્વારા 2015માં શરૂ થયેલી, નાનાં ઉદ્યોગપતિઓને ગિરવે‑મુક્ત લોન આપે છે.",
+   "remember_en": "Bank of Baroda topped PM Svani​dh​i loans, won 2026 award.",
+   "remember_gu": "બેંક ઓફ બરોડાએ PM સ્વાનિધી લોનમાં અગ્રતા, 2026 એવોર્ડ જીતી.",
+   "why_en": "Shows which bank excels in government micro‑finance schemes.",
+   "why_gu": "સરકારી માઇક્રો‑ફાઇનાન્સ યોજનામાં કયું બેંક શ્રેષ્ઠ છે તે બતાવે છે.",
+   "details_en": "Bank of Baroda disbursed the highest amount of loans under the Prime Minister Svani​dh​i Scheme, a programme that offers collateral‑free credit to micro‑entrepreneurs. For this performance, the bank received the Svanidhi Samman Award for 2026, which recognises the top performer among banks in the scheme. The award highlights the bank's role in promoting financial inclusion and supporting small businesses across India.",
+   "details_gu": "બેંક ઓફ બરોડાએ પ્રધાનમંત્રી સ્વાનિધી યોજનામાં સૌથી વધુ લોન વિતરણ કરી. આ યોજના નાનાં ઉદ્યોગપતિઓને ગિરવે‑મુક્ત ક્રેડિટ આપે છે. શ્રેષ્ઠ પ્રદર્શન માટે, બેંકને 2026નું સ્વાનિધી સમ્માન એવોર્ડ મળ્યું, જે યોજનામાં ટોચનું બેંક દર્શાવે છે. એવોર્ડ નાણાકીય સમાવેશ અને નાના વ્યવસાયોનું સમર્થન કરવા બેંકની ભૂમિકા દર્શાવે છે.",
+   "mcq": {
+    "q_en": "Which bank received the Svanidhi Samman Award 2026 for topping loan disbursements under the PM Svani​dh​i Scheme?",
+    "q_gu": "કયું બેંક PM સ્વાનિધી યોજનામાં લોન વિતરણમાં અગ્રતા માટે 2026નું સ્વાનિધી સમ્માન એવોર્ડ મેળવ્યું?",
+    "o_en": [
+     "State Bank of India",
+     "Bank of Baroda",
+     "Punjab National Bank",
+     "HDFC Bank"
+    ],
+    "o_gu": [
+     "સ્ટેટ બેંક ઓફ ઈન્ડિયા",
+     "બેંક ઓફ બરોડા",
+     "પંજાબ નેશનલ બેંક",
+     "એચડીએફસી બેંક"
+    ],
+    "a": 1,
+    "e_en": "Bank of Baroda topped the scheme and won the award.",
+    "e_gu": "બેંક ઓફ બરોડાએ યોજનામાં અગ્રતા મેળવી અને એવોર્ડ જીતી."
+   },
+   "id": "ca-bank-of-baroda-leads-pm-svanidhi-disbursements-wins-2026-awa",
+   "source": "https://orissadiary.com/bank-of-baroda-tops-loan-disbursements-under-pm-svanidhi-scheme-wins-svanidhi-samman-award-2026/",
+   "exam": {
+    "score": 7,
+    "why": "PM SVANidhi performance award"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://orissadiary.com/bank-of-baroda-tops-loan-disbursements-under-pm-svanidhi-scheme-wins-svanidhi-samman-award-2026/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "science",
+   "title_en": "Trial runs of Surat‑Bilimora high‑speed train to start April‑May 2027",
+   "title_gu": "સુરત‑બિલિમોરા હાઇ‑સ્પીડ ટ્રેનની ટ્રાયલ રન એપ્રિલ‑મેઈ 2027માં શરૂ",
+   "summary_en": "India will begin trial runs of the indigenously built high‑speed train on the Surat‑Bilimora stretch in April‑May 2027.",
+   "summary_gu": "ભારતમાં સુરત‑બિલિમોરા માર્ગ પર દેશી હાઇ‑સ્પીડ ટ્રેનની ટ્રાયલ રન એપ્રિલ‑મેઈ 2027માં શરૂ થશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Railway Minister Ashwini Vaishnaw",
+     "v_gu": "રેલમંત્રિ અશ્વિની વૈશ્વનવ"
+    },
+    {
+     "k_en": "When (trial runs)",
+     "k_gu": "ક્યારે (ટ્રાયલ રન)",
+     "v_en": "April‑May 2027",
+     "v_gu": "એપ્રિલ‑મેઈ 2027"
+    },
+    {
+     "k_en": "Where (section)",
+     "k_gu": "ક્યાં (વિભાગ)",
+     "v_en": "Surat to Bilimora, Gujarat",
+     "v_gu": "સુરત થી બિલિમોરા, ગુજરાત"
+    },
+    {
+     "k_en": "Manufacturer",
+     "k_gu": "નિર્માતા",
+     "v_en": "BEML Aditya facility, Bengaluru",
+     "v_gu": "બીએમએલ એદિત્યા સુવિધા, બેંગલુરુ"
+    },
+    {
+     "k_en": "Speed",
+     "k_gu": "ગતિ",
+     "v_en": "Cover 50 km in ~6 minutes",
+     "v_gu": "૫૦ કિ.મી.ને ~૬ મિનિટમાં"
+    }
+   ],
+   "points_en": [
+    "Trial runs are limited to Surat‑Bilimora despite plans for Surat‑Vapi.",
+    "Signalling work will finish by January 2027.",
+    "The train passed a ‘squeeze test’ confirming structural strength."
+   ],
+   "points_gu": [
+    "સુરત‑બિલિમોરા સુધી ટ્રાયલ, સુરત‑વાપી નહીં.",
+    "સિગ્નલિંગ કામ જાન્યુઆરી 2027 સુધી પૂર્ણ.",
+    "ટ્રેનનું ‘સ્ક્વીઝ ટેસ્ટ’ સફળ, મજબૂતતા પુષ્ટિ."
+   ],
+   "context_en": "National High Speed Rail Corporation Limited (NHSRCL) builds the 508 km Mumbai‑Ahmedabad bullet train corridor.",
+   "context_gu": "નેશનલ હાઇ સ્પીડ રેલ કોર્પોરેશન લિમિટેડ (NHSRCL) ૫૦૮ કિ.મી.નું મુંબઈ‑આહમદાબાદ બુલેટ ટ્રેન માર્ગ બનાવી રહી છે.",
+   "remember_en": "Ashwini Vaishnaw announced Surat‑Bilimora trial runs for April‑May 2027.",
+   "remember_gu": "અશ્વિની વૈશ્વનવએ સુરત‑બિલિમોરા ટ્રાયલ એપ્રિલ‑મેઈ 2027માં જાહેર કર્યું.",
+   "why_en": "Exam may ask about dates, officials, and the train’s speed and manufacturer.",
+   "why_gu": "પરીક્ષામાં તારીખો, અધિકારી, ટ્રેનની ગતિ અને નિર્માતા વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "Railway Minister Ashwini Vaishnaw said trial runs of the Made‑In‑India high‑speed train will start on the Surat‑Bilimora section in April‑May 2027. The 50 km stretch is expected to take about six minutes, far faster than the current 45‑90 minute travel time. BEML is manufacturing the train sets at its Aditya plant in Bengaluru, and the rolling stock recently passed a critical squeeze test that checks structural strength under double atmospheric pressure. Signalling systems are slated to be completed by the end of January 2027. Although the full corridor from Surat to Vapi is planned, delays restrict the initial trial to Surat‑Bilimora. The corridor forms part of the 508 km Mumbai‑Ahmedabad high‑speed rail line built by NHSRCL, which will later allow travel across the whole stretch in roughly two hours.",
+   "details_gu": "રેલમંત્રિ અશ્વિની વૈશ્વનવએ કહ્યું કે દેશી હાઇ‑સ્પીડ ટ્રેનની ટ્રાયલ રન સુરત‑બિલિમોરા વિભાગમાં એપ્રિલ‑મેઈ 2027માં શરૂ થશે. ૫૦ કિ.મી.નું માર્ગ લગભગ છ મિનિટમાં પૂર્ણ થશે, જ્યારે હાલ ૪૫‑૯૦ મિનિટ લાગે છે. ટ્રેન સેટ્સ બીએમએલની એદિત્યા ફેક્ટરી, બેંગલુરુમાં બને છે અને તાજેતરમાં સ્ક્વીઝ ટેસ્ટ પાસ કર્યું છે, જે ટ્રેનની બોડીની મજબૂતી તપાસે છે. સિગ્નલિંગ કામ જાન્યુઆરી 2027 સુધી પૂર્ણ થશે. સંપૂર્ણ સુરત‑વાપી વિભાગની યોજના છે, પણ કામમાં વિલંબને કારણે પ્રારંભિક ટ્રાયલ માત્ર સુરત‑બિલિમોરા સુધી મર્યાદિત છે. આ વિભાગ ૫૦૮ કિ.મી.નું મુંબઈ‑આહમદાબાદ હાઇ‑સ્પીડ રેલ માર્ગનો ભાગ છે, જે NHSRCL દ્વારા બનાવવામાં આવી રહ્યું છે અને આખો માર્ગ લગભગ બે કલાકમાં કવર થશે.",
+   "mcq": {
+    "q_en": "When are the trial runs of the Surat‑Bilimora high‑speed train scheduled to begin?",
+    "q_gu": "સુરત‑બિલિમોરા હાઇ‑સ્પીડ ટ્રેનની ટ્રાયલ રન ક્યારે શરૂ થવાની છે?",
+    "o_en": [
+     "January 2027",
+     "April‑May 2027",
+     "July 2027",
+     "August 2027"
+    ],
+    "o_gu": [
+     "જાન્યુઆરી 2027",
+     "એપ્રિલ‑મેઈ 2027",
+     "જુલાઈ 2027",
+     "ઓગસ્ટ 2027"
+    ],
+    "a": 1,
+    "e_en": "The minister announced trial runs for April‑May 2027.",
+    "e_gu": "મંત્રીએ એપ્રિલ‑મેઈ 2027માં ટ્રાયલ રનની જાહેરાત કરી."
+   },
+   "id": "ca-trial-runs-of-surat-bilimora-high-speed-train-to-start-april",
+   "source": "https://www.thehindu.com/news/national/trial-runs-for-high-speed-surat-bilimora-train-to-begin-in-april-may-2027-railway-minister/article71735387.ece",
+   "exam": {
+    "score": 7,
+    "why": "high‑speed Surat‑Bilimora trial, infrastructure"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/trial-runs-for-high-speed-surat-bilimora-train-to-begin-in-april-may-2027-railway-minister/article71735387.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "environment",
    "title_en": "National Green Tribunal asks Gujarat on PFAS water safety",
    "title_gu": "નેશનલ ગ્રીન ટ્રિબ્યુનલે ગુજરાતને PFAS પાણી સલામતી માટે પૂછ્યું",
@@ -442,6 +612,188 @@
     {
      "name": "Google News: schemes, appointments, MoUs",
      "url": "https://ianslive.in/india-nepal-sign-mou-on-use-of-south-asia-satellite--20261123142703"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Coal Ministry issues new mining and closure guidelines",
+   "title_gu": "કોલ મંત્રાલયએ નવા ખનન અને બંધની માર્ગદર્શિકા જારી કરી",
+   "summary_en": "On 20 November 2026 the Ministry of Coal released guidelines for mining and closure of coal and lignite mines, effective 30 days later.",
+   "summary_gu": "20 નવેમ્બર 2026 ના રોજ કોલ મંત્રાલયએ કોયલા અને લિગ્નાઇટ ખાણો માટે的新 માર્ગદર્શિકા જારી કરી, જે 30 દિવસ પછી અસરકારક થશે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Mining and closure guidelines for coal and lignite mines",
+     "v_gu": "કોયલા અને લિગ્નાઇટ ખાણો માટે ખનન અને બંધની માર્ગદર્શિકા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "20 November 2026",
+     "v_gu": "20 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "Effective after",
+     "k_gu": "પ્રભાવિત સમય",
+     "v_en": "30 days from issue date",
+     "v_gu": "જારી તારીખથી 30 દિવસ પછી"
+    },
+    {
+     "k_en": "Key change",
+     "k_gu": "મુખ્ય ફેરફાર",
+     "v_en": "Escrow claim settlement period reduced to one month",
+     "v_gu": "એસ્ક્રો દાવા નિકાલ સમયગાળો એક મહિના સુધી ઘટાડ્યો"
+    },
+    {
+     "k_en": "New method recognised",
+     "k_gu": "નવો પદ્ધતિ",
+     "v_en": "Underground coal gasification recognised as mining method",
+     "v_gu": "ભૂગર્ભ કોયલા ગેસિફિકેશનને ખનન પદ્ધતિ તરીકે માન્યતા"
+    }
+   ],
+   "points_en": [
+    "Guidelines aim for scientific, result‑oriented mining plans.",
+    "They set clear time‑limits for approval stages.",
+    "Flexibility helps faster mine operations and energy security."
+   ],
+   "points_gu": [
+    "માર્ગદર્શિકા વૈજ્ઞાનિક, પરિણામ‑કેન્દ્રિત ખનન યોજનાઓ માટે છે.",
+    "મંજૂરી તબક્કાઓ માટે સ્પષ્ટ સમયમર્યાદા નક્કી કરે છે.",
+    "લવચીકતા ઝડપી ખાણ કામગીરી અને ઊર્જા સુરક્ષા માટે મદદરૂપ."
+   ],
+   "context_en": "The Ministry of Coal (India) formulates policies for coal mining and related activities.",
+   "context_gu": "ભારતનું કોલ મંત્રાલય કોયલા ખનન અને સંબંધિત નીતિઓ બનાવે છે.",
+   "remember_en": "Guidelines issued 20 Nov 2026, effective after 30 days.",
+   "remember_gu": "માર્ગદર્શિકા 20 નવેમ્બર 2026ને જારી, 30 દિવસ પછી અસરકારક.",
+   "why_en": "Exam may ask dates, purpose and key changes in mining policy.",
+   "why_gu": "પરીક્ષામાં તારીખો, હેતુ અને ખનન નીતિમાં મુખ્ય ફેરફારો પૂછાઈ શકે.",
+   "details_en": "The Ministry of Coal released the \"Guidelines for Preparing Mining and Closure Plans for Coal and Lignite Mines, 2026\" on 20 November 2026. They become effective 30 days after issuance. The document provides a result‑oriented framework that complements existing legal provisions and avoids duplication. It introduces fixed time‑limits for each approval stage, shortens the escrow claim settlement period to one month, and expands agency scope for five‑year claim verification. Underground coal gasification is now recognised as a mining method, giving project proposers more flexibility for quicker mine operation, which is expected to boost energy security and support scientific closure and reuse of mines.",
+   "details_gu": "કોલ મંત્રાલયએ 20 નવેમ્બર 2026ને \"કોયલા અને લિગ્નાઇટ ખાણો માટે ખનન અને બંધની યોજનાઓ તૈયાર કરવા સંબંધિત માર્ગદર્શિકા, 2026\" જારી કરી. આ માર્ગદર્શિકા જારી તારીખથી 30 દિવસ પછી અસરકારક થશે. તે પરિણામ‑કેન્દ્રિત માળખું આપે છે, જે હાલની કાનૂની વ્યવસ્થાઓને પૂરક છે અને પુનરાવર્તન ટાળે છે. દરેક મંજૂરી તબક્કા માટે સમયમર્યાદા નક્કી કરે છે, એસ્ક્રો દાવા નિકાલ સમયગાળો એક મહિના સુધી ઘટાડે છે, અને પાંચ‑વર્ષીય દાવા ચકાસણી માટે એજન્સીની વ્યાપ્તિ વધારી છે. ભૂગર્ભ કોયલા ગેસિફિકેશનને ખનન પદ્ધતિ તરીકે માન્યતા મળી, પ્રોજેક્ટ પ્રસ્તાવકોને વધુ લવચીકતા આપે છે, જેથી ખાણો ઝડપથી ચલાવી શકાય, જે ઊર્જા સુરક્ષા અને વૈજ્ઞાનિક બંધ અને પુનઃઉપયોગને પ્રોત્સાહિત કરે છે.",
+   "mcq": {
+    "q_en": "When will the 2026 coal mining guidelines become effective?",
+    "q_gu": "2026ની કોયલા ખનન માર્ગદર્શિકા ક્યારે અસરકારક થશે?",
+    "o_en": [
+     "Immediately",
+     "15 days after issue",
+     "30 days after issue",
+     "On 1 January 2027"
+    ],
+    "o_gu": [
+     "તાત્કાલિક",
+     "જારી પછી 15 દિવસ",
+     "જારી પછી 30 દિવસ",
+     "1 જાન્યુઆરી 2027ને"
+    ],
+    "a": 2,
+    "e_en": "The guidelines are effective 30 days after the issue date.",
+    "e_gu": "માર્ગદર્શિકા જારી તારીખથી 30 દિવસ પછી અસરકારક થાય છે."
+   },
+   "id": "ca-coal-ministry-issues-new-mining-and-closure-guidelines",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340547",
+   "exam": {
+    "score": 6,
+    "why": "Coal ministry mining‑plan guidelines"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340547"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "science",
+   "title_en": "India completes national landslide susceptibility map",
+   "title_gu": "ભારતમાં પૂર્ણ થયું રાષ્ટ્રીય ભૂસ્ખલન સંવેદનશીલતા નકશો",
+   "summary_en": "India mapped landslide risk over 4.3 lakh sq km and recorded about 91,000 past landslides.",
+   "summary_gu": "ભારતમાં 4.3 લાખ ચોરસ કિલોમીટર વિસ્તારમાં ભૂસ્ખલન જોખમનું નકશો તૈયાર કર્યું અને લગભગ 91,000 ભૂસ્ખલનોનો રેકોર્ડ બનાવ્યો.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Jitendra Singh**, Minister for Science and Technology",
+     "v_gu": "**જિતેન્દ્ર સિંહ**, વિજ્ઞાન અને ટેકનોલોજી મંત્રી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**23 November 2026**",
+     "v_gu": "**23 નવેમ્બર 2026**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**Faridabad**, at Amrita Vishwa Vidyapeetham",
+     "v_gu": "**ફરીદાબાદ**, અમૃતા વિશ્વવિદ્યાપીઠમાં"
+    },
+    {
+     "k_en": "Area",
+     "k_gu": "ક્ષેત્રફળ",
+     "v_en": "**4.3 lakh sq km**",
+     "v_gu": "**4.3 લાખ ચોરસ કિ.મી.**"
+    },
+    {
+     "k_en": "Historical landslides",
+     "k_gu": "ઇતિહાસિક ભૂસ્ખલન",
+     "v_en": "**≈91,000** events",
+     "v_gu": "**≈91,000** ઘટનાઓ"
+    }
+   ],
+   "points_en": [
+    "National mapping supports prevention and risk reduction.",
+    "The National Landslide Forecasting Centre started in Kolkata in 2024.",
+    "It now works in 20 districts across vulnerable regions."
+   ],
+   "points_gu": [
+    "રાષ્ટ્રીય નકશો નિવારણ અને જોખમ ઘટાડામાં મદદ કરે છે.",
+    "રાષ્ટ્રીય ભૂસ્ખલન પૂર્વાનુમાન કેન્દ્ર 2024માં કોલકાતા માં શરૂ થયું.",
+    "હવે 20 જિલ્લાઓમાં કાર્યરત છે."
+   ],
+   "context_en": "The Department of Science and Technology runs India's disaster‑risk programmes; the National Landslide Forecasting Centre is based in Kolkata.",
+   "context_gu": "વિજ્ઞાન અને ટેકનોલોજી મંત્રાલય ભારતની આપત્તિ‑જોખમ યોજનાઓ ચલાવે છે; રાષ્ટ્રીય ભૂસ્ખલન પૂર્વાનુમાન કેન્દ્ર કોલકાતામાં છે.",
+   "remember_en": "Map covers 4.3 lakh sq km; 91,000 landslides recorded.",
+   "remember_gu": "નકશો 4.3 લાખ ચોરસ કિ.મી. આવરી લે છે; 91,000 ભૂસ્ખલન નોંધાયા.",
+   "why_en": "Exam may ask about the map size, date, and responsible minister.",
+   "why_gu": "પરીક્ષામાં નકશાનો વિસ્તાર, તારીખ અને જવાબદાર મંત્રી વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 23 November 2026, Minister for Science and Technology **Jitendra Singh** spoke at the 7th World Landslide Forum in **Faridabad**. He said India finished a national landslide susceptibility mapping covering about **4.3 lakh sq km** and compiled a database of nearly **91,000** historical landslides up to the end of 2025. The mapping marks a shift from post‑disaster relief to prevention and risk reduction. The **National Landslide Forecasting Centre**, set up in Kolkata in 2024, now operates in **20 districts**, while the **Regional Landslide Forecasting System** started in 2020 continues to support forecasting in vulnerable areas.",
+   "details_gu": "23 નવેમ્બર 2026ને, વિજ્ઞાન અને ટેકનોલોજી મંત્રી **જિતેન્દ્ર સિંહ** ફરીદાબાદમાં યોજાયેલ 7મો વર્લ્ડ લેન્ડસ્લાઇડ ફોરમમાં બોલ્યા. તેમણે જણાવ્યું કે ભારતએ લગભગ **4.3 લાખ ચોરસ કિ.મી.** વિસ્તારનું રાષ્ટ્રીય ભૂસ્ખલન સંવેદનશીલતા નકશો પૂર્ણ કર્યું અને 2025ના અંત સુધીમાં **≈91,000** ઇતિહાસિક ભૂસ્ખલનોનો ડેટાબેઝ તૈયાર કર્યો. આ નકશો આપત્તિ પછીની રાહતથી નિવારણ અને જોખમ ઘટાડા તરફનું પરિવર્તન દર્શાવે છે. **રાષ્ટ્રીય ભૂસ્ખલન પૂર્વાનુમાન કેન્દ્ર**, 2024માં કોલકાતા માં સ્થાપિત, હવે **20 જિલ્લાઓ**માં કાર્યરત છે, જ્યારે **પ્રાદેશિક ભૂસ્ખલન પૂર્વાનુમાન સિસ્ટમ** 2020માં શરૂ થઈને જોખમવાળા વિસ્તારોમાં પૂર્વાનુમાનને સહાય આપે છે.",
+   "mcq": {
+    "q_en": "What area did India’s national landslide susceptibility map cover?",
+    "q_gu": "ભારતના રાષ્ટ્રીય ભૂસ્ખલન સંવેદનશીલતા નકશાએ કયા ક્ષેત્રને આવરી લીધો?",
+    "o_en": [
+     "≈2.5 lakh sq km",
+     "≈3.8 lakh sq km",
+     "≈4.3 lakh sq km",
+     "≈5.0 lakh sq km"
+    ],
+    "o_gu": [
+     "≈2.5 લાખ ચોરસ કિ.મી.",
+     "≈3.8 લાખ ચોરસ કિ.મી.",
+     "≈4.3 લાખ ચોરસ કિ.મી.",
+     "≈5.0 લાખ ચોરસ કિ.મી."
+    ],
+    "a": 2,
+    "e_en": "The map covered about 4.3 lakh sq km.",
+    "e_gu": "નકશો લગભગ 4.3 લાખ ચોરસ કિ.મી. આવરી લે છે."
+   },
+   "id": "ca-india-completes-national-landslide-susceptibility-map",
+   "source": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece",
+   "exam": {
+    "score": 6,
+    "why": "nationwide landslide‑susceptibility mapping"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece"
+    },
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece"
     }
    ],
    "by": "groq"
