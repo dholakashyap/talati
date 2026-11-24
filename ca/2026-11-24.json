@@ -2,6 +2,95 @@
  "date": "2026-11-24",
  "items": [
   {
+   "category": "schemes",
+   "title_en": "Gujarat reports 2.73 crore active Ayushman cards and Rs 7,235 crore approved",
+   "title_gu": "ગુજરાતમાં 2.73 કરોડ સક્રિય આયુષ્માન કાર્ડ અને રૂ. 7,235 કરોડ મંજૂર",
+   "summary_en": "The state says 2.73 crore Ayushman cards are active and Rs 7,235 crore have been sanctioned in two years.",
+   "summary_gu": "રાજ્ય જણાવે છે કે 2.73 કરોડ આયુષ્માન કાર્ડ સક્રિય છે અને બે વર્ષમાં રૂ. 7,235 કરોડ મંજૂર થયા છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Active Ayushman cards",
+     "v_gu": "સક્રિય આયુષ્માન કાર્ડ"
+    },
+    {
+     "k_en": "Number",
+     "k_gu": "સંખ્યા",
+     "v_en": "2.73 crore",
+     "v_gu": "2.73 કરોડ"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાનું નામ",
+     "v_en": "Pradhan Mantri Jan Arogya Yojana–Mukhyamantri Amrutam Yojana (PMJAY‑MA)",
+     "v_gu": "પ્રધાનમંત્રી જન આરોગ્ય યોજના‑મુખ्यमंत्री અમૃતમ યોજના (PMJAY‑MA)"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "Rs 7,235.49 crore",
+     "v_gu": "રૂ. 7,235.49 કરોડ"
+    },
+    {
+     "k_en": "Period",
+     "k_gu": "સમયગાળો",
+     "v_en": "Two years up to 2025‑26",
+     "v_gu": "2025‑26 સુધીના બે વર્ષ"
+    }
+   ],
+   "points_en": [
+    "25.24 lakh new cards approved in 2024‑25",
+    "31.78 lakh new cards approved in 2025‑26 so far",
+    "49 hospitals suspended, 29 still suspended"
+   ],
+   "points_gu": [
+    "2024‑25માં 25.24 લાખ નવા કાર્ડ મંજૂર",
+    "2025‑26માં અત્યાર સુધી 31.78 લાખ નવા કાર્ડ મંજૂર",
+    "49 હોસ્પિટલ નિલંબિત, 29 હજુ નિલંબિત"
+   ],
+   "context_en": "PMJAY‑MA is a central‑state health insurance scheme providing cash‑less treatment to poor families.",
+   "context_gu": "PMJAY‑MA કેન્દ્ર‑રાજ્ય આરોગ્ય વીમા યોજના છે, જે ગરીબ પરિવારોને નગદ‑મુક્ત સારવાર આપે છે.",
+   "remember_en": "2.73 crore cards, Rs 7,235 crore approved in two years.",
+   "remember_gu": "2.73 કરોડ કાર્ડ, રૂ. 7,235 કરોડ બે વર્ષમાં.",
+   "why_en": "Shows scheme’s scale and state’s financial commitment, common exam topic.",
+   "why_gu": "યોજનાની વ્યાપકતા અને રાજ્યની નાણાકીય પ્રતિબદ્ધતા દર્શાવે છે, પરીક્ષામાં સામાન્ય.",
+   "details_en": "Gujarat Health Minister Praful Pansheriya told the Assembly that 2.73 crore Ayushman cards are active under PMJAY‑MA. In 2024‑25, 25.24 lakh new cards were approved and 13.40 lakh claims worth Rs 3,666.53 crore were sanctioned. In 2025‑26 so far, 31.78 lakh new cards were approved and 14.15 lakh claims worth Rs 3,568.96 crore were cleared. Over the last two years, 49 hospitals were suspended, 29 remain suspended. The state budget allocated Rs 3,472 crore for the scheme.",
+   "details_gu": "ગુજરાતના આરોગ્ય મંત્રી પ્રફુલ પંશેરિયાએ સભામાં જણાવ્યું કે PMJAY‑MA હેઠળ 2.73 કરોડ આયુષ્માન કાર્ડ સક્રિય છે. 2024‑25માં 25.24 લાખ નવા કાર્ડ મંજૂર અને 13.40 લાખ દાવાઓ રૂ. 3,666.53 કરોડની મંજૂરી મળી. 2025‑26માં અત્યાર સુધી 31.78 લાખ નવા કાર્ડ અને 14.15 લાખ દાવાઓ રૂ. 3,568.96 કરોડની મંજૂરી મળી. છેલ્લા બે વર્ષમાં 49 હોસ્પિટલ નિલંબિત, 29 હજુ નિલંબિત. રાજ્ય બજેટમાં યોજનાને રૂ. 3,472 કરોડ ફાળવવામાં આવ્યા છે.",
+   "mcq": {
+    "q_en": "How many active Ayushman cards does Gujarat report?",
+    "q_gu": "ગુજરાતમાં કેટલા સક્રિય આયુષ્માન કાર્ડ છે?",
+    "o_en": [
+     "2.73 crore",
+     "2.5 crore",
+     "3 crore",
+     "2 crore"
+    ],
+    "o_gu": [
+     "2.73 કરોડ",
+     "2.5 કરોડ",
+     "3 કરોડ",
+     "2 કરોડ"
+    ],
+    "a": 0,
+    "e_en": "The report states 2.73 crore active cards.",
+    "e_gu": "રિપોર્ટમાં 2.73 કરોડ સક્રિય કાર્ડ જણાવવામાં આવ્યા છે."
+   },
+   "id": "ca-gujarat-reports-2-73-crore-active-ayushman-cards-and-rs-7-23",
+   "source": "https://ddnews.gov.in/en/gujarat-reports-2-73-crore-active-ayushman-cards-rs-7235-crore-approved-in-two-years/",
+   "exam": {
+    "score": 8,
+    "why": "Ayushman card numbers, major health scheme"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://ddnews.gov.in/en/gujarat-reports-2-73-crore-active-ayushman-cards-rs-7235-crore-approved-in-two-years/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "gujarat",
    "title_en": "Gujarat bans caste signs on private vehicles",
    "title_gu": "ગુજરાતે ખાનગી વાહનો પર જાતિ ચિન્હો પર પ્રતિબંધ મૂક્યો",
@@ -84,6 +173,184 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-government-amends-law-prohibits-display-of-caste-identifying-signage-on-private-vehicles/article71733456.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Nasscom proposes three‑year AI Services Transformation Scheme",
+   "title_gu": "નાસ્કોમે ત્રણ વર્ષનું AI સેવા પરિવર્તન યોજના પ્રસ્તાવિત કરી",
+   "summary_en": "Nasscom asked the government to launch a three‑year AI Services Transformation and Innovation Scheme, to be designed by the Ministry of Electronics and Information Technology and the Finance Ministry.",
+   "summary_gu": "નાસ્કોમે સરકારને ત્રણ વર્ષની AI સેવા પરિવર્તન અને નવોચાર યોજના શરૂ કરવા વિનંતી કરી, જે ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય અને નાણાકીય મંત્રાલય દ્વારા તૈયાર થશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Nasscom (National Association of Software and Service Companies)",
+     "v_gu": "નાસ્કોમ (નેશનલ એસોસિયેશન ઓફ સોફ્ટવેર એન્ડ સર્વિસ કંપનીઝ)"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "AI Services Transformation and Innovation Scheme",
+     "v_gu": "AI સેવા પરિવર્તન અને નવોચાર યોજના"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Proposed in November 2024 for Budget 2027‑28",
+     "v_gu": "નવેમ્બર 2024 માં પ્રસ્તાવિત, બજેટ 2027‑28 માટે"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "India, designed by MeitY and Finance Ministry",
+     "v_gu": "ભારત, ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય અને નાણાકીય મંત્રાલય દ્વારા તૈયાર"
+    },
+    {
+     "k_en": "Duration",
+     "k_gu": "સમયગાળો",
+     "v_en": "Three years",
+     "v_gu": "ત્રણ વર્ષ"
+    }
+   ],
+   "points_en": [
+    "Supports development and commercialisation of AI services made in India.",
+    "Links employee training with supervised AI project deployment.",
+    "Includes a dedicated cybersecurity programme for MSMEs."
+   ],
+   "points_gu": [
+    "ભારતમાં બનાવેલ AI સેવાઓના વિકાસ અને વ્યાપારીકરણને સહાય કરે છે.",
+    "કર્મચારી તાલીમને AI પ્રોજેક્ટની દેખરેખ સાથે જોડે છે.",
+    "માઇક્રો, નાના અને મધ્યમ ઉદ્યોગો માટે સમર્પિત સાયબરસિક્યુરિટી કાર્યક્રમ શામેલ કરે છે."
+   ],
+   "context_en": "The Ministry of Electronics and Information Technology (MeitY) oversees India's IT and electronics policies.",
+   "context_gu": "ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય (MeitY) ભારતની IT અને ઇલેક્ટ્રોનિક્સ નીતિઓનું નિરીક્ષણ કરે છે.",
+   "remember_en": "Three‑year AI scheme proposed by Nasscom for Budget 2027‑28.",
+   "remember_gu": "નાસ્કોમ દ્વારા બજેટ 2027‑28 માટે ત્રણ વર્ષની AI યોજના પ્રસ્તાવિત.",
+   "why_en": "Exam may ask about new AI scheme, ministries involved and its purpose.",
+   "why_gu": "પરીક્ષામાં નવા AI યોજના, સંબંધિત મંત્રાલયો અને તેનો હેતુ પૂછવામાં આવી શકે.",
+   "details_en": "Nasscom submitted pre‑budget recommendations on 24 November 2024, urging the Union Government to create an AI Services Transformation and Innovation Scheme lasting three years. The scheme would be prepared by the Ministry of Electronics and Information Technology and the Finance Ministry in consultation with the industry. It aims to help Indian technology services firms develop and commercialise AI‑based offerings, provide supervised project deployment for employee upskilling, and offer shared technical facilities for smaller companies. A separate cybersecurity programme for micro, small and medium enterprises is also proposed.",
+   "details_gu": "નાસ્કોમે 24 નવેમ્બર 2024 ના રોજ પ્રી‑બજેટ ભલામણો રજૂ કરી, જેમાં યુનિયન સરકારને ત્રણ વર્ષની AI સેવા પરિવર્તન અને નવોચાર યોજના બનાવવા વિનંતી કરી. આ યોજના ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય અને નાણાકીય મંત્રાલય દ્વારા ઉદ્યોગની સલાહ સાથે તૈયાર થશે. તેનો હેતુ ભારતીય ટેકનોલોજી સેવા કંપનીઓને AI આધારિત ઉત્પાદનોનું વિકાસ અને વ્યાપારીકરણમાં સહાય કરવો, કર્મચારીઓની કૌશલ્યવૃદ્ધિ માટે દેખરેખ હેઠળ પ્રોજેક્ટ ડિપ્લોયમેન્ટ આપવો, અને નાની કંપનીઓ માટે શેર કરેલી તકનીકી સુવિધાઓ પ્રદાન કરવો છે. માઇક્રો, નાના અને મધ્યમ ઉદ્યોગો માટે અલગ સાયબરસિક્યુરિટી કાર્યક્રમ પણ પ્રસ્તાવિત છે.",
+   "mcq": {
+    "q_en": "Which ministries are tasked with designing the AI Services Transformation and Innovation Scheme proposed by Nasscom?",
+    "q_gu": "નાસ્કોમ દ્વારા પ્રસ્તાવિત AI સેવા પરિવર્તન અને નવોચાર યોજના ડિઝાઇન કરવા કયા મંત્રાલયો જવાબદાર છે?",
+    "o_en": [
+     "Ministry of Electronics and Information Technology and Finance Ministry",
+     "Ministry of Home Affairs and Ministry of Commerce",
+     "Ministry of Education and Ministry of Health",
+     "Ministry of Agriculture and Ministry of Rural Development"
+    ],
+    "o_gu": [
+     "ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય અને નાણાકીય મંત્રાલય",
+     "ગૃહ મંત્રાલય અને વેપાર મંત્રાલય",
+     "શિક્ષણ મંત્રાલય અને આરોગ્ય મંત્રાલય",
+     "કૃષિ મંત્રાલય અને ગ્રામ વિકાસ મંત્રાલય"
+    ],
+    "a": 0,
+    "e_en": "The scheme is to be designed by MeitY and the Finance Ministry.",
+    "e_gu": "યોજનાને ઇલેક્ટ્રોનિક્સ અને માહિતી ટેકનોલોજી મંત્રાલય (MeitY) અને નાણાકીય મંત્રાલય દ્વારા ડિઝાઇન કરવામાં આવશે."
+   },
+   "id": "ca-nasscom-proposes-three-year-ai-services-transformation-schem",
+   "source": "https://www.indiagazette.com/news/279451330/nasscom-seeks-three-year-ai-transformation-scheme-in-budget-2027-28-to-boost-innovation-reskill-tech-workforce",
+   "exam": {
+    "score": 7,
+    "why": "Nasscom AI scheme request in Budget 2027‑28"
+   },
+   "sources": [
+    {
+     "name": "Google News: schemes, appointments, MoUs",
+     "url": "https://www.indiagazette.com/news/279451330/nasscom-seeks-three-year-ai-transformation-scheme-in-budget-2027-28-to-boost-innovation-reskill-tech-workforce"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "schemes",
+   "title_en": "India administers over 1 crore HPV vaccine doses in under 9 months",
+   "title_gu": "ભારતમાં 9 મહિના કરતાં ઓછા સમયમાં 1 કરોડ HPV ટીકાઓ આપ્યા",
+   "summary_en": "More than 10 million HPV vaccine doses were given to 14‑year‑old girls across India in less than nine months, a key step to prevent cervical cancer.",
+   "summary_gu": "ભારતમાં 9 મહિના કરતાં ઓછા સમયમાં 14 વર્ષીય કિશોરીઓ માટે 1 કરોડથી વધુ HPV ટીકાઓ આપીને સર્વિકલ કેન્સર રોકવામાં મહત્વપૂર્ણ પ્રગતિ થઈ.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "over 1 crore HPV vaccine doses administered",
+     "v_gu": "1 કરોડથી વધુ HPV ટીકાઓ આપ્યા"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "in less than 9 months",
+     "v_gu": "9 મહિના કરતાં ઓછા સમયમાં"
+    },
+    {
+     "k_en": "Target group",
+     "k_gu": "લક્ષ્ય જૂથ",
+     "v_en": "14‑year‑old adolescent girls",
+     "v_gu": "14 વર્ષીય કિશોરીઓ"
+    },
+    {
+     "k_en": "State highlight",
+     "k_gu": "રાજ્યનું પ્રદર્શન",
+     "v_en": "Gujarat administered over 7.75 lakh doses",
+     "v_gu": "ગુજરાતમાં 7.75 લાખથી વધુ ડોઝ આપ્યા"
+    },
+    {
+     "k_en": "Coverage",
+     "k_gu": "કવરેજ",
+     "v_en": "about 87% of the annual target group",
+     "v_gu": "લક્ષિત જૂથનું 87% કવરેજ"
+    }
+   ],
+   "points_en": [
+    "Prime Minister Narendra Modi praised the achievement.",
+    "World Health Organization congratulated India on the milestone.",
+    "Six states achieved 100% coverage; twelve states over 80%."
+   ],
+   "points_gu": [
+    "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ આ સિદ્ધિની પ્રશંસા કરી.",
+    "વિશ્વ આરોગ્ય સંગઠન (WHO) એ ભારતને અભિનંદન આપ્યું.",
+    "છ રાજ્યમાં 100% કવરેજ, 12 રાજ્યમાં 80%થી વધુ કવરેજ."
+   ],
+   "context_en": "The National HPV Vaccination Programme aims to protect adolescent girls from cervical cancer by providing free HPV vaccine doses.",
+   "context_gu": "રાષ્ટ્રીય HPV ટીકાકરણ કાર્યક્રમ કિશોરીઓને સર્વિકલ કેન્સરથી બચાવવા માટે મુક્ત HPV ટીકાઓ પ્રદાન કરે છે.",
+   "remember_en": "1 crore HPV doses in <9 months, 14‑year‑old girls.",
+   "remember_gu": "1 કરોડ HPV ડોઝ <9 મહિના, 14 વર્ષીય કિશોરીઓ.",
+   "why_en": "Shows India's preventive health push and state‑wise performance for exams.",
+   "why_gu": "પરીક્ષાઓ માટે ભારતની નિવારક આરોગ્ય પહેલ અને રાજ્ય પ્રદર્શન દર્શાવે છે.",
+   "details_en": "In less than nine months, India gave more than ten million human papillomavirus (HPV) vaccine doses to 14‑year‑old girls under the National HPV Vaccination Programme. Prime Minister Narendra Modi praised the effort as a major step in strengthening preventive health services and protecting daughters from cervical cancer. The World Health Organization and the Ministry of Health and Family Welfare highlighted the achievement. About 87% of the annual target of 1.2 crore girls was covered, with six states reaching 100% and twelve states over 80%. Gujarat contributed over 7.75 lakh doses, placing it among the top states after Uttar Pradesh and Bihar.",
+   "details_gu": "9 મહિના કરતાં ઓછા સમયમાં, ભારતએ રાષ્ટ્રીય HPV ટીકાકરણ કાર્યક્રમ હેઠળ 14 વર્ષીય કિશોરીઓને 1 કરોડથી વધુ હ્યુમન પેપિલોમાવાયરસ (HPV) ટીકાઓ આપ્યા. પ્રધાનમંત્રી નરેન્દ્ર મોદીએ આ પ્રયાસને નિવારક આરોગ્ય સેવાઓને મજબૂત 만드는 અને દીકરીઓને સર્વિકલ કેન્સરથી બચાવવાનો મહત્વપૂર્ણ પગલું ગણ્યો. વિશ્વ આરોગ્ય સંગઠન (WHO) અને આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલયએ આ સિદ્ધિની પ્રશંસા કરી. કુલ લક્ષિત 1.2 કરોડ કિશોરીઓમાંથી લગભગ 87% કવરેજ પ્રાપ્ત થયો, છ રાજ્યોમાં 100% અને 12 રાજ્યોમાં 80%થી વધુ કવરેજ થયો. ગુજરાતમાં 7.75 લાખથી વધુ ડોઝ આપ્યા, જે ઉત્તર પ્રદેશ અને બihar પછી ટોચના પ્રદર્શનકારો માં છે.",
+   "mcq": {
+    "q_en": "How many HPV vaccine doses were administered in India in less than nine months?",
+    "q_gu": "ભારતમાં 9 મહિના કરતાં ઓછા સમયમાં કેટલા HPV ટીકાઓ આપ્યા ગયા?",
+    "o_en": [
+     "Around 5 million",
+     "Over 10 million",
+     "Approximately 15 million",
+     "Less than 1 million"
+    ],
+    "o_gu": [
+     "લગભગ 5 મિલિયન",
+     "10 મિલિયનથી વધુ",
+     "લગભગ 15 મિલિયન",
+     "1 મિલિયનથી ઓછા"
+    ],
+    "a": 1,
+    "e_en": "Sources state more than 1 crore (10 million) doses were given.",
+    "e_gu": "સ્રોતોમાં 1 કરોડ (10 મિલિયન)થી વધુ ડોઝ આપ્યા ગયા છે."
+   },
+   "id": "ca-india-administers-over-1-crore-hpv-vaccine-doses-in-under-9-",
+   "source": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340590",
+   "exam": {
+    "score": 7,
+    "why": "HPV vaccine rollout achievement praised"
+   },
+   "sources": [
+    {
+     "name": "PIB, Government of India",
+     "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340590"
     }
    ],
    "by": "groq"
@@ -173,6 +440,95 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://indianmasterminds.com/news/gujarat-chief-secretary-manoj-kumar-das-tenure-extension-succession-race-252810/"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Chief Minister praises Amma's disaster relief work in Gujarat",
+   "title_gu": "મુખ્યમંત્રીએ ગુજરાતમાં અમ્માની આપત્તિ સહાયની પ્રશંસા કરી",
+   "summary_en": "Chief Minister Bhupendra Patel highlighted Amma's help after the Kutch earthquake and Surat floods, noting rebuilt villages and medical aid.",
+   "summary_gu": "મુખ્યમંત્રી ભુપેન્દ્ર પટેલે કચ્છ ભૂકંપ અને સુરત પૂર પછી અમ્માની સહાયની વાત કરી, ગામોનું પુનર્નિર્માણ અને તબીબી સહાયનું ઉલ્લેખ કર્યું.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Mata Amritanandamayi (Amma)",
+     "v_gu": "માતા અમૃતાનંદમયી (અમ્મા)"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Chief Minister of Gujarat",
+     "v_gu": "ગુજરાત મુખ્યમંત્રી"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Nov 21, 2023",
+     "v_gu": "૨૧ નવેમ્બર ૨૦૨૩"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Rebuilt 3 villages, 1,200 houses in Kutch",
+     "v_gu": "કચ્છમાં ૩ ગામો, ૧,૨૦૦ ઘર પુનર્નિર્માણ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Sent medical teams to flood‑hit Surat",
+     "v_gu": "સુરત પૂરમાં તબીબી ટીમો મોકલ્યા"
+    }
+   ],
+   "points_en": [
+    "Amma's organisation built a school in the rebuilt villages.",
+    "Widow assistance scheme beneficiaries received sarees and pension benefits.",
+    "The event launched the ‘Amritashakti’ campaign."
+   ],
+   "points_gu": [
+    "અમ્માની સંસ્થા પુનર્નિર્મિત ગામોમાં શાળા બનાવી.",
+    "વિધવા સહાય યોજના હેઠળ લાભાર્થીઓને સાડી અને પેન્શન મળ્યા.",
+    "કાર્યક્રમમાં ‘અમૃતશક્તિ’ અભિયાન શરૂ થયું."
+   ],
+   "context_en": "Mata Amritanandamayi (Amma) runs Amrita Vidyalayam and humanitarian projects across India.",
+   "context_gu": "માતા અમૃતાનંદમયી (અમ્મા) ભારતભરમાં અમૃત વિદ્યાલય અને માનવતાવાદી પ્રોજેક્ટ ચલાવે છે.",
+   "remember_en": "Amma helped rebuild 1,200 houses in Kutch after the quake.",
+   "remember_gu": "અમ્માએ કચ્છમાં ભૂકંપ પછી ૧,૨૦૦ ઘર પુનર્નિર્માણમાં મદદ કરી.",
+   "why_en": "Exam may ask about disaster relief contributions by NGOs.",
+   "why_gu": "પરીક્ષામાં આપત્તિ સહાયમાં NGOs ના યોગદાન વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "On 21 November 2023, Gujarat Chief Minister Bhupendra Patel spoke at a satsang in Ahmedabad attended by Mata Amritanandamayi (Amma). He recalled that Amma's volunteers rebuilt three villages in Kutch after the earthquake, constructing about 1,200 earthquake‑resistant houses and a school. During the Surat floods, her organisation sent medical teams and medicines to affected families. The programme also distributed sarees and pension benefits to women under Amma's widow assistance scheme and launched the Amritashakti campaign. Patel linked Amma's service to the government's development goals.",
+   "details_gu": "૨૧ નવેમ્બર ૨૦૨૩એ, ગુજરાત મુખ્યમંત્રી ભુપેન્દ્ર પટેલએ અમદાવાદમાં અમ્મા હાજર સાત્સંગમાં ભાષણ આપ્યું. તેમણે કચ્છમાં ભૂકંપ પછી અમ્માના સ્વયંસેવકો દ્વારા ત્રણ ગામોનું પુનર્નિર્માણ, ૧,૨૦૦ ભૂકંપ‑પ્રતિકારક ઘર અને શાળા બનાવવામાં આવી હોવાનું યાદ કર્યું. સુરત પૂર દરમિયાન તેમની સંસ્થાએ તબીબી ટીમો અને દવાઓ પહોંચાડ્યા. કાર્યક્રમમાં અમ્માની વિધવા સહાય યોજના હેઠળ મહિલાઓને સાડી અને પેન્શન આપવામાં આવી અને અમૃતશક્તિ અભિયાન શરૂ થયું. પટેલે આ સેવા ને સરકારની વિકાસ નીતિ સાથે જોડીને દર્શાવ્યું.",
+   "mcq": {
+    "q_en": "How many houses did Amma's organisation rebuild in Kutch after the earthquake?",
+    "q_gu": "કચ્છમાં ભૂકંપ પછી અમ્માની સંસ્થાએ કેટલા ઘર પુનર્નિર્માણ કર્યા?",
+    "o_en": [
+     "800",
+     "1,200",
+     "1,500",
+     "2,000"
+    ],
+    "o_gu": [
+     "૮૦૦",
+     "૧,૨૦૦",
+     "૧,૫૦૦",
+     "૨,૦૦૦"
+    ],
+    "a": 1,
+    "e_en": "The sources state about 1,200 houses were built.",
+    "e_gu": "સ્રોતોમાં ૧,૨૦૦ ઘર બનાવવામાં આવ્યા હોવાનું જણાવાયું છે."
+   },
+   "id": "ca-chief-minister-praises-amma-s-disaster-relief-work-in-gujara",
+   "source": "https://www.socialnews.xyz/2026/11/21/gujarat-cm-recalls-how-ammas-organisation-helped-quake-hit-kutch-flood-hit-surat/",
+   "exam": {
+    "score": 6,
+    "why": "Disaster relief collaboration highlighted"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.socialnews.xyz/2026/11/21/gujarat-cm-recalls-how-ammas-organisation-helped-quake-hit-kutch-flood-hit-surat/"
     }
    ],
    "by": "groq"
