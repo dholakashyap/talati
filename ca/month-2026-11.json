@@ -22306,6 +22306,96 @@
    ],
    "by": "groq",
    "date": "2026-11-24"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Gujarat records high anaemia rates in women and children",
+   "title_gu": "ગુજરાતમાં સ્ત્રીઓ અને બાળકોમાં ઊંચો એનિમિયા દર નોંધાયો",
+   "summary_en": "A national health survey found over 60% of Gujarat's women and more than half of its young children are anaemic.",
+   "summary_gu": "એક રાષ્ટ્રીય આરોગ્ય સર્વેમાં ગુજરાતની સ્ત્રીઓમાં 60%થી વધુ અને નાનાં બાળકોમાં અડધીથી વધુ એનિમિયા હોવાનું જણાયું.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Anaemia prevalence in Gujarat women of reproductive age 66.2%",
+     "v_gu": "ગુજરાતમાં પ્રજનન વયની સ્ત્રીઓમાં એનિમિયા ૬૬.૨%"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Anaemia in adolescent girls 61.4%",
+     "v_gu": "કિશોર કન્યાઓમાં એનિમિયા ૬૧.૪%"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Anaemia in adult women 63.8%",
+     "v_gu": "વયસ્ક સ્ત્રીઓમાં એનિમિયા ૬૩.૮%"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Children 12‑59 months anaemia 56.5%",
+     "v_gu": "૧૨‑૫૯ મહિના બાળકોમાં એનિમિયા ૫૬.૫%"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Survey period 2023‑25",
+     "v_gu": "સર્વે સમયગાળો ૨૦૨૩‑૨૫"
+    }
+   ],
+   "points_en": [
+    "Gujarat ranks second worst after Chhattisgarh.",
+    "Kerala shows the lowest anaemia rates in the country.",
+    "Severe anaemia is below 2% in most age groups."
+   ],
+   "points_gu": [
+    "ગુજરાત ચત્તીસગઢ પછી બીજા સૌથી ખરાબ છે.",
+    "કેરળા દેશમાં સૌથી ઓછો એનિમિયા દર દર્શાવે છે.",
+    "મોટા ભાગના વય જૂથોમાં ગંભીર એનિમિયા ૨%થી ઓછો છે."
+   ],
+   "context_en": "The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) is run by the Indian Council of Medical Research.",
+   "context_gu": "સર્વે માટેનું સંપૂર્ણ નામ Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) છે, જે ભારતીય મેડિકલ રિસર્ચ કાઉન્સિલ ચલાવે છે.",
+   "remember_en": "Gujarat: 66.2% women of reproductive age anaemic (2023‑25).",
+   "remember_gu": "ગુજરાત: ૬૬.૨% પ્રજનન વયની સ્ત્રીઓ એનિમિયાિક (૨૦૨૩‑૨૫).",
+   "why_en": "Exam may ask Gujarat's anaemia rates and compare with other states.",
+   "why_gu": "પરીક્ષામાં ગુજરાતના એનિમિયા દર અને અન્ય રાજ્યો સાથેની તુલના પૂછાઈ શકે છે.",
+   "details_en": "The SAMPADA survey (2023‑25) examined over two lakh people across 183 districts. It found that 66.2% of women aged 15‑49 in Gujarat were anaemic, with adolescent girls at 61.4% and adult women at 63.8%. Children aged 12‑59 months had the highest state prevalence at 56.5%. Only Chhattisgarh performed worse, while Kerala had the lowest rates. Most cases were mild, and severe anaemia was under 2% nationally.",
+   "details_gu": "SAMPADA સર્વે (૨૦૨૩‑૨૫)એ ૧૮૩ જિલ્લાઓમાં ૨ લાખથી વધુ લોકોનું પરીક્ષણ કર્યું. તેમાં ગુજરાતમાં ૧૫‑૪૯ વર્ષની સ્ત્રીઓમાં ૬૬.૨% એનિમિયા, કિશોર કન્યાઓમાં ૬૧.૪% અને વયસ્ક સ્ત્રીઓમાં ૬૩.૮% જણાયા. ૧૨‑૫૯ મહિના બાળકોમાં ૫૬.૫% સૌથી ઊંચો દર હતો. માત્ર ચત્તીસગઢ જ વધુ ખરાબ હતો, જ્યારે કેરળા સૌથી ઓછો દર દર્શાવે છે. મોટાભાગના કેસો હળવા હતા, અને ગંભીર એનિમિયા રાષ્ટ્રીય સ્તરે ૨%થી ઓછો હતો.",
+   "mcq": {
+    "q_en": "What was the anaemia prevalence among women of reproductive age in Gujarat according to the SAMPADA survey (2023‑25)?",
+    "q_gu": "SAMPADA સર્વે (૨૦૨૩‑૨૫) અનુસાર ગુજરાતમાં પ્રજનન વયની સ્ત્રીઓમાં એનિમિયા દર કેટલો હતો?",
+    "o_en": [
+     "61.4%",
+     "63.8%",
+     "66.2%",
+     "56.5%"
+    ],
+    "o_gu": [
+     "૬૧.૪%",
+     "૬૩.૮%",
+     "૬૬.૨%",
+     "૫૬.૫%"
+    ],
+    "a": 2,
+    "e_en": "The report states 66.2% of women aged 15‑49 were anaemic.",
+    "e_gu": "રિપોર્ટમાં જણાવાયું છે કે ૧૫‑૪૯ વર્ષની સ્ત્રીઓમાં ૬૬.૨% એનિમિયા હતા."
+   },
+   "id": "ca-gujarat-records-high-anaemia-rates-in-women-and-children",
+   "source": "https://theopenpress.in/article/gujarat-anaemia-report-congress-questions-jp-nadda-health-survey",
+   "exam": {
+    "score": 6,
+    "why": "Anaemia survey could appear in health GK"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://theopenpress.in/article/gujarat-anaemia-report-congress-questions-jp-nadda-health-survey"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-24"
   }
  ]
 }
