@@ -22216,6 +22216,96 @@
    ],
    "by": "groq",
    "date": "2026-11-24"
+  },
+  {
+   "category": "schemes",
+   "title_en": "Gujarat to Start MSP Procurement of Kharif Moong on Nov 30",
+   "title_gu": "ગુજરાતમાં 30 નવેમ્બરથી ખારીફ મુંગની એમએસપી ખરીદી શરૂ",
+   "summary_en": "The Gujarat government will buy Kharif moong at the Minimum Support Price from 30 Nov 2026.",
+   "summary_gu": "ગુજરાત સરકાર 30 નવેમ્બર 2026થી ખારીફ મુંગને ન્યૂનતમ સહાય કિંમત પર ખરીદશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**Gujarat Government**",
+     "v_gu": "**ગુજરાત સરકાર**"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**MSP procurement of Kharif moong**",
+     "v_gu": "**ખારીફ મુંગની એમએસપી ખરીદી**"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**30 November 2026**",
+     "v_gu": "**30 નવેમ્બર 2026**"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "**Rs 8,780 per quintal**",
+     "v_gu": "**₹ 8,780 પ્રતિ ક્વિન્ટલ**"
+    },
+    {
+     "k_en": "Limit",
+     "k_gu": "મર્યાદા",
+     "v_en": "**550 kg/ha, max 2,500 kg/farmer**",
+     "v_gu": "**550 કિ.ગ્રા પ્રતિ હેક્ટર, મહત્તમ 2,500 કિ.ગ્રા પ્રતિ ખેડૂત**"
+    }
+   ],
+   "points_en": [
+    "Procurement is under the PM‑AASHA scheme.",
+    "Market price is about Rs 8,190, lower than MSP.",
+    "Payments go to Aadhaar‑linked bank accounts via DBT."
+   ],
+   "points_gu": [
+    "ખરીદી PM‑AASHA યોજના હેઠળ છે.",
+    "બજાર ભાવ લગભગ ₹ 8,190, જે એમએસપી કરતા ઓછો છે.",
+    "પેમેન્ટ એ આધાર‑લિંક્ડ બેંક ખાતામાં DBT દ્વારા થાય છે."
+   ],
+   "context_en": "PM‑AASHA (Pradhan Mantri Annadata Aay SanraksHan Abhiyan) is a central scheme for MSP procurement of crops.",
+   "context_gu": "PM‑AASHA (પ્રધાનમંત્રી અન્નદાતા આય સુરક્ષા અભિયાન) કેન્દ્રિય યોજના છે, જે પાકની એમએસપી ખરીદી કરે છે.",
+   "remember_en": "Gujarat MSP moong price: Rs 8,780 per quintal from 30 Nov 2026.",
+   "remember_gu": "ગુજરાતમાં મુંગની એમએસપી કિંમત: 30 નવેમ્બર 2026થી ₹ 8,780 પ્રતિ ક્વિન્ટલ.",
+   "why_en": "Exam may ask MSP amount, date, and procurement limits.",
+   "why_gu": "પરીક્ષામાં એમએસપી રકમ, તારીખ અને મર્યાદા પૂછાઈ શકે.",
+   "details_en": "From 30 November 2026 the Gujarat Government will start buying Kharif moong at the Minimum Support Price of Rs 8,780 per quintal under the PM‑AASHA scheme. The limit is set at 550 kg per hectare and a farmer can sell up to 2,500 kg. Current market rates are around Rs 8,190, so the procurement protects farmers from loss. Registered farmers get SMS alerts and must bring the required quantity to designated centres. Payments are transferred directly to Aadhaar‑seeded bank accounts through Direct Benefit Transfer.",
+   "details_gu": "30 નવેમ્બર 2026થી ગુજરાત સરકાર ખારીફ મુંગને ન્યૂનતમ સહાય કિંમત ₹ 8,780 પ્રતિ ક્વિન્ટલ પર PM‑AASHA યોજના હેઠળ ખરીદશે. મર્યાદા 550 કિ.ગ્રા પ્રતિ હેક્ટર અને એક ખેડૂત મહત્તમ 2,500 કિ.ગ્રા વેચી શકે છે. હાલનું બજાર ભાવ લગભગ ₹ 8,190 છે, તેથી ખરીદી ખેડૂતોને નુકસાનથી બચાવે છે. નોંધાયેલ ખેડૂતને SMS દ્વારા જાણ થાય છે અને નિર્ધારિત કેન્દ્રોમાં જવું પડે છે. પેમેન્ટ એ આધાર‑લિંક્ડ બેંક ખાતામાં DBT દ્વારા સીધી જ થાય છે.",
+   "mcq": {
+    "q_en": "What is the Minimum Support Price for Kharif moong in Gujarat starting 30 Nov 2026?",
+    "q_gu": "30 નવેમ્બર 2026થી ગુજરાતમાં ખારીફ મુંગની ન્યૂનતમ સહાય કિંમત કેટલી છે?",
+    "o_en": [
+     "Rs 8,190 per quintal",
+     "Rs 8,500 per quintal",
+     "Rs 8,780 per quintal",
+     "Rs 9,000 per quintal"
+    ],
+    "o_gu": [
+     "₹ 8,190 પ્રતિ ક્વિન્ટલ",
+     "₹ 8,500 પ્રતિ ક્વિન્ટલ",
+     "₹ 8,780 પ્રતિ ક્વિન્ટલ",
+     "₹ 9,000 પ્રતિ ક્વિન્ટલ"
+    ],
+    "a": 2,
+    "e_en": "The MSP set by the centre is Rs 8,780 per quintal.",
+    "e_gu": "કેન્દ્ર દ્વારા નક્કી કરેલી એમએસપી ₹ 8,780 પ્રતિ ક્વિન્ટલ છે."
+   },
+   "id": "ca-gujarat-to-start-msp-procurement-of-kharif-moong-on-nov-30",
+   "source": "https://deshgujarat.com/2026/11/24/gujarat-govt-to-begin-msp-procurement-of-kharif-moong-on-nov-30/",
+   "exam": {
+    "score": 6,
+    "why": "MSP procurement of Kharif Moong, agri policy"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://deshgujarat.com/2026/11/24/gujarat-govt-to-begin-msp-procurement-of-kharif-moong-on-nov-30/"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-24"
   }
  ]
 }
