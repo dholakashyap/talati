@@ -23566,6 +23566,284 @@
    ],
    "by": "groq",
    "date": "2026-11-25"
+  },
+  {
+   "category": "economy",
+   "title_en": "RBI brings 60 tonnes of gold back to India",
+   "title_gu": "આરબીઆઈએ ૬૦ ટન સોનું ભારતમાં પાછું લાવ્યું",
+   "summary_en": "The Reserve Bank of India moved about 60 tonnes of gold from abroad to domestic vaults between March and September 2026, raising the domestic share to 84%.",
+   "summary_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા એ માર્ચથી સપ્ટેમ્બર ૨૦૨૬ સુધી અંદાજે ૬૦ ટન સોનું વિદેશમાંથી ઘરેલુ ખજાનામાં મૂક્યું, ઘરેલુ હિસ્સો ૮૪% થયો.",
+   "facts": [
+    {
+     "k_en": "Organisation",
+     "k_gu": "સંસ્થા",
+     "v_en": "Reserve Bank of India (RBI)",
+     "v_gu": "રિઝર્વ બેંક ઓફ ઇન્ડિયા (આરબીઆઈ)"
+    },
+    {
+     "k_en": "Gold moved",
+     "k_gu": "સોનુંનું પ્રમાણ",
+     "v_en": "60.08 tonnes",
+     "v_gu": "૬૦.૦૮ ટન"
+    },
+    {
+     "k_en": "Period",
+     "k_gu": "સમયગાળો",
+     "v_en": "March – September 2026",
+     "v_gu": "માર્ચ‑સપ્ટેમ્બર ૨૦૨૬"
+    },
+    {
+     "k_en": "Domestic share after move",
+     "k_gu": "ઘરેલુ હિસ્સો",
+     "v_en": "about 84%",
+     "v_gu": "લગભગ ૮૪ %"
+    },
+    {
+     "k_en": "Total gold reserves",
+     "k_gu": "કુલ સોનું",
+     "v_en": "880.52 tonnes",
+     "v_gu": "૮૮૦.૫૨ ટન"
+    }
+   ],
+   "points_en": [
+    "RBI kept total gold holdings unchanged.",
+    "Domestic holdings rose from 680.05 tonnes (Mar 2026) to 740.13 tonnes (Sep 2026)."
+   ],
+   "points_gu": [
+    "આરબીઆઈએ કુલ સોનું જાળવી રાખ્યું.",
+    "ઘરેલુ સોનું ૬૮૦.૦૫ ટન (માર્ચ) થી ૭૪૦.૧૩ ટન (સપ્ટેમ્બર) સુધી વધ્યું."
+   ],
+   "context_en": "RBI is India's central bank; it manages the country's foreign exchange and gold reserves.",
+   "context_gu": "આરબીઆઈ ભારતનું કેન્દ્રિય બેંક છે, જે વિનિમય અને સોનાની સંગ્રહણ સંભાળે છે.",
+   "remember_en": "RBI moved 60 tonnes of gold back, raising domestic share to 84 %.",
+   "remember_gu": "આરબીઆઈએ ૬૦ ટન સોનું પાછું લાવી ઘરેલુ હિસ્સો ૮૪ % કર્યો.",
+   "why_en": "Shows RBI's effort to increase domestic gold security before elections.",
+   "why_gu": "ચૂંટણીઓ પહેલા ઘરેલુ સોનાની સુરક્ષા માટે આરબીઆઈની કોશિશ દર્શાવે છે.",
+   "details_en": "Between March and September 2026 the Reserve Bank of India transferred 60.08 tonnes of gold from overseas vaults to its domestic vaults. This raised the amount of gold stored in India from 680.05 tonnes at the end of March to 740.13 tonnes at the end of September, increasing the domestic share of the total 880.52 tonnes of reserves to about 84%. The total gold holdings remained unchanged, indicating a strategic shift to keep more gold within the country.",
+   "details_gu": "માર્ચથી સપ્ટેમ્બર ૨૦૨૬ સુધી રિઝર્વ બેંક ઓફ ઇન્ડિયાએ વિદેશી ખજાનાઓમાંથી ૬૦.૦૮ ટન સોનું ઘરેલુ ખજાનામાં સ્થાનાંતરિત કર્યું. આથી ઘરેલુ સોનું ૬૮૦.૦૫ ટન (માર્ચ) થી ૭૪૦.૧૩ ટન (સપ્ટેમ્બર) સુધી વધ્યું, કુલ ૮૮૦.૫૨ ટન સોનામાંથી ઘરેલુ હિસ્સો લગભગ ૮૪ % થયો. કુલ સોનું જાળવવામાં આવ્યું, જે દેશની અંદર વધુ સોનું રાખવાની વ્યૂહરચનાને દર્શાવે છે.",
+   "mcq": {
+    "q_en": "How much gold did the RBI bring back to India between March and September 2026?",
+    "q_gu": "માર્ચથી સપ્ટેમ્બર ૨૦૨૬ સુધી આરબીઆઈએ કેટલું સોનું ભારતમાં પાછું લાવ્યું?",
+    "o_en": [
+     "45.5 tonnes",
+     "60.08 tonnes",
+     "75.2 tonnes",
+     "90.0 tonnes"
+    ],
+    "o_gu": [
+     "૪૫.૫ ટન",
+     "૬૦.૦૮ ટન",
+     "૭૫.૨ ટન",
+     "૯૦.૦ ટન"
+    ],
+    "a": 1,
+    "e_en": "The RBI moved 60.08 tonnes of gold back to India.",
+    "e_gu": "આરબીઆઈએ ૬૦.૦૮ ટન સોનું ભારતમાં પાછું લાવ્યું."
+   },
+   "id": "ca-rbi-brings-60-tonnes-of-gold-back-to-india",
+   "source": "https://www.business-standard.com/economy/news/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-share-hits-84-126112501199_1.html",
+   "exam": {
+    "score": 7,
+    "why": "RBI gold reserve increase"
+   },
+   "sources": [
+    {
+     "name": "Business Standard (Economy)",
+     "url": "https://www.business-standard.com/economy/news/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-share-hits-84-126112501199_1.html"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-26"
+  },
+  {
+   "category": "science",
+   "title_en": "India’s satellite supply chain relies heavily on imports",
+   "title_gu": "ભારતમાં સેટેલાઇટ સપ્લાય ચેઇન આયાત પર નિર્ભર",
+   "summary_en": "A report by IN‑SPACe says most satellite parts are imported and private firms only do assemblies. The government wants to boost domestic production.",
+   "summary_gu": "IN‑SPACe ની રિપોર્ટ મુજબ સેટેલાઇટનાં મોટાભાગનાં ભાગો આયાત થાય છે અને ખાનગી કંપનીઓ માત્ર એસેમ્બલી કરે છે. સરકાર ઘરેલું ઉત્પાદન વધારવા માંગે છે.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Satellite supply chain highly import‑dependent",
+     "v_gu": "સેટેલાઇટ સપ્લાય ચેઇન આયાત પર નિર્ભર"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "IN‑SPACe (India’s space regulator)",
+     "v_gu": "IN‑SPACe (ભારતનું સ્પેસ નિયમનકાર)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Report released Wednesday",
+     "v_gu": "રિપોર્ટ બુધવારે પ્રકાશિત"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "~60% of satellite cost from imported components",
+     "v_gu": "સેટેલાઇટ ખર્ચનું લગભગ 60% આયાતી ઘટકોમાંથી"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "Chairman Pawan Goenka approved report",
+     "v_gu": "ચેરમેન પવન ગોંકા દ્વારા રિપોર્ટ મંજૂર"
+    }
+   ],
+   "points_en": [
+    "Critical parts take 12‑16 months to procure.",
+    "Only 53 Indian suppliers listed versus 162 foreign ones.",
+    "Space economy valued at about $9 billion, aiming for $40‑45 billion."
+   ],
+   "points_gu": [
+    "મુખ્ય ભાગો મેળવવામાં 12‑16 મહિના લાગે છે.",
+    "ભારતીય સપ્લાયરો 53, વિદેશી 162 સૂચિબદ્ધ.",
+    "સ્પેસ અર્થતંત્રનું મૂલ્ય $9 બિલિયન, $40‑45 બિલિયન સુધી વધારવાનું."
+   ],
+   "context_en": "IN‑SPACe is the autonomous body under India’s Department of Space that promotes private space activity.",
+   "context_gu": "IN‑SPACe ભારતના સ્પેસ વિભાગ હેઠળનું સ્વતંત્ર સંસ્થા છે, જે ખાનગી સ્પેસ પ્રવૃત્તિઓને પ્રોત્સાહિત કરે છે.",
+   "remember_en": "India’s satellite parts are mostly imported; private sector does assemblies.",
+   "remember_gu": "ભારતમાં સેટેલાઇટ ભાગો મુખ્યત્વે આયાત થાય છે; ખાનગી ક્ષેત્ર એસેમ્બલી કરે છે.",
+   "why_en": "Exam may ask about import dependence and private sector role in India’s space sector.",
+   "why_gu": "પરીક્ષામાં આયાત નિર્ભરતા અને ખાનગી ક્ષેત્રની ભૂમિકા વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The IN‑SPACe report titled “Supply Chain Landscape of Satellite Manufacturing in India” shows that about 60% of satellite costs come from electronic, electrical and electromechanical components, many of which are imported. It lists 53 Indian and 162 foreign suppliers, with critical parts taking 12‑16 months to source, causing delays. Private firms mainly provide structural assemblies and propulsion parts, while public sector firms dominate critical components. The report was prepared by Brijesh Kumar Sol and Yudhishthir J. and approved by chairman Pawan Goenka. It highlights the need for policy support, investment and demand creation to reduce import reliance.",
+   "details_gu": "IN‑SPACe ની “Supply Chain Landscape of Satellite Manufacturing in India” રિપોર્ટમાં જણાવાયું છે કે સેટેલાઇટ ખર્ચનું લગભગ 60% ઇલેક્ટ્રોનિક, ઇલેક્ટ્રિકલ અને ઇલેક્ટ્રોમેકેનિકલ ઘટકોમાંથી આવે છે, જેમાંથી ઘણાં આયાત થાય છે. તેમાં 53 ભારતીય અને 162 વિદેશી સપ્લાયરોની યાદી છે, અને મહત્વપૂર્ણ ભાગો મેળવવામાં 12‑16 મહિના લાગે છે, જેના કારણે પ્રોજેક્ટમાં વિલંબ થાય છે. ખાનગી કંપનીઓ મુખ્યત્વે સ્ટ્રક્ચરલ એસેમ્બલીઓ અને પ્રોપલ્શન ભાગો પૂરાં કરે છે, જ્યારે જાહેર ક્ષેત્રનાં ફર્મો મુખ્ય ઘટકોમાં પ્રભુત્વ ધરાવે છે. રિપોર્ટ બ્રિજેશ કુમાર સોલ અને યોધિષ્ઠિર J. દ્વારા તૈયાર અને ચેરમેન પવન ગોંકા દ્વારા મંજૂર થયો. આયાત નિર્ભરતા ઘટાડવા માટે નીતિ સહાય, રોકાણ અને માંગ સર્જન જરૂરી છે.",
+   "mcq": {
+    "q_en": "What percentage of satellite costs in India is attributed to imported components according to the IN‑SPACe report?",
+    "q_gu": "IN‑SPACe રિપોર્ટ મુજબ ભારતમાં સેટેલાઇટ ખર્ચનું કેટલું ટકા આયાતી ઘટકોને આપેલું છે?",
+    "o_en": [
+     "≈30%",
+     "≈45%",
+     "≈60%",
+     "≈75%"
+    ],
+    "o_gu": [
+     "≈30%",
+     "≈45%",
+     "≈60%",
+     "≈75%"
+    ],
+    "a": 2,
+    "e_en": "The report states nearly 60% of costs come from imported electronic, electrical and electromechanical parts.",
+    "e_gu": "રિપોર્ટમાં જણાવાયું છે કે લગભગ 60% ખર્ચ આયાતી ઇલેક્ટ્રોનિક, ઇલેક્ટ્રિકલ અને ઇલેક્ટ્રોમેકેનિકલ ભાગોનું છે."
+   },
+   "id": "ca-india-s-satellite-supply-chain-relies-heavily-on-imports",
+   "source": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+   "exam": {
+    "score": 7,
+    "why": "India’s satellite supply‑chain dependence"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece"
+    },
+    {
+     "name": "The Hindu (Science)",
+     "url": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-26"
+  },
+  {
+   "category": "sports",
+   "title_en": "India faces Japan in Women’s Strength Day hockey match",
+   "title_gu": "ભારત અને જાપાન વચ્ચે મહિલા શક્તિ દિવસનું હોકી મેચ",
+   "summary_en": "India played Japan in the Women’s Asian Champions Trophy 2026 while Madhya Pradesh marked Women’s Strength Day.",
+   "summary_gu": "મધ્ય પ્રદેશમાં મહિલા શક્તિ દિવસની ઉજવણી સાથે ભારત અને જાપાન વચ્ચે મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી ૨૦૨૬માં હોકી મેચ રમાઈ.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "**Women’s Asian Champions Trophy 2026** match",
+     "v_gu": "**વુમન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી ૨૦૨૬** મેચ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "**India** and **Japan** women's hockey teams",
+     "v_gu": "**ભારત** અને **જાપાન**ની મહિલા હોકી ટીમો"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "**Wednesday, 2026**",
+     "v_gu": "**બુધવાર, ૨૦૨૬**"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "**International Sports Complex, Bhopal**",
+     "v_gu": "**ઇન્ટરનેશનલ સ્પોર્ટ્સ કોમ્પ્લેક્સ, ભોપાલ**"
+    },
+    {
+     "k_en": "Post",
+     "k_gu": "પદ",
+     "v_en": "**Sports and Youth Welfare Minister Vishwas Kailash Sarang**",
+     "v_gu": "**ક્રીડા અને યુવા કલ્યાણ મંત્રી વિશ્વાસ કૈલાશ સારંગ**"
+    },
+    {
+     "k_en": "Scheme",
+     "k_gu": "યોજનાઃ",
+     "v_en": "**Daughters on the Field, Women’s Strength in the Stadium** programme",
+     "v_gu": "**ડૉટર્સ ઑન ધ ફિલ્ડ, વિમેન’સ સ્ટ્રેન્થ ઇન ધ સ્ટેડિયમ** યોજના"
+    }
+   ],
+   "points_en": [
+    "A special stand was reserved for women only.",
+    "Social workers and women athletes were felicitated.",
+    "A pledge was taken to give every daughter sports opportunities."
+   ],
+   "points_gu": [
+    "મહિલાઓ માટે ખાસ સ્ટેન્ડ રાખવામાં આવ્યો.",
+    "સામાજિક કાર્યકરો અને મહિલા ક્રીડાસ્થાઓને સન્માનિત કરવામાં આવ્યા.",
+    "દરેક દીકરીને ક્રીડાના અવસર આપવાના પ્રતિજ્ઞા લીધી."
+   ],
+   "context_en": "The Women’s Asian Champions Trophy is a biennial field hockey tournament for Asian national teams.",
+   "context_gu": "વુમન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી એ એશિયાની રાષ્ટ્રીય હોકી ટીમો માટેનું દ્વિવાર્ષિક ટૂર્નામેન્ટ છે.",
+   "remember_en": "India vs Japan match on Women’s Strength Day, Bhopal.",
+   "remember_gu": "ભારત-જાપાન મેચ, મહિલા શક્તિ દિવસ, ભોપાલ.",
+   "why_en": "Shows government push for women’s participation in sports.",
+   "why_gu": "મહિલાઓની ક્રીડામાં ભાગીદારી માટે સરકારની કોશિશ દર્શાવે છે.",
+   "details_en": "On Wednesday, the Madhya Pradesh government celebrated Women’s Strength Day at the International Sports Complex in Bhopal during the Women’s Asian Champions Trophy 2026. Sports and Youth Welfare Minister Vishwas Kailash Sarang launched the ‘Daughters on the Field, Women’s Strength in the Stadium’ programme. The match featured India and Japan’s women’s hockey teams. A stand was set aside for women only, where social workers, athletes, students and self‑help group members gathered. They received flower showers and were honoured, and a pledge was taken to ensure every daughter gets a chance in sports.",
+   "details_gu": "બુધવારે મધ્ય પ્રદેશ સરકારે ભોપાલના ઇન્ટરનેશનલ સ્પોર્ટ્સ કોમ્પ્લેક્સમાં મહિલા શક્તિ દિવસની ઉજવણી કરી, જે વુમન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી ૨૦૨૬ દરમિયાન થયું. ક્રીડા અને યુવા કલ્યાણ મંત્રી વિશ્વાસ કૈલાશ સારંગે ‘ડૉટર્સ ઑન ધ ફિલ્ડ, વિમેન’સ સ્ટ્રેન્થ ઇન ધ સ્ટેડિયમ’ યોજના શરૂ કરી. મેચમાં ભારત અને જાપાનની મહિલા હોકી ટીમો સામેલ હતી. એક સ્ટેન્ડ માત્ર મહિલાઓ માટે રાખવામાં આવ્યો, જ્યાં સામાજિક કાર્યકરો, ક્રીડાસ્થાઓ, વિદ્યાર્થીઓ અને સ્વસહાય જૂથો હાજર રહ્યા. તેમને ફૂલની છાંટ અને સન્માન મળ્યું, અને દરેક દીકરીને ક્રીડાના અવસર આપવાના પ્રતિજ્ઞા લીધી.",
+   "mcq": {
+    "q_en": "Which minister launched the ‘Daughters on the Field’ programme during the Women’s Asian Champions Trophy 2026?",
+    "q_gu": "વુમન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી ૨૦૨૬ દરમિયાન ‘ડૉટર્સ ઑન ધ ફિલ્ડ’ યોજના કયા મંત્રીએ શરૂ કરી?",
+    "o_en": [
+     "Sports and Youth Welfare Minister Vishwas Kailash Sarang",
+     "Health Minister Dr. Rajesh Patel",
+     "Education Minister Meena Joshi",
+     "Women and Child Development Minister Anjali Shah"
+    ],
+    "o_gu": [
+     "ક્રીડા અને યુવા કલ્યાણ મંત્રી વિશ્વાસ કૈલાશ સારંગ",
+     "સ્વાસ્થ્ય મંત્રી ડૉ. રાજેશ પટેલ",
+     "શિક્ષણ મંત્રી મીના જોશી",
+     "મહિલા અને બાળ વિકાસ મંત્રી અંજલિ શાહ"
+    ],
+    "a": 0,
+    "e_en": "The release names Vishwas Kailash Sarang as the minister who launched the programme.",
+    "e_gu": "રિલીઝમાં વિશ્વાસ કૈલાશ સારંગને આ યોજના શરૂ કરનાર મંત્રી તરીકે દર્શાવવામાં આવ્યા છે."
+   },
+   "id": "ca-india-faces-japan-in-women-s-strength-day-hockey-match",
+   "source": "https://sportstar.thehindu.com/hockey/india-vs-japan-womens-asian-champions-trophy-celebrates-womens-strength-day/article71742655.ece",
+   "exam": {
+    "score": 6,
+    "why": "Women’s Asian Champions Trophy event"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/hockey/india-vs-japan-womens-asian-champions-trophy-celebrates-womens-strength-day/article71742655.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-26"
   }
  ]
 }
