@@ -25356,6 +25356,90 @@
    ],
    "by": "groq",
    "date": "2026-11-27"
+  },
+  {
+   "category": "national",
+   "title_en": "Lok Sabha to meet on 30 Nov, Rajya Sabha on 2 Dec 2026",
+   "title_gu": "લોકસભા 30 નવેમ્બર, રાજ્યસભા 2 ડિસેમ્બર 2026માં બેઠક કરશે",
+   "summary_en": "The government asked Parliament to reconvene. Lok Sabha will sit on 30 November and Rajya Sabha on 2 December 2026.",
+   "summary_gu": "સરકારે સંસદને ફરી બોલાવવાની વિનંતી કરી. લોકસભા 30 નવેમ્બર અને રાજ્યસભા 2 ડિસેમ્બર 2026માં બેઠક કરશે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Parliamentary Affairs Minister Kiran Rijiju",
+     "v_gu": "સંસદીય કાર્યમંત્રી કિરણ રિજિજુ"
+    },
+    {
+     "k_en": "When (Lok Sabha)",
+     "k_gu": "ક્યારે (લોકસભા)",
+     "v_en": "30 November 2026",
+     "v_gu": "30 નવેમ્બર 2026"
+    },
+    {
+     "k_en": "When (Rajya Sabha)",
+     "k_gu": "ક્યારે (રાજ્યસભા)",
+     "v_en": "2 December 2026",
+     "v_gu": "2 ડિસેમ્બર 2026"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Re‑convening of both houses",
+     "v_gu": "બંને ગૃહોની પુનઃબેઠક"
+    }
+   ],
+   "points_en": [
+    "The sessions are not a new parliamentary term.",
+    "They aim to finish pending government business.",
+    "Both houses may work until 3 December."
+   ],
+   "points_gu": [
+    "આ બેઠક નવું સત્ર નથી.",
+    "બાકી રહેલું સરકારી કામ પૂરું કરવું હેતુ છે.",
+    "બંને ગૃહો 3 ડિસેમ્બર સુધી કામ કરી શકે."
+   ],
+   "context_en": "India's Parliament consists of Lok Sabha (House of the People) and Rajya Sabha (Council of States).",
+   "context_gu": "ભારતનું સંસદ લોકસભા અને રાજ્યસભા ધરાવે છે.",
+   "remember_en": "Lok Sabha 30 Nov, Rajya Sabha 2 Dec 2026.",
+   "remember_gu": "લોકસભા 30 નવેમ્બર, રાજ્યસભા 2 ડિસેમ્બર 2026.",
+   "why_en": "Exam may ask dates and minister who announced the reconvening.",
+   "why_gu": "પરીક્ષામાં તારીખો અને જાહેરાત કરનાર મંત્રી મહત્વપૂર્ણ છે.",
+   "details_en": "Parliamentary Affairs Minister Kiran Rijiju announced on Thursday that the government has requested both houses to meet again. The Lok Sabha is proposed to convene on Monday, 30 November 2026, while the Rajya Sabha will meet on Wednesday, 2 December 2026. The two sessions will be held on separate days and may continue until 3 December. Rijiju clarified on the social media platform X that these meetings are a continuation of the ongoing monsoon session, not a new session. The main purpose is to complete pending government work in both houses.",
+   "details_gu": "સંસદીય કાર્યમંત્રી કિરણ રિજિજુએ ગુરુવારે જાહેરાત કરી કે સરકાર બંને ગૃહોને ફરી મળવા વિનંતી કરી છે. લોકસભા સોમવાર, 30 નવેમ્બર 2026ને અને રાજ્યસભા બુધવાર, 2 ડિસેમ્બર 2026ને બેઠક કરશે. ગૃહો અલગ‑અલગ તારીખે મળશે અને 3 ડિસેમ્બર સુધી કામ ચાલુ રહી શકે છે. રિજિજુએ X (ટ્વિટર) પર સ્પષ્ટ કર્યું કે આ બેઠક ચાલુ ચોમાસુ સત્રની જ આગળની કાર્યવાહી છે, નવું સત્ર નથી. મુખ્ય હેતુ બાકી રહેલું સરકારી કામ પૂરું કરવો છે.",
+   "mcq": {
+    "q_en": "Which minister announced the reconvening of Parliament in November‑December 2026?",
+    "q_gu": "2026 ના નવેમ્બર‑ડિસેમ્બર માં સંસદની પુનઃબેઠકની જાહેરાત કયા મંત્રીએ કરી?",
+    "o_en": [
+     "Minister of Home Affairs",
+     "Parliamentary Affairs Minister Kiran Rijiju",
+     "Finance Minister",
+     "External Affairs Minister"
+    ],
+    "o_gu": [
+     "ગૃહ મંત્રાલયના મંત્રી",
+     "સંસદીય કાર્યમંત્રી કિરણ રિજિજુ",
+     "વિત્ત મંત્રી",
+     "વિદેશ મંત્રી"
+    ],
+    "a": 1,
+    "e_en": "Kiran Rijiju, the Parliamentary Affairs Minister, made the announcement.",
+    "e_gu": "સંસદીય કાર્યમંત્રી કિરણ રિજિજુએ જાહેરાત કરી."
+   },
+   "id": "ca-lok-sabha-to-meet-on-30-nov-rajya-sabha-on-2-dec-2026",
+   "source": "https://www.gujaratfirst.com/top-news/parliament-session-2026-lok-sabha-rajya-sabha-meeting-gujarat-first-digital/356033/amp",
+   "exam": {
+    "score": 6,
+    "why": "Parliament session dates announced"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratfirst.com/top-news/parliament-session-2026-lok-sabha-rajya-sabha-meeting-gujarat-first-digital/356033/amp"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-27"
   }
  ]
 }
