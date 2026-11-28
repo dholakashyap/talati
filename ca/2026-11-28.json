@@ -338,6 +338,95 @@
    "by": "groq"
   },
   {
+   "category": "sports",
+   "title_en": "India defeats China 3‑1 to retain Women’s Asian Champions Trophy",
+   "title_gu": "ભારત ચીનને ૩‑૧થી હરાવીને મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી જતી રાખી",
+   "summary_en": "India beat China 3‑1 in the final at Bhopal, winning the Women’s Asian Champions Trophy for the third straight time.",
+   "summary_gu": "ભારત બોપલમાં ચીનને ૩‑૧થી હરાવીને મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી ત્રીજા વર્ષ સતત જીતી.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "India won Women’s Asian Champions Trophy",
+     "v_gu": "ભારત મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી જીતી"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "China opponent",
+     "v_gu": "ચીન"
+    },
+    {
+     "k_en": "Score",
+     "k_gu": "સ્કોર",
+     "v_en": "3‑1",
+     "v_gu": "૩‑૧"
+    },
+    {
+     "k_en": "Venue",
+     "k_gu": "સ્થળ",
+     "v_en": "International Sports Complex, Bhopal",
+     "v_gu": "ઇન્ટરનેશનલ સ્પોર્ટ્સ કોમ્પ્લેક્સ, બોપલ"
+    },
+    {
+     "k_en": "Top scorer",
+     "k_gu": "સર્વોચ્ચ સ્કોરર",
+     "v_en": "Deepika with 12 goals",
+     "v_gu": "દીપિકા, ૧૨ ગોલ"
+    }
+   ],
+   "points_en": [
+    "India came from behind after China scored early.",
+    "Deepika scored two goals in the final.",
+    "This is India’s third consecutive and fourth overall title."
+   ],
+   "points_gu": [
+    "ચીનની શરૂઆતની ગોલ પછી ભારત પાછો આવ્યો.",
+    "દીપિકાએ અંતિમમાં બે ગોલ કર્યા.",
+    "આ ભારતનું ત્રીજું સતત અને કુલ ચારમું ટ્રોફી છે."
+   ],
+   "context_en": "Women’s Asian Champions Trophy is a biennial field‑hockey tournament for Asian national teams.",
+   "context_gu": "મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી એ એશિયાની રાષ્ટ્રીય હોકી ટીમો માટેનું દ્વિવાર્ષિક ટુર્નામેન્ટ છે.",
+   "remember_en": "India beat China 3‑1 in Bhopal to keep the trophy.",
+   "remember_gu": "ભારત બોપલમાં ચીનને ૩‑૧થી હરાવીને ટ્રોફી જતી રાખી.",
+   "why_en": "Shows India’s dominance and helps candidates recall recent hockey achievements.",
+   "why_gu": "ભારતની હોકી પ્રભુત્વ દર્શાવે છે અને ઉમેદવારોને તાજા સિદ્ધિઓ યાદ રાખવામાં મદદ કરે છે.",
+   "details_en": "In the final at International Sports Complex, Bhopal, India trailed after China scored in the 25th minute. India responded with three quick goals in the second half, two of them by Deepika, who finished the tournament as top scorer with 12 goals. The 3‑1 win gave India its third consecutive Women’s Asian Champions Trophy title and fourth overall, making it the most decorated side in the competition.",
+   "details_gu": "બોપલના ઇન્ટરનેશનલ સ્પોર્ટ્સ કોમ્પ્લેક્સમાં અંતિમમાં ચીન ૨૫મી મિનિટમાં ગોલ કરીને ભારતને પાછળ મૂકી. બીજા અર્ધમાં ભારત ત્રણ ઝડપી ગોલ કર્યા, જેમાં દીપિકાએ બે ગોલ કર્યા. દીપિકા ટુર્નામેન્ટમાં ૧૨ ગોલ સાથે સર્વોચ્ચ સ્કોરર રહી. ૩‑૧ની જીતથી ભારતને ત્રીજું સતત અને કુલ ચારમું મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફી મળ્યું, જે તેને સૌથી વધુ ટ્રોફી ધરાવતી ટીમ બનાવે છે.",
+   "mcq": {
+    "q_en": "Where was the Women’s Asian Champions Trophy final won by India held?",
+    "q_gu": "ભારત દ્વારા જીતાયેલ મહિલા એશિયન ચેમ્પિયન્સ ટ્રોફીનું અંતિમ કયાં યોજાયું?",
+    "o_en": [
+     "Delhi",
+     "Bhopal",
+     "Kolkata",
+     "Chennai"
+    ],
+    "o_gu": [
+     "દિલ્હી",
+     "બોપલ",
+     "કોલકાતા",
+     "ચેન્નાઈ"
+    ],
+    "a": 1,
+    "e_en": "The final was played at International Sports Complex in Bhopal.",
+    "e_gu": "અંતિમ ઇન્ટરનેશનલ સ્પોર્ટ્સ કોમ્પ્લેક્સ, બોપલમાં રમાયું."
+   },
+   "id": "ca-india-defeats-china-3-1-to-retain-women-s-asian-champions-tr",
+   "source": "https://sportstar.thehindu.com/hockey/india-beats-china-3-1-womens-asian-champions-trophy-2026-final-4th-title/article71755345.ece",
+   "exam": {
+    "score": 7,
+    "why": "India beats China, major women's hockey title"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/hockey/india-beats-china-3-1-womens-asian-champions-trophy-2026-final-4th-title/article71755345.ece"
+    }
+   ],
+   "by": "groq"
+  },
+  {
    "category": "gujarat",
    "title_en": "Gujarat CM reviews progress of 16 departments",
    "title_gu": "ગુજરાતી મુખ્યમંત્રીએ ૧૬ વિભાગોની પ્રગતિની સમીક્ષા કરી",
@@ -1033,6 +1122,95 @@
     {
      "name": "PIB, Government of India",
      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343123"
+    }
+   ],
+   "by": "groq"
+  },
+  {
+   "category": "gujarat",
+   "title_en": "Govt leases 1,206 ha for Ultra Mega Solar Park, farmers asked to vacate",
+   "title_gu": "સરકાર 1,206 હેક્ટર માટે અલ્ટ્રા મેગા સોલાર પાર્ક માટે જમીન ભાડે આપે છે, ખેડુતોને ખાલી કરવા કહેવામાં આવે છે",
+   "summary_en": "The government leased 1,206 hectares of land in Radhanesda village to a solar company for a 500 MW park. Farmers were given five days to leave.",
+   "summary_gu": "રાધાનેસદા ગામમાં 1,206 હેક્ટરની જમીન સોલાર કંપનીને 500 મેગાવોટ પાર્ક માટે ભાડે આપી, ખેડૂતોને પાંચ દિવસમાં ખાલી કરવા સૂચન આપવામાં આવ્યું.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Ultra Mega Solar Park (>500 MW)",
+     "v_gu": "અલ્ટ્રા મેગા સોલાર પાર્ક (>500 મેગાવોટ)"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Radhanesda village, Vav‑Tharad district, Gujarat",
+     "v_gu": "રાધાનેસદા ગામ, વાવ‑થરડ જિલ્લો, ગુજરાત"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Lease period 40 years",
+     "v_gu": "લીઝ સમયગાળો 40 વર્ષ"
+    },
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "About 150 farming families (36 farmers directly affected)",
+     "v_gu": "લગભગ 150 ખેડુત પરિવાર (36 ખેડુતો સીધા અસરગ્રસ્ત)"
+    },
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "Land area 1,206 hectares",
+     "v_gu": "જમીન વિસ્તાર 1,206 હેક્ટર"
+    }
+   ],
+   "points_en": [
+    "Notice to vacate was issued by the Mamlatdar (revenue officer).",
+    "Deputy Collector Sajan Mer said plots will be allotted in the village residential area.",
+    "The solar company promised jobs for youth of affected families."
+   ],
+   "points_gu": [
+    "મામલતદાર (રાજસ્વ અધિકારી) દ્વારા ખાલી કરવાની સૂચના આપવામાં આવી.",
+    "ઉપ કલેક્ટર સજન મેરએ કહ્યું કે ગામની રહેણાંક વિસ્તારમાં પ્લોટો આપશે.",
+    "સોલાર કંપનીએ અસરગ્રસ્ત પરિવારોના યુવાનો માટે નોકરીઓનું વચન આપ્યું."
+   ],
+   "context_en": "Solar parks are part of India's renewable energy push; Gujarat hosts several large solar projects.",
+   "context_gu": "સોલાર પાર્કો ભારતની નવિનીકરણીય ઊર્જા યોજનાનો ભાગ છે; ગુજરાતમાં અનેક મોટા સોલાર પ્રોજેક્ટ્સ છે.",
+   "remember_en": "Solar park lease: 1,206 ha, 40‑year term, 500 MW capacity.",
+   "remember_gu": "સોલાર પાર્ક લીઝ: 1,206 હા, 40‑વર્ષ, 500 મેગાવોટ ક્ષમતા.",
+   "why_en": "Exam may ask about land use conflicts and renewable energy projects in Gujarat.",
+   "why_gu": "પરીક્ષામાં ગુજરાતમાં જમીન ઉપયોગ વિવાદ અને નવિનીકરણીય ઊર્જા પ્રોજેક્ટો વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "The Gujarat government allotted 1,206 hectares of its land in Radhanesda village to a solar power company for a 40‑year lease. The company will develop an Ultra Mega Solar Park with more than 500 MW capacity. About 150 farming families, including 36 farmers who currently cultivate the land, received a notice from the Mamlatdar to vacate within five days. Deputy Collector Sajan Mer said the administration will allocate residential plots to the displaced families and the solar firm has promised employment for their youth. The move aims to expand renewable energy while trying to address the farmers' displacement.",
+   "details_gu": "ગુજરાત સરકારએ રાધાનેસદા ગામમાં 1,206 હેક્ટરની પોતાની જમીન સોલાર કંપનીને 40 વર્ષ માટે ભાડે આપી. કંપની 500 મેગાવોટથી વધુ ક્ષમતા ધરાવતો અલ્ટ્રા મેગા સોલાર પાર્ક બનાવશે. લગભગ 150 ખેડુત પરિવારો, જેમાં 36 ખેડુતો હાલ જમીન ઉપજાવે છે,ને મામલતદાર દ્વારા પાંચ દિવસમાં ખાલી કરવાની સૂચના મળી. ઉપ કલેક્ટર સજન મેરએ કહ્યું કે સરકાર પરિવારોને ગામની રહેણાંક વિસ્તારમાં પ્લોટો આપશે અને સોલાર કંપની યુવાનો માટે નોકરીઓનું વચન આપ્યું છે. આ પગલાં નવિનીકરણીય ઊર્જા વિસ્તરણ અને ખેડુતોની સ્થળાંતર સમસ્યાનો ઉકેલ લાવવા માટે છે.",
+   "mcq": {
+    "q_en": "How many hectares of government land were leased for the Ultra Mega Solar Park in Radhanesda?",
+    "q_gu": "રાધાનેસદા માં અલ્ટ્રા મેગા સોલાર પાર્ક માટે કેટલા હેક્ટર સરકારની જમીન લીઝ કરવામાં આવી?",
+    "o_en": [
+     "1,000 ha",
+     "1,206 ha",
+     "1,500 ha",
+     "2,000 ha"
+    ],
+    "o_gu": [
+     "1,000 હા",
+     "1,206 હા",
+     "1,500 હા",
+     "2,000 હા"
+    ],
+    "a": 1,
+    "e_en": "The lease covers 1,206 hectares.",
+    "e_gu": "લીઝ 1,206 હેક્ટર છે."
+   },
+   "id": "ca-govt-leases-1-206-ha-for-ultra-mega-solar-park-farmers-asked",
+   "source": "https://www.etvbharat.com/en/state/gujarat-farmers-get-notice-to-vacate-within-5-days-land-leased-to-solar-power-company-enn26112806443",
+   "exam": {
+    "score": 6,
+    "why": "farmers evicted for solar, policy impact"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.etvbharat.com/en/state/gujarat-farmers-get-notice-to-vacate-within-5-days-land-leased-to-solar-power-company-enn26112806443"
     }
    ],
    "by": "groq"
