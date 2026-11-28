@@ -25608,6 +25608,90 @@
    "date": "2026-11-28"
   },
   {
+   "category": "schemes",
+   "title_en": "Gujarat to build Rs 900 crore museum at Ekta Nagar",
+   "title_gu": "ગુજરાતમાં એકતા નગરમાં ૯૦૦ કરોડનું મ્યુઝિયમ બનશે",
+   "summary_en": "The Gujarat government announced a museum costing Rs 900 crore at Ekta Nagar to display the state's history and heritage.",
+   "summary_gu": "ગુજરાત સરકારએ એકતા નગરમાં રાજ્યની ઇતિહાસ અને વારસો દર્શાવવા માટે ૯૦૦ કરોડનું મ્યુઝિયમ બનાવવા જાહેર કર્યું.",
+   "facts": [
+    {
+     "k_en": "Amount",
+     "k_gu": "રકમ",
+     "v_en": "Rs 900 crore",
+     "v_gu": "૯૦૦ કરોડ રૂપિયા"
+    },
+    {
+     "k_en": "Location",
+     "k_gu": "જ્યાં",
+     "v_en": "Ekta Nagar, Gujarat",
+     "v_gu": "એકતા નગર, ગુજરાત"
+    },
+    {
+     "k_en": "Purpose",
+     "k_gu": "થીમ",
+     "v_en": "Showcase state history and heritage",
+     "v_gu": "રાજ્યનું ઇતિહાસ અને વારસો દર્શાવવું"
+    },
+    {
+     "k_en": "Announcement date",
+     "k_gu": "તારીખ",
+     "v_en": "28 November 2026",
+     "v_gu": "૨૮ નવેમ્બર ૨૦૨૬"
+    }
+   ],
+   "points_en": [
+    "Project aims to boost cultural tourism.",
+    "Museum will house artifacts from Gujarat's past.",
+    "Funding comes from state budget."
+   ],
+   "points_gu": [
+    "પ્રોજેક્ટ સાંસ્કૃતિક પર્યટનને પ્રોત્સાહન આપશે.",
+    "મ્યુઝિયમમાં ગુજરાતના ભૂતકાળનાં નમૂનાઓ રહેશે.",
+    "નાણાં રાજ્યના બજેટમાંથી આવશે."
+   ],
+   "context_en": "Gujarat state government manages cultural projects and allocates funds from its annual budget.",
+   "context_gu": "ગુજરાત રાજ્ય સરકાર સાંસ્કૃતિક પ્રોજેક્ટોનું સંચાલન કરે છે અને વાર્ષિક બજેટમાંથી નાણાં ફાળવે છે.",
+   "remember_en": "Rs 900 crore museum at Ekta Nagar announced 28 Nov 2026.",
+   "remember_gu": "૯૦૦ કરોડનું મ્યુઝિયમ એકતા નગરમાં ૨૮ નવેમ્બર ૨૦૨૬એ જાહેર થયું.",
+   "why_en": "Exam may ask about new cultural projects and their funding.",
+   "why_gu": "પરીક્ષામાં નવા સાંસ્કૃતિક પ્રોજેક્ટો અને નાણાં વિશે પ્રશ્નો આવી શકે.",
+   "details_en": "On 28 November 2026, the Gujarat government revealed plans to construct a museum at Ekta Nagar. The project will cost Rs 900 crore and is intended to showcase the state's rich history and heritage. The museum is expected to attract tourists and preserve cultural artifacts, with funding drawn from the state budget.",
+   "details_gu": "૨૮ નવેમ્બર ૨૦૨૬એ, ગુજરાત સરકારએ એકતા નગરમાં મ્યુઝિયમ બનાવવા યોજના જાહેર કરી. આ પ્રોજેક્ટની કિંમત ૯૦૦ કરોડ રૂપિયા છે અને રાજ્યના સમૃદ્ધ ઇતિહાસ અને વારસો દર્શાવવાનો હેતુ છે. મ્યુઝિયમ પર્યટકોને આકર્ષશે અને સાંસ્કૃતિક નમૂનાઓનું સંરક્ષણ કરશે, નાણાં રાજ્યના બજેટમાંથી આવશે.",
+   "mcq": {
+    "q_en": "What is the estimated cost of the museum announced for Ekta Nagar?",
+    "q_gu": "એકતા નગરમાં જાહેર થયેલ મ્યુઝિયમની અંદાજિત કિંમત કેટલી છે?",
+    "o_en": [
+     "Rs 500 crore",
+     "Rs 700 crore",
+     "Rs 900 crore",
+     "Rs 1,200 crore"
+    ],
+    "o_gu": [
+     "૫૦૦ કરોડ રૂપિયા",
+     "૭૦૦ કરોડ રૂપિયા",
+     "૯૦૦ કરોડ રૂપિયા",
+     "૧,૨૦૦ કરોડ રૂપિયા"
+    ],
+    "a": 2,
+    "e_en": "The announcement stated the museum will cost Rs 900 crore.",
+    "e_gu": "જાહેરાતમાં મ્યુઝિયમની કિંમત ૯૦૦ કરોડ રૂપિયા છે."
+   },
+   "id": "ca-gujarat-to-build-rs-900-crore-museum-at-ekta-nagar",
+   "source": "https://www.thehawk.in/news/states-and-uts/gujarat/gujarat-plans-rs-900-crore-museum-at-ekta-nagar-to-showcase-states-history-heritage",
+   "exam": {
+    "score": 7,
+    "why": "large museum project, notable"
+   },
+   "sources": [
+    {
+     "name": "Google News: Gujarat government",
+     "url": "https://www.thehawk.in/news/states-and-uts/gujarat/gujarat-plans-rs-900-crore-museum-at-ekta-nagar-to-showcase-states-history-heritage"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-28"
+  },
+  {
    "category": "gujarat",
    "title_en": "Gujarat CM reviews progress of 16 departments",
    "title_gu": "ગુજરાતી મુખ્યમંત્રીએ ૧૬ વિભાગોની પ્રગતિની સમીક્ષા કરી",
@@ -25776,6 +25860,270 @@
     {
      "name": "Google News: Gujarat government",
      "url": "https://www.thehansindia.com/amp/news/national/gujarat-leads-with-62-registered-compostable-plastic-manufacturers-accounts-for-16-pc-of-total-1146398"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-28"
+  },
+  {
+   "category": "national",
+   "title_en": "Parliament revises Constitution amendment after 225 days",
+   "title_gu": "લોકસભાએ ૨૨૫ દિવસ પછી બંધારણ સુધારો ફરીથી તૈયાર કર્યો",
+   "summary_en": "The government took 225 days to draft a new Constitution amendment after the earlier bill was rejected.",
+   "summary_gu": "સરકારને અગાઉનું બિલ નકારી દેવામાં આવ્યા પછી ૨૨૫ દિવસમાં નવો બંધારણ સુધારો તૈયાર કર્યો.",
+   "facts": [
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Constitution (132nd Amendment) Bill, 2026",
+     "v_gu": "બંધારણ (132મો સુધારો) બિલ, 2026"
+    },
+    {
+     "k_en": "Previous Bill",
+     "k_gu": "પૂર્વનું બિલ",
+     "v_en": "Constitution (131st Amendment) Bill, 2026",
+     "v_gu": "બંધારણ (131મો સુધારો) બિલ, 2026"
+    },
+    {
+     "k_en": "When (previous bill)",
+     "k_gu": "ક્યારે (પૂર્વનું બિલ)",
+     "v_en": "April 2026",
+     "v_gu": "એપ્રિલ 2026"
+    },
+    {
+     "k_en": "Time taken for new draft",
+     "k_gu": "સમય",
+     "v_en": "225 days",
+     "v_gu": "૨૨૫ દિવસ"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Lok Sabha, New Delhi",
+     "v_gu": "લોકસભા, ન્યૂ દિલ્હી"
+    }
+   ],
+   "points_en": [
+    "The 131st Amendment Bill was defeated in April 2026.",
+    "A new 132nd Amendment Bill was prepared after 225 days.",
+    "The change aims to protect representation of states with better population control."
+   ],
+   "points_gu": [
+    "131મો સુધારો બિલ એપ્રિલ 2026માં નકારી દેવામાં આવ્યું.",
+    "૨૨૫ દિવસ પછી 132મો સુધારો બિલ તૈયાર કરવામાં આવ્યો.",
+    "આ ફેરફાર જનસંખ્યા નિયંત્રણમાં આગળ રહેલ રાજ્યોની પ્રતિનિધિત્વ સુરક્ષિત કરે છે."
+   ],
+   "context_en": "The Lok Sabha is the lower house of India's Parliament; constitutional amendment bills require a special majority.",
+   "context_gu": "લોકસભા ભારતની સંસદનું નીચલું સભા છે; બંધારણ સુધારા માટે વિશેષ બહુમતી જરૂરી છે.",
+   "remember_en": "131st Amendment failed; 132nd drafted after 225 days.",
+   "remember_gu": "131મો સુધારો નિષ્ફળ; 132મો ૨૨૫ દિવસ પછી તૈયાર.",
+   "why_en": "Exam may ask about amendment numbers, dates and legislative process.",
+   "why_gu": "પરીક્ષામાં સુધારા નંબર, તારીખો અને પ્રક્રિયા વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "In April 2026, the Constitution (131st Amendment) Bill was introduced in the Lok Sabha but was defeated. The government then spent 225 days revising the proposal, addressing legal oversights, and prepared the Constitution (132nd Amendment) Bill, 2026. The new bill seeks to ensure that states which have achieved better population control are not disadvantaged in representation in the Lok Sabha.",
+   "details_gu": "એપ્રિલ 2026માં બંધારણ (131મો સુધારો) બિલ લોકસભામાં રજૂ થયું પરંતુ નકારી દેવામાં આવ્યું. સરકારએ ૨૨૫ દિવસમાં પ્રસ્તાવને સુધારી, કાનૂની ખામીઓ દૂર કરી, અને બંધારણ (132મો સુધારો) બિલ, 2026 તૈયાર કર્યું. નવો બિલ એ રાજ્યોએ જનસંખ્યા નિયંત્રણમાં પ્રગતિ કરી હોય તો તેમની લોકસભામાં પ્રતિનિધિત્વમાં કોઈ નુકસાન ન થાય તે માટે છે.",
+   "mcq": {
+    "q_en": "Which Constitution Amendment Bill was prepared after 225 days of revision?",
+    "q_gu": "૨૨૫ દિવસની સુધારણા પછી કયું બંધારણ સુધારો બિલ તૈયાર કરવામાં આવ્યું?",
+    "o_en": [
+     "Constitution (130th Amendment) Bill, 2026",
+     "Constitution (131st Amendment) Bill, 2026",
+     "Constitution (132nd Amendment) Bill, 2026",
+     "Constitution (133rd Amendment) Bill, 2026"
+    ],
+    "o_gu": [
+     "બંધારણ (130મો સુધારો) બિલ, 2026",
+     "બંધારણ (131મો સુધારો) બિલ, 2026",
+     "બંધારણ (132મો સુધારો) બિલ, 2026",
+     "બંધારણ (133મો સુધારો) બિલ, 2026"
+    ],
+    "a": 2,
+    "e_en": "The 132nd Amendment Bill was drafted after 225 days.",
+    "e_gu": "132મો સુધારો બિલ ૨૨૫ દિવસ પછી તૈયાર કરવામાં આવ્યું."
+   },
+   "id": "ca-parliament-revises-constitution-amendment-after-225-days",
+   "source": "https://www.thehindu.com/news/national/constitution-amendment-bill-april-to-november-what-changed/article71753750.ece",
+   "exam": {
+    "score": 6,
+    "why": "constitution amendment impacts delimitation"
+   },
+   "sources": [
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/national/constitution-amendment-bill-april-to-november-what-changed/article71753750.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-28"
+  },
+  {
+   "category": "sports",
+   "title_en": "Rishabh Pant breaks World Test Championship sixes record",
+   "title_gu": "રિશભ પોન્ટે વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપમાં સિક્સની રેકોર્ડ તોડ્યો",
+   "summary_en": "Rishabh Pant hit his 89th six in the World Test Championship, the most in the competition.",
+   "summary_gu": "રિશભ પોન્ટે વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપમાં 89મો સિક્સ માર્યો, જે સૌથી વધુ છે.",
+   "facts": [
+    {
+     "k_en": "Who",
+     "k_gu": "કોણ",
+     "v_en": "Rishabh Pant",
+     "v_gu": "રિશભ પોન્ટ"
+    },
+    {
+     "k_en": "What",
+     "k_gu": "શું",
+     "v_en": "Most sixes in World Test Championship (89)",
+     "v_gu": "વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપમાં સૌથી વધુ સિક્સ (89)"
+    },
+    {
+     "k_en": "When",
+     "k_gu": "ક્યારે",
+     "v_en": "Saturday, Day 2 of 2nd Test vs New Zealand",
+     "v_gu": "શનિવાર, ન્યુઝીલેન્ડ સામે બીજા ટેસ્ટનું દિવસ 2"
+    },
+    {
+     "k_en": "Where",
+     "k_gu": "ક્યાં",
+     "v_en": "Second Test, India vs New Zealand",
+     "v_gu": "ભારત અને ન્યુઝીલેન્ડ વચ્ચેનો બીજા ટેસ્ટ"
+    }
+   ],
+   "points_en": [
+    "Record set on 89th six since WTC began 1 Aug 2019",
+    "Pant now second in overall Test sixes with 109",
+    "He was out for 23 runs"
+   ],
+   "points_gu": [
+    "1 ઓગસ્ટ 2019થી શરૂ થયેલા WTCમાં 89મો સિક્સ રેકોર્ડ",
+    "પોન્ટ હવે કુલ ટેસ્ટ સિક્સમાં 109 સાથે બીજું સ્થાન",
+    "તે 23 રન પર આઉટ થયો"
+   ],
+   "context_en": "World Test Championship started on 1 August 2019 to rank Test teams.",
+   "context_gu": "વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ 1 ઓગસ્ટ 2019થી શરૂ થઈ ટીમોનું રેન્કિંગ કરવા.",
+   "remember_en": "Pant's 89th WTC six makes him the record holder.",
+   "remember_gu": "પોન્ટનું 89મો WTC સિક્સ તેને રેકોર્ડ ધારક બનાવે છે.",
+   "why_en": "Exam may ask about record holders in international cricket.",
+   "why_gu": "પરીક્ષામાં આંતરરાષ્ટ્રીય ક્રિકેટમાં રેકોર્ડ ધારકો વિશે પ્રશ્નો હોઈ શકે.",
+   "details_en": "On Saturday, during the second day of the second Test between India and New Zealand, Rishabh Pant hit a six off Jacob Duffy’s delivery. This was his 89th six in the World Test Championship, the highest number since the competition began on 1 August 2019. The knock also moved him to second place in overall Test sixes with 109, behind Ben Stokes. Pant was later dismissed for 23 runs.",
+   "details_gu": "શનિવારે, ભારત અને ન્યુઝીલેન્ડ વચ્ચેના બીજા ટેસ્ટના બીજા દિવસે, રિશભ પોન્ટે જેકબ ડફીની બોલ પર સિક્સ માર્યો. આ તેનો 89મો સિક્સ હતો, જે 1 ઓગસ્ટ 2019થી શરૂ થયેલી વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપમાં સૌથી વધુ છે. આ સાથે તે કુલ ટેસ્ટ સિક્સમાં 109 સાથે બેને સ્ટોક્સ પછી બીજા ક્રમે આવ્યો. પોન્ટને પછી 23 રન પર આઉટ કરવામાં આવ્યો.",
+   "mcq": {
+    "q_en": "How many sixes had Rishabh Pant hit in the World Test Championship when he set the record?",
+    "q_gu": "રિશભ પોન્ટે વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપમાં રેકોર્ડ તોડતી વખતે કેટલા સિક્સ માર્યા હતા?",
+    "o_en": [
+     "85",
+     "87",
+     "89",
+     "91"
+    ],
+    "o_gu": [
+     "૮૫",
+     "૮૭",
+     "૮૯",
+     "૯૧"
+    ],
+    "a": 2,
+    "e_en": "He hit his 89th six, the most in the WTC.",
+    "e_gu": "તેનો 89મો સિક્સ હતો, જે WTCમાં સૌથી વધુ છે."
+   },
+   "id": "ca-rishabh-pant-breaks-world-test-championship-sixes-record",
+   "source": "https://sportstar.thehindu.com/cricket/rishabh-pant-most-sixes-world-test-championship-record/article71753563.ece",
+   "exam": {
+    "score": 6,
+    "why": "record in World Test Championship"
+   },
+   "sources": [
+    {
+     "name": "Sportstar",
+     "url": "https://sportstar.thehindu.com/cricket/rishabh-pant-most-sixes-world-test-championship-record/article71753563.ece"
+    }
+   ],
+   "by": "groq",
+   "date": "2026-11-28"
+  },
+  {
+   "category": "national",
+   "title_en": "Delimitation Bill may raise Lok Sabha seats to 815",
+   "title_gu": "સીમાંકન બિલથી લોકસભાની બેઠકો ૮૧૫ સુધી વધી શકે",
+   "summary_en": "The proposed Delimitation Bill could increase Lok Sabha seats from 543 to about 815, adding 272 members and raising related expenses.",
+   "summary_gu": "પ્રસ્તાવિત સીમાંકન બિલથી લોકસભાની બેઠકો ૫૪૩માંથી અંદાજે ૮૧૫ સુધી વધી શકે, ૨૭૨ નવા સભ્યો અને ખર્ચમાં વધારો.",
+   "facts": [
+    {
+     "k_en": "Current seats",
+     "k_gu": "હાલની બેઠકો",
+     "v_en": "543 Lok Sabha seats",
+     "v_gu": "લોકસભા માં ૫૪૩ બેઠકો"
+    },
+    {
+     "k_en": "Proposed seats",
+     "k_gu": "પ્રસ્તાવિત બેઠકો",
+     "v_en": "about 815 seats",
+     "v_gu": "લગભગ ૮૧૫ બેઠકો"
+    },
+    {
+     "k_en": "Increase",
+     "k_gu": "વધારો",
+     "v_en": "272 new members",
+     "v_gu": "૨૭૨ નવા સભ્યો"
+    },
+    {
+     "k_en": "Monthly cost per MP",
+     "k_gu": "પ્રતિ સભ્ય માસિક ખર્ચ",
+     "v_en": "₹2.86 lakh",
+     "v_gu": "₹૨.૮૬ લાખ"
+    },
+    {
+     "k_en": "MPLADS allocation per MP",
+     "k_gu": "પ્રતિ સભ્ય MPLADS ફાળવણી",
+     "v_en": "₹5 crore annually",
+     "v_gu": "વર્ષમાં ₹૫ કરોડ"
+    }
+   ],
+   "points_en": [
+    "Current Lok Sabha has 543 members.",
+    "Bill may raise seats to about 815, adding 272 MPs.",
+    "Each MP costs ₹2.86 lakh per month for salary and allowances."
+   ],
+   "points_gu": [
+    "હાલની લોકસભામાં ૫૪૩ સભ્યો છે.",
+    "બિલથી બેઠકો ૮૧૫ સુધી વધીને ૨૭૨ નવા સભ્યો થશે.",
+    "દરેક સભ્યનું માસિક ખર્ચ ₹૨.૮૬ લાખ છે."
+   ],
+   "context_en": "Lok Sabha is the lower house of India's Parliament; its seats are allocated by population.",
+   "context_gu": "લોકસભા ભારતની સંસદનું નીચલું સભા છે; બેઠકો જનસંખ્યા મુજબ વહેંચાય છે.",
+   "remember_en": "Delimitation Bill could push Lok Sabha seats to 815.",
+   "remember_gu": "સીમાંકન બિલથી લોકસભાની બેઠકો ૮૧૫ થઈ શકે.",
+   "why_en": "Seat increase affects representation and government expenditure.",
+   "why_gu": "બેઠકોનો વધારો પ્રતિનિધિત્વ અને સરકારના ખર્ચને અસર કરે છે.",
+   "details_en": "The Delimitation Bill discusses raising Lok Sabha seats from the current 543 to roughly 815, an increase of 272 members. Under the central government rates effective from 1 April 2023, each MP receives a monthly salary of ₹1.24 lakh, a constituency development allowance of ₹87,000 and an office expense allowance of ₹75,000, totalling ₹2.86 lakh per month. Additionally, MPs get a daily allowance of ₹2,500 for official duties. Under the MPLADS scheme, each MP is allocated ₹5 crore annually for constituency development, meaning the new members would require about ₹1,360 crore extra each year. Exact total cost depends on final seat numbers and state-specific rules.",
+   "details_gu": "સીમાંકન બિલમાં લોકસભાની બેઠકો હાલની ૫૪૩માંથી અંદાજે ૮૧૫ સુધી વધારવાની ચર્ચા છે, એટલે ૨૭૨ નવા સભ્યો. ૧ એપ્રિલ ૨૦૨૩થી કેન્દ્ર સરકારની દર મુજબ, દરેક સભ્યને માસિક ₹૧.૨૪ લાખ પગાર, મતવિસ્તાર ભથ્થું ₹૮૭,૦૦૦ અને ઓફિસ ખર્ચ ભથ્થું ₹૭૫,૦૦૦ મળે છે, કુલ ₹૨.૮૬ લાખ. additionally, કાર્ય માટે દરરોજ ₹૨,૫૦૦ દૈનિક ભથ્થું મળે છે. MPLADS યોજના હેઠળ દરેક સભ્યને વર્ષમાં ₹૫ કરોડ વિકાસ માટે મળે છે, એટલે નવા સભ્યો માટે વર્ષમાં અંદાજે ₹૧,૩૬૦ કરોડની વધારાની ફાળવણી જરૂરી છે. કુલ ખર્ચ અંતિમ બેઠકોની સંખ્યા અને રાજ્યની નીતિઓ પર નિર્ભર રહેશે.",
+   "mcq": {
+    "q_en": "How many additional Lok Sabha seats are proposed in the Delimitation Bill?",
+    "q_gu": "સીમાંકન બિલમાં કેટલા વધારાના લોકસભા બેઠકોની પ્રસ્તાવિત છે?",
+    "o_en": [
+     "150",
+     "272",
+     "350",
+     "420"
+    ],
+    "o_gu": [
+     "૧૫૦",
+     "૨૭૨",
+     "૩૫૦",
+     "૪૨૦"
+    ],
+    "a": 1,
+    "e_en": "The bill proposes 272 new seats, raising total to about 815.",
+    "e_gu": "બિલ ૨૭૨ નવા બેઠકોની પ્રસ્તાવના કરે છે, કુલ ૮૧૫ સુધી."
+   },
+   "id": "ca-delimitation-bill-may-raise-lok-sabha-seats-to-815",
+   "source": "https://www.gujaratfirst.com/top-news/delimitation-bill-815-lok-sabha-mp-expense/356254/amp",
+   "exam": {
+    "score": 6,
+    "why": "details of delimitation bill"
+   },
+   "sources": [
+    {
+     "name": "Google News (ગુજરાતી)",
+     "url": "https://www.gujaratfirst.com/top-news/delimitation-bill-815-lok-sabha-mp-expense/356254/amp"
     }
    ],
    "by": "groq",
